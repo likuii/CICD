@@ -19,7 +19,7 @@
 ### CICD 简介
 
 
-![电影](EDITREADME.md)
+[电影](EDITREADME.md)
 
 
 
