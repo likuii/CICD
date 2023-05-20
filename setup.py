@@ -2,6 +2,9 @@ import xml.etree.ElementTree as ET
 import requests
 
 # 获取RSS源
+
+
+print("###############StartMovie####################")
 url = 'http://rsshub.baitry.com/douban/movie/playing'
 response = requests.get(url)
 data = response.content
@@ -44,3 +47,5 @@ with open('EDITREADME.md', mode='w', encoding='utf-8') as f:
         f.write(f'**Cast:** {movie["cast"]}\n')
         f.write(f'![{movie["title"]}]({movie["image_url"]})\n')
         f.write('\n---\n')
+
+print("###############EndMovie####################")

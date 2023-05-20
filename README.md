@@ -32,7 +32,7 @@
 [电影](EDITREADME.md)
 
 
-[微博热搜](Weibo.md)
+[微博热搜](WeiBo.md)
 
 
 

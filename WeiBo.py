@@ -4,6 +4,7 @@ import feedparser
 rss_url = "http://rsshub.baitry.com/weibo/search/hot"
 feed = feedparser.parse(rss_url)
 
+print("###############Start####################")
 # 创建 README.md 文件并写入数据
 with open("WeiBo.md", "w", encoding="utf-8") as f:
     # 写入标题和链接
@@ -17,3 +18,4 @@ with open("WeiBo.md", "w", encoding="utf-8") as f:
         f.write(f"- 描述: {item['description']}\n")
         f.write(f"- 链接: {item['link']}\n")
         f.write(f"- 唯一标识符GUID: {item['guid']}\n\n")
+print("###############End####################")
