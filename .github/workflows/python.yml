@@ -26,3 +26,8 @@ jobs:
     - name: Run The Task
       run: |
         python setup.py
+    - name: Commit the Information
+      run: |
+        git add EDITREADME.md
+        git commit -m "commit "
+        git push
