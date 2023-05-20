@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 速度与激情10
-**Rating:** 6.6
+**Rating:** 6.5
 **Runtime:** 140分钟
 **Country:** 美国
 **Director:** 路易斯·莱特里尔
@@ -16,24 +16,6 @@
 **Director:** 詹姆斯·古恩
 **Cast:** 克里斯·帕拉特 / 佐伊·索尔达娜 / 戴夫·巴蒂斯塔
 ![银河护卫队3](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889358680.jpg)
-
----
-## 凌晨两点半2
-**Rating:** 0
-**Runtime:** 92分钟
-**Country:** 中国大陆
-**Director:** 王赛
-**Cast:** 彭剑雄 / 张露文 / 王尊
-![凌晨两点半2](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891656459.jpg)
-
----
-## 请别相信她
-**Rating:** 0
-**Runtime:** 106分钟
-**Country:** 中国大陆
-**Director:** 杨沅翰
-**Cast:** 章若楠 / 吴昱翰 / 吴彦姝
-![请别相信她](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891595975.jpg)
 
 ---
 ## 人生路不熟
@@ -117,6 +99,15 @@
 ![灌篮高手](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888398295.jpg)
 
 ---
+## 请别相信她
+**Rating:** 0
+**Runtime:** 106分钟
+**Country:** 中国大陆
+**Director:** 杨沅翰
+**Cast:** 章若楠 / 吴昱翰 / 吴彦姝
+![请别相信她](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891595975.jpg)
+
+---
 ## 超级马力欧兄弟大电影
 **Rating:** 8
 **Runtime:** 92分钟
@@ -145,7 +136,7 @@
 
 ---
 ## 保你平安
-**Rating:** 7.8
+**Rating:** 7.7
 **Runtime:** 112分钟
 **Country:** 中国大陆
 **Director:** 大鹏
@@ -187,6 +178,15 @@
 **Director:** 彭顺
 **Cast:** 杜江 / 王千源 / 佟丽娅
 ![惊天救援](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890135815.jpg)
+
+---
+## 凌晨两点半2
+**Rating:** 0
+**Runtime:** 92分钟
+**Country:** 中国大陆
+**Director:** 王赛
+**Cast:** 彭剑雄 / 张露文 / 王尊
+![凌晨两点半2](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891656459.jpg)
 
 ---
 ## 倒数说爱你
@@ -297,13 +297,13 @@
 ![天堂谷大冒险](https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890601753.jpg)
 
 ---
-## 云在江口
+## 魔幻奇缘之宝石公主
 **Rating:** 0
-**Runtime:** 101分钟
+**Runtime:** 
 **Country:** 中国大陆
-**Director:** 山峰
-**Cast:** 谭谦俊 / 龙丽 / 谢承颖
-![云在江口](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891262886.jpg)
+**Director:** 
+**Cast:** 
+![魔幻奇缘之宝石公主](https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891132382.jpg)
 
 ---
 ## 望道
@@ -313,15 +313,6 @@
 **Director:** 侯咏
 **Cast:** 刘烨 / 胡军 / 文咏珊
 ![望道](https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2888374121.jpg)
-
----
-## 魔幻奇缘之宝石公主
-**Rating:** 0
-**Runtime:** 
-**Country:** 中国大陆
-**Director:** 
-**Cast:** 
-![魔幻奇缘之宝石公主](https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891132382.jpg)
 
 ---
 ## 井冈星火
@@ -414,13 +405,13 @@
 ![胡丽叶塔](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2322750048.jpg)
 
 ---
-## 拉美莫尔的露琪亚
-**Rating:** 8.1
-**Runtime:** 175分钟
-**Country:** 西班牙
-**Director:** Raul Hernandez Garrido
-**Cast:** Lisette Oropesa / Javier Camarena / Artur Rucinski
-![拉美莫尔的露琪亚](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2630476440.jpg)
+## 柳青
+**Rating:** 6.8
+**Runtime:** 115分钟
+**Country:** 中国大陆
+**Director:** 田波
+**Cast:** 成泰燊 / 丹琳 / 师清峰
+![柳青](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2649429365.jpg)
 
 ---
 ## 梅兰芳
@@ -430,15 +421,6 @@
 **Director:** 陈凯歌
 **Cast:** 黎明 / 章子怡 / 孙红雷
 ![梅兰芳](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p581429949.jpg)
-
----
-## 莫扎特《魔笛》
-**Rating:** 8
-**Runtime:** 150分钟
-**Country:** 美国
-**Director:** 詹姆斯·莱文
-**Cast:** 马修·波伦萨尼 / 黄英 / 勒内·帕佩
-![莫扎特《魔笛》](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2624378627.jpg)
 
 ---
 ## 卡门
@@ -576,15 +558,6 @@
 ![长江](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574476155.jpg)
 
 ---
-## 天空之城
-**Rating:** 8.8
-**Runtime:** 60分钟
-**Country:** 韩国
-**Director:** 赵贤卓
-**Cast:** 廉晶雅 / 李泰兰 / 尹世雅
-![天空之城](https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2539477971.jpg)
-
----
 ## 白蛇传
 **Rating:** 7.9
 **Runtime:** 45分钟
@@ -592,15 +565,6 @@
 **Director:** 吴家骀
 **Cast:** 刘涛 / 潘粤明 / 陈紫函
 ![白蛇传](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2521436155.jpg)
-
----
-## 费加罗的婚礼
-**Rating:** 9.2
-**Runtime:** 200分钟
-**Country:** 美国
-**Director:** Richard Eyre
-**Cast:** Ildar Abdrazakov / Marlis Petersen / Amanda Majeski
-![费加罗的婚礼](https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2564393653.jpg)
 
 ---
 ## 造梦之家
