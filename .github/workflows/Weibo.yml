@@ -1,0 +1,49 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+
+name: WeiBo RSS
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+permissions:
+  actions: write
+  checks:  write
+  contents: write
+  deployments: write
+  id-token: write
+  issues: write
+  discussions: write
+  packages: write
+  pages: write
+  pull-requests: write
+  repository-projects: write
+  security-events: write
+  statuses: write
+        
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+    - name: Install The Environment
+      run: pip3 install feedparser
+    - name: Run The Task
+      run: |
+        python setup.py
+    - name: Commit the Information
+      run: |
+        git diff
+        git add WeiBo.md
+        git config --global user.email "2563043733@qq.com"
+        git config --global user.name "ilikui"
+        git commit -m "commit  WeiBo Hot RSS2.0"
+        git push
