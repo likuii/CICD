@@ -45,6 +45,8 @@ jobs:
     - name: Make changes and commit
       run: |
         echo $(date) >> file.txt
+        git config --global user.email "2563043733@qq.com"
+        git config --global user.name "ilikui"
         git add file.txt
         git commit -m "Add new line to file"
         git status
