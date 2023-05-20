@@ -5,7 +5,7 @@
 
 <body>
 <div align="center">
-<img src="./Image/banner.png">
+<img src="./Image/banner.png" height="75%" width="75%">
 </div>
 
 </body>
