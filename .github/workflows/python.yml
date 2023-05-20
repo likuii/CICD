@@ -29,5 +29,7 @@ jobs:
     - name: Commit the Information
       run: |
         git add EDITREADME.md
+        git config --global user.email "2563043733@qq.com"
+        git config --global user.name "ilikui"
         git commit -m "commit "
         git push
