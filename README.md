@@ -27,12 +27,10 @@
 ### 例子
 
 
-> Bot机器人，媒每天早上6点更新
+> Bot机器人， 每5min执行一次
 
 [电影](EDITREADME.md)
 
-
-> Bot 机器人 10min更新一次
 
 [微博热搜](Weibo.md)
 
