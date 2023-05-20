@@ -41,6 +41,7 @@ jobs:
         python setup.py
     - name: Commit the Information
       run: |
+        git diff
         git add EDITREADME.md
         git config --global user.email "2563043733@qq.com"
         git config --global user.name "ilikui"
