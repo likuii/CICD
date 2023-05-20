@@ -35,14 +35,17 @@ jobs:
       with:
         python-version: "3.10"
     - name: Install The Environment
-      run: pip3 install requests
+      run: |
+        pip3 install requests
+        pip3 install feedparser
     - name: Run The Task
       run: |
         python setup.py
+        python WeiBo.py
     - name: Commit the Information
       run: |
         git diff
-        git add EDITREADME.md
+        git add EDITREADME.md EDITREADME.md
         git config --global user.email "2563043733@qq.com"
         git config --global user.name "ilikui"
         git commit -m "commit "
