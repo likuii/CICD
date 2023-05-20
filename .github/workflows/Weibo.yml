@@ -38,7 +38,7 @@ jobs:
       run: pip3 install feedparser
     - name: Run The Task
       run: |
-        python setup.py
+        python WeiBo.py
     - name: Commit the Information
       run: |
         git diff
