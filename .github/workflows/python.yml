@@ -43,9 +43,8 @@ jobs:
         python setup.py
         python WeiBo.py
     - name: Commit changes
-      if: steps.file_changes.outputs.changed != ''
       run: |
-          git diff --quiet HEAD..origin/master
+          git diff 
           git add .
           git config --global user.email "2563043733@qq.com"
           git config --global user.name "ilikui"
