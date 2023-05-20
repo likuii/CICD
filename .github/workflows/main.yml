@@ -3,8 +3,6 @@ name: cicd
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["master"]
-  push:
     branches:    
       - master
 jobs:
