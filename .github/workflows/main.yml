@@ -3,10 +3,10 @@ name: cicd
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
+    branches: ["master"]
   push:
     branches:    
-      - main
+      - master
 jobs:
   push:
       runs-on: ${{ matrix.operating-system }}
