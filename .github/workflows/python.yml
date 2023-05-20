@@ -44,9 +44,14 @@ jobs:
         python WeiBo.py
     - name: Commit the Information
       run: |
-        git diff
-        git add .
-        git config --global user.email "2563043733@qq.com"
-        git config --global user.name "ilikui"
-        git commit -m "commit "
-        git push
+        git diff --quiet HEAD..origin/master
+        if [$? -eq 1 ]; then
+          echo "Will Push"
+          git add .
+          git config --global user.email "2563043733@qq.com"
+          git config --global user.name "ilikui"
+          git commit -m "commit "
+          git push
+        else
+            echo  "NO Changes"
+        fi
