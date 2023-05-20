@@ -42,9 +42,6 @@ jobs:
       run: |
         python setup.py
         python WeiBo.py
-    - name: Check for file changes
-      id: file_changes
-      run: echo "::set-output name=changed::$(git diff --name-only HEAD^ HEAD)"
     - name: Commit changes
       if: steps.file_changes.outputs.changed != ''
       run: |
