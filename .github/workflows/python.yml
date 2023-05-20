@@ -42,14 +42,18 @@ jobs:
       run: |
         python setup.py
         python WeiBo.py
-    - name: Commit the Information
-      run: |
-        git diff --quiet HEAD..origin/master
-        git add .
-        git config --global user.email "2563043733@qq.com"
-        git config --global user.name "ilikui"
-        git commit -m "commit "
-        git push
+    - name: Check for file changes
+        id: file_changes
+        run: echo "::set-output name=changed::$(git diff --name-only HEAD^ HEAD)"
+    - name: Commit changes
+        if: steps.file_changes.outputs.changed != ''
+        run: |
+          git diff --quiet HEAD..origin/master
+          git add .
+          git config --global user.email "2563043733@qq.com"
+          git config --global user.name "ilikui"
+          git commit -m "commit "
+          git push
         # if [$? -eq 1 ]; then
         #   echo "Will Push"
         #   git add .
