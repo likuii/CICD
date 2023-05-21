@@ -45,7 +45,8 @@ with open('EDITREADME.md', mode='w', encoding='utf-8') as f:
         f.write(f'**Country:** {movie["country"]}\n')
         f.write(f'**Director:** {movie["director"]}\n')
         f.write(f'**Cast:** {movie["cast"]}\n')
-        f.write(f'![{movie["title"]}]({movie["image_url"]})\n')
+        # 保证导出来的图片靠左边对齐
+        f.write(f'<div align="left">\n<img src="{movie["image_url"]}" alt="{movie["title"]}">\n</div>\n')
         f.write('\n---\n')
 
 print("###############EndMovie####################")
