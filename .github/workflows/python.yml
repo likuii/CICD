@@ -52,21 +52,26 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           gif_out_path: ./assets/github-contribution-grid-snake.gif
           svg_out_path: ./assets/github-contribution-grid-snake.svg
+    - name: Make Snake commit
+      run: |
+        git config --global user.email "2563043733@qq.com"
+        git config --global user.name "ilikui"
+        git commit -m "commit Snake file"
     - name: Run The Task
       run: |
         python ./src/setup.py
         python ./src/WeiBo.py
         python ./src/Bing.py
 
-    - name: Make changes and commit
+    - name: Make file  commit
       run: |
         echo $(date) >> file.txt
         git config --global user.email "2563043733@qq.com"
         git config --global user.name "ilikui"
         git add file.txt
-        git commit -m "Add new line to file"
+        git commit -m "Commit file  schedule counts"
         git status
-    - name: Commit changes
+    - name: Push All
       run: |
           git diff 
           git add .
