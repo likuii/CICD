@@ -29,7 +29,7 @@
 **Director:** 杨沅翰
 **Cast:** 章若楠 / 吴昱翰 / 吴彦姝
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891595975.jpg" alt="请别相信她">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892285438.jpg" alt="请别相信她">
 </div>
 
 ---
