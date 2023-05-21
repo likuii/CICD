@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 阿雷纳尔火山，蒙泰韦尔德，哥斯达黎加 (© Kevin Wells/Getty Images)
+
+![阿雷纳尔火山，蒙泰韦尔德，哥斯达黎加 (© Kevin Wells/Getty Images)](https://cn.bing.com/th?id=OHR.BiodiverseCostaRica_ZH-CN5524154131_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0+%E8%92%99%E6%B3%B0%E9%9F%A6%E5%B0%94%E5%BE%B7&form=hpcapt&mkt=zh-cn)
+
 ## 塞纳河，巴黎，法国 (© StockByM/Getty Images)
 
 ![塞纳河，巴黎，法国 (© StockByM/Getty Images)](https://cn.bing.com/th?id=OHR.PontdArcole_ZH-CN5348049357_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![在奥克弗诺基国家野生动物保护区划独木舟 (© Brad Beck/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AmericanWetlands_ZH-CN7534567518_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%A5%A5%E5%85%8B%E5%BC%97%E8%AF%BA%E5%9F%BA%E5%9B%BD%E5%AE%B6%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8C%BA&form=hpcapt&mkt=zh-cn)
-
-## 莫罗哈夫莱海滩和科罗拉达斯海滩，富埃特文图拉岛，西班牙加那利群岛 (© Gavin Hellier/Getty Images)
-
-![莫罗哈夫莱海滩和科罗拉达斯海滩，富埃特文图拉岛，西班牙加那利群岛 (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.MorroJable_ZH-CN7382027688_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%8A%A0%E9%82%A3%E5%88%A9%E7%BE%A4%E5%B2%9B&form=hpcapt&mkt=zh-cn)
 
