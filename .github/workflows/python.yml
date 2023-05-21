@@ -35,7 +35,7 @@ jobs:
       with:
         python-version: "3.10"
     - name: Use secrets
-      with:
+      run: |
         USER: ${{ secrets.USER }}
         PASSWORD: ${{ secrets.PASSWORD }}
         HOST: ${{ secrets.HOST }}
