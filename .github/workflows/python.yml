@@ -45,6 +45,13 @@ jobs:
         HOST: ${{ secrets.HOST }}
       run: |
            python ./src/GetEnv.py
+    - name: Generate Snake
+      uses: Platane/snk@master
+      id: snake-gif
+      with:
+          github_user_name: ${{ github.repository_owner }}
+          gif_out_path: ./assets/github-contribution-grid-snake.gif
+          svg_out_path: ./assets/github-contribution-grid-snake.svg
     - name: Run The Task
       run: |
         python ./src/setup.py
