@@ -2,13 +2,13 @@
 import os
 
 
+host = os.environ["HOST"]
+user = os.environ["USER"]
 
-if(os.environ["USER"]):
-    user = os.environ["USER"]
-    print(user)
-if(os.environ["HOST"]):
-    host = os.environ["HOST"]
-    print(host)
+print(user)
+print(host)
+   
+
 
 
 
