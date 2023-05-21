@@ -28,12 +28,17 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
+    steps: 
     - uses: actions/checkout@v3
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
         python-version: "3.10"
+    - name: Use secrets
+      run: |
+        echo USER: ${{ secrets.USER }}
+        echo PASSWORD: ${{ secrets.PASSWORD }}
+        echo HOST: ${{ secrets.HOST }}
     - name: Install The Environment
       run: |
         pip3 install requests
