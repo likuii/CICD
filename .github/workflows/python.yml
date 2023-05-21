@@ -36,9 +36,9 @@ jobs:
         python-version: "3.10"
     - name: Use secrets
       run: |
-        USER: ${{ secrets.USER }}
-        PASSWORD: ${{ secrets.PASSWORD }}
-        HOST: ${{ secrets.HOST }}
+        echo  USER: ${{ secrets.USER }}
+        echo PASSWORD: ${{ secrets.PASSWORD }}
+        echo HOST: ${{ secrets.HOST }}
       env:
         USER: ${{ secrets.USER }}
         PASSWORD: ${{ secrets.PASSWORD }}
