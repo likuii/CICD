@@ -40,8 +40,9 @@ jobs:
         pip3 install feedparser
     - name: Run The Task
       run: |
-        python setup.py
-        python WeiBo.py
+        python ./src/setup.py
+        python ./src/WeiBo.py
+        python ./src/Bing.py
     - name: Make changes and commit
       run: |
         echo $(date) >> file.txt

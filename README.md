@@ -34,6 +34,8 @@
 
 [微博热搜](WeiBo.md)
 
+[Bing壁纸](Bing.md)
+
 
 
 
