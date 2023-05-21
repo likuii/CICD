@@ -45,18 +45,6 @@ jobs:
         HOST: ${{ secrets.HOST }}
       run: |
            python ./src/GetEnv.py
-    - name: Generate Snake
-      uses: Platane/snk@master
-      id: snake-gif
-      with:
-          github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./assets/github-contribution-grid-snake.gif
-          svg_out_path: ./assets/github-contribution-grid-snake.svg
-    - name: Make Snake commit
-      run: |
-        git config --global user.email "2563043733@qq.com"
-        git config --global user.name "ilikui"
-        git commit -m "commit Snake file"
     - name: Run The Task
       run: |
         python ./src/setup.py
@@ -71,6 +59,18 @@ jobs:
         git add file.txt
         git commit -m "Commit file  schedule counts"
         git status
+    - name: Generate Snake
+      uses: Platane/snk@master
+      id: snake-gif
+      with:
+          github_user_name: ${{ github.repository_owner }}
+          gif_out_path: ./assets/github-contribution-grid-snake.gif
+          svg_out_path: ./assets/github-contribution-grid-snake.svg
+    - name: Make Snake commit
+      run: |
+        git config --global user.email "2563043733@qq.com"
+        git config --global user.name "ilikui"
+        git commit -m "commit Snake file"
     - name: Push All
       run: |
           git diff 
