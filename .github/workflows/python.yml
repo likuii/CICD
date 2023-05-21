@@ -38,11 +38,6 @@ jobs:
       run: |
         pip3 install requests
         pip3 install feedparser
-    - name: Environment
-      env:
-        USER: ${{ secrets.USER }}
-        PASSWORD: ${{ secrets.PASSWORD }}
-        HOST: ${{ secrets.HOST }} 
     - name: Run The Task
       run: |
         python ./src/setup.py
