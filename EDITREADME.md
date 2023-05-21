@@ -310,10 +310,10 @@
 ---
 ## 不孤岛
 **Rating:** 0
-**Runtime:** 
+**Runtime:** 83分钟
 **Country:** 中国大陆
 **Director:** 曹金玲
-**Cast:** 
+**Cast:** 田哉妹 / 宋新文 / 吕梦圆
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891266922.jpg" alt="不孤岛">
 </div>
