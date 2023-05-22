@@ -38,6 +38,7 @@ jobs:
       run: |
         pip3 install requests
         pip3 install feedparser
+        pip3 install Pillow
     - name: Get The  secrets
       env:
         USER: ${{ secrets.USER }}
@@ -50,6 +51,7 @@ jobs:
         python ./src/setup.py
         python ./src/WeiBo.py
         python ./src/Bing.py
+        python ./src/MoviePost.py
 
     - name: Make file  commit
       run: |
