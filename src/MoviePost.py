@@ -36,9 +36,9 @@ for item in root.findall('./channel/item'):
     movies.append(movie)
 
 # 设置字体
-font_title = ImageFont.truetype('/usr/share/fonts/truetype/lato/Lato-Light.ttf', 36)
-font_subtitle = ImageFont.truetype('/usr/share/fonts/truetype/lato/Lato-Light.ttf', 24)
-font_text = ImageFont.truetype('/usr/share/fonts/truetype/lato/Lato-Light.ttf', 18)
+font_title = ImageFont.truetype('/usr/share/fonts/truetype/liberation/msyh.ttf', 36)
+font_subtitle = ImageFont.truetype('/usr/share/fonts/truetype/liberation/msyh.ttf', 24)
+font_text = ImageFont.truetype('/usr/share/fonts/truetype/liberation/msyh.ttf', 18)
 
 # 随机抽取9个电影并生成九宫格图片
 selected_movies = random.sample(movies, 9)
