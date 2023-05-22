@@ -29,6 +29,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps: 
+    - name: Install the font
+      run: |
+        sudo apt-get install ttf-mscorefonts-installer
     - uses: actions/checkout@v3
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
