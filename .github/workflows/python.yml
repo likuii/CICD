@@ -47,12 +47,17 @@ jobs:
       run: |
            python ./src/GetEnv.py
     - name: Run The Task
-      run: |
-        python ./src/setup.py
-        python ./src/WeiBo.py
-        python ./src/Bing.py
-        python ./src/MoviePost.py
+      run: python ./src/setup.py
+      
+    - name: Run the Task For WeiBo
+      run: python ./src/WeiBo.py
 
+    - name: Run the Task For WeiBo
+      run:  python ./src/Bing.py
+
+    - name: Run the Task For WeiBo
+      run:  python ./src/MoviePost.py
+    
     - name: Make file  commit
       run: |
         echo $(date) >> file.txt
