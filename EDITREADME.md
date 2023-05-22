@@ -656,7 +656,7 @@
 **Director:** 马西耶·巴尔切夫斯基
 **Cast:** 彼得·格洛瓦茨基 / Jan Szydlowski / 格热戈日·马莱基
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891603477.jpg" alt="战俘拳王">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892332243.jpg" alt="战俘拳王">
 </div>
 
 ---
