@@ -29,8 +29,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps: 
-    - name: Set the Font Env
-      run: sudo cp ./Font/msyh/msyh.ttf  /usr/share/fonts/truetype/liberation/
     - uses: actions/checkout@v3
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
@@ -41,6 +39,8 @@ jobs:
         pip3 install requests
         pip3 install feedparser
         pip3 install Pillow
+    - name: Set the Font Env
+      run: sudo cp ./Font/msyh/msyh.ttf  /usr/share/fonts/truetype/liberation/
     - name: Get The  secrets
       env:
         USER: ${{ secrets.USER }}
