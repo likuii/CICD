@@ -34,6 +34,8 @@
 
 [电影](EDITREADME.md)
 
+[电影海报](Movie.md)
+
 
 [微博热搜](WeiBo.md)
 
