@@ -35,7 +35,7 @@ for item in root.findall('./channel/item'):
     }
     movies.append(movie)
 
-# 设置字体
+# 设置字体  拷贝设置
 font_title = ImageFont.truetype('/usr/share/fonts/truetype/liberation/msyh.ttf', 36)
 font_subtitle = ImageFont.truetype('/usr/share/fonts/truetype/liberation/msyh.ttf', 24)
 font_text = ImageFont.truetype('/usr/share/fonts/truetype/liberation/msyh.ttf', 18)
