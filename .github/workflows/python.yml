@@ -39,6 +39,7 @@ jobs:
         pip3 install requests
         pip3 install feedparser
         pip3 install Pillow
+        pip3 install io
     - name: Get The  secrets
       env:
         USER: ${{ secrets.USER }}
@@ -52,10 +53,10 @@ jobs:
     - name: Run the Task For WeiBo
       run: python ./src/WeiBo.py
 
-    - name: Run the Task For WeiBo
+    - name: Run the Task For Bing
       run:  python ./src/Bing.py
 
-    - name: Run the Task For WeiBo
+    - name: Run the Task For MoviePost
       run:  python ./src/MoviePost.py
     
     - name: Make file  commit

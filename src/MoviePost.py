@@ -2,6 +2,7 @@ import xml.etree.ElementTree as ET
 import requests
 from PIL import Image, ImageDraw, ImageFont
 import io
+import random
 
 # 获取RSS源
 url = 'http://rsshub.baitry.com/douban/movie/playing'
@@ -12,8 +13,6 @@ data = response.content
 root = ET.fromstring(data)
 
 # 遍历每个电影条目并提取信息
-
-print("数据处理开始")
 movies = []
 for item in root.findall('./channel/item'):
     title = item.find('title').text.strip()
@@ -37,25 +36,46 @@ for item in root.findall('./channel/item'):
     movies.append(movie)
 
 # 设置字体
-
-
 font_title = ImageFont.truetype('/usr/share/fonts/truetype/lato/Lato-Light.ttf', 36)
 font_subtitle = ImageFont.truetype('/usr/share/fonts/truetype/lato/Lato-Light.ttf', 24)
 font_text = ImageFont.truetype('/usr/share/fonts/truetype/lato/Lato-Light.ttf', 18)
 
-# 生成电影信息图片并保存
-for i, movie in enumerate(movies):
-    # 打开海报图片
+# 随机抽取9个电影并生成九宫格图片
+selected_movies = random.sample(movies, 9)
+grid_size = (1000, 1000)  # 图片大小
+padding = 10  # 图片之间的间距
+bg_color = (255, 255, 255)  # 背景颜色
+grid_image = Image.new('RGB', grid_size, bg_color)
+image_size = (300, 300)  # 每张图片的大小
+positions = [(j*(image_size[0]+padding), i*(image_size[1]+padding))
+             for i in range(3) for j in range(3)]
+for i, movie in enumerate(selected_movies):
     response = requests.get(movie['image_url'])
     img = Image.open(io.BytesIO(response.content))
+    img.thumbnail(image_size)
+    position = positions[i]
+    grid_image.paste(img, position)
 
-    # 创建画布
+# 保存九宫格图片
+grid_filename = 'Image/movies_grid.png'
+grid_image.save(grid_filename)
+
+# 将九宫格图片插入Markdown文件
+with open('Movie.md', 'a',encoding='utf-8') as f:
+    f.write('\n\n')
+    f.write('## 随机抽取的9部电影\n\n')
+    f.write('<img src="{}" alt="movie posters">\n'.format(grid_filename))
+
+# 生成每个电影的信息图片并保存
+for i, movie in enumerate(movies):
+    if movie not in selected_movies:
+        continue
+    response = requests.get(movie['image_url'])
+    img = Image.open(io.BytesIO(response.content))
     canvas_width = 800
     canvas_height = 700
     canvas_bg_color = (255, 255, 255)
     canvas = Image.new('RGB', (canvas_width, canvas_height), canvas_bg_color)
-
-    # 在画布上绘制电影信息
     draw = ImageDraw.Draw(canvas)
     draw.text((20, 20), movie['title'], font=font_title, fill=(0, 0, 0))
     draw.text((20, 70), f"评分：{movie['rating']}", font=font_subtitle, fill=(0, 0, 0))
@@ -64,10 +84,20 @@ for i, movie in enumerate(movies):
     draw.text((20, 190), f"导演：{movie['director']}", font=font_subtitle, fill=(0, 0, 0))
     draw.text((20, 230), f"主演：{movie['cast']}", font=font_subtitle, fill=(0, 0, 0))
     canvas.paste(img, (20, 280))
-
-    print("Running")
-    # 将图片保存到文件
     filename = f"Image/movie-{i+1}.png"
     canvas.save(filename)
-    print("End")
 
+# 在Markdown文件中插入每个电影的信息图片
+with open('Movie.md', 'a',encoding='utf-8') as f:
+    for i, movie in enumerate(selected_movies):
+        image_filename = f"Image/movie-{i+1}.png"
+        f.write('\n\n')
+        f.write(f'### {movie["title"]}\n\n')
+        f.write(f'<img src="{image_filename}" alt="{movie["title"]}">\n')
+        f.write(f'评分：{movie["rating"]}\n\n')
+        f.write(f'片长：{movie["runtime"]}\n\n')
+        f.write(f'制片国家/地区：{movie["country"]}\n\n')
+        f.write(f'导演：{movie["director"]}\n\n')
+        f.write(f'主演：{movie["cast"]}\n\n')
+
+print("Done")
