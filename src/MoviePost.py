@@ -37,9 +37,11 @@ for item in root.findall('./channel/item'):
     movies.append(movie)
 
 # 设置字体
-font_title = ImageFont.truetype('/Font/msyh/msyh.ttc', 36)
-font_subtitle = ImageFont.truetype('/Font/msyh/msyh.ttc', 24)
-font_text = ImageFont.truetype('/Font/msyh/msyh.ttc', 18)
+
+
+font_title = ImageFont.truetype('/usr/share/fonts/truetype/lato/Lato-Light.ttf', 36)
+font_subtitle = ImageFont.truetype('/usr/share/fonts/truetype/lato/Lato-Light.ttf', 24)
+font_text = ImageFont.truetype('/usr/share/fonts/truetype/lato/Lato-Light.ttf', 18)
 
 # 生成电影信息图片并保存
 for i, movie in enumerate(movies):
