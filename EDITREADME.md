@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 速度与激情10
-**Rating:** 6.5
+**Rating:** 6.4
 **Runtime:** 140分钟
 **Country:** 美国
 **Director:** 路易斯·莱特里尔
