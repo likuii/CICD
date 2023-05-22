@@ -264,6 +264,17 @@
 </div>
 
 ---
+## 少年与海
+**Rating:** 6.5
+**Runtime:** 106分钟
+**Country:** 中国大陆
+**Director:** 孙傲谦
+**Cast:** 于坤杰 / 李蔓瑄 / 孙心福
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2570313783.jpg" alt="少年与海">
+</div>
+
+---
 ## 龙马精神
 **Rating:** 5.9
 **Runtime:** 126分钟
@@ -616,17 +627,6 @@
 </div>
 
 ---
-## 少年与海
-**Rating:** 0
-**Runtime:** 106分钟
-**Country:** 中国大陆
-**Director:** 孙傲谦
-**Cast:** 于坤杰 / 李蔓瑄 / 孙心福
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2570313783.jpg" alt="少年与海">
-</div>
-
----
 ## 小美人鱼
 **Rating:** 0
 **Runtime:** 135分钟
@@ -712,6 +712,17 @@
 **Cast:** 田哉妹 / 宋新文 / 吕梦圆
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891266922.jpg" alt="不孤岛">
+</div>
+
+---
+## 天空之城
+**Rating:** 0
+**Runtime:** 125分钟
+**Country:** 日本
+**Director:** 宫崎骏
+**Cast:** 田中真弓 / 横泽启子 / 初井言荣
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890142218.jpg" alt="天空之城">
 </div>
 
 ---
