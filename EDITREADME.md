@@ -122,7 +122,7 @@
 
 ---
 ## 灌篮高手
-**Rating:** 8.9
+**Rating:** 9
 **Runtime:** 124分钟
 **Country:** 日本
 **Director:** 井上雄彦
