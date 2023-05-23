@@ -12,7 +12,7 @@
 
 ---
 ## 银河护卫队3
-**Rating:** 8.5
+**Rating:** 8.4
 **Runtime:** 150分钟
 **Country:** 美国
 **Director:** 詹姆斯·古恩
@@ -254,7 +254,7 @@
 
 ---
 ## 故乡异客
-**Rating:** 6.5
+**Rating:** 6.6
 **Runtime:** 93分钟
 **Country:** 中国大陆
 **Director:** 李崧鸣
