@@ -51,16 +51,16 @@ jobs:
     - name: Run The Task
       run: python ./src/setup.py
       
-    - name: Run the Task For WeiBo
+    - name: Run the Task For WeiBo ①
       run: python ./src/WeiBo.py
 
-    - name: Run the Task For Bing
+    - name: Run the Task For Bing ②
       run:  python ./src/Bing.py
 
-    - name: Run the Task For MoviePost
+    - name: Run the Task For MoviePost ③
       run:  python ./src/MoviePost.py
 
-    - name: Generate Snake
+    - name: Generate Snake ④
       uses: Platane/snk@master
       id: snake-gif
       with:
