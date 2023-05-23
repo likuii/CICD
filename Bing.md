@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 科孚岛旧城堡 (© Netfalls Remy Musser/Shutterstock)
+
+![科孚岛旧城堡 (© Netfalls Remy Musser/Shutterstock)](https://cn.bing.com/th?id=OHR.OldFortress_ZH-CN6469523538_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E7%A7%91%E5%AD%9A%E5%B2%9B%E6%97%A7%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn)
+
 ## 西部箱龟 (© Tim Fitzharris/Minden Pictures)
 
 ![西部箱龟 (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.WesternBoxTurtle_ZH-CN6203163704_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![拉曼加，穆尔西亚，西班牙 (© SOMATUSCANI/Getty Images)](https://cn.bing.com/th?id=OHR.SardineBurial_ZH-CN9563091726_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%A9%86%E5%B0%94%E8%A5%BF%E4%BA%9A&form=hpcapt&mkt=zh-cn)
-
-## 加利福尼亚州圣克鲁斯的天然桥州立公园 (© Jim Patterson/Tandem Stills + Motion)
-
-![加利福尼亚州圣克鲁斯的天然桥州立公园 (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CormorantBridge_ZH-CN7673299694_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%A4%A9%E7%84%B6%E6%A1%A5%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
