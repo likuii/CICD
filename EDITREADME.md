@@ -722,7 +722,7 @@
 **Director:** 宫崎骏
 **Cast:** 田中真弓 / 横泽启子 / 初井言荣
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890142218.jpg" alt="天空之城">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892365697.jpg" alt="天空之城">
 </div>
 
 ---
