@@ -42,6 +42,7 @@ font_text = ImageFont.truetype('/usr/share/fonts/truetype/liberation/msyh.ttf', 
 
 # 随机抽取9个电影并生成九宫格图片
 selected_movies = random.sample(movies, 9)
+grid_size = (1020, 1020)  # 图片大小
 padding = 10  # 图片之间的间距
 bg_color = (255, 255, 255)  # 背景颜色
 grid_image = Image.new('RGB', grid_size, bg_color)
