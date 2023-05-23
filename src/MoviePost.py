@@ -56,11 +56,15 @@ positions = [(int(j*(image_size[0]+padding)+total_padding_width),
               int(i*(image_size[1]+padding)+total_padding_height))
              for i in range(3) for j in range(3)]
 for i, movie in enumerate(selected_movies):
-    response = requests.get(movie['image_url'])
-    img = Image.open(io.BytesIO(response.content))
-    img.thumbnail(image_size)
-    position = positions[i]
-    grid_image.paste(img, position)
+    try:
+        response = requests.get(movie['image_url'])
+        img = Image.open(io.BytesIO(response.content))
+        img.thumbnail(image_size)
+        position = positions[i]
+        grid_image.paste(img, position)
+    except requests.exceptions.ConnectionError as e:
+        print(f"Connection error: {e}")
+        break
 
 # 保存九宫格图片
 grid_filename = 'Image/movies_grid.png'
