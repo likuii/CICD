@@ -12,7 +12,7 @@
 
 ---
 ## 银河护卫队3
-**Rating:** 8.4
+**Rating:** 8.5
 **Runtime:** 150分钟
 **Country:** 美国
 **Director:** 詹姆斯·古恩
