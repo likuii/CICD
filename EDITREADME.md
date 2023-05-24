@@ -265,7 +265,7 @@
 
 ---
 ## 故乡异客
-**Rating:** 6.5
+**Rating:** 6.6
 **Runtime:** 93分钟
 **Country:** 中国大陆
 **Director:** 李崧鸣
