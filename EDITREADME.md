@@ -209,28 +209,6 @@
 </div>
 
 ---
-## 造梦之家
-**Rating:** 0
-**Runtime:** 151分钟
-**Country:** 美国
-**Director:** 史蒂文·斯皮尔伯格
-**Cast:** 米歇尔·威廉姆斯 / 保罗·达诺 / 塞斯·罗根
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892195504.jpg" alt="造梦之家">
-</div>
-
----
-## 少年与海
-**Rating:** 0
-**Runtime:** 106分钟
-**Country:** 中国大陆
-**Director:** 孙傲谦
-**Cast:** 于坤杰 / 李蔓瑄 / 孙心福
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2570313783.jpg" alt="少年与海">
-</div>
-
----
 ## 小美人鱼
 **Rating:** 0
 **Runtime:** 135分钟
@@ -316,6 +294,28 @@
 **Cast:** 田中真弓 / 横泽启子 / 初井言荣
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892380420.jpg" alt="天空之城">
+</div>
+
+---
+## 哆啦A梦：大雄与天空的理想乡
+**Rating:** 0
+**Runtime:** 107分钟
+**Country:** 日本
+**Director:** 堂山卓见 
+**Cast:** 水田山葵 / 大原惠美 / 嘉数由美
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891257290.jpg" alt="哆啦A梦：大雄与天空的理想乡">
+</div>
+
+---
+## 神兜兜和奶爸
+**Rating:** 0
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 高雄杰
+**Cast:** 钭皓倍 / 钭晨熙
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891088318.jpg" alt="神兜兜和奶爸">
 </div>
 
 ---
