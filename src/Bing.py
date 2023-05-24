@@ -3,7 +3,12 @@ import xml.etree.ElementTree as ET
 
 # 获取RSS Feed内容
 url = 'http://rsshub.baitry.com/bing'
-response = urllib.request.urlopen(url)
+
+try:
+    response = urllib.request.urlopen(url)
+except urllib.exceptions.ConnectionError as e:
+    print(f"Connection error: {e}")
+
 xml_str = response.read().decode('utf-8')
 
 # 解析XML并获取数据
