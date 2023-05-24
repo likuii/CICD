@@ -363,6 +363,17 @@
 </div>
 
 ---
+## 周永开
+**Rating:** 0
+**Runtime:** 106分钟
+**Country:** 中国大陆
+**Director:** 兰城序 聂云鑫
+**Cast:** 卢奇 / 苗苗 / 释小龙
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2873935641.jpg" alt="周永开">
+</div>
+
+---
 ## 魔幻奇缘之宝石公主
 **Rating:** 0
 **Runtime:** 
