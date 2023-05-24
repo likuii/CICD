@@ -286,6 +286,17 @@
 </div>
 
 ---
+## 暴风
+**Rating:** 5.8
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 陈嘉上
+**Cast:** 陈伟霆 / 王千源 / 王龙正
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890001019.jpg" alt="暴风">
+</div>
+
+---
 ## 新猪猪侠大电影·超级赛车
 **Rating:** 0
 **Runtime:** 85分钟
