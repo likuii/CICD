@@ -166,7 +166,7 @@
 
 ---
 ## 忠犬八公
-**Rating:** 7.7
+**Rating:** 7.6
 **Runtime:** 124分钟
 **Country:** 中国大陆
 **Director:** 徐昂
