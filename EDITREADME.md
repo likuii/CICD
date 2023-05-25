@@ -23,7 +23,7 @@
 
 ---
 ## 少年与海
-**Rating:** 6.5
+**Rating:** 6.4
 **Runtime:** 106分钟
 **Country:** 中国大陆
 **Director:** 孙傲谦
