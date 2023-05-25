@@ -748,6 +748,17 @@
 </div>
 
 ---
+## 鲍勃·福斯：大幕拉起
+**Rating:** 0
+**Runtime:** 62分钟
+**Country:** 英国
+**Director:** Lucia Helenka
+**Cast:** David Benedict / Kenneth Boys / Vanessa Fenton
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2594631346.jpg" alt="鲍勃·福斯：大幕拉起">
+</div>
+
+---
 ## 小美人鱼
 **Rating:** 0
 **Runtime:** 135分钟
