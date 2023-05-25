@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 西沙瓦寺，素可泰历史公园，泰国 (© Casper1774 Studio/Shutterstock)
+
+![西沙瓦寺，素可泰历史公园，泰国 (© Casper1774 Studio/Shutterstock)](https://cn.bing.com/th?id=OHR.WatSriSawai_ZH-CN7688908090_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E6%B3%B0%E5%9B%BD%E8%A5%BF%E6%B2%99%E7%93%A6%E5%AF%BA&form=hpcapt&mkt=zh-cn)
+
 ## 法罗群岛，丹麦 (© miroslav_1/Getty Images)
 
 ![法罗群岛，丹麦 (© miroslav_1/Getty Images)](https://cn.bing.com/th?id=OHR.SaksunFaroe_ZH-CN7150180006_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![谢菲尔德的欧洲蜜蜂, 英格兰 (© Deborah Vernon/Alamy)](https://cn.bing.com/th?id=OHR.EuropeanHoneybee_ZH-CN5191293837_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E8%9C%9C%E8%9C%82&form=hpcapt&mkt=zh-cn)
-
-## 苏门答腊犀牛，韦卡巴斯国家公园，印度尼西亚 (© Cyril Ruoso/Minden Pictures)
-
-![苏门答腊犀牛，韦卡巴斯国家公园，印度尼西亚 (© Cyril Ruoso/Minden Pictures)](https://cn.bing.com/th?id=OHR.SumatranRhino_ZH-CN4529744910_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E8%8B%8F%E9%97%A8%E7%AD%94%E8%85%8A%E7%8A%80%E7%89%9B&form=hpcapt&mkt=zh-cn)
 
