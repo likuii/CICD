@@ -352,6 +352,17 @@
 </div>
 
 ---
+## 蜘蛛侠：平行宇宙
+**Rating:** 8.6
+**Runtime:** 116分钟(中国大陆)
+**Country:** 美国
+**Director:** 鲍勃·佩尔西凯蒂 彼得·拉姆齐 罗德尼·罗斯曼
+**Cast:** 沙梅克·摩尔 / 杰克·约翰逊 / 海莉·斯坦菲尔德
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2535851348.jpg" alt="蜘蛛侠：平行宇宙">
+</div>
+
+---
 ## 贫民窟之王
 **Rating:** 0
 **Runtime:** 108分钟(中国大陆)
