@@ -810,7 +810,7 @@
 **Director:** 马蒂·格肖内克
 **Cast:** 菲利普·霍奇迈尔 / 约翰尼斯·艾麦亚 / 马克西米连·布鲁克纳
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892375352.jpg" alt="万湖会议">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892500011.jpg" alt="万湖会议">
 </div>
 
 ---
