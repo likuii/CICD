@@ -67,7 +67,7 @@
 
 ---
 ## 刀剑神域进击篇：暮色黄昏
-**Rating:** 7
+**Rating:** 6.9
 **Runtime:** 101分钟
 **Country:** 日本
 **Director:** 河野亚矢子
