@@ -348,7 +348,7 @@
 **Director:** 李崧鸣
 **Cast:** 叶麒圣 / 慈婉彤 / 陈帮会
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892151266.jpg" alt="故乡异客">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892514229.jpg" alt="故乡异客">
 </div>
 
 ---
