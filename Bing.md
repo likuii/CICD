@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 纳米比亚的植物 (© Fotofeeling/DEEPOL by plainpicture)
+
+![纳米比亚的植物 (© Fotofeeling/DEEPOL by plainpicture)](https://cn.bing.com/th?id=OHR.AloeDichotomum_ZH-CN7940121733_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E7%AE%AD%E8%A2%8B%E6%A0%91&form=hpcapt&mkt=zh-cn)
+
 ## 西沙瓦寺，素可泰历史公园，泰国 (© Casper1774 Studio/Shutterstock)
 
 ![西沙瓦寺，素可泰历史公园，泰国 (© Casper1774 Studio/Shutterstock)](https://cn.bing.com/th?id=OHR.WatSriSawai_ZH-CN7688908090_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![塞纳河，巴黎，法国 (© StockByM/Getty Images)](https://cn.bing.com/th?id=OHR.PontdArcole_ZH-CN5348049357_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%A1%9E%E7%BA%B3%E6%B2%B3&form=hpcapt&mkt=zh-cn)
-
-## 谢菲尔德的欧洲蜜蜂, 英格兰 (© Deborah Vernon/Alamy)
-
-![谢菲尔德的欧洲蜜蜂, 英格兰 (© Deborah Vernon/Alamy)](https://cn.bing.com/th?id=OHR.EuropeanHoneybee_ZH-CN5191293837_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E8%9C%9C%E8%9C%82&form=hpcapt&mkt=zh-cn)
 
