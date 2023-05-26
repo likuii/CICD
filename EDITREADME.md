@@ -682,6 +682,17 @@
 </div>
 
 ---
+## 不二兄弟
+**Rating:** 0
+**Runtime:** 95分钟
+**Country:** 中国大陆
+**Director:** 郭修篆
+**Cast:** 李茂 / 林哲熹 / 何泓姗
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2887644478.jpg" alt="不二兄弟">
+</div>
+
+---
 ## 缪斯之火
 **Rating:** 8.3
 **Runtime:** 83分钟
