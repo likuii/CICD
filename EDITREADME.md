@@ -122,7 +122,7 @@
 
 ---
 ## 请别相信她
-**Rating:** 0
+**Rating:** 7
 **Runtime:** 106分钟
 **Country:** 中国大陆
 **Director:** 杨沅翰
@@ -426,6 +426,17 @@
 **Cast:** 李靖 / 刘妤姻子 / 刘蕊
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890770674.jpg" alt="宇宙护卫队：风暴力量">
+</div>
+
+---
+## 你好，鸽先生
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 刘泳辰
+**Cast:** 李卓霖 / 王一 / 崔宝月
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891561723.jpg" alt="你好，鸽先生">
 </div>
 
 ---
