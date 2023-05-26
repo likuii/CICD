@@ -550,6 +550,17 @@
 </div>
 
 ---
+## 燃烧的巴黎圣母院
+**Rating:** 7.5
+**Runtime:** 110分钟
+**Country:** 法国 意大利
+**Director:** 让-雅克·阿诺
+**Cast:** 塞缪尔·拉巴特 / 让-保罗·博德斯 / 米凯尔·奇里尼安
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889596268.jpg" alt="燃烧的巴黎圣母院">
+</div>
+
+---
 ## 超萌时空宝贝
 **Rating:** 0
 **Runtime:** 
