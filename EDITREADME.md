@@ -793,7 +793,7 @@
 
 ---
 ## 亨利五世
-**Rating:** 6.2
+**Rating:** 6.1
 **Runtime:** 160分钟
 **Country:** 英国
 **Director:** Max Webster
