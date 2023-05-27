@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 乌布的德格拉朗梯田，印度尼西亚 (© Cavan Images/Adobe Stock)
+
+![乌布的德格拉朗梯田，印度尼西亚 (© Cavan Images/Adobe Stock)](https://cn.bing.com/th?id=OHR.TegallalangTerrace_ZH-CN8126456968_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E4%B9%8C%E5%B8%83&form=hpcapt&mkt=zh-cn)
+
 ## 纳米比亚的植物 (© Fotofeeling/DEEPOL by plainpicture)
 
 ![纳米比亚的植物 (© Fotofeeling/DEEPOL by plainpicture)](https://cn.bing.com/th?id=OHR.AloeDichotomum_ZH-CN7940121733_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![阿雷纳尔火山，蒙泰韦尔德，哥斯达黎加 (© Kevin Wells/Getty Images)](https://cn.bing.com/th?id=OHR.BiodiverseCostaRica_ZH-CN5524154131_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0+%E8%92%99%E6%B3%B0%E9%9F%A6%E5%B0%94%E5%BE%B7&form=hpcapt&mkt=zh-cn)
-
-## 塞纳河，巴黎，法国 (© StockByM/Getty Images)
-
-![塞纳河，巴黎，法国 (© StockByM/Getty Images)](https://cn.bing.com/th?id=OHR.PontdArcole_ZH-CN5348049357_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%A1%9E%E7%BA%B3%E6%B2%B3&form=hpcapt&mkt=zh-cn)
 
