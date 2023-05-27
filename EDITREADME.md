@@ -188,7 +188,7 @@
 
 ---
 ## 超级马力欧兄弟大电影
-**Rating:** 8
+**Rating:** 7.9
 **Runtime:** 92分钟
 **Country:** 美国 日本
 **Director:** 亚伦·霍瓦斯 迈克尔·杰勒尼克
@@ -210,7 +210,7 @@
 
 ---
 ## 长沙夜生活
-**Rating:** 6.5
+**Rating:** 6.4
 **Runtime:** 106分钟
 **Country:** 中国大陆
 **Director:** 张冀
