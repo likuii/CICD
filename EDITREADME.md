@@ -528,6 +528,17 @@
 </div>
 
 ---
+## 倩女幽魂
+**Rating:** 8.8
+**Runtime:** 98分钟(香港)
+**Country:** 中国香港
+**Director:** 程小东
+**Cast:** 张国荣 / 王祖贤 / 午马
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2414157745.jpg" alt="倩女幽魂">
+</div>
+
+---
 ## 脐带
 **Rating:** 7.8
 **Runtime:** 96分钟
@@ -539,6 +550,17 @@
 </div>
 
 ---
+## 英雄本色
+**Rating:** 8.6
+**Runtime:** 95分钟
+**Country:** 中国香港
+**Director:** 吴宇森
+**Cast:** 周润发 / 狄龙 / 张国荣
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504997087.jpg" alt="英雄本色">
+</div>
+
+---
 ## 井冈星火
 **Rating:** 0
 **Runtime:** 92分钟
@@ -547,6 +569,17 @@
 **Cast:** 郭广平 / 赵凯 / 杨雪儿
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890340118.jpg" alt="井冈星火">
+</div>
+
+---
+## 阮玲玉
+**Rating:** 8.6
+**Runtime:** 121分钟
+**Country:** 中国香港
+**Director:** 关锦鹏
+**Cast:** 张曼玉 / 梁家辉 / 秦汉
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p768817927.jpg" alt="阮玲玉">
 </div>
 
 ---
@@ -594,6 +627,28 @@
 </div>
 
 ---
+## 秋天的童话
+**Rating:** 8.5
+**Runtime:** 98分钟
+**Country:** 中国香港
+**Director:** 张婉婷
+**Cast:** 周润发 / 钟楚红 / 陈百强
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1164872896.jpg" alt="秋天的童话">
+</div>
+
+---
+## 阿郎的故事
+**Rating:** 8.5
+**Runtime:** 99分钟
+**Country:** 中国香港
+**Director:** 杜琪峰
+**Cast:** 周润发 / 张艾嘉 / 黄坤玄
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p763776246.jpg" alt="阿郎的故事">
+</div>
+
+---
 ## 母与子
 **Rating:** 8.1
 **Runtime:** 125分钟
@@ -602,6 +657,17 @@
 **Cast:** 娜奥米·沃茨 / 安妮特·贝宁 / Eileen Ryan
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p650097258.jpg" alt="母与子">
+</div>
+
+---
+## 恋战冲绳
+**Rating:** 7.3
+**Runtime:** 99 分钟(日本)
+**Country:** 中国香港
+**Director:** 陈嘉上
+**Cast:** 张国荣 / 王菲 / 梁家辉
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p482168903.jpg" alt="恋战冲绳">
 </div>
 
 ---
@@ -748,6 +814,28 @@
 </div>
 
 ---
+## 胭脂扣
+**Rating:** 0
+**Runtime:** 46分钟
+**Country:** 中国台湾
+**Director:** 
+**Cast:** 邱于庭 / 崔浩然 / 毛舜筠
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2554916789.jpg" alt="胭脂扣">
+</div>
+
+---
+## 暗战 第一季
+**Rating:** 7.1
+**Runtime:** 
+**Country:** 英国
+**Director:** 彼得·考斯明斯金
+**Cast:** 汉娜·卡利克-布朗 / 西蒙·佩吉 / 麦茜·理查森·塞勒斯
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2875400215.jpg" alt="暗战 第一季">
+</div>
+
+---
 ## 长江
 **Rating:** 7.9
 **Runtime:** 50分钟
@@ -756,6 +844,17 @@
 **Cast:** 胡阿祥 / 苏智良 / 王澍
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574476155.jpg" alt="长江">
+</div>
+
+---
+## 纵横四海
+**Rating:** 8.1
+**Runtime:** 45分钟
+**Country:** 中国香港
+**Director:** 王晶
+**Cast:** 陶大宇 / 杨恭如 / 周海媚
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2509803094.jpg" alt="纵横四海">
 </div>
 
 ---
