@@ -122,7 +122,7 @@
 
 ---
 ## 请别相信她
-**Rating:** 6.9
+**Rating:** 6.8
 **Runtime:** 106分钟
 **Country:** 中国大陆
 **Director:** 杨沅翰
@@ -232,7 +232,7 @@
 
 ---
 ## 战俘拳王
-**Rating:** 7.1
+**Rating:** 7.2
 **Runtime:** 92分钟
 **Country:** 波兰
 **Director:** 马西耶·巴尔切夫斯基
