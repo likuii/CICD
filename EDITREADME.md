@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 小美人鱼
-**Rating:** 0
+**Rating:** 5.5
 **Runtime:** 135分钟
 **Country:** 美国
 **Director:** 罗伯·马歇尔
@@ -232,7 +232,7 @@
 
 ---
 ## 战俘拳王
-**Rating:** 7.2
+**Rating:** 7.1
 **Runtime:** 92分钟
 **Country:** 波兰
 **Director:** 马西耶·巴尔切夫斯基
