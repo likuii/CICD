@@ -221,7 +221,7 @@
 
 ---
 ## 长沙夜生活
-**Rating:** 6.7
+**Rating:** 6.6
 **Runtime:** 106分钟
 **Country:** 中国大陆
 **Director:** 张冀
