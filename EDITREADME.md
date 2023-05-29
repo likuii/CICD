@@ -155,7 +155,7 @@
 
 ---
 ## 这么多年
-**Rating:** 6.5
+**Rating:** 6.6
 **Runtime:** 116分钟
 **Country:** 中国大陆
 **Director:** 季竹青
