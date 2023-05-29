@@ -639,7 +639,7 @@
 
 ---
 ## 柳青
-**Rating:** 6.8
+**Rating:** 6.7
 **Runtime:** 115分钟
 **Country:** 中国大陆
 **Director:** 田波
