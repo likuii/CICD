@@ -374,6 +374,17 @@
 </div>
 
 ---
+## 暴风
+**Rating:** 5.7
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 陈嘉上
+**Cast:** 陈伟霆 / 王千源 / 王龙正
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890001019.jpg" alt="暴风">
+</div>
+
+---
 ## 我的青春岁月
 **Rating:** 0
 **Runtime:** 92分钟
