@@ -254,7 +254,7 @@
 
 ---
 ## 水边维纳斯
-**Rating:** 0
+**Rating:** 6.4
 **Runtime:** 100分钟
 **Country:** 中国大陆
 **Director:** 王林
