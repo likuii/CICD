@@ -77,6 +77,17 @@
 </div>
 
 ---
+## 长沙夜生活
+**Rating:** 6.1
+**Runtime:** 106分钟
+**Country:** 中国大陆
+**Director:** 张冀
+**Cast:** 尹昉 / 张婧仪 / 苏岩
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888648134.jpg" alt="长沙夜生活">
+</div>
+
+---
 ## 长空之王
 **Rating:** 6.6
 **Runtime:** 127分钟
@@ -121,6 +132,17 @@
 </div>
 
 ---
+## 宇宙探索编辑部
+**Rating:** 8.1
+**Runtime:** 118分钟
+**Country:** 中国大陆
+**Director:** 孔大山
+**Cast:** 杨皓宇 / 艾丽娅 / 王一通
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2889865405.jpg" alt="宇宙探索编辑部">
+</div>
+
+---
 ## 川流不“熄”
 **Rating:** 0
 **Runtime:** 135分钟
@@ -143,6 +165,61 @@
 </div>
 
 ---
+## 检察风云
+**Rating:** 4.8
+**Runtime:** 112分钟
+**Country:** 中国大陆
+**Director:** 麦兆辉
+**Cast:** 黄景瑜 / 白百何 / 王丽坤
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890643247.jpg" alt="检察风云">
+</div>
+
+---
+## 保你平安
+**Rating:** 7.7
+**Runtime:** 112分钟
+**Country:** 中国大陆
+**Director:** 大鹏
+**Cast:** 大鹏 / 李雪琴 / 尹正
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889498097.jpg" alt="保你平安">
+</div>
+
+---
+## 超级马力欧兄弟大电影
+**Rating:** 7.9
+**Runtime:** 92分钟
+**Country:** 美国 日本
+**Director:** 亚伦·霍瓦斯 迈克尔·杰勒尼克
+**Cast:** 克里斯·帕拉特 / 安雅·泰勒-乔伊 / 查理·戴
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888584528.jpg" alt="超级马力欧兄弟大电影">
+</div>
+
+---
+## 龙与地下城：侠盗荣耀
+**Rating:** 7.6
+**Runtime:** 134分钟
+**Country:** 美国 加拿大
+**Director:** 约翰·弗朗西斯·戴利 乔纳森·戈尔茨坦
+**Cast:** 克里斯·派恩 / 米歇尔·罗德里格兹 / 雷吉-让·佩吉
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888874787.jpg" alt="龙与地下城：侠盗荣耀">
+</div>
+
+---
+## 忠犬八公
+**Rating:** 7.6
+**Runtime:** 124分钟
+**Country:** 中国大陆
+**Director:** 徐昂
+**Cast:** 大黄 / 冯小刚 / 陈冲
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888696986.jpg" alt="忠犬八公">
+</div>
+
+---
 ## 生命中最特别的朋友
 **Rating:** 0
 **Runtime:** 91分钟
@@ -151,6 +228,17 @@
 **Cast:** 维克多·贝尔蒙多 / 热拉尔·朗万 / 约安·厄隆都
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891733004.jpg" alt="生命中最特别的朋友">
+</div>
+
+---
+## 不孤岛
+**Rating:** 0
+**Runtime:** 83分钟
+**Country:** 中国大陆
+**Director:** 曹金玲
+**Cast:** 田哉妹 / 宋新文 / 吕梦圆
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891266922.jpg" alt="不孤岛">
 </div>
 
 ---
@@ -187,6 +275,17 @@
 </div>
 
 ---
+## 复合吧！前任
+**Rating:** 0
+**Runtime:** 93分钟
+**Country:** 中国大陆
+**Director:** 陶亮
+**Cast:** 张一鸣 / 于文文 / 王成思
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891043908.jpg" alt="复合吧！前任">
+</div>
+
+---
 ## 战俘拳王
 **Rating:** 7.1
 **Runtime:** 92分钟
@@ -195,6 +294,17 @@
 **Cast:** 彼得·格洛瓦茨基 / Jan Szydlowski / 格热戈日·马莱基
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892332243.jpg" alt="战俘拳王">
+</div>
+
+---
+## 我和妈妈的最后一年
+**Rating:** 6.7
+**Runtime:** 104分钟
+**Country:** 日本
+**Director:** 川村元气
+**Cast:** 菅田将晖 / 原田美枝子 / 长泽雅美
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890599819.jpg" alt="我和妈妈的最后一年">
 </div>
 
 ---
@@ -217,6 +327,446 @@
 **Cast:** 李靖 / 刘妤姻子 / 刘蕊
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890770674.jpg" alt="宇宙护卫队：风暴力量">
+</div>
+
+---
+## 龙马精神
+**Rating:** 5.9
+**Runtime:** 126分钟
+**Country:** 中国大陆
+**Director:** 杨子
+**Cast:** 成龙 / 刘浩存 / 郭麒麟
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890322824.jpg" alt="龙马精神">
+</div>
+
+---
+## 北京2022
+**Rating:** 0
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 陆川
+**Cast:** 武大靖 / 任子威 / 苏翊鸣
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891832226.jpg" alt="北京2022">
+</div>
+
+---
+## 天堂谷大冒险
+**Rating:** 5.6
+**Runtime:** 92分钟
+**Country:** 德国
+**Director:** 托默·埃希德
+**Cast:** 托马斯·布罗迪-桑斯特 / 菲丽希缇·琼斯 / 弗莱迪·海默
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890601753.jpg" alt="天堂谷大冒险">
+</div>
+
+---
+## 我的青春岁月
+**Rating:** 0
+**Runtime:** 92分钟
+**Country:** 中国大陆
+**Director:** 孙亮
+**Cast:** 刘白沙 / 高宇航 / 韩远琪
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891835567.jpg" alt="我的青春岁月">
+</div>
+
+---
+## 暴风
+**Rating:** 5.7
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 陈嘉上
+**Cast:** 陈伟霆 / 王千源 / 王龙正
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890001019.jpg" alt="暴风">
+</div>
+
+---
+## 少年与海
+**Rating:** 6.4
+**Runtime:** 106分钟
+**Country:** 中国大陆
+**Director:** 孙傲谦
+**Cast:** 于坤杰 / 李蔓瑄 / 孙心福
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2570313783.jpg" alt="少年与海">
+</div>
+
+---
+## 故乡异客
+**Rating:** 6.5
+**Runtime:** 93分钟
+**Country:** 中国大陆
+**Director:** 李崧鸣
+**Cast:** 叶麒圣 / 慈婉彤 / 陈帮会
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892514229.jpg" alt="故乡异客">
+</div>
+
+---
+## 名侦探柯南：贝克街的亡灵
+**Rating:** 8.8
+**Runtime:** 108分钟(中国大陆)
+**Country:** 日本
+**Director:** 儿玉兼嗣
+**Cast:** 高山南 / 山崎和佳奈 / 神谷明
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890515833.jpg" alt="名侦探柯南：贝克街的亡灵">
+</div>
+
+---
+## 你好，鸽先生
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 刘泳辰
+**Cast:** 李卓霖 / 王一 / 崔宝月
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891561723.jpg" alt="你好，鸽先生">
+</div>
+
+---
+## 倩女幽魂
+**Rating:** 8.8
+**Runtime:** 98分钟(香港)
+**Country:** 中国香港
+**Director:** 程小东
+**Cast:** 张国荣 / 王祖贤 / 午马
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2414157745.jpg" alt="倩女幽魂">
+</div>
+
+---
+## 英雄本色
+**Rating:** 8.6
+**Runtime:** 95分钟
+**Country:** 中国香港
+**Director:** 吴宇森
+**Cast:** 周润发 / 狄龙 / 张国荣
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504997087.jpg" alt="英雄本色">
+</div>
+
+---
+## 贫民窟之王
+**Rating:** 0
+**Runtime:** 108分钟(中国大陆)
+**Country:** 印度
+**Director:** 莫汉·拉加
+**Cast:** 斯瓦卡蒂恩 / 法哈德·法西尔 / 纳彦塔拉
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889912399.jpg" alt="贫民窟之王">
+</div>
+
+---
+## 阮玲玉
+**Rating:** 8.6
+**Runtime:** 121分钟
+**Country:** 中国香港
+**Director:** 关锦鹏
+**Cast:** 张曼玉 / 梁家辉 / 秦汉
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p768817927.jpg" alt="阮玲玉">
+</div>
+
+---
+## 井冈星火
+**Rating:** 0
+**Runtime:** 92分钟
+**Country:** 中国大陆
+**Director:** 周耀杰
+**Cast:** 郭广平 / 赵凯 / 杨雪儿
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890340118.jpg" alt="井冈星火">
+</div>
+
+---
+## 望道
+**Rating:** 6.1
+**Runtime:** 112分钟
+**Country:** 中国大陆
+**Director:** 侯咏
+**Cast:** 刘烨 / 胡军 / 文咏珊
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2888374121.jpg" alt="望道">
+</div>
+
+---
+## 燃烧的巴黎圣母院
+**Rating:** 7.5
+**Runtime:** 110分钟
+**Country:** 法国 意大利
+**Director:** 让-雅克·阿诺
+**Cast:** 塞缪尔·拉巴特 / 让-保罗·博德斯 / 米凯尔·奇里尼安
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889596268.jpg" alt="燃烧的巴黎圣母院">
+</div>
+
+---
+## 秋天的童话
+**Rating:** 8.5
+**Runtime:** 98分钟
+**Country:** 中国香港
+**Director:** 张婉婷
+**Cast:** 周润发 / 钟楚红 / 陈百强
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1164872896.jpg" alt="秋天的童话">
+</div>
+
+---
+## 周永开
+**Rating:** 0
+**Runtime:** 106分钟
+**Country:** 中国大陆
+**Director:** 兰城序 聂云鑫
+**Cast:** 卢奇 / 苗苗 / 释小龙
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2873935641.jpg" alt="周永开">
+</div>
+
+---
+## 阿郎的故事
+**Rating:** 8.5
+**Runtime:** 99分钟
+**Country:** 中国香港
+**Director:** 杜琪峰
+**Cast:** 周润发 / 张艾嘉 / 黄坤玄
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p763776246.jpg" alt="阿郎的故事">
+</div>
+
+---
+## 一路幸福
+**Rating:** 0
+**Runtime:** 95分钟
+**Country:** 中国大陆
+**Director:** 李谊 周婧 黄跃
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892469147.jpg" alt="一路幸福">
+</div>
+
+---
+## 母与子
+**Rating:** 8.1
+**Runtime:** 125分钟
+**Country:** 西班牙 美国
+**Director:** 罗德里戈·加西亚
+**Cast:** 娜奥米·沃茨 / 安妮特·贝宁 / Eileen Ryan
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p650097258.jpg" alt="母与子">
+</div>
+
+---
+## 九三年夏天
+**Rating:** 7.9
+**Runtime:** 97分钟
+**Country:** 西班牙
+**Director:** 卡拉·西蒙
+**Cast:** 莱娅·阿蒂加斯 / 保拉·罗伯斯 / 布鲁娜·库希
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2447442755.jpg" alt="九三年夏天">
+</div>
+
+---
+## 胡丽叶塔
+**Rating:** 7.5
+**Runtime:** 99分钟
+**Country:** 西班牙
+**Director:** 佩德罗·阿莫多瓦
+**Cast:** 埃玛·苏亚雷斯 / 阿德里亚娜·乌加特 / 丹尼尔·格劳
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2322750048.jpg" alt="胡丽叶塔">
+</div>
+
+---
+## 超萌时空宝贝
+**Rating:** 0
+**Runtime:** 
+**Country:** 中国大陆
+**Director:** 李金保
+**Cast:** 张艺文 / 吴凡 / 孙科
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891190071.jpg" alt="超萌时空宝贝">
+</div>
+
+---
+## 恋战冲绳
+**Rating:** 7.3
+**Runtime:** 99 分钟(日本)
+**Country:** 中国香港
+**Director:** 陈嘉上
+**Cast:** 张国荣 / 王菲 / 梁家辉
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p482168903.jpg" alt="恋战冲绳">
+</div>
+
+---
+## 柳青
+**Rating:** 6.7
+**Runtime:** 115分钟
+**Country:** 中国大陆
+**Director:** 田波
+**Cast:** 成泰燊 / 丹琳 / 师清峰
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2649429365.jpg" alt="柳青">
+</div>
+
+---
+## 麦克白
+**Rating:** 7.3
+**Runtime:** 113分钟
+**Country:** 英国 法国 美国
+**Director:** 贾斯汀·库泽尔
+**Cast:** 迈克尔·法斯宾德 / 玛丽昂·歌迪亚 / 帕迪·康斯戴恩
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2266410852.jpg" alt="麦克白">
+</div>
+
+---
+## 皮卡德罗
+**Rating:** 7.8
+**Runtime:** 98分钟
+**Country:** 西班牙 英国
+**Director:** 本·夏罗克
+**Cast:** 巴巴拉·戈纳加 / Zorion Eguileor / Lander Otaola
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2271655734.jpg" alt="皮卡德罗">
+</div>
+
+---
+## 淹没
+**Rating:** 6.2
+**Runtime:** 112分钟
+**Country:** 德国 法国 西班牙 美国
+**Director:** 维姆·文德斯
+**Cast:** 艾丽西亚·维坎德 / 詹姆斯·麦卡沃伊 / 亚历山大·希迪格
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2510411684.jpg" alt="淹没">
+</div>
+
+---
+## 宝藏女王
+**Rating:** 8.4
+**Runtime:** 90分钟
+**Country:** 西班牙
+**Director:** Gustavo Salmerón
+**Cast:** Julia Salmerón
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501883506.jpg" alt="宝藏女王">
+</div>
+
+---
+## 独自旅行
+**Rating:** 0
+**Runtime:** 100分钟
+**Country:** 西班牙 法国
+**Director:** 罗拉·伊萨吉雷
+**Cast:** Ane Pikaza / 赫克多·艾戴里欧 / 拉蒙·巴雷阿
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2621152187.jpg" alt="独自旅行">
+</div>
+
+---
+## 葛饰北斋：超越巨浪
+**Rating:** 8.5
+**Runtime:** 90分钟
+**Country:** 英国
+**Director:** Patricia Wheatley
+**Cast:** 蒂姆·克拉克 / 罗杰·凯斯
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2479070167.jpg" alt="葛饰北斋：超越巨浪">
+</div>
+
+---
+## 缪斯之火
+**Rating:** 8.3
+**Runtime:** 83分钟
+**Country:** 英国
+**Director:** 丹·普尔 Giles Terera
+**Cast:** 伊恩·麦克莱恩 / 朱迪·丹奇 / 约翰·赫特
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2545139129.jpg" alt="缪斯之火">
+</div>
+
+---
+## 弗拉明戈：永不回头
+**Rating:** 0
+**Runtime:** 76分钟
+**Country:** 西班牙
+**Director:** Lupe Pérez García
+**Cast:** Alicia Acuña
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2858298268.jpg" alt="弗拉明戈：永不回头">
+</div>
+
+---
+## 高更特展影像Gauguin
+**Rating:** 0
+**Runtime:** 90
+**Country:** 英国
+**Director:** Patricia Wheatley
+**Cast:** 
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2581592385.jpg" alt="高更特展影像Gauguin">
+</div>
+
+---
+## 胭脂扣
+**Rating:** 0
+**Runtime:** 46分钟
+**Country:** 中国台湾
+**Director:** 
+**Cast:** 邱于庭 / 崔浩然 / 毛舜筠
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2554916789.jpg" alt="胭脂扣">
+</div>
+
+---
+## 暗战 第一季
+**Rating:** 7.1
+**Runtime:** 
+**Country:** 英国
+**Director:** 彼得·考斯明斯金
+**Cast:** 汉娜·卡利克-布朗 / 西蒙·佩吉 / 麦茜·理查森·塞勒斯
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2875400215.jpg" alt="暗战 第一季">
+</div>
+
+---
+## 长江
+**Rating:** 7.9
+**Runtime:** 50分钟
+**Country:** 中国大陆
+**Director:** 夏骏
+**Cast:** 胡阿祥 / 苏智良 / 王澍
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574476155.jpg" alt="长江">
+</div>
+
+---
+## 清风亭
+**Rating:** 0
+**Runtime:** 105分钟
+**Country:** 中国大陆
+**Director:** 朱赵伟
+**Cast:** 李树建 / 柏青 / 王爱霞
+<div align="left">
+<img src="https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png" alt="清风亭">
+</div>
+
+---
+## 纵横四海
+**Rating:** 8.1
+**Runtime:** 45分钟
+**Country:** 中国香港
+**Director:** 王晶
+**Cast:** 陶大宇 / 杨恭如 / 周海媚
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2509803094.jpg" alt="纵横四海">
 </div>
 
 ---
