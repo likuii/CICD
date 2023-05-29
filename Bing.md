@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 埃莫海滩，玛丽埃塔斯群岛，巴亚尔塔港，墨西哥 (© ferrantraite/Getty Images)
+
+![埃莫海滩，玛丽埃塔斯群岛，巴亚尔塔港，墨西哥 (© ferrantraite/Getty Images)](https://cn.bing.com/th?id=OHR.HiddenBeach_ZH-CN8410568637_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E7%8E%9B%E4%B8%BD%E5%9F%83%E5%A1%94%E6%96%AF%E7%BE%A4%E5%B2%9B%E5%9F%83%E8%8E%AB%E6%B5%B7%E6%BB%A9&form=hpcapt&mkt=zh-cn)
+
 ## 萨克马兰大湾，瓜德罗普岛国家公园，小安的列斯群岛 (© Hemis/Alamy)
 
 ![萨克马兰大湾，瓜德罗普岛国家公园，小安的列斯群岛 (© Hemis/Alamy)](https://cn.bing.com/th?id=OHR.Antilles_ZH-CN8267285876_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![科孚岛旧城堡 (© Netfalls Remy Musser/Shutterstock)](https://cn.bing.com/th?id=OHR.OldFortress_ZH-CN6469523538_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E7%A7%91%E5%AD%9A%E5%B2%9B%E6%97%A7%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn)
-
-## 西部箱龟 (© Tim Fitzharris/Minden Pictures)
-
-![西部箱龟 (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.WesternBoxTurtle_ZH-CN6203163704_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E8%A5%BF%E9%83%A8%E7%AE%B1%E9%BE%9F&form=hpcapt&mkt=zh-cn)
 
