@@ -674,9 +674,9 @@
 ## 独自旅行
 **Rating:** 0
 **Runtime:** 100分钟
-**Country:** 西班牙
+**Country:** 西班牙 法国
 **Director:** 罗拉·伊萨吉雷
-**Cast:** 伊西娅尔·伊图诺 / Aia Kruse / 拉蒙·巴雷阿
+**Cast:** Ane Pikaza / 赫克多·艾戴里欧 / 拉蒙·巴雷阿
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2621152187.jpg" alt="独自旅行">
 </div>
