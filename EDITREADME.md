@@ -100,7 +100,7 @@
 
 ---
 ## 余生那些年
-**Rating:** 6.7
+**Rating:** 6.6
 **Runtime:** 124分钟
 **Country:** 日本
 **Director:** 藤井道人
