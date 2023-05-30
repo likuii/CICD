@@ -56,7 +56,7 @@
 
 ---
 ## 长沙夜生活
-**Rating:** 6.1
+**Rating:** 6
 **Runtime:** 106分钟
 **Country:** 中国大陆
 **Director:** 张冀
@@ -517,6 +517,17 @@
 </div>
 
 ---
+## 雷曼兄弟三部曲
+**Rating:** 9.5
+**Runtime:** 223分钟
+**Country:** 英国
+**Director:** 萨姆·门德斯 Matthew Amos
+**Cast:** 西蒙·拉塞尔·比尔 / 亚当·戈德利 / 本·迈尔斯
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557604719.jpg" alt="雷曼兄弟三部曲">
+</div>
+
+---
 ## 燃烧的巴黎圣母院
 **Rating:** 7.5
 **Runtime:** 110分钟
@@ -693,6 +704,17 @@
 </div>
 
 ---
+## 万事皆可
+**Rating:** 8
+**Runtime:** 137分钟
+**Country:** 英国
+**Director:** 凯瑟琳·马歇尔 Kathleen Marshall
+**Cast:** 萨顿·福斯特 / Robert Lindsay
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2869324515.jpg" alt="万事皆可">
+</div>
+
+---
 ## 弗拉明戈：永不回头
 **Rating:** 0
 **Runtime:** 76分钟
@@ -704,6 +726,39 @@
 </div>
 
 ---
+## 直线偏执狂
+**Rating:** 8.2
+**Runtime:** 
+**Country:** 英国
+**Director:** 尼古拉斯·希特纳
+**Cast:** 拉尔夫·费因斯 / 塞缪尔·巴奈特
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2881818938.jpg" alt="直线偏执狂">
+</div>
+
+---
+## 利奥波德城
+**Rating:** 8.9
+**Runtime:** 
+**Country:** 英国
+**Director:** 派崔克·马柏
+**Cast:** 艾丹·麦克阿德尔 / 阿尔蒂·佛鲁山 / 塞巴斯蒂安·阿梅斯托
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2870262848.jpg" alt="利奥波德城">
+</div>
+
+---
+## 浮士德博士的悲剧
+**Rating:** 8.4
+**Runtime:** 147分钟
+**Country:** 英国
+**Director:** Matthew Dunster
+**Cast:** Charlotte Broom / Michael Camp / Richard Clews
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2875892820.jpg" alt="浮士德博士的悲剧">
+</div>
+
+---
 ## 高更特展影像Gauguin
 **Rating:** 0
 **Runtime:** 90
@@ -712,6 +767,39 @@
 **Cast:** 
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2581592385.jpg" alt="高更特展影像Gauguin">
+</div>
+
+---
+## 海鸥
+**Rating:** 5.9
+**Runtime:** 188
+**Country:** 英国
+**Director:** 杰米·洛伊德
+**Cast:** 艾米莉亚·克拉克 / 汤姆·里斯·哈里斯 / 苏菲·吴
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2884223480.jpg" alt="海鸥">
+</div>
+
+---
+## 少年派的奇幻漂流
+**Rating:** 0
+**Runtime:** 150分钟
+**Country:** 英国
+**Director:** Max Webster
+**Cast:** Hiran Abeysekara / 米娜·安瓦尔 / Raj Ghatak
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890310318.jpg" alt="少年派的奇幻漂流">
+</div>
+
+---
+## 尘埃之书：野美人号
+**Rating:** 8
+**Runtime:** 164分钟
+**Country:** 英国
+**Director:** 尼古拉斯·希特纳
+**Cast:** Samuel Creasey / Ella Dacres
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2870262867.jpg" alt="尘埃之书：野美人号">
 </div>
 
 ---
@@ -767,6 +855,17 @@
 **Cast:** 陶大宇 / 杨恭如 / 周海媚
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2509803094.jpg" alt="纵横四海">
+</div>
+
+---
+## 萨勒姆的女巫
+**Rating:** 0
+**Runtime:** 
+**Country:** 英国
+**Director:** Lyndsey Turner
+**Cast:** David Ahmad / 费塞友·阿金那德 / Zoë Aldrich
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890310684.jpg" alt="萨勒姆的女巫">
 </div>
 
 ---
