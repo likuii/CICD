@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 海獭宝宝，威廉王子湾，美国阿拉斯加州 (© Donald M. Jones/Minden Pictures)
+
+![海獭宝宝，威廉王子湾，美国阿拉斯加州 (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.WorldOtterDay_ZH-CN8607141093_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E6%B5%B7%E7%8D%AD&form=hpcapt&mkt=zh-cn)
+
 ## 埃莫海滩，玛丽埃塔斯群岛，巴亚尔塔港，墨西哥 (© ferrantraite/Getty Images)
 
 ![埃莫海滩，玛丽埃塔斯群岛，巴亚尔塔港，墨西哥 (© ferrantraite/Getty Images)](https://cn.bing.com/th?id=OHR.HiddenBeach_ZH-CN8410568637_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![法罗群岛，丹麦 (© miroslav_1/Getty Images)](https://cn.bing.com/th?id=OHR.SaksunFaroe_ZH-CN7150180006_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E6%B3%95%E7%BD%97%E7%BE%A4%E5%B2%9B&form=hpcapt&mkt=zh-cn)
-
-## 科孚岛旧城堡 (© Netfalls Remy Musser/Shutterstock)
-
-![科孚岛旧城堡 (© Netfalls Remy Musser/Shutterstock)](https://cn.bing.com/th?id=OHR.OldFortress_ZH-CN6469523538_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E7%A7%91%E5%AD%9A%E5%B2%9B%E6%97%A7%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn)
 
