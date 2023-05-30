@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 小美人鱼
-**Rating:** 5.3
+**Rating:** 5.2
 **Runtime:** 135分钟
 **Country:** 美国
 **Director:** 罗伯·马歇尔
