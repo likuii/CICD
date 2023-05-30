@@ -12,7 +12,7 @@
 
 ---
 ## 温柔壳
-**Rating:** 7.6
+**Rating:** 7.5
 **Runtime:** 104分钟
 **Country:** 中国大陆
 **Director:** 王沐
