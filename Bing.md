@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 大堡礁的航拍图，澳大利亚 (© AirPano LLC/Amazing Aerial Agency)
+
+![大堡礁的航拍图，澳大利亚 (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.ReefAwareness_ZH-CN8840949729_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%A4%A7%E5%A0%A1%E7%A4%81&form=hpcapt&mkt=zh-cn)
+
 ## 海獭宝宝，威廉王子湾，美国阿拉斯加州 (© Donald M. Jones/Minden Pictures)
 
 ![海獭宝宝，威廉王子湾，美国阿拉斯加州 (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.WorldOtterDay_ZH-CN8607141093_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![西沙瓦寺，素可泰历史公园，泰国 (© Casper1774 Studio/Shutterstock)](https://cn.bing.com/th?id=OHR.WatSriSawai_ZH-CN7688908090_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E6%B3%B0%E5%9B%BD%E8%A5%BF%E6%B2%99%E7%93%A6%E5%AF%BA&form=hpcapt&mkt=zh-cn)
-
-## 法罗群岛，丹麦 (© miroslav_1/Getty Images)
-
-![法罗群岛，丹麦 (© miroslav_1/Getty Images)](https://cn.bing.com/th?id=OHR.SaksunFaroe_ZH-CN7150180006_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E6%B3%95%E7%BD%97%E7%BE%A4%E5%B2%9B&form=hpcapt&mkt=zh-cn)
 
