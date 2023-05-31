@@ -111,7 +111,7 @@
 
 ---
 ## 请别相信她
-**Rating:** 6.7
+**Rating:** 6.8
 **Runtime:** 106分钟
 **Country:** 中国大陆
 **Director:** 杨沅翰
