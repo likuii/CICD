@@ -177,7 +177,7 @@
 
 ---
 ## 川流不“熄”
-**Rating:** 0
+**Rating:** 7.9
 **Runtime:** 135分钟
 **Country:** 中国大陆
 **Director:** 冯钶予
