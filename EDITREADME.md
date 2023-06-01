@@ -67,7 +67,7 @@
 
 ---
 ## 人生路不熟
-**Rating:** 6.4
+**Rating:** 6.3
 **Runtime:** 100分钟
 **Country:** 中国大陆
 **Director:** 易小星
@@ -793,7 +793,7 @@
 
 ---
 ## 长江
-**Rating:** 8
+**Rating:** 7.9
 **Runtime:** 50分钟
 **Country:** 中国大陆
 **Director:** 夏骏
