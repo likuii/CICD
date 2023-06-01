@@ -188,7 +188,7 @@
 
 ---
 ## 川流不“熄”
-**Rating:** 7.8
+**Rating:** 7.9
 **Runtime:** 135分钟
 **Country:** 中国大陆
 **Director:** 冯钶予
@@ -825,28 +825,6 @@
 </div>
 
 ---
-## 蜘蛛侠：纵横宇宙
-**Rating:** 0
-**Runtime:** 140分钟
-**Country:** 美国
-**Director:** 乔伊姆·多斯·桑托斯 凯普·鲍尔斯 贾斯汀·汤普森
-**Cast:** 沙梅克·摩尔 / 海莉·斯坦菲尔德 / 奥斯卡·伊萨克
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892315297.jpg" alt="蜘蛛侠：纵横宇宙">
-</div>
-
----
-## 煞面迷影
-**Rating:** 0
-**Runtime:** 90分钟
-**Country:** 中国大陆
-**Director:** 张伟瑚
-**Cast:** 周育竹 / 侯旭 / 雷承昆
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890009747.jpg" alt="煞面迷影">
-</div>
-
----
 ## 万湖会议
 **Rating:** 0
 **Runtime:** 108分钟
@@ -932,6 +910,28 @@
 **Cast:** 樊少皇 / 罗米 / 丁海峰
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890615565.jpg" alt="追你而来">
+</div>
+
+---
+## 二手搭档
+**Rating:** 0
+**Runtime:** 
+**Country:** 中国大陆
+**Director:** 王莉
+**Cast:** 张子贤 / 李晓峰 / 柯达
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891858239.jpg" alt="二手搭档">
+</div>
+
+---
+## 诗和远方的聚会
+**Rating:** 0
+**Runtime:** 98分钟
+**Country:** 中国大陆
+**Director:** 秦加飞
+**Cast:** 杨磊 / 沈诗雨 / 刘凯
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891042003.jpg" alt="诗和远方的聚会">
 </div>
 
 ---

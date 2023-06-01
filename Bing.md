@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 沙丘中的南非剑羚，纳米比亚 (© Sergey Gorshkov/Alamy)
+
+![沙丘中的南非剑羚，纳米比亚 (© Sergey Gorshkov/Alamy)](https://cn.bing.com/th?id=OHR.GemsbokNamibia_ZH-CN0963988839_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%8D%97%E9%9D%9E%E5%89%91%E7%BE%9A&form=hpcapt&mkt=zh-cn)
+
 ## 大堡礁的航拍图，澳大利亚 (© AirPano LLC/Amazing Aerial Agency)
 
 ![大堡礁的航拍图，澳大利亚 (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.ReefAwareness_ZH-CN8840949729_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![纳米比亚的植物 (© Fotofeeling/DEEPOL by plainpicture)](https://cn.bing.com/th?id=OHR.AloeDichotomum_ZH-CN7940121733_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E7%AE%AD%E8%A2%8B%E6%A0%91&form=hpcapt&mkt=zh-cn)
-
-## 西沙瓦寺，素可泰历史公园，泰国 (© Casper1774 Studio/Shutterstock)
-
-![西沙瓦寺，素可泰历史公园，泰国 (© Casper1774 Studio/Shutterstock)](https://cn.bing.com/th?id=OHR.WatSriSawai_ZH-CN7688908090_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E6%B3%B0%E5%9B%BD%E8%A5%BF%E6%B2%99%E7%93%A6%E5%AF%BA&form=hpcapt&mkt=zh-cn)
 
