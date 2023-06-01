@@ -441,7 +441,7 @@
 
 ---
 ## 望道
-**Rating:** 6.1
+**Rating:** 6
 **Runtime:** 112分钟
 **Country:** 中国大陆
 **Director:** 侯咏
