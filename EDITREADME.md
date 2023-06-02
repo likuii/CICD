@@ -12,7 +12,7 @@
 
 ---
 ## 哆啦A梦：大雄与天空的理想乡
-**Rating:** 0
+**Rating:** 7.4
 **Runtime:** 107分钟
 **Country:** 日本
 **Director:** 堂山卓见 
