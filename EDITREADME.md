@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 蜘蛛侠：纵横宇宙
-**Rating:** 0
+**Rating:** 8.9
 **Runtime:** 140分钟
 **Country:** 美国
 **Director:** 乔伊姆·多斯·桑托斯 凯普·鲍尔斯 贾斯汀·汤普森
