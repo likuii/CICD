@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 大峡谷国家公园的南凯巴布步道，亚利桑那州，美国 (© Roman Khomlyak/Getty Images)
+
+![大峡谷国家公园的南凯巴布步道，亚利桑那州，美国 (© Roman Khomlyak/Getty Images)](https://cn.bing.com/th?id=OHR.SouthKaibabTrail_ZH-CN1186135534_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%A4%A7%E5%B3%A1%E8%B0%B7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+
 ## 沙丘中的南非剑羚，纳米比亚 (© Sergey Gorshkov/Alamy)
 
 ![沙丘中的南非剑羚，纳米比亚 (© Sergey Gorshkov/Alamy)](https://cn.bing.com/th?id=OHR.GemsbokNamibia_ZH-CN0963988839_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![乌布的德格拉朗梯田，印度尼西亚 (© Cavan Images/Adobe Stock)](https://cn.bing.com/th?id=OHR.TegallalangTerrace_ZH-CN8126456968_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E4%B9%8C%E5%B8%83&form=hpcapt&mkt=zh-cn)
-
-## 纳米比亚的植物 (© Fotofeeling/DEEPOL by plainpicture)
-
-![纳米比亚的植物 (© Fotofeeling/DEEPOL by plainpicture)](https://cn.bing.com/th?id=OHR.AloeDichotomum_ZH-CN7940121733_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E7%AE%AD%E8%A2%8B%E6%A0%91&form=hpcapt&mkt=zh-cn)
 
