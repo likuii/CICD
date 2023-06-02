@@ -429,6 +429,17 @@
 </div>
 
 ---
+## 巧虎奇幻舞台历险记
+**Rating:** 0
+**Runtime:** 75分钟
+**Country:** 中国大陆
+**Director:** 河村友宏
+**Cast:** 李晔 / 罗玉婷 / 沈达威
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892767855.jpg" alt="巧虎奇幻舞台历险记">
+</div>
+
+---
 ## 暴风
 **Rating:** 5.7
 **Runtime:** 103分钟
