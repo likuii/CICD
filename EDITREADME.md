@@ -429,6 +429,17 @@
 </div>
 
 ---
+## 我的青春岁月
+**Rating:** 0
+**Runtime:** 92分钟
+**Country:** 中国大陆
+**Director:** 孙亮
+**Cast:** 刘白沙 / 高宇航 / 韩远琪
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891835567.jpg" alt="我的青春岁月">
+</div>
+
+---
 ## 故乡异客
 **Rating:** 6.5
 **Runtime:** 93分钟
