@@ -64398,3 +64398,143 @@
 
 主演：陈伟霆 / 王千源 / 王龙正
 
+
+
+## 随机抽取的9部电影
+
+<img src="Image/movies_grid.png" alt="movie posters">
+
+
+### 余生那些年
+
+<img src="Image/movie-1.png" alt="余生那些年">
+评分：6.6
+
+片长：124分钟
+
+制片国家/地区：日本
+
+导演：藤井道人
+
+主演：小松菜奈 / 坂口健太郎 / 山田裕贵
+
+
+
+### 弗拉明戈：永不回头
+
+<img src="Image/movie-2.png" alt="弗拉明戈：永不回头">
+评分：0
+
+片长：76分钟
+
+制片国家/地区：西班牙
+
+导演：Lupe Pérez García
+
+主演：Alicia Acuña
+
+
+
+### 浮士德博士的悲剧
+
+<img src="Image/movie-3.png" alt="浮士德博士的悲剧">
+评分：8.4
+
+片长：147分钟
+
+制片国家/地区：英国
+
+导演：Matthew Dunster
+
+主演：Charlotte Broom / Michael Camp / Richard Clews
+
+
+
+### 天空之城
+
+<img src="Image/movie-4.png" alt="天空之城">
+评分：9.2
+
+片长：125分钟
+
+制片国家/地区：日本
+
+导演：宫崎骏
+
+主演：田中真弓 / 横泽启子 / 初井言荣
+
+
+
+### 万事皆可
+
+<img src="Image/movie-5.png" alt="万事皆可">
+评分：8
+
+片长：137分钟
+
+制片国家/地区：英国
+
+导演：凯瑟琳·马歇尔 Kathleen Marshall
+
+主演：萨顿·福斯特 / Robert Lindsay
+
+
+
+### 超级马力欧兄弟大电影
+
+<img src="Image/movie-6.png" alt="超级马力欧兄弟大电影">
+评分：7.9
+
+片长：92分钟
+
+制片国家/地区：美国 日本
+
+导演：亚伦·霍瓦斯 迈克尔·杰勒尼克
+
+主演：克里斯·帕拉特 / 安雅·泰勒-乔伊 / 查理·戴
+
+
+
+### 川流不“熄”
+
+<img src="Image/movie-7.png" alt="川流不“熄”">
+评分：7.9
+
+片长：135分钟
+
+制片国家/地区：中国大陆
+
+导演：冯钶予
+
+主演：杨新鸣 / 胡昌霖 / 涂松岩
+
+
+
+### 哆啦A梦：大雄与天空的理想乡
+
+<img src="Image/movie-8.png" alt="哆啦A梦：大雄与天空的理想乡">
+评分：7.4
+
+片长：107分钟
+
+制片国家/地区：日本
+
+导演：堂山卓见 
+
+主演：水田山葵 / 大原惠美 / 嘉数由美
+
+
+
+### 宝藏女王
+
+<img src="Image/movie-9.png" alt="宝藏女王">
+评分：8.4
+
+片长：90分钟
+
+制片国家/地区：西班牙
+
+导演：Gustavo Salmerón
+
+主演：Julia Salmerón
+
