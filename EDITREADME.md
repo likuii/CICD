@@ -352,6 +352,17 @@
 </div>
 
 ---
+## 水边维纳斯
+**Rating:** 6.3
+**Runtime:** 100分钟
+**Country:** 中国大陆
+**Director:** 王林
+**Cast:** 李Q / 朱惠英 / 毛敏卓
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2881593396.jpg" alt="水边维纳斯">
+</div>
+
+---
 ## 荒野狂兽
 **Rating:** 5.5
 **Runtime:** 93分钟
