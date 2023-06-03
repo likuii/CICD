@@ -617,7 +617,7 @@
 
 ---
 ## 恋战冲绳
-**Rating:** 7.3
+**Rating:** 7.4
 **Runtime:** 99 分钟(日本)
 **Country:** 中国香港
 **Director:** 陈嘉上
