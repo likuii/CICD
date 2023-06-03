@@ -12,7 +12,7 @@
 
 ---
 ## 哆啦A梦：大雄与天空的理想乡
-**Rating:** 7.3
+**Rating:** 7.4
 **Runtime:** 107分钟
 **Country:** 日本
 **Director:** 堂山卓见 
@@ -617,7 +617,7 @@
 
 ---
 ## 恋战冲绳
-**Rating:** 7.4
+**Rating:** 7.3
 **Runtime:** 99 分钟(日本)
 **Country:** 中国香港
 **Director:** 陈嘉上
