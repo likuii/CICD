@@ -671,6 +671,17 @@
 </div>
 
 ---
+## 怨偶铠甲
+**Rating:** 0
+**Runtime:** 85分钟
+**Country:** 中国大陆
+**Director:** 陈京
+**Cast:** 陈美行 / 沁坤 / 俞艾辰
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890386578.jpg" alt="怨偶铠甲">
+</div>
+
+---
 ## 少年派的奇幻漂流
 **Rating:** 0
 **Runtime:** 150分钟
