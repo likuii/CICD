@@ -78258,3 +78258,143 @@
 
 主演：
 
+
+
+## 随机抽取的9部电影
+
+<img src="Image/movies_grid.png" alt="movie posters">
+
+
+### 少年派的奇幻漂流
+
+<img src="Image/movie-1.png" alt="少年派的奇幻漂流">
+评分：0
+
+片长：150分钟
+
+制片国家/地区：英国
+
+导演：Max Webster
+
+主演：Hiran Abeysekara / 米娜·安瓦尔 / Raj Ghatak
+
+
+
+### 我和妈妈的最后一年
+
+<img src="Image/movie-2.png" alt="我和妈妈的最后一年">
+评分：6.7
+
+片长：104分钟
+
+制片国家/地区：日本
+
+导演：川村元气
+
+主演：菅田将晖 / 原田美枝子 / 长泽雅美
+
+
+
+### 这么多年
+
+<img src="Image/movie-3.png" alt="这么多年">
+评分：6.6
+
+片长：116分钟
+
+制片国家/地区：中国大陆
+
+导演：季竹青
+
+主演：张新成 / 孙千 / 章若楠
+
+
+
+### 阿郎的故事
+
+<img src="Image/movie-4.png" alt="阿郎的故事">
+评分：8.5
+
+片长：99分钟
+
+制片国家/地区：中国香港
+
+导演：杜琪峰
+
+主演：周润发 / 张艾嘉 / 黄坤玄
+
+
+
+### 浮士德博士的悲剧
+
+<img src="Image/movie-5.png" alt="浮士德博士的悲剧">
+评分：8.4
+
+片长：147分钟
+
+制片国家/地区：英国
+
+导演：Matthew Dunster
+
+主演：Charlotte Broom / Michael Camp / Richard Clews
+
+
+
+### 长沙夜生活
+
+<img src="Image/movie-6.png" alt="长沙夜生活">
+评分：5.9
+
+片长：106分钟
+
+制片国家/地区：中国大陆
+
+导演：张冀
+
+主演：尹昉 / 张婧仪 / 苏岩
+
+
+
+### 萨勒姆的女巫
+
+<img src="Image/movie-7.png" alt="萨勒姆的女巫">
+评分：0
+
+片长：
+
+制片国家/地区：英国
+
+导演：Lyndsey Turner
+
+主演：David Ahmad / 费塞友·阿金那德 / Zoë Aldrich
+
+
+
+### 暗战 第一季
+
+<img src="Image/movie-8.png" alt="暗战 第一季">
+评分：7.1
+
+片长：
+
+制片国家/地区：英国
+
+导演：彼得·考斯明斯金
+
+主演：汉娜·卡利克-布朗 / 西蒙·佩吉 / 麦茜·理查森·塞勒斯
+
+
+
+### 阮玲玉
+
+<img src="Image/movie-9.png" alt="阮玲玉">
+评分：8.6
+
+片长：121分钟
+
+制片国家/地区：中国香港
+
+导演：关锦鹏
+
+主演：张曼玉 / 梁家辉 / 秦汉
+
