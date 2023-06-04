@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 辛华达峡谷的瀑布，贾斯珀国家公园，加拿大 (© Delpixart/Getty Images)
+
+![辛华达峡谷的瀑布，贾斯珀国家公园，加拿大 (© Delpixart/Getty Images)](https://cn.bing.com/th?id=OHR.WaterfallsSunwaptaValley_ZH-CN1804229850_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E8%B4%BE%E6%96%AF%E7%8F%80%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+
 ## 怀阿纳帕纳帕州立公园的黑沙滩，茂宜岛，夏威夷，美国 (© Matt Anderson Photography/Getty Images)
 
 ![怀阿纳帕纳帕州立公园的黑沙滩，茂宜岛，夏威夷，美国 (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.MauiBeach_ZH-CN1435658101_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![埃莫海滩，玛丽埃塔斯群岛，巴亚尔塔港，墨西哥 (© ferrantraite/Getty Images)](https://cn.bing.com/th?id=OHR.HiddenBeach_ZH-CN8410568637_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E7%8E%9B%E4%B8%BD%E5%9F%83%E5%A1%94%E6%96%AF%E7%BE%A4%E5%B2%9B%E5%9F%83%E8%8E%AB%E6%B5%B7%E6%BB%A9&form=hpcapt&mkt=zh-cn)
-
-## 萨克马兰大湾，瓜德罗普岛国家公园，小安的列斯群岛 (© Hemis/Alamy)
-
-![萨克马兰大湾，瓜德罗普岛国家公园，小安的列斯群岛 (© Hemis/Alamy)](https://cn.bing.com/th?id=OHR.Antilles_ZH-CN8267285876_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E7%93%9C%E5%BE%B7%E7%BD%97%E6%99%AE%E5%B2%9B&form=hpcapt&mkt=zh-cn)
 
