@@ -76718,3 +76718,143 @@
 
 主演：莱娅·阿蒂加斯 / 保拉·罗伯斯 / 布鲁娜·库希
 
+
+
+## 随机抽取的9部电影
+
+<img src="Image/movies_grid.png" alt="movie posters">
+
+
+### 神兜兜和奶爸
+
+<img src="Image/movie-1.png" alt="神兜兜和奶爸">
+评分：0
+
+片长：103分钟
+
+制片国家/地区：中国大陆
+
+导演：高雄杰
+
+主演：钭皓倍 / 钭晨熙
+
+
+
+### 闪电侠
+
+<img src="Image/movie-2.png" alt="闪电侠">
+评分：0
+
+片长：144分钟
+
+制片国家/地区：美国
+
+导演：安德斯·穆斯切蒂
+
+主演：埃兹拉·米勒 / 本·阿弗莱克 / 迈克尔·基顿
+
+
+
+### 万事皆可
+
+<img src="Image/movie-3.png" alt="万事皆可">
+评分：8
+
+片长：137分钟
+
+制片国家/地区：英国
+
+导演：凯瑟琳·马歇尔 Kathleen Marshall
+
+主演：萨顿·福斯特 / Robert Lindsay
+
+
+
+### 天堂谷大冒险
+
+<img src="Image/movie-4.png" alt="天堂谷大冒险">
+评分：5.8
+
+片长：92分钟
+
+制片国家/地区：德国
+
+导演：托默·埃希德
+
+主演：托马斯·布罗迪-桑斯特 / 菲丽希缇·琼斯 / 弗莱迪·海默
+
+
+
+### 凌晨两点半2
+
+<img src="Image/movie-5.png" alt="凌晨两点半2">
+评分：0
+
+片长：92分钟
+
+制片国家/地区：中国大陆
+
+导演：王赛
+
+主演：彭剑雄 / 张露文 / 王尊
+
+
+
+### 葛饰北斋：超越巨浪
+
+<img src="Image/movie-6.png" alt="葛饰北斋：超越巨浪">
+评分：8.5
+
+片长：90分钟
+
+制片国家/地区：英国
+
+导演：Patricia Wheatley
+
+主演：蒂姆·克拉克 / 罗杰·凯斯
+
+
+
+### 萨勒姆的女巫
+
+<img src="Image/movie-7.png" alt="萨勒姆的女巫">
+评分：0
+
+片长：
+
+制片国家/地区：英国
+
+导演：Lyndsey Turner
+
+主演：David Ahmad / 费塞友·阿金那德 / Zoë Aldrich
+
+
+
+### 煞面迷影
+
+<img src="Image/movie-8.png" alt="煞面迷影">
+评分：0
+
+片长：90分钟
+
+制片国家/地区：中国大陆
+
+导演：张伟瑚
+
+主演：周育竹 / 侯旭 / 雷承昆
+
+
+
+### 浮士德博士的悲剧
+
+<img src="Image/movie-9.png" alt="浮士德博士的悲剧">
+评分：8.4
+
+片长：147分钟
+
+制片国家/地区：英国
+
+导演：Matthew Dunster
+
+主演：Charlotte Broom / Michael Camp / Richard Clews
+
