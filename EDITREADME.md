@@ -418,6 +418,17 @@
 </div>
 
 ---
+## 故乡异客
+**Rating:** 6.5
+**Runtime:** 93分钟
+**Country:** 中国大陆
+**Director:** 李崧鸣
+**Cast:** 叶麒圣 / 慈婉彤 / 陈帮会
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892514229.jpg" alt="故乡异客">
+</div>
+
+---
 ## 一路幸福
 **Rating:** 0
 **Runtime:** 95分钟
@@ -525,6 +536,17 @@
 **Cast:** 西蒙·拉塞尔·比尔 / 亚当·戈德利 / 本·迈尔斯
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557604719.jpg" alt="雷曼兄弟三部曲">
+</div>
+
+---
+## 周永开
+**Rating:** 0
+**Runtime:** 106分钟
+**Country:** 中国大陆
+**Director:** 兰城序 聂云鑫
+**Cast:** 卢奇 / 苗苗 / 释小龙
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2873935641.jpg" alt="周永开">
 </div>
 
 ---
