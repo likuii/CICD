@@ -418,6 +418,17 @@
 </div>
 
 ---
+## 神兜兜和奶爸
+**Rating:** 0
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 高雄杰
+**Cast:** 钭皓倍 / 钭晨熙
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891088318.jpg" alt="神兜兜和奶爸">
+</div>
+
+---
 ## 英雄本色
 **Rating:** 8.6
 **Runtime:** 95分钟
