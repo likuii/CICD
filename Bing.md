@@ -4,9 +4,9 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
-## The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)
+## 埃特尔塔海岸的白垩悬崖，诺曼底，法国 (© MarcelloLand/Getty Images)
 
-![The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)](https://cn.bing.com/th?id=OHR.CliffsEtretat_ZH-CN1961838068_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+![埃特尔塔海岸的白垩悬崖，诺曼底，法国 (© MarcelloLand/Getty Images)](https://cn.bing.com/th?id=OHR.CliffsEtretat_ZH-CN9911283373_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%9F%83%E7%89%B9%E5%B0%94%E5%A1%94%E6%B5%B7%E5%B2%B8&form=hpcapt&mkt=zh-cn)
 

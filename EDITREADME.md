@@ -744,7 +744,7 @@
 **Director:** 杨枫
 **Cast:** 夏雨 / 李立群 / 谭凯
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890477620.jpg" alt="极寒之城">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892959059.jpg" alt="极寒之城">
 </div>
 
 ---
