@@ -67,7 +67,7 @@
 
 ---
 ## 造梦之家
-**Rating:** 7.5
+**Rating:** 7.4
 **Runtime:** 151分钟
 **Country:** 美国
 **Director:** 史蒂文·斯皮尔伯格
@@ -701,6 +701,17 @@
 **Cast:** 陶大宇 / 杨恭如 / 周海媚
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2509803094.jpg" alt="纵横四海">
+</div>
+
+---
+## 大熊雨林
+**Rating:** 8.6
+**Runtime:** 41分钟
+**Country:** 加拿大
+**Director:** Ian McAllister
+**Cast:** 瑞安·雷诺兹
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554383112.jpg" alt="大熊雨林">
 </div>
 
 ---
