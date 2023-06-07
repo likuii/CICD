@@ -462,6 +462,17 @@
 </div>
 
 ---
+## 脐带
+**Rating:** 7.9
+**Runtime:** 96分钟
+**Country:** 中国大陆
+**Director:** 乔思雪
+**Cast:** 巴德玛 / 伊德尔 / 娜荷芽
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2889236161.jpg" alt="脐带">
+</div>
+
+---
 ## 少年与海
 **Rating:** 6.4
 **Runtime:** 106分钟
