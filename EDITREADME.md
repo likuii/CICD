@@ -12,7 +12,7 @@
 
 ---
 ## 温柔壳
-**Rating:** 7.4
+**Rating:** 7.3
 **Runtime:** 104分钟
 **Country:** 中国大陆
 **Director:** 王沐
@@ -67,7 +67,7 @@
 
 ---
 ## 造梦之家
-**Rating:** 7.5
+**Rating:** 7.4
 **Runtime:** 151分钟
 **Country:** 美国
 **Director:** 史蒂文·斯皮尔伯格
