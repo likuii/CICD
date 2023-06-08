@@ -506,6 +506,17 @@
 </div>
 
 ---
+## 鲛在水中央
+**Rating:** 0
+**Runtime:** 92分钟
+**Country:** 中国大陆
+**Director:** 魏东宸
+**Cast:** 牟凤彬 / 王晶玉 / 李桂生
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890526786.jpg" alt="鲛在水中央">
+</div>
+
+---
 ## 阿郎的故事
 **Rating:** 8.5
 **Runtime:** 99分钟
