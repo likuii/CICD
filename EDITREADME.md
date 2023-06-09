@@ -253,6 +253,17 @@
 </div>
 
 ---
+## 醒来2
+**Rating:** 0
+**Runtime:** 93分钟
+**Country:** 中国大陆
+**Director:** 吕明晰 李萍萍
+**Cast:** 傅淼 / 陶慧敏 / 乔涵
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891181459.jpg" alt="醒来2">
+</div>
+
+---
 ## 超级马力欧兄弟大电影
 **Rating:** 7.9
 **Runtime:** 92分钟
