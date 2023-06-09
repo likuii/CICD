@@ -660,6 +660,28 @@
 </div>
 
 ---
+## 南太平洋之旅
+**Rating:** 8.3
+**Runtime:** 40分钟
+**Country:** 美国
+**Director:** 格雷戈·迈吉里弗雷 Stephen Judson
+**Cast:** 凯特·布兰切特 / Ferdiel Ballamu / Menas Mambasar
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155676070.jpg" alt="南太平洋之旅">
+</div>
+
+---
+## 触摸星空
+**Rating:** 7.6
+**Runtime:** 40分钟
+**Country:** 美国
+**Director:** 卢克·普洛伊哈尔
+**Cast:** Kim Handysides
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554618281.jpg" alt="触摸星空">
+</div>
+
+---
 ## 极寒之城
 **Rating:** 0
 **Runtime:** 120分钟
