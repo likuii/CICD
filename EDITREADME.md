@@ -408,7 +408,7 @@
 
 ---
 ## 暴风
-**Rating:** 5.7
+**Rating:** 5.6
 **Runtime:** 103分钟
 **Country:** 中国大陆
 **Director:** 陈嘉上
