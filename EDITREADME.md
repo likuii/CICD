@@ -155,7 +155,7 @@
 
 ---
 ## 请别相信她
-**Rating:** 6.6
+**Rating:** 6.7
 **Runtime:** 106分钟
 **Country:** 中国大陆
 **Director:** 杨沅翰
@@ -584,7 +584,7 @@
 
 ---
 ## 大熊雨林
-**Rating:** 8.6
+**Rating:** 8.7
 **Runtime:** 41分钟
 **Country:** 加拿大
 **Director:** Ian McAllister
