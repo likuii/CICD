@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 仙人掌植物，得克萨斯州大弯国家公园，美国 (© Tim Fitzharris/Minden Pictures)
+
+![仙人掌植物，得克萨斯州大弯国家公园，美国 (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.BigBendAnniv_ZH-CN3445097868_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%A4%A7%E5%BC%AF%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%EF%BC%8C%E5%BE%97%E5%85%8B%E8%90%A8%E6%96%AF%E5%B7%9E&form=hpcapt&mkt=zh-cn)
+
 ## 巨鹭，克鲁格国家公园，南非 (© Johan Swanepoel/Alamy)
 
 ![巨鹭，克鲁格国家公园，南非 (© Johan Swanepoel/Alamy)](https://cn.bing.com/th?id=OHR.GoliathHeron_ZH-CN2413747227_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![埃特尔塔海岸的白垩悬崖，诺曼底，法国 (© MarcelloLand/Getty Images)](https://cn.bing.com/th?id=OHR.CliffsEtretat_ZH-CN9911283373_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%9F%83%E7%89%B9%E5%B0%94%E5%A1%94%E6%B5%B7%E5%B2%B8&form=hpcapt&mkt=zh-cn)
-
-## 辛华达峡谷的瀑布，贾斯珀国家公园，加拿大 (© Delpixart/Getty Images)
-
-![辛华达峡谷的瀑布，贾斯珀国家公园，加拿大 (© Delpixart/Getty Images)](https://cn.bing.com/th?id=OHR.WaterfallsSunwaptaValley_ZH-CN1804229850_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E8%B4%BE%E6%96%AF%E7%8F%80%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
