@@ -67,7 +67,7 @@
 
 ---
 ## 温柔壳
-**Rating:** 7.3
+**Rating:** 7.4
 **Runtime:** 104分钟
 **Country:** 中国大陆
 **Director:** 王沐
@@ -100,7 +100,7 @@
 
 ---
 ## 检察风云
-**Rating:** 4.6
+**Rating:** 4.5
 **Runtime:** 112分钟
 **Country:** 中国大陆
 **Director:** 麦兆辉
