@@ -34,7 +34,7 @@
 
 ---
 ## 极寒之城
-**Rating:** 6.9
+**Rating:** 7
 **Runtime:** 120分钟
 **Country:** 中国大陆
 **Director:** 杨枫
