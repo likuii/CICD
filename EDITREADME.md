@@ -275,6 +275,17 @@
 </div>
 
 ---
+## 川流不“熄”
+**Rating:** 7.7
+**Runtime:** 135分钟
+**Country:** 中国大陆
+**Director:** 冯钶予
+**Cast:** 杨新鸣 / 胡昌霖 / 涂松岩
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890954804.jpg" alt="川流不“熄”">
+</div>
+
+---
 ## 新猪猪侠大电影·超级赛车
 **Rating:** 0
 **Runtime:** 85分钟
