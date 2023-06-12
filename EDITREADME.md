@@ -34,7 +34,7 @@
 
 ---
 ## 极寒之城
-**Rating:** 0
+**Rating:** 6.8
 **Runtime:** 120分钟
 **Country:** 中国大陆
 **Director:** 杨枫
@@ -541,7 +541,7 @@
 ---
 ## 疯狂元素城
 **Rating:** 0
-**Runtime:** 103分钟
+**Runtime:** 102分钟
 **Country:** 美国
 **Director:** 彼得·孙
 **Cast:** 莉娅·刘易斯 / 马莫多·阿西 / 罗纳尔多·德尔·卡门
