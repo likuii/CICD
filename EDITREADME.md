@@ -12,7 +12,7 @@
 
 ---
 ## 蜘蛛侠：纵横宇宙
-**Rating:** 8.7
+**Rating:** 8.6
 **Runtime:** 140分钟
 **Country:** 美国
 **Director:** 乔伊姆·多斯·桑托斯 凯普·鲍尔斯 贾斯汀·汤普森
@@ -45,7 +45,7 @@
 
 ---
 ## 温柔壳
-**Rating:** 7.4
+**Rating:** 7.3
 **Runtime:** 104分钟
 **Country:** 中国大陆
 **Director:** 王沐
