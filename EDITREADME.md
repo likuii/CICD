@@ -610,7 +610,7 @@
 **Runtime:** 98分钟
 **Country:** 中国大陆
 **Director:** 秦加飞
-**Cast:** 杨磊 / 沈诗雨 / 
+**Cast:** 杨磊 / 沈诗雨 / 刘凯
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891042003.jpg" alt="诗和远方的聚会">
 </div>
