@@ -34,7 +34,7 @@
 
 ---
 ## 极寒之城
-**Rating:** 6.8
+**Rating:** 6.9
 **Runtime:** 120分钟
 **Country:** 中国大陆
 **Director:** 杨枫
@@ -100,7 +100,7 @@
 
 ---
 ## 检察风云
-**Rating:** 4.6
+**Rating:** 4.5
 **Runtime:** 112分钟
 **Country:** 中国大陆
 **Director:** 麦兆辉
