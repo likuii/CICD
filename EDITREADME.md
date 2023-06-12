@@ -634,7 +634,7 @@
 **Director:** Steve Weiz
 **Cast:** 埃里克·坎通纳 / 蒋雯丽 / 陈百祥
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891054640.jpg" alt="进球吧！少年">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893192712.jpg" alt="进球吧！少年">
 </div>
 
 ---
