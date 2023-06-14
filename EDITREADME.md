@@ -34,7 +34,7 @@
 
 ---
 ## 极寒之城
-**Rating:** 6.8
+**Rating:** 6.9
 **Runtime:** 120分钟
 **Country:** 中国大陆
 **Director:** 杨枫
@@ -78,7 +78,7 @@
 
 ---
 ## 温柔壳
-**Rating:** 7.3
+**Rating:** 7.4
 **Runtime:** 104分钟
 **Country:** 中国大陆
 **Director:** 王沐
