@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 同步萤火虫，大烟山国家公园，田纳西州，美国 (© Floris Van Bruegel/Minden Pictures)
+
+![同步萤火虫，大烟山国家公园，田纳西州，美国 (© Floris Van Bruegel/Minden Pictures)](https://cn.bing.com/th?id=OHR.SmokyFireflies_ZH-CN3840923626_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E8%90%A4%E7%81%AB%E8%99%AB&form=hpcapt&mkt=zh-cn)
+
 ## 多瑙河畔的帕绍市，巴伐利亚，德国 (© Scott Wilson/Alamy)
 
 ![多瑙河畔的帕绍市，巴伐利亚，德国 (© Scott Wilson/Alamy)](https://cn.bing.com/th?id=OHR.PassauSunsetJune_ZH-CN7563956674_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![卡帕多西亚, 土耳其 (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.BalloonsTurkey_ZH-CN2791109350_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%8D%A1%E5%B8%95%E5%A4%9A%E8%A5%BF%E4%BA%9A&form=hpcapt&mkt=zh-cn)
-
-## 座头鲸 (© Philip Thurston/Getty Images)
-
-![座头鲸 (© Philip Thurston/Getty Images)](https://cn.bing.com/th?id=OHR.PlayfulHumpback_ZH-CN2241016258_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%BA%A7%E5%A4%B4%E9%B2%B8&form=hpcapt&mkt=zh-cn)
 
