@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 变形金刚：超能勇士崛起
-**Rating:** 6.3
+**Rating:** 6.2
 **Runtime:** 128分钟(中国大陆)
 **Country:** 美国
 **Director:** 小斯蒂芬·卡普尔
