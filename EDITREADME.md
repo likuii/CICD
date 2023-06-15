@@ -1,16 +1,5 @@
 # Douban Currently Playing Movies
 
-## 变形金刚：超能勇士崛起
-**Rating:** 6.2
-**Runtime:** 128分钟(中国大陆)
-**Country:** 美国
-**Director:** 小斯蒂芬·卡普尔
-**Cast:** 安东尼·拉莫斯 / 多米尼克·菲什巴克 / 彼特·库伦
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892024245.jpg" alt="变形金刚：超能勇士崛起">
-</div>
-
----
 ## 蜘蛛侠：纵横宇宙
 **Rating:** 8.6
 **Runtime:** 140分钟
@@ -19,6 +8,17 @@
 **Cast:** 沙梅克·摩尔 / 海莉·斯坦菲尔德 / 奥斯卡·伊萨克
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892315297.jpg" alt="蜘蛛侠：纵横宇宙">
+</div>
+
+---
+## 变形金刚：超能勇士崛起
+**Rating:** 6.2
+**Runtime:** 128分钟(中国大陆)
+**Country:** 美国
+**Director:** 小斯蒂芬·卡普尔
+**Cast:** 安东尼·拉莫斯 / 多米尼克·菲什巴克 / 彼特·库伦
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892024245.jpg" alt="变形金刚：超能勇士崛起">
 </div>
 
 ---
@@ -99,8 +99,19 @@
 </div>
 
 ---
+## 这么多年
+**Rating:** 6.5
+**Runtime:** 116分钟
+**Country:** 中国大陆
+**Director:** 季竹青
+**Cast:** 张新成 / 孙千 / 章若楠
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890952124.jpg" alt="这么多年">
+</div>
+
+---
 ## 检察风云
-**Rating:** 4.6
+**Rating:** 4.5
 **Runtime:** 112分钟
 **Country:** 中国大陆
 **Director:** 麦兆辉
@@ -143,6 +154,17 @@
 </div>
 
 ---
+## 请别相信她
+**Rating:** 6.6
+**Runtime:** 106分钟
+**Country:** 中国大陆
+**Director:** 杨沅翰
+**Cast:** 章若楠 / 吴昱翰 / 吴彦姝
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892285438.jpg" alt="请别相信她">
+</div>
+
+---
 ## 长沙夜生活
 **Rating:** 5.8
 **Runtime:** 106分钟
@@ -165,25 +187,14 @@
 </div>
 
 ---
-## 请别相信她
+## 余生那些年
 **Rating:** 6.6
-**Runtime:** 106分钟
-**Country:** 中国大陆
-**Director:** 杨沅翰
-**Cast:** 章若楠 / 吴昱翰 / 吴彦姝
+**Runtime:** 124分钟
+**Country:** 日本
+**Director:** 藤井道人
+**Cast:** 小松菜奈 / 坂口健太郎 / 山田裕贵
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892285438.jpg" alt="请别相信她">
-</div>
-
----
-## 这么多年
-**Rating:** 6.6
-**Runtime:** 116分钟
-**Country:** 中国大陆
-**Director:** 季竹青
-**Cast:** 张新成 / 孙千 / 章若楠
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890952124.jpg" alt="这么多年">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888332880.jpg" alt="余生那些年">
 </div>
 
 ---
@@ -198,17 +209,6 @@
 </div>
 
 ---
-## 余生那些年
-**Rating:** 6.6
-**Runtime:** 124分钟
-**Country:** 日本
-**Director:** 藤井道人
-**Cast:** 小松菜奈 / 坂口健太郎 / 山田裕贵
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888332880.jpg" alt="余生那些年">
-</div>
-
----
 ## 灌篮高手
 **Rating:** 8.9
 **Runtime:** 124分钟
@@ -217,6 +217,17 @@
 **Cast:** 仲村宗悟 / 笠间淳 / 木村昴
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888398295.jpg" alt="灌篮高手">
+</div>
+
+---
+## 川流不“熄”
+**Rating:** 7.7
+**Runtime:** 135分钟
+**Country:** 中国大陆
+**Director:** 冯钶予
+**Cast:** 杨新鸣 / 胡昌霖 / 涂松岩
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890954804.jpg" alt="川流不“熄”">
 </div>
 
 ---
@@ -242,17 +253,6 @@
 </div>
 
 ---
-## 川流不“熄”
-**Rating:** 7.7
-**Runtime:** 135分钟
-**Country:** 中国大陆
-**Director:** 冯钶予
-**Cast:** 杨新鸣 / 胡昌霖 / 涂松岩
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890954804.jpg" alt="川流不“熄”">
-</div>
-
----
 ## 铃芽之旅
 **Rating:** 7.3
 **Runtime:** 122分钟(中国大陆)
@@ -261,17 +261,6 @@
 **Cast:** 原菜乃华 / 松村北斗 / 深津绘里
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2887641712.jpg" alt="铃芽之旅">
-</div>
-
----
-## 超级马力欧兄弟大电影
-**Rating:** 7.9
-**Runtime:** 92分钟
-**Country:** 美国 日本
-**Director:** 亚伦·霍瓦斯 迈克尔·杰勒尼克
-**Cast:** 克里斯·帕拉特 / 安雅·泰勒-乔伊 / 查理·戴
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888584528.jpg" alt="超级马力欧兄弟大电影">
 </div>
 
 ---
@@ -297,14 +286,14 @@
 </div>
 
 ---
-## 乔治娅
-**Rating:** 0
-**Runtime:** 88分钟
-**Country:** 中国大陆
-**Director:** 乔美
-**Cast:** 乔治娅 / 王柠 / 陈齐
+## 超级马力欧兄弟大电影
+**Rating:** 7.9
+**Runtime:** 92分钟
+**Country:** 美国 日本
+**Director:** 亚伦·霍瓦斯 迈克尔·杰勒尼克
+**Cast:** 克里斯·帕拉特 / 安雅·泰勒-乔伊 / 查理·戴
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892637727.jpg" alt="乔治娅">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888584528.jpg" alt="超级马力欧兄弟大电影">
 </div>
 
 ---
@@ -319,17 +308,6 @@
 </div>
 
 ---
-## 新猪猪侠大电影·超级赛车
-**Rating:** 0
-**Runtime:** 85分钟
-**Country:** 中国大陆
-**Director:** 钟彧
-**Cast:** 陆双 / 石贝 / 张业川
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890529454.jpg" alt="新猪猪侠大电影·超级赛车">
-</div>
-
----
 ## 望道
 **Rating:** 5.9
 **Runtime:** 112分钟
@@ -338,6 +316,17 @@
 **Cast:** 刘烨 / 胡军 / 文咏珊
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2888374121.jpg" alt="望道">
+</div>
+
+---
+## 乔治娅
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 乔美
+**Cast:** 乔治娅 / 王柠 / 陈齐
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892637727.jpg" alt="乔治娅">
 </div>
 
 ---
@@ -360,6 +349,17 @@
 **Cast:** 李晔 / 罗玉婷 / 沈达威
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892767855.jpg" alt="巧虎奇幻舞台历险记">
+</div>
+
+---
+## 新猪猪侠大电影·超级赛车
+**Rating:** 0
+**Runtime:** 85分钟
+**Country:** 中国大陆
+**Director:** 钟彧
+**Cast:** 陆双 / 石贝 / 张业川
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890529454.jpg" alt="新猪猪侠大电影·超级赛车">
 </div>
 
 ---
@@ -440,14 +440,14 @@
 </div>
 
 ---
-## 直线偏执狂
-**Rating:** 8.2
-**Runtime:** 
+## 少年派的奇幻漂流
+**Rating:** 0
+**Runtime:** 150分钟
 **Country:** 英国
-**Director:** 尼古拉斯·希特纳
-**Cast:** 拉尔夫·费因斯 / 塞缪尔·巴奈特
+**Director:** Max Webster
+**Cast:** Hiran Abeysekara / 米娜·安瓦尔 / Raj Ghatak
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2881818938.jpg" alt="直线偏执狂">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890310318.jpg" alt="少年派的奇幻漂流">
 </div>
 
 ---
@@ -462,14 +462,14 @@
 </div>
 
 ---
-## 少年派的奇幻漂流
-**Rating:** 0
-**Runtime:** 150分钟
+## 直线偏执狂
+**Rating:** 8.2
+**Runtime:** 
 **Country:** 英国
-**Director:** Max Webster
-**Cast:** Hiran Abeysekara / 米娜·安瓦尔 / Raj Ghatak
+**Director:** 尼古拉斯·希特纳
+**Cast:** 拉尔夫·费因斯 / 塞缪尔·巴奈特
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890310318.jpg" alt="少年派的奇幻漂流">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2881818938.jpg" alt="直线偏执狂">
 </div>
 
 ---
@@ -484,17 +484,6 @@
 </div>
 
 ---
-## 万事皆可
-**Rating:** 8.1
-**Runtime:** 137分钟
-**Country:** 英国
-**Director:** 凯瑟琳·马歇尔 Kathleen Marshall
-**Cast:** 萨顿·福斯特 / Robert Lindsay
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2869324515.jpg" alt="万事皆可">
-</div>
-
----
 ## 萨勒姆的女巫
 **Rating:** 0
 **Runtime:** 
@@ -503,6 +492,17 @@
 **Cast:** David Ahmad / 费塞友·阿金那德 / Zoë Aldrich
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890310684.jpg" alt="萨勒姆的女巫">
+</div>
+
+---
+## 万事皆可
+**Rating:** 8.1
+**Runtime:** 137分钟
+**Country:** 英国
+**Director:** 凯瑟琳·马歇尔 Kathleen Marshall
+**Cast:** 萨顿·福斯特 / Robert Lindsay
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2869324515.jpg" alt="万事皆可">
 </div>
 
 ---
