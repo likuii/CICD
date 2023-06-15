@@ -550,94 +550,6 @@
 </div>
 
 ---
-## 闪电侠
-**Rating:** 0
-**Runtime:** 144分钟
-**Country:** 美国
-**Director:** 安德斯·穆斯切蒂
-**Cast:** 埃兹拉·米勒 / 本·阿弗莱克 / 迈克尔·基顿
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892365111.jpg" alt="闪电侠">
-</div>
-
----
-## 疯狂元素城
-**Rating:** 0
-**Runtime:** 102分钟
-**Country:** 美国
-**Director:** 彼得·孙
-**Cast:** 莉娅·刘易斯 / 马莫多·阿西 / 罗纳尔多·德尔·卡门
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891542432.jpg" alt="疯狂元素城">
-</div>
-
----
-## 街娃儿
-**Rating:** 0
-**Runtime:** 96分钟
-**Country:** 中国大陆
-**Director:** 那嘉佐
-**Cast:** 李九霄 / 黄米依 / 余皑磊
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893318625.jpg" alt="街娃儿">
-</div>
-
----
-## 表白吧！在毕业前
-**Rating:** 0
-**Runtime:** 92分钟
-**Country:** 中国大陆
-**Director:** 宋晓文
-**Cast:** 曾柯琅 / 柴烨 / 韩雨成
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893230323.jpg" alt="表白吧！在毕业前">
-</div>
-
----
-## 追你而来
-**Rating:** 0
-**Runtime:** 89分钟
-**Country:** 中国大陆
-**Director:** 杨议
-**Cast:** 樊少皇 / 罗米 / 丁海峰
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890615565.jpg" alt="追你而来">
-</div>
-
----
-## 诗和远方的聚会
-**Rating:** 0
-**Runtime:** 98分钟
-**Country:** 中国大陆
-**Director:** 秦加飞
-**Cast:** 杨磊 / 沈诗雨 / 刘凯
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891042003.jpg" alt="诗和远方的聚会">
-</div>
-
----
-## 午夜迷途
-**Rating:** 0
-**Runtime:** 74分钟
-**Country:** 中国大陆
-**Director:** 张若以
-**Cast:** 单思杰 / 廖越 / 郭万超
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892799691.jpg" alt="午夜迷途">
-</div>
-
----
-## 爸爸，我懂你了
-**Rating:** 0
-**Runtime:** 102分钟
-**Country:** 中国大陆
-**Director:** 王凯阳
-**Cast:** 范明 / 李倩 / 于慧
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892370191.jpg" alt="爸爸，我懂你了">
-</div>
-
----
 ## 进球吧！少年
 **Rating:** 0
 **Runtime:** 103分钟
@@ -657,6 +569,94 @@
 **Cast:** 陈长海 / 陈勇 / 李杨
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892959829.jpg" alt="清风的味道">
+</div>
+
+---
+## 我爱你！
+**Rating:** 0
+**Runtime:** 116分钟
+**Country:** 中国大陆 中国香港
+**Director:** 韩延
+**Cast:** 倪大红 / 惠英红 / 梁家辉
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888042597.jpg" alt="我爱你！">
+</div>
+
+---
+## 别叫我“赌神”
+**Rating:** 0
+**Runtime:** 99分钟
+**Country:** 中国香港 中国大陆
+**Director:** 潘耀明
+**Cast:** 周润发 / 袁咏仪 / 方中信
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892073602.jpg" alt="别叫我“赌神”">
+</div>
+
+---
+## 消失的她
+**Rating:** 0
+**Runtime:** 121 分钟
+**Country:** 中国大陆
+**Director:** 崔睿 刘翔
+**Cast:** 朱一龙 / 倪妮 / 文咏珊
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2887544444.jpg" alt="消失的她">
+</div>
+
+---
+## 飞兔大联盟
+**Rating:** 0
+**Runtime:** 92分钟
+**Country:** 比利时 法国
+**Director:** 本杰明·莫斯奎特 本·斯塔森
+**Cast:** 乔丹·塔尔塔科夫 / 莱拉·贝尔津什 / 乔·奥克曼
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893307178.jpg" alt="飞兔大联盟">
+</div>
+
+---
+## 疯狂小世界
+**Rating:** 0
+**Runtime:** 
+**Country:** 美国
+**Director:** 高国峰 王森
+**Cast:** 苏倩云 / 张艺雯 / 张成杰
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890182713.jpg" alt="疯狂小世界">
+</div>
+
+---
+## 憨兔的奇幻之旅
+**Rating:** 0
+**Runtime:** 
+**Country:** 中国大陆
+**Director:** 刘晓光
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892643119.jpg" alt="憨兔的奇幻之旅">
+</div>
+
+---
+## 夺宝奇兵5：命运转盘
+**Rating:** 0
+**Runtime:** 143分钟
+**Country:** 美国
+**Director:** 詹姆斯·曼高德
+**Cast:** 哈里森·福特 / 菲比·沃勒-布里奇 / 麦斯·米科尔森
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892683049.jpg" alt="夺宝奇兵5：命运转盘">
+</div>
+
+---
+## 透明侠侣
+**Rating:** 0
+**Runtime:** 
+**Country:** 中国大陆
+**Director:** 章笛沙
+**Cast:** 史策 / 王皓 / 孙天宇
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2889182702.jpg" alt="透明侠侣">
 </div>
 
 ---

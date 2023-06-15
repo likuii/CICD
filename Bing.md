@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 游泳的鹰嘴海龟， 冲绳，日本 (© Robert Mallon/Getty Images)
+
+![游泳的鹰嘴海龟， 冲绳，日本 (© Robert Mallon/Getty Images)](https://cn.bing.com/th?id=OHR.HawksbillTurtle_ZH-CN0562063994_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E9%B9%B0%E5%98%B4%E6%B5%B7%E9%BE%9F&form=hpcapt&mkt=zh-cn)
+
 ## 同步萤火虫，大烟山国家公园，田纳西州，美国 (© Floris Van Bruegel/Minden Pictures)
 
 ![同步萤火虫，大烟山国家公园，田纳西州，美国 (© Floris Van Bruegel/Minden Pictures)](https://cn.bing.com/th?id=OHR.SmokyFireflies_ZH-CN3840923626_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![波尔图大教堂, 葡萄牙 (© Reinhard Schmid/Huber/eStock Photo)](https://cn.bing.com/th?id=OHR.PortugalDay_ZH-CN2939429166_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E6%B3%A2%E5%B0%94%E5%9B%BE%E5%A4%A7%E6%95%99%E5%A0%82&form=hpcapt&mkt=zh-cn)
-
-## 卡帕多西亚, 土耳其 (© Anton Petrus/Getty Images)
-
-![卡帕多西亚, 土耳其 (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.BalloonsTurkey_ZH-CN2791109350_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%8D%A1%E5%B8%95%E5%A4%9A%E8%A5%BF%E4%BA%9A&form=hpcapt&mkt=zh-cn)
 
