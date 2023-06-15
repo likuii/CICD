@@ -579,7 +579,7 @@
 **Director:** 宋晓文
 **Cast:** 曾柯琅 / 柴烨 / 韩雨成
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892410390.jpg" alt="表白吧！在毕业前">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893230323.jpg" alt="表白吧！在毕业前">
 </div>
 
 ---
