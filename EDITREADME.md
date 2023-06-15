@@ -568,7 +568,7 @@
 **Director:** 那嘉佐
 **Cast:** 李九霄 / 黄米依 / 余皑磊
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892156771.jpg" alt="街娃儿">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893318625.jpg" alt="街娃儿">
 </div>
 
 ---
