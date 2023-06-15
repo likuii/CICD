@@ -594,17 +594,6 @@
 </div>
 
 ---
-## 二手搭档
-**Rating:** 0
-**Runtime:** 
-**Country:** 中国大陆
-**Director:** 王莉
-**Cast:** 张子贤 / 李晓峰 / 柯达
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891858239.jpg" alt="二手搭档">
-</div>
-
----
 ## 诗和远方的聚会
 **Rating:** 0
 **Runtime:** 98分钟
@@ -646,6 +635,17 @@
 **Cast:** 埃里克·坎通纳 / 蒋雯丽 / 陈百祥
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893192712.jpg" alt="进球吧！少年">
+</div>
+
+---
+## 清风的味道
+**Rating:** 0
+**Runtime:** 87分钟
+**Country:** 中国大陆
+**Director:** 杨堃
+**Cast:** 陈长海 / 陈勇 / 李杨
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892959829.jpg" alt="清风的味道">
 </div>
 
 ---
