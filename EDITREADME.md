@@ -22,17 +22,6 @@
 </div>
 
 ---
-## 进球吧！少年
-**Rating:** 0
-**Runtime:** 103分钟
-**Country:** 中国大陆
-**Director:** Steve Weiz
-**Cast:** 埃里克·坎通纳 / 蒋雯丽 / 陈百祥
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893192712.jpg" alt="进球吧！少年">
-</div>
-
----
 ## 变形金刚：超能勇士崛起
 **Rating:** 6.2
 **Runtime:** 128分钟(中国大陆)
@@ -118,6 +107,17 @@
 **Cast:** 乔杉 / 范丞丞 / 马丽
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2889864501.jpg" alt="人生路不熟">
+</div>
+
+---
+## 进球吧！少年
+**Rating:** 0
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** Steve Weiz
+**Cast:** 埃里克·坎通纳 / 蒋雯丽 / 陈百祥
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893192712.jpg" alt="进球吧！少年">
 </div>
 
 ---
