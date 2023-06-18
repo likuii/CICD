@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 奔跑在诺曼底草地上的小狍，法国 (© Gerard Lacz/Minden)
+
+![奔跑在诺曼底草地上的小狍，法国 (© Gerard Lacz/Minden)](https://cn.bing.com/th?id=OHR.Fawn_ZH-CN2172152960_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E7%8B%8D&form=hpcapt&mkt=zh-cn)
+
 ## 普通燕鸥父亲和宝宝，长岛，纽约州，美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)
 
 ![普通燕鸥父亲和宝宝，长岛，纽约州，美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TernFather_ZH-CN1860589914_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![奥克弗诺基沼泽木板路上的西班牙苔藓，佐治亚州，美国 (© Emmer Photo/Alamy)](https://cn.bing.com/th?id=OHR.OkefenokeeSwamp_ZH-CN3640203783_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%A5%A5%E5%85%8B%E5%BC%97%E8%AF%BA%E5%9F%BA%E6%B2%BC%E6%B3%BD&form=hpcapt&mkt=zh-cn)
-
-## 仙人掌植物，得克萨斯州大弯国家公园，美国 (© Tim Fitzharris/Minden Pictures)
-
-![仙人掌植物，得克萨斯州大弯国家公园，美国 (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.BigBendAnniv_ZH-CN3445097868_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%A4%A7%E5%BC%AF%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%EF%BC%8C%E5%BE%97%E5%85%8B%E8%90%A8%E6%96%AF%E5%B7%9E&form=hpcapt&mkt=zh-cn)
 
