@@ -529,7 +529,7 @@
 
 ---
 ## 浮士德博士的悲剧
-**Rating:** 8.4
+**Rating:** 8.3
 **Runtime:** 147分钟
 **Country:** 英国
 **Director:** Matthew Dunster
