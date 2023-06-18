@@ -12,7 +12,7 @@
 
 ---
 ## 疯狂元素城
-**Rating:** 7.5
+**Rating:** 7.4
 **Runtime:** 102分钟
 **Country:** 美国
 **Director:** 彼得·孙
@@ -529,7 +529,7 @@
 
 ---
 ## 尘埃之书：野美人号
-**Rating:** 8
+**Rating:** 8.1
 **Runtime:** 164分钟
 **Country:** 英国
 **Director:** 尼古拉斯·希特纳
