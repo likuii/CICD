@@ -594,6 +594,17 @@
 </div>
 
 ---
+## 飞鱼秀
+**Rating:** 8.4
+**Runtime:** 78分钟
+**Country:** 中国大陆
+**Director:** 孙虹
+**Cast:** 小飞 / 喻舟
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2205718282.jpg" alt="飞鱼秀">
+</div>
+
+---
 ## 我爱你！
 **Rating:** 0
 **Runtime:** 116分钟
