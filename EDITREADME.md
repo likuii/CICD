@@ -70,7 +70,7 @@
 **Rating:** 0
 **Runtime:** 103分钟
 **Country:** 中国大陆
-**Director:** Steve Weiz
+**Director:** 史蒂夫·威兹
 **Cast:** 埃里克·坎通纳 / 蒋雯丽 / 陈百祥
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893192712.jpg" alt="进球吧！少年">
