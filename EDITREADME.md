@@ -618,7 +618,7 @@
 ---
 ## 透明侠侣
 **Rating:** 0
-**Runtime:** 
+**Runtime:** 99分钟
 **Country:** 中国大陆
 **Director:** 章笛沙
 **Cast:** 史策 / 王皓 / 孙天宇
