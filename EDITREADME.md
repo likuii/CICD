@@ -12,7 +12,7 @@
 
 ---
 ## 疯狂元素城
-**Rating:** 7.3
+**Rating:** 7.4
 **Runtime:** 102分钟
 **Country:** 美国
 **Director:** 彼得·孙
