@@ -66,6 +66,17 @@
 </div>
 
 ---
+## 极寒之城
+**Rating:** 6.8
+**Runtime:** 120分钟
+**Country:** 中国大陆
+**Director:** 杨枫
+**Cast:** 夏雨 / 李立群 / 谭凯
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892959059.jpg" alt="极寒之城">
+</div>
+
+---
 ## 进球吧！少年
 **Rating:** 0
 **Runtime:** 103分钟
@@ -85,17 +96,6 @@
 **Cast:** 李九霄 / 黄米依 / 余皑磊
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893318625.jpg" alt="街娃儿">
-</div>
-
----
-## 极寒之城
-**Rating:** 6.8
-**Runtime:** 120分钟
-**Country:** 中国大陆
-**Director:** 杨枫
-**Cast:** 夏雨 / 李立群 / 谭凯
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892959059.jpg" alt="极寒之城">
 </div>
 
 ---
@@ -121,17 +121,6 @@
 </div>
 
 ---
-## 长空之王
-**Rating:** 6.6
-**Runtime:** 127分钟
-**Country:** 中国大陆
-**Director:** 刘晓世
-**Cast:** 王一博 / 胡军 / 周冬雨
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889598060.jpg" alt="长空之王">
-</div>
-
----
 ## 银河护卫队3
 **Rating:** 8.5
 **Runtime:** 150分钟
@@ -140,6 +129,17 @@
 **Cast:** 克里斯·帕拉特 / 佐伊·索尔达娜 / 戴夫·巴蒂斯塔
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889358680.jpg" alt="银河护卫队3">
+</div>
+
+---
+## 长空之王
+**Rating:** 6.6
+**Runtime:** 127分钟
+**Country:** 中国大陆
+**Director:** 刘晓世
+**Cast:** 王一博 / 胡军 / 周冬雨
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889598060.jpg" alt="长空之王">
 </div>
 
 ---
@@ -154,17 +154,6 @@
 </div>
 
 ---
-## 哆啦A梦：大雄与天空的理想乡
-**Rating:** 7.2
-**Runtime:** 107分钟
-**Country:** 日本
-**Director:** 堂山卓见 
-**Cast:** 水田山葵 / 大原惠美 / 嘉数由美
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891257290.jpg" alt="哆啦A梦：大雄与天空的理想乡">
-</div>
-
----
 ## 温柔壳
 **Rating:** 7.4
 **Runtime:** 104分钟
@@ -173,6 +162,17 @@
 **Cast:** 王子文 / 尹昉 / 咏梅
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892635176.jpg" alt="温柔壳">
+</div>
+
+---
+## 哆啦A梦：大雄与天空的理想乡
+**Rating:** 7.2
+**Runtime:** 107分钟
+**Country:** 日本
+**Director:** 堂山卓见 
+**Cast:** 水田山葵 / 大原惠美 / 嘉数由美
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891257290.jpg" alt="哆啦A梦：大雄与天空的理想乡">
 </div>
 
 ---
@@ -198,17 +198,6 @@
 </div>
 
 ---
-## 检察风云
-**Rating:** 4.5
-**Runtime:** 112分钟
-**Country:** 中国大陆
-**Director:** 麦兆辉
-**Cast:** 黄景瑜 / 白百何 / 王丽坤
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890643247.jpg" alt="检察风云">
-</div>
-
----
 ## 造梦之家
 **Rating:** 7.4
 **Runtime:** 151分钟
@@ -217,6 +206,17 @@
 **Cast:** 米歇尔·威廉姆斯 / 保罗·达诺 / 塞斯·罗根
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892195504.jpg" alt="造梦之家">
+</div>
+
+---
+## 检察风云
+**Rating:** 4.5
+**Runtime:** 112分钟
+**Country:** 中国大陆
+**Director:** 麦兆辉
+**Cast:** 黄景瑜 / 白百何 / 王丽坤
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890643247.jpg" alt="检察风云">
 </div>
 
 ---
@@ -275,17 +275,6 @@
 </div>
 
 ---
-## 灌篮高手
-**Rating:** 8.9
-**Runtime:** 124分钟
-**Country:** 日本
-**Director:** 井上雄彦
-**Cast:** 仲村宗悟 / 笠间淳 / 木村昴
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888398295.jpg" alt="灌篮高手">
-</div>
-
----
 ## 铃芽之旅
 **Rating:** 7.3
 **Runtime:** 122分钟(中国大陆)
@@ -297,25 +286,14 @@
 </div>
 
 ---
-## 爸爸，我懂你了
-**Rating:** 0
-**Runtime:** 102分钟
-**Country:** 中国大陆
-**Director:** 王凯阳
-**Cast:** 范明 / 李倩 / 于慧
+## 灌篮高手
+**Rating:** 8.9
+**Runtime:** 124分钟
+**Country:** 日本
+**Director:** 井上雄彦
+**Cast:** 仲村宗悟 / 笠间淳 / 木村昴
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892370191.jpg" alt="爸爸，我懂你了">
-</div>
-
----
-## 超级马力欧兄弟大电影
-**Rating:** 7.9
-**Runtime:** 92分钟
-**Country:** 美国 日本
-**Director:** 亚伦·霍瓦斯 迈克尔·杰勒尼克
-**Cast:** 克里斯·帕拉特 / 安雅·泰勒-乔伊 / 查理·戴
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888584528.jpg" alt="超级马力欧兄弟大电影">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888398295.jpg" alt="灌篮高手">
 </div>
 
 ---
@@ -330,14 +308,14 @@
 </div>
 
 ---
-## 煞面迷影
+## 爸爸，我懂你了
 **Rating:** 0
-**Runtime:** 90分钟
+**Runtime:** 102分钟
 **Country:** 中国大陆
-**Director:** 张伟瑚
-**Cast:** 周育竹 / 侯旭 / 雷承昆
+**Director:** 王凯阳
+**Cast:** 范明 / 李倩 / 于慧
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890009747.jpg" alt="煞面迷影">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892370191.jpg" alt="爸爸，我懂你了">
 </div>
 
 ---
@@ -352,25 +330,25 @@
 </div>
 
 ---
-## 巧虎奇幻舞台历险记
+## 煞面迷影
 **Rating:** 0
-**Runtime:** 75分钟
+**Runtime:** 90分钟
 **Country:** 中国大陆
-**Director:** 河村友宏
-**Cast:** 李晔 / 罗玉婷 / 沈达威
+**Director:** 张伟瑚
+**Cast:** 周育竹 / 侯旭 / 雷承昆
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892767855.jpg" alt="巧虎奇幻舞台历险记">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890009747.jpg" alt="煞面迷影">
 </div>
 
 ---
-## 宇宙护卫队：风暴力量
-**Rating:** 0
-**Runtime:** 94分钟
-**Country:** 中国大陆
-**Director:** 刘彭
-**Cast:** 李靖 / 刘妤姻子 / 刘蕊
+## 超级马力欧兄弟大电影
+**Rating:** 7.9
+**Runtime:** 92分钟
+**Country:** 美国 日本
+**Director:** 亚伦·霍瓦斯 迈克尔·杰勒尼克
+**Cast:** 克里斯·帕拉特 / 安雅·泰勒-乔伊 / 查理·戴
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890770674.jpg" alt="宇宙护卫队：风暴力量">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888584528.jpg" alt="超级马力欧兄弟大电影">
 </div>
 
 ---
@@ -385,6 +363,28 @@
 </div>
 
 ---
+## 望道
+**Rating:** 5.9
+**Runtime:** 112分钟
+**Country:** 中国大陆
+**Director:** 侯咏
+**Cast:** 刘烨 / 胡军 / 文咏珊
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2888374121.jpg" alt="望道">
+</div>
+
+---
+## 宇宙护卫队：风暴力量
+**Rating:** 0
+**Runtime:** 94分钟
+**Country:** 中国大陆
+**Director:** 刘彭
+**Cast:** 李靖 / 刘妤姻子 / 刘蕊
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890770674.jpg" alt="宇宙护卫队：风暴力量">
+</div>
+
+---
 ## 战俘拳王
 **Rating:** 7.1
 **Runtime:** 92分钟
@@ -393,6 +393,17 @@
 **Cast:** 彼得·格洛瓦茨基 / Jan Szydlowski / 格热戈日·马莱基
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892332243.jpg" alt="战俘拳王">
+</div>
+
+---
+## 巧虎奇幻舞台历险记
+**Rating:** 0
+**Runtime:** 75分钟
+**Country:** 中国大陆
+**Director:** 河村友宏
+**Cast:** 李晔 / 罗玉婷 / 沈达威
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892767855.jpg" alt="巧虎奇幻舞台历险记">
 </div>
 
 ---
@@ -407,17 +418,6 @@
 </div>
 
 ---
-## 望道
-**Rating:** 5.9
-**Runtime:** 112分钟
-**Country:** 中国大陆
-**Director:** 侯咏
-**Cast:** 刘烨 / 胡军 / 文咏珊
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2888374121.jpg" alt="望道">
-</div>
-
----
 ## 京门烽火
 **Rating:** 0
 **Runtime:** 
@@ -426,17 +426,6 @@
 **Cast:** 郭艳 / 赵亦骥 / 马国飞
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893079411.jpg" alt="京门烽火">
-</div>
-
----
-## 一路幸福
-**Rating:** 0
-**Runtime:** 95分钟
-**Country:** 中国大陆
-**Director:** 李谊 周婧 黄跃
-**Cast:** 
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892469147.jpg" alt="一路幸福">
 </div>
 
 ---
@@ -451,14 +440,14 @@
 </div>
 
 ---
-## 南太平洋之旅
-**Rating:** 8.3
-**Runtime:** 40分钟
-**Country:** 美国
-**Director:** 格雷戈·迈吉里弗雷 Stephen Judson
-**Cast:** 凯特·布兰切特 / Ferdiel Ballamu / Menas Mambasar
+## 一路幸福
+**Rating:** 0
+**Runtime:** 95分钟
+**Country:** 中国大陆
+**Director:** 李谊 周婧 黄跃
+**Cast:** 
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155676070.jpg" alt="南太平洋之旅">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892469147.jpg" alt="一路幸福">
 </div>
 
 ---
@@ -470,6 +459,17 @@
 **Cast:** 卢奇 / 苗苗 / 释小龙
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2873935641.jpg" alt="周永开">
+</div>
+
+---
+## 南太平洋之旅
+**Rating:** 8.3
+**Runtime:** 40分钟
+**Country:** 美国
+**Director:** 格雷戈·迈吉里弗雷 Stephen Judson
+**Cast:** 凯特·布兰切特 / Ferdiel Ballamu / Menas Mambasar
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155676070.jpg" alt="南太平洋之旅">
 </div>
 
 ---
