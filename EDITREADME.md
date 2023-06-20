@@ -484,6 +484,17 @@
 </div>
 
 ---
+## 大熊雨林
+**Rating:** 8.6
+**Runtime:** 41分钟
+**Country:** 加拿大
+**Director:** Ian McAllister
+**Cast:** 瑞安·雷诺兹
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554383112.jpg" alt="大熊雨林">
+</div>
+
+---
 ## 我爱你！
 **Rating:** 0
 **Runtime:** 116分钟
