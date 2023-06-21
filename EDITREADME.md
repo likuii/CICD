@@ -474,7 +474,7 @@
 
 ---
 ## 大熊雨林
-**Rating:** 8.6
+**Rating:** 8.7
 **Runtime:** 41分钟
 **Country:** 加拿大
 **Director:** Ian McAllister
