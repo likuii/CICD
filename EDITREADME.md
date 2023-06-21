@@ -513,7 +513,7 @@
 **Director:** 崔睿 刘翔
 **Cast:** 朱一龙 / 倪妮 / 文咏珊
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2887544444.jpg" alt="消失的她">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893270877.jpg" alt="消失的她">
 </div>
 
 ---
