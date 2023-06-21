@@ -1,16 +1,5 @@
 # Douban Currently Playing Movies
 
-## 闪电侠
-**Rating:** 7.9
-**Runtime:** 144分钟
-**Country:** 美国
-**Director:** 安德斯·穆斯切蒂
-**Cast:** 埃兹拉·米勒 / 本·阿弗莱克 / 迈克尔·基顿
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892365111.jpg" alt="闪电侠">
-</div>
-
----
 ## 疯狂元素城
 **Rating:** 7.3
 **Runtime:** 102分钟
@@ -19,17 +8,6 @@
 **Cast:** 莉娅·刘易斯 / 马莫多·阿西 / 罗纳尔多·德尔·卡门
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891542432.jpg" alt="疯狂元素城">
-</div>
-
----
-## 别叫我“赌神”
-**Rating:** 0
-**Runtime:** 114分钟
-**Country:** 中国香港 中国大陆
-**Director:** 潘耀明
-**Cast:** 周润发 / 袁咏仪 / 柯炜林
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892073602.jpg" alt="别叫我“赌神”">
 </div>
 
 ---
@@ -66,28 +44,6 @@
 </div>
 
 ---
-## 万湖会议
-**Rating:** 8.1
-**Runtime:** 108分钟
-**Country:** 德国
-**Director:** 马蒂·格肖内克
-**Cast:** 菲利普·霍奇迈尔 / 约翰尼斯·艾麦亚 / 马克西米连·布鲁克纳
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892500011.jpg" alt="万湖会议">
-</div>
-
----
-## 速度与激情10
-**Rating:** 6.3
-**Runtime:** 140分钟
-**Country:** 美国
-**Director:** 路易斯·莱特里尔
-**Cast:** 范·迪塞尔 / 米歇尔·罗德里格兹 / 杰森·莫玛
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890967604.jpg" alt="速度与激情10">
-</div>
-
----
 ## 极寒之城
 **Rating:** 6.8
 **Runtime:** 120分钟
@@ -110,28 +66,6 @@
 </div>
 
 ---
-## 街娃儿
-**Rating:** 6.4
-**Runtime:** 96分钟
-**Country:** 中国大陆
-**Director:** 那嘉佐
-**Cast:** 李九霄 / 黄米依 / 余皑磊
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893318625.jpg" alt="街娃儿">
-</div>
-
----
-## 你猜我是不是英雄！
-**Rating:** 0
-**Runtime:** 89分钟
-**Country:** 中国大陆
-**Director:** 张凯
-**Cast:** 于洋 / 修睿 / 贾冰
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2674255735.jpg" alt="你猜我是不是英雄！">
-</div>
-
----
 ## 这么多年
 **Rating:** 6.4
 **Runtime:** 116分钟
@@ -140,17 +74,6 @@
 **Cast:** 张新成 / 孙千 / 刘丹
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890952124.jpg" alt="这么多年">
-</div>
-
----
-## 银河护卫队3
-**Rating:** 8.5
-**Runtime:** 150分钟
-**Country:** 美国
-**Director:** 詹姆斯·古恩
-**Cast:** 克里斯·帕拉特 / 佐伊·索尔达娜 / 戴夫·巴蒂斯塔
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889358680.jpg" alt="银河护卫队3">
 </div>
 
 ---
@@ -209,17 +132,6 @@
 </div>
 
 ---
-## 造梦之家
-**Rating:** 7.4
-**Runtime:** 151分钟
-**Country:** 美国
-**Director:** 史蒂文·斯皮尔伯格
-**Cast:** 米歇尔·威廉姆斯 / 保罗·达诺 / 塞斯·罗根
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892195504.jpg" alt="造梦之家">
-</div>
-
----
 ## 表白吧！在毕业前
 **Rating:** 0
 **Runtime:** 92分钟
@@ -231,17 +143,6 @@
 </div>
 
 ---
-## 检察风云
-**Rating:** 4.5
-**Runtime:** 112分钟
-**Country:** 中国大陆
-**Director:** 麦兆辉
-**Cast:** 黄景瑜 / 白百何 / 王丽坤
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890643247.jpg" alt="检察风云">
-</div>
-
----
 ## 刀剑神域进击篇：暮色黄昏
 **Rating:** 6.5
 **Runtime:** 101分钟
@@ -250,39 +151,6 @@
 **Cast:** 松冈祯丞 / 户松遥 / 井泽诗织
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892365943.jpg" alt="刀剑神域进击篇：暮色黄昏">
-</div>
-
----
-## 余生那些年
-**Rating:** 6.6
-**Runtime:** 124分钟
-**Country:** 日本
-**Director:** 藤井道人
-**Cast:** 小松菜奈 / 坂口健太郎 / 山田裕贵
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888332880.jpg" alt="余生那些年">
-</div>
-
----
-## 天空之城
-**Rating:** 9.2
-**Runtime:** 125分钟
-**Country:** 日本
-**Director:** 宫崎骏
-**Cast:** 田中真弓 / 横泽启子 / 初井言荣
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892380420.jpg" alt="天空之城">
-</div>
-
----
-## 午夜迷途
-**Rating:** 0
-**Runtime:** 74分钟
-**Country:** 中国大陆
-**Director:** 张若以
-**Cast:** 单思杰 / 廖越 / 郭万超
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892799691.jpg" alt="午夜迷途">
 </div>
 
 ---
@@ -319,28 +187,6 @@
 </div>
 
 ---
-## 北京2022
-**Rating:** 0
-**Runtime:** 103分钟
-**Country:** 中国大陆
-**Director:** 陆川
-**Cast:** 武大靖 / 任子威 / 苏翊鸣
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891832226.jpg" alt="北京2022">
-</div>
-
----
-## 凌晨两点半2
-**Rating:** 0
-**Runtime:** 92分钟
-**Country:** 中国大陆
-**Director:** 王赛
-**Cast:** 彭剑雄 / 张露文 / 王尊
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891656459.jpg" alt="凌晨两点半2">
-</div>
-
----
 ## 煞面迷影
 **Rating:** 0
 **Runtime:** 90分钟
@@ -352,47 +198,14 @@
 </div>
 
 ---
-## 爸爸，我懂你了
+## 诗和远方的聚会
 **Rating:** 0
-**Runtime:** 102分钟
+**Runtime:** 98分钟
 **Country:** 中国大陆
-**Director:** 王凯阳
-**Cast:** 范明 / 李倩 / 于慧
+**Director:** 秦加飞
+**Cast:** 杨磊 / 沈诗雨 / 刘凯
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892370191.jpg" alt="爸爸，我懂你了">
-</div>
-
----
-## 超级马力欧兄弟大电影
-**Rating:** 7.9
-**Runtime:** 92分钟
-**Country:** 美国 日本
-**Director:** 亚伦·霍瓦斯 迈克尔·杰勒尼克
-**Cast:** 克里斯·帕拉特 / 安雅·泰勒-乔伊 / 查理·戴
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888584528.jpg" alt="超级马力欧兄弟大电影">
-</div>
-
----
-## 不孤岛
-**Rating:** 0
-**Runtime:** 83分钟
-**Country:** 中国大陆
-**Director:** 曹金玲
-**Cast:** 田哉妹 / 宋新文 / 吕梦圆
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891266922.jpg" alt="不孤岛">
-</div>
-
----
-## 望道
-**Rating:** 5.9
-**Runtime:** 112分钟
-**Country:** 中国大陆
-**Director:** 侯咏
-**Cast:** 刘烨 / 胡军 / 文咏珊
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2888374121.jpg" alt="望道">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891042003.jpg" alt="诗和远方的聚会">
 </div>
 
 ---
@@ -404,94 +217,6 @@
 **Cast:** 李晔 / 罗玉婷 / 沈达威
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892767855.jpg" alt="巧虎奇幻舞台历险记">
-</div>
-
----
-## 战俘拳王
-**Rating:** 7.1
-**Runtime:** 92分钟
-**Country:** 波兰
-**Director:** 马西耶·巴尔切夫斯基
-**Cast:** 彼得·格洛瓦茨基 / Jan Szydlowski / 格热戈日·马莱基
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892332243.jpg" alt="战俘拳王">
-</div>
-
----
-## 新猪猪侠大电影·超级赛车
-**Rating:** 0
-**Runtime:** 85分钟
-**Country:** 中国大陆
-**Director:** 钟彧
-**Cast:** 陆双 / 石贝 / 张业川
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890529454.jpg" alt="新猪猪侠大电影·超级赛车">
-</div>
-
----
-## 宇宙护卫队：风暴力量
-**Rating:** 0
-**Runtime:** 94分钟
-**Country:** 中国大陆
-**Director:** 刘彭
-**Cast:** 李靖 / 刘妤姻子 / 刘蕊
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890770674.jpg" alt="宇宙护卫队：风暴力量">
-</div>
-
----
-## 京门烽火
-**Rating:** 0
-**Runtime:** 
-**Country:** 中国大陆
-**Director:** 刘子铭
-**Cast:** 郭艳 / 赵亦骥 / 马国飞
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893079411.jpg" alt="京门烽火">
-</div>
-
----
-## 一路幸福
-**Rating:** 0
-**Runtime:** 95分钟
-**Country:** 中国大陆
-**Director:** 李谊 周婧 黄跃
-**Cast:** 
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892469147.jpg" alt="一路幸福">
-</div>
-
----
-## 井冈星火
-**Rating:** 0
-**Runtime:** 92分钟
-**Country:** 中国大陆
-**Director:** 周耀杰
-**Cast:** 郭广平 / 赵凯 / 杨雪儿
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890340118.jpg" alt="井冈星火">
-</div>
-
----
-## 周恩来与乌兰牧骑
-**Rating:** 0
-**Runtime:** 110分钟
-**Country:** 中国大陆
-**Director:** 孙海波
-**Cast:** 刘劲 / 刘佩琦 / 刘欣
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2872831588.jpg" alt="周恩来与乌兰牧骑">
-</div>
-
----
-## 大熊雨林
-**Rating:** 8.7
-**Runtime:** 41分钟
-**Country:** 加拿大
-**Director:** Ian McAllister
-**Cast:** 瑞安·雷诺兹
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554383112.jpg" alt="大熊雨林">
 </div>
 
 ---
