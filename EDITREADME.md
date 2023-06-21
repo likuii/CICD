@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 闪电侠
-**Rating:** 8
+**Rating:** 7.9
 **Runtime:** 144分钟
 **Country:** 美国
 **Director:** 安德斯·穆斯切蒂
@@ -495,72 +495,6 @@
 </div>
 
 ---
-## 记忆
-**Rating:** 0
-**Runtime:** 136分钟
-**Country:** 哥伦比亚 泰国 法国 德国 墨西哥 卡塔尔 英国 中国大陆 瑞士
-**Director:** 阿彼察邦·韦拉斯哈古
-**Cast:** 蒂尔达·斯文顿 / 让娜·巴利巴尔 / 艾格尼丝·布雷克
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893377039.jpg" alt="记忆">
-</div>
-
----
-## 消失的她
-**Rating:** 0
-**Runtime:** 121 分钟
-**Country:** 中国大陆
-**Director:** 崔睿 刘翔
-**Cast:** 朱一龙 / 倪妮 / 文咏珊
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893270877.jpg" alt="消失的她">
-</div>
-
----
-## 飞兔大联盟
-**Rating:** 0
-**Runtime:** 92分钟
-**Country:** 比利时 法国
-**Director:** 本杰明·莫斯奎特 本·斯塔森
-**Cast:** 乔丹·塔尔塔科夫 / 莱拉·贝尔津什 / 乔·奥克曼
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893307178.jpg" alt="飞兔大联盟">
-</div>
-
----
-## 疯狂小世界
-**Rating:** 0
-**Runtime:** 
-**Country:** 美国
-**Director:** 高国峰 王森
-**Cast:** 苏倩云 / 张艺雯 / 张成杰
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890182713.jpg" alt="疯狂小世界">
-</div>
-
----
-## 憨兔的奇幻之旅
-**Rating:** 0
-**Runtime:** 
-**Country:** 中国大陆
-**Director:** 刘晓光
-**Cast:** 
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892643119.jpg" alt="憨兔的奇幻之旅">
-</div>
-
----
-## 凯利和超级可乐
-**Rating:** 0
-**Runtime:** 79分钟
-**Country:** 韩国
-**Director:** 吴成允 李春白
-**Cast:** 
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893348101.jpg" alt="凯利和超级可乐">
-</div>
-
----
 ## 申纪兰
 **Rating:** 0
 **Runtime:** 
@@ -602,6 +536,72 @@
 **Cast:** 史策 / 王皓 / 孙天宇
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2889182702.jpg" alt="透明侠侣">
+</div>
+
+---
+## 破冰72小时
+**Rating:** 0
+**Runtime:** 94分钟
+**Country:** 中国大陆
+**Director:** 陈林海
+**Cast:** 陈奕名 / 李萌萌 / 施骏喆
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893184789.jpg" alt="破冰72小时">
+</div>
+
+---
+## 不曾消失的爱
+**Rating:** 0
+**Runtime:** 100分钟
+**Country:** 中国大陆
+**Director:** 杨真
+**Cast:** 高亚麟 / 黄奕 / 句号
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893199587.jpg" alt="不曾消失的爱">
+</div>
+
+---
+## 力量密码
+**Rating:** 0
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 高峰
+**Cast:** 张桐 / 陈都灵 / 白恩
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
+</div>
+
+---
+## 海洋传奇
+**Rating:** 0
+**Runtime:** 90分钟
+**Country:** 中国大陆
+**Director:** 刘红梅 孙一曦
+**Cast:** 朱媛媛 / 黄志忠 / 克拉拉
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893031018.jpg" alt="海洋传奇">
+</div>
+
+---
+## 棉花糖和云朵妈妈1宝贝芯计划
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 徐铮
+**Cast:** 陈苏 / 郏捷 / 耿晨晨
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892370602.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
+</div>
+
+---
+## 八角笼中
+**Rating:** 0
+**Runtime:** 117分钟
+**Country:** 中国大陆
+**Director:** 王宝强
+**Cast:** 王宝强 / 陈永胜 / 史彭元
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892918522.jpg" alt="八角笼中">
 </div>
 
 ---
