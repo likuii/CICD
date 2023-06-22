@@ -34,7 +34,7 @@
 
 ---
 ## 飞兔大联盟
-**Rating:** 6.1
+**Rating:** 6.2
 **Runtime:** 92分钟
 **Country:** 比利时 法国
 **Director:** 本杰明·莫斯奎特 本·斯塔森
@@ -232,7 +232,7 @@
 
 ---
 ## 表白吧！在毕业前
-**Rating:** 6.9
+**Rating:** 7
 **Runtime:** 92分钟
 **Country:** 中国大陆
 **Director:** 宋晓文
