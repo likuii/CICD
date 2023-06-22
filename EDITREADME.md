@@ -45,7 +45,7 @@
 
 ---
 ## 我爱你！
-**Rating:** 8
+**Rating:** 7.9
 **Runtime:** 116分钟
 **Country:** 中国大陆 中国香港
 **Director:** 韩延
@@ -177,7 +177,7 @@
 
 ---
 ## 温柔壳
-**Rating:** 7.4
+**Rating:** 7.3
 **Runtime:** 104分钟
 **Country:** 中国大陆
 **Director:** 王沐
@@ -294,6 +294,17 @@
 **Cast:** 苏倩云 / 张艺雯 / 张成杰
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890182713.jpg" alt="疯狂小世界">
+</div>
+
+---
+## 余生那些年
+**Rating:** 6.6
+**Runtime:** 124分钟
+**Country:** 日本
+**Director:** 藤井道人
+**Cast:** 小松菜奈 / 坂口健太郎 / 山田裕贵
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888332880.jpg" alt="余生那些年">
 </div>
 
 ---
