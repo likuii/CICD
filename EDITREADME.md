@@ -1,16 +1,5 @@
 # Douban Currently Playing Movies
 
-## 闪电侠
-**Rating:** 7.9
-**Runtime:** 144分钟
-**Country:** 美国
-**Director:** 安德斯·穆斯切蒂
-**Cast:** 埃兹拉·米勒 / 本·阿弗莱克 / 迈克尔·基顿
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892365111.jpg" alt="闪电侠">
-</div>
-
----
 ## 消失的她
 **Rating:** 0
 **Runtime:** 121 分钟
@@ -19,6 +8,17 @@
 **Cast:** 朱一龙 / 倪妮 / 文咏珊
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893270877.jpg" alt="消失的她">
+</div>
+
+---
+## 别叫我“赌神”
+**Rating:** 0
+**Runtime:** 114分钟
+**Country:** 中国香港 中国大陆
+**Director:** 潘耀明
+**Cast:** 周润发 / 袁咏仪 / 柯炜林
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892073602.jpg" alt="别叫我“赌神”">
 </div>
 
 ---
@@ -44,17 +44,6 @@
 </div>
 
 ---
-## 疯狂元素城
-**Rating:** 7.3
-**Runtime:** 102分钟
-**Country:** 美国
-**Director:** 彼得·孙
-**Cast:** 莉娅·刘易斯 / 马莫多·阿西 / 罗纳尔多·德尔·卡门
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891542432.jpg" alt="疯狂元素城">
-</div>
-
----
 ## 我爱你！
 **Rating:** 0
 **Runtime:** 116分钟
@@ -63,6 +52,28 @@
 **Cast:** 倪大红 / 惠英红 / 梁家辉
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888042597.jpg" alt="我爱你！">
+</div>
+
+---
+## 闪电侠
+**Rating:** 7.9
+**Runtime:** 144分钟
+**Country:** 美国
+**Director:** 安德斯·穆斯切蒂
+**Cast:** 埃兹拉·米勒 / 本·阿弗莱克 / 迈克尔·基顿
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892365111.jpg" alt="闪电侠">
+</div>
+
+---
+## 疯狂元素城
+**Rating:** 7.3
+**Runtime:** 102分钟
+**Country:** 美国
+**Director:** 彼得·孙
+**Cast:** 莉娅·刘易斯 / 马莫多·阿西 / 罗纳尔多·德尔·卡门
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891542432.jpg" alt="疯狂元素城">
 </div>
 
 ---
@@ -110,17 +121,6 @@
 </div>
 
 ---
-## 别叫我“赌神”
-**Rating:** 0
-**Runtime:** 114分钟
-**Country:** 中国香港 中国大陆
-**Director:** 潘耀明
-**Cast:** 周润发 / 袁咏仪 / 柯炜林
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892073602.jpg" alt="别叫我“赌神”">
-</div>
-
----
 ## 极寒之城
 **Rating:** 6.8
 **Runtime:** 120分钟
@@ -143,28 +143,6 @@
 </div>
 
 ---
-## 街娃儿
-**Rating:** 6.4
-**Runtime:** 96分钟
-**Country:** 中国大陆
-**Director:** 那嘉佐
-**Cast:** 李九霄 / 黄米依 / 余皑磊
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893318625.jpg" alt="街娃儿">
-</div>
-
----
-## 这么多年
-**Rating:** 6.4
-**Runtime:** 116分钟
-**Country:** 中国大陆
-**Director:** 季竹青
-**Cast:** 张新成 / 孙千 / 刘丹
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890952124.jpg" alt="这么多年">
-</div>
-
----
 ## 银河护卫队3
 **Rating:** 8.5
 **Runtime:** 150分钟
@@ -176,14 +154,14 @@
 </div>
 
 ---
-## 长空之王
-**Rating:** 6.6
-**Runtime:** 127分钟
+## 这么多年
+**Rating:** 6.4
+**Runtime:** 116分钟
 **Country:** 中国大陆
-**Director:** 刘晓世
-**Cast:** 王一博 / 胡军 / 周冬雨
+**Director:** 季竹青
+**Cast:** 张新成 / 孙千 / 刘丹
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889598060.jpg" alt="长空之王">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890952124.jpg" alt="这么多年">
 </div>
 
 ---
@@ -199,13 +177,35 @@
 
 ---
 ## 温柔壳
-**Rating:** 7.4
+**Rating:** 7.3
 **Runtime:** 104分钟
 **Country:** 中国大陆
 **Director:** 王沐
 **Cast:** 王子文 / 尹昉 / 咏梅
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892635176.jpg" alt="温柔壳">
+</div>
+
+---
+## 长空之王
+**Rating:** 6.6
+**Runtime:** 127分钟
+**Country:** 中国大陆
+**Director:** 刘晓世
+**Cast:** 王一博 / 胡军 / 周冬雨
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889598060.jpg" alt="长空之王">
+</div>
+
+---
+## 街娃儿
+**Rating:** 6.4
+**Runtime:** 96分钟
+**Country:** 中国大陆
+**Director:** 那嘉佐
+**Cast:** 李九霄 / 黄米依 / 余皑磊
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893318625.jpg" alt="街娃儿">
 </div>
 
 ---
@@ -231,17 +231,6 @@
 </div>
 
 ---
-## 造梦之家
-**Rating:** 7.4
-**Runtime:** 151分钟
-**Country:** 美国
-**Director:** 史蒂文·斯皮尔伯格
-**Cast:** 米歇尔·威廉姆斯 / 保罗·达诺 / 塞斯·罗根
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892195504.jpg" alt="造梦之家">
-</div>
-
----
 ## 表白吧！在毕业前
 **Rating:** 0
 **Runtime:** 92分钟
@@ -250,6 +239,28 @@
 **Cast:** 曾柯琅 / 柴烨 / 韩雨成
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893230323.jpg" alt="表白吧！在毕业前">
+</div>
+
+---
+## 憨兔的奇幻之旅
+**Rating:** 0
+**Runtime:** 
+**Country:** 中国大陆
+**Director:** 刘晓光
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892643119.jpg" alt="憨兔的奇幻之旅">
+</div>
+
+---
+## 造梦之家
+**Rating:** 7.4
+**Runtime:** 151分钟
+**Country:** 美国
+**Director:** 史蒂文·斯皮尔伯格
+**Cast:** 米歇尔·威廉姆斯 / 保罗·达诺 / 塞斯·罗根
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892195504.jpg" alt="造梦之家">
 </div>
 
 ---
@@ -272,17 +283,6 @@
 **Cast:** 松冈祯丞 / 户松遥 / 井泽诗织
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892365943.jpg" alt="刀剑神域进击篇：暮色黄昏">
-</div>
-
----
-## 憨兔的奇幻之旅
-**Rating:** 0
-**Runtime:** 
-**Country:** 中国大陆
-**Director:** 刘晓光
-**Cast:** 
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892643119.jpg" alt="憨兔的奇幻之旅">
 </div>
 
 ---
@@ -363,28 +363,6 @@
 </div>
 
 ---
-## 北京2022
-**Rating:** 0
-**Runtime:** 103分钟
-**Country:** 中国大陆
-**Director:** 陆川
-**Cast:** 武大靖 / 任子威 / 苏翊鸣
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891832226.jpg" alt="北京2022">
-</div>
-
----
-## 凌晨两点半2
-**Rating:** 0
-**Runtime:** 92分钟
-**Country:** 中国大陆
-**Director:** 王赛
-**Cast:** 彭剑雄 / 张露文 / 王尊
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891656459.jpg" alt="凌晨两点半2">
-</div>
-
----
 ## 煞面迷影
 **Rating:** 0
 **Runtime:** 90分钟
@@ -393,6 +371,17 @@
 **Cast:** 周育竹 / 侯旭 / 雷承昆
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890009747.jpg" alt="煞面迷影">
+</div>
+
+---
+## 北京2022
+**Rating:** 0
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 陆川
+**Cast:** 武大靖 / 任子威 / 苏翊鸣
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891832226.jpg" alt="北京2022">
 </div>
 
 ---
@@ -418,14 +407,14 @@
 </div>
 
 ---
-## 不孤岛
+## 凌晨两点半2
 **Rating:** 0
-**Runtime:** 83分钟
+**Runtime:** 92分钟
 **Country:** 中国大陆
-**Director:** 曹金玲
-**Cast:** 田哉妹 / 宋新文 / 吕梦圆
+**Director:** 王赛
+**Cast:** 彭剑雄 / 张露文 / 王尊
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891266922.jpg" alt="不孤岛">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891656459.jpg" alt="凌晨两点半2">
 </div>
 
 ---
@@ -440,14 +429,14 @@
 </div>
 
 ---
-## 战俘拳王
-**Rating:** 7.1
-**Runtime:** 92分钟
-**Country:** 波兰
-**Director:** 马西耶·巴尔切夫斯基
-**Cast:** 彼得·格洛瓦茨基 / Jan Szydlowski / 格热戈日·马莱基
+## 不孤岛
+**Rating:** 0
+**Runtime:** 83分钟
+**Country:** 中国大陆
+**Director:** 曹金玲
+**Cast:** 田哉妹 / 宋新文 / 吕梦圆
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892332243.jpg" alt="战俘拳王">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891266922.jpg" alt="不孤岛">
 </div>
 
 ---
@@ -459,6 +448,28 @@
 **Cast:** 陆双 / 石贝 / 张业川
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890529454.jpg" alt="新猪猪侠大电影·超级赛车">
+</div>
+
+---
+## 周恩来与乌兰牧骑
+**Rating:** 0
+**Runtime:** 110分钟
+**Country:** 中国大陆
+**Director:** 孙海波
+**Cast:** 刘劲 / 刘佩琦 / 刘欣
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2872831588.jpg" alt="周恩来与乌兰牧骑">
+</div>
+
+---
+## 战俘拳王
+**Rating:** 7.1
+**Runtime:** 92分钟
+**Country:** 波兰
+**Director:** 马西耶·巴尔切夫斯基
+**Cast:** 彼得·格洛瓦茨基 / Jan Szydlowski / 格热戈日·马莱基
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892332243.jpg" alt="战俘拳王">
 </div>
 
 ---
@@ -492,17 +503,6 @@
 **Cast:** 郭广平 / 赵凯 / 杨雪儿
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890340118.jpg" alt="井冈星火">
-</div>
-
----
-## 周恩来与乌兰牧骑
-**Rating:** 0
-**Runtime:** 110分钟
-**Country:** 中国大陆
-**Director:** 孙海波
-**Cast:** 刘劲 / 刘佩琦 / 刘欣
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2872831588.jpg" alt="周恩来与乌兰牧骑">
 </div>
 
 ---
