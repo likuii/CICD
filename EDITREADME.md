@@ -45,7 +45,7 @@
 
 ---
 ## 我爱你！
-**Rating:** 0
+**Rating:** 8
 **Runtime:** 116分钟
 **Country:** 中国大陆 中国香港
 **Director:** 韩延
@@ -232,7 +232,7 @@
 
 ---
 ## 表白吧！在毕业前
-**Rating:** 0
+**Rating:** 6.9
 **Runtime:** 92分钟
 **Country:** 中国大陆
 **Director:** 宋晓文
