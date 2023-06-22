@@ -27,7 +27,7 @@
 **Runtime:** 136分钟
 **Country:** 哥伦比亚 泰国 法国 德国 墨西哥 卡塔尔 英国 中国大陆 瑞士
 **Director:** 阿彼察邦·韦拉斯哈古
-**Cast:** 蒂尔达·斯文顿 / 让娜·巴利巴尔 / 艾格尼丝·布雷克
+**Cast:** 蒂尔达·斯文顿 / 艾格尼丝·布雷克 / 丹尼尔·希梅内斯·卡乔
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893377039.jpg" alt="记忆">
 </div>
