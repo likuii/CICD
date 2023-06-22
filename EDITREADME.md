@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 消失的她
-**Rating:** 0
+**Rating:** 7.5
 **Runtime:** 121 分钟
 **Country:** 中国大陆
 **Director:** 崔睿 刘翔
