@@ -23,7 +23,7 @@
 
 ---
 ## 记忆
-**Rating:** 7.6
+**Rating:** 7.7
 **Runtime:** 136分钟
 **Country:** 哥伦比亚 泰国 法国 德国 墨西哥 卡塔尔 英国 中国大陆 瑞士
 **Director:** 阿彼察邦·韦拉斯哈古
@@ -594,17 +594,6 @@
 </div>
 
 ---
-## 海洋传奇
-**Rating:** 0
-**Runtime:** 90分钟
-**Country:** 中国大陆
-**Director:** 刘红梅 孙一曦
-**Cast:** 朱媛媛 / 黄志忠 / 克拉拉
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893031018.jpg" alt="海洋传奇">
-</div>
-
----
 ## 棉花糖和云朵妈妈1宝贝芯计划
 **Rating:** 0
 **Runtime:** 88分钟
@@ -613,6 +602,17 @@
 **Cast:** 陈苏 / 郏捷 / 耿晨晨
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892370602.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
+</div>
+
+---
+## 海洋传奇
+**Rating:** 0
+**Runtime:** 90分钟
+**Country:** 中国大陆
+**Director:** 刘红梅 孙一曦
+**Cast:** 朱媛媛 / 黄志忠 / 克拉拉
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893031018.jpg" alt="海洋传奇">
 </div>
 
 ---
