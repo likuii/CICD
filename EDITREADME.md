@@ -12,7 +12,7 @@
 
 ---
 ## 我爱你！
-**Rating:** 8
+**Rating:** 7.9
 **Runtime:** 116分钟
 **Country:** 中国大陆 中国香港
 **Director:** 韩延
@@ -133,7 +133,7 @@
 
 ---
 ## 极寒之城
-**Rating:** 6.8
+**Rating:** 6.9
 **Runtime:** 120分钟
 **Country:** 中国大陆
 **Director:** 杨枫
