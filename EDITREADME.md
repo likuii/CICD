@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 消失的她
-**Rating:** 7.2
+**Rating:** 7.1
 **Runtime:** 121 分钟
 **Country:** 中国大陆
 **Director:** 崔睿 刘翔
@@ -12,7 +12,7 @@
 
 ---
 ## 我爱你！
-**Rating:** 7.9
+**Rating:** 8
 **Runtime:** 116分钟
 **Country:** 中国大陆 中国香港
 **Director:** 韩延
@@ -23,7 +23,7 @@
 
 ---
 ## 别叫我“赌神”
-**Rating:** 0
+**Rating:** 5.9
 **Runtime:** 114分钟
 **Country:** 中国香港 中国大陆
 **Director:** 潘耀明
@@ -166,7 +166,7 @@
 
 ---
 ## 这么多年
-**Rating:** 6.4
+**Rating:** 6.3
 **Runtime:** 116分钟
 **Country:** 中国大陆
 **Director:** 季竹青
