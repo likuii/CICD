@@ -232,7 +232,7 @@
 
 ---
 ## 表白吧！在毕业前
-**Rating:** 7.1
+**Rating:** 7.2
 **Runtime:** 92分钟
 **Country:** 中国大陆
 **Director:** 宋晓文
