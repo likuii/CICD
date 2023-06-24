@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 消失的她
-**Rating:** 7.1
+**Rating:** 7
 **Runtime:** 121 分钟
 **Country:** 中国大陆
 **Director:** 崔睿 刘翔
@@ -23,24 +23,13 @@
 
 ---
 ## 别叫我“赌神”
-**Rating:** 5.9
+**Rating:** 5.7
 **Runtime:** 114分钟
 **Country:** 中国香港 中国大陆
 **Director:** 潘耀明
 **Cast:** 周润发 / 袁咏仪 / 柯炜林
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892073602.jpg" alt="别叫我“赌神”">
-</div>
-
----
-## 记忆
-**Rating:** 7.6
-**Runtime:** 136分钟
-**Country:** 哥伦比亚 泰国 法国 德国 墨西哥 卡塔尔 英国 中国大陆 瑞士
-**Director:** 阿彼察邦·韦拉斯哈古
-**Cast:** 蒂尔达·斯文顿 / 艾格尼丝·布雷克 / 丹尼尔·希梅内斯·卡乔
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893377039.jpg" alt="记忆">
 </div>
 
 ---
@@ -52,6 +41,17 @@
 **Cast:** 埃兹拉·米勒 / 本·阿弗莱克 / 迈克尔·基顿
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892365111.jpg" alt="闪电侠">
+</div>
+
+---
+## 记忆
+**Rating:** 7.6
+**Runtime:** 136分钟
+**Country:** 哥伦比亚 泰国 法国 德国 墨西哥 卡塔尔 英国 中国大陆 瑞士
+**Director:** 阿彼察邦·韦拉斯哈古
+**Cast:** 蒂尔达·斯文顿 / 艾格尼丝·布雷克 / 丹尼尔·希梅内斯·卡乔
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893377039.jpg" alt="记忆">
 </div>
 
 ---
@@ -99,17 +99,6 @@
 </div>
 
 ---
-## 飞兔大联盟
-**Rating:** 6.2
-**Runtime:** 92分钟
-**Country:** 比利时 法国
-**Director:** 本杰明·莫斯奎特 本·斯塔森
-**Cast:** 乔丹·塔尔塔科夫 / 莱拉·贝尔津什 / 乔·奥克曼
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893307178.jpg" alt="飞兔大联盟">
-</div>
-
----
 ## 速度与激情10
 **Rating:** 6.2
 **Runtime:** 140分钟
@@ -118,6 +107,17 @@
 **Cast:** 范·迪塞尔 / 米歇尔·罗德里格兹 / 杰森·莫玛
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890967604.jpg" alt="速度与激情10">
+</div>
+
+---
+## 飞兔大联盟
+**Rating:** 6.2
+**Runtime:** 92分钟
+**Country:** 比利时 法国
+**Director:** 本杰明·莫斯奎特 本·斯塔森
+**Cast:** 乔丹·塔尔塔科夫 / 莱拉·贝尔津什 / 乔·奥克曼
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893307178.jpg" alt="飞兔大联盟">
 </div>
 
 ---
@@ -143,17 +143,6 @@
 </div>
 
 ---
-## 极寒之城
-**Rating:** 6.9
-**Runtime:** 120分钟
-**Country:** 中国大陆
-**Director:** 杨枫
-**Cast:** 夏雨 / 李立群 / 谭凯
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892959059.jpg" alt="极寒之城">
-</div>
-
----
 ## 温柔壳
 **Rating:** 7.3
 **Runtime:** 104分钟
@@ -162,6 +151,17 @@
 **Cast:** 王子文 / 尹昉 / 咏梅
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892635176.jpg" alt="温柔壳">
+</div>
+
+---
+## 极寒之城
+**Rating:** 6.9
+**Runtime:** 120分钟
+**Country:** 中国大陆
+**Director:** 杨枫
+**Cast:** 夏雨 / 李立群 / 谭凯
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892959059.jpg" alt="极寒之城">
 </div>
 
 ---
@@ -176,28 +176,6 @@
 </div>
 
 ---
-## 这么多年
-**Rating:** 6.3
-**Runtime:** 116分钟
-**Country:** 中国大陆
-**Director:** 季竹青
-**Cast:** 张新成 / 孙千 / 刘丹
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890952124.jpg" alt="这么多年">
-</div>
-
----
-## 进球吧！少年
-**Rating:** 0
-**Runtime:** 103分钟
-**Country:** 中国大陆
-**Director:** 史蒂夫·威兹
-**Cast:** 埃里克·坎通纳 / 蒋雯丽 / 陈百祥
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893192712.jpg" alt="进球吧！少年">
-</div>
-
----
 ## 哆啦A梦：大雄与天空的理想乡
 **Rating:** 7.2
 **Runtime:** 107分钟
@@ -206,6 +184,17 @@
 **Cast:** 水田山葵 / 大原惠美 / 嘉数由美
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891257290.jpg" alt="哆啦A梦：大雄与天空的理想乡">
+</div>
+
+---
+## 这么多年
+**Rating:** 6.3
+**Runtime:** 116分钟
+**Country:** 中国大陆
+**Director:** 季竹青
+**Cast:** 张新成 / 孙千 / 刘丹
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890952124.jpg" alt="这么多年">
 </div>
 
 ---
@@ -231,14 +220,14 @@
 </div>
 
 ---
-## 你猜我是不是英雄！
+## 进球吧！少年
 **Rating:** 0
-**Runtime:** 89分钟
+**Runtime:** 103分钟
 **Country:** 中国大陆
-**Director:** 张凯
-**Cast:** 于洋 / 修睿 / 贾冰
+**Director:** 史蒂夫·威兹
+**Cast:** 埃里克·坎通纳 / 蒋雯丽 / 陈百祥
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2674255735.jpg" alt="你猜我是不是英雄！">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893192712.jpg" alt="进球吧！少年">
 </div>
 
 ---
@@ -253,6 +242,17 @@
 </div>
 
 ---
+## 你猜我是不是英雄！
+**Rating:** 0
+**Runtime:** 89分钟
+**Country:** 中国大陆
+**Director:** 张凯
+**Cast:** 于洋 / 修睿 / 贾冰
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2674255735.jpg" alt="你猜我是不是英雄！">
+</div>
+
+---
 ## 造梦之家
 **Rating:** 7.4
 **Runtime:** 151分钟
@@ -261,17 +261,6 @@
 **Cast:** 米歇尔·威廉姆斯 / 保罗·达诺 / 塞斯·罗根
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892195504.jpg" alt="造梦之家">
-</div>
-
----
-## 街娃儿
-**Rating:** 6.4
-**Runtime:** 96分钟
-**Country:** 中国大陆
-**Director:** 那嘉佐
-**Cast:** 李九霄 / 黄米依 / 余皑磊
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893318625.jpg" alt="街娃儿">
 </div>
 
 ---
@@ -286,17 +275,6 @@
 </div>
 
 ---
-## 刀剑神域进击篇：暮色黄昏
-**Rating:** 6.5
-**Runtime:** 101分钟
-**Country:** 日本
-**Director:** 河野亚矢子
-**Cast:** 松冈祯丞 / 户松遥 / 井泽诗织
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892365943.jpg" alt="刀剑神域进击篇：暮色黄昏">
-</div>
-
----
 ## 天空之城
 **Rating:** 9.2
 **Runtime:** 125分钟
@@ -305,6 +283,28 @@
 **Cast:** 田中真弓 / 横泽启子 / 初井言荣
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892380420.jpg" alt="天空之城">
+</div>
+
+---
+## 街娃儿
+**Rating:** 6.4
+**Runtime:** 96分钟
+**Country:** 中国大陆
+**Director:** 那嘉佐
+**Cast:** 李九霄 / 黄米依 / 余皑磊
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893318625.jpg" alt="街娃儿">
+</div>
+
+---
+## 刀剑神域进击篇：暮色黄昏
+**Rating:** 6.5
+**Runtime:** 101分钟
+**Country:** 日本
+**Director:** 河野亚矢子
+**Cast:** 松冈祯丞 / 户松遥 / 井泽诗织
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892365943.jpg" alt="刀剑神域进击篇：暮色黄昏">
 </div>
 
 ---
@@ -374,17 +374,6 @@
 </div>
 
 ---
-## 追你而来
-**Rating:** 0
-**Runtime:** 89分钟
-**Country:** 中国大陆
-**Director:** 杨议
-**Cast:** 樊少皇 / 罗米 / 丁海峰
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890615565.jpg" alt="追你而来">
-</div>
-
----
 ## 煞面迷影
 **Rating:** 0
 **Runtime:** 90分钟
@@ -393,17 +382,6 @@
 **Cast:** 周育竹 / 侯旭 / 雷承昆
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890009747.jpg" alt="煞面迷影">
-</div>
-
----
-## 爸爸，我懂你了
-**Rating:** 0
-**Runtime:** 102分钟
-**Country:** 中国大陆
-**Director:** 王凯阳
-**Cast:** 范明 / 李倩 / 于慧
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892370191.jpg" alt="爸爸，我懂你了">
 </div>
 
 ---
@@ -429,6 +407,28 @@
 </div>
 
 ---
+## 追你而来
+**Rating:** 0
+**Runtime:** 89分钟
+**Country:** 中国大陆
+**Director:** 杨议
+**Cast:** 樊少皇 / 罗米 / 丁海峰
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890615565.jpg" alt="追你而来">
+</div>
+
+---
+## 爸爸，我懂你了
+**Rating:** 0
+**Runtime:** 102分钟
+**Country:** 中国大陆
+**Director:** 王凯阳
+**Cast:** 范明 / 李倩 / 于慧
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892370191.jpg" alt="爸爸，我懂你了">
+</div>
+
+---
 ## 新猪猪侠大电影·超级赛车
 **Rating:** 0
 **Runtime:** 85分钟
@@ -451,17 +451,6 @@
 </div>
 
 ---
-## 不孤岛
-**Rating:** 0
-**Runtime:** 83分钟
-**Country:** 中国大陆
-**Director:** 曹金玲
-**Cast:** 田哉妹 / 宋新文 / 吕梦圆
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891266922.jpg" alt="不孤岛">
-</div>
-
----
 ## 周恩来与乌兰牧骑
 **Rating:** 0
 **Runtime:** 110分钟
@@ -470,6 +459,17 @@
 **Cast:** 刘劲 / 刘佩琦 / 刘欣
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2872831588.jpg" alt="周恩来与乌兰牧骑">
+</div>
+
+---
+## 不孤岛
+**Rating:** 0
+**Runtime:** 83分钟
+**Country:** 中国大陆
+**Director:** 曹金玲
+**Cast:** 田哉妹 / 宋新文 / 吕梦圆
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891266922.jpg" alt="不孤岛">
 </div>
 
 ---
