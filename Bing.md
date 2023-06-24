@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 佩特拉的宝库，约旦 (© WitthayaP/Shutterstock)
+
+![佩特拉的宝库，约旦 (© WitthayaP/Shutterstock)](https://cn.bing.com/th?id=OHR.PetraTreasury_ZH-CN6007151900_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E4%BD%A9%E7%89%B9%E6%8B%89&form=hpcapt&mkt=zh-cn)
+
 ## 芽富湾，芽庄，越南 (© Thang Tat Nguyen/Getty Images)
 
 ![芽富湾，芽庄，越南 (© Thang Tat Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.NhaTrang_ZH-CN5834700560_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![奔跑在诺曼底草地上的小狍，法国 (© Gerard Lacz/Minden)](https://cn.bing.com/th?id=OHR.Fawn_ZH-CN2172152960_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E7%8B%8D&form=hpcapt&mkt=zh-cn)
-
-## 普通燕鸥父亲和宝宝，长岛，纽约州，美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)
-
-![普通燕鸥父亲和宝宝，长岛，纽约州，美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TernFather_ZH-CN1860589914_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E7%88%B6%E4%BA%B2%E8%8A%82&form=hpcapt&mkt=zh-cn)
 
