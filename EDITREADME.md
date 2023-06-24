@@ -287,7 +287,7 @@
 
 ---
 ## 街娃儿
-**Rating:** 6.4
+**Rating:** 6.3
 **Runtime:** 96分钟
 **Country:** 中国大陆
 **Director:** 那嘉佐
