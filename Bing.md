@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 维朗德里城堡及花园，卢瓦尔河谷，法国 (© VLADJ55/Shutterstock)
+
+![维朗德里城堡及花园，卢瓦尔河谷，法国 (© VLADJ55/Shutterstock)](https://cn.bing.com/th?id=OHR.VillandryGarden_ZH-CN6140359139_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E7%BB%B4%E6%9C%97%E5%BE%B7%E9%87%8C%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn)
+
 ## 佩特拉的宝库，约旦 (© WitthayaP/Shutterstock)
 
 ![佩特拉的宝库，约旦 (© WitthayaP/Shutterstock)](https://cn.bing.com/th?id=OHR.PetraTreasury_ZH-CN6007151900_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![秃鹰，通加斯国家森林，阿拉斯加，美国 (© Jaynes Gallery/Shutterstock)](https://cn.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E7%A7%83%E9%B9%B0&form=hpcapt&mkt=zh-cn)
-
-## 奔跑在诺曼底草地上的小狍，法国 (© Gerard Lacz/Minden)
-
-![奔跑在诺曼底草地上的小狍，法国 (© Gerard Lacz/Minden)](https://cn.bing.com/th?id=OHR.Fawn_ZH-CN2172152960_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E7%8B%8D&form=hpcapt&mkt=zh-cn)
 
