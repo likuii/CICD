@@ -462,6 +462,61 @@
 </div>
 
 ---
+## 黄金三镖客
+**Rating:** 9.2
+**Runtime:** 162分钟
+**Country:** 意大利 西班牙 西德
+**Director:** 赛尔乔·莱昂内
+**Cast:** 克林特·伊斯特伍德 / 埃里·瓦拉赫 / 李·范·克里夫
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2178150710.jpg" alt="黄金三镖客">
+</div>
+
+---
+## 荒野大镖客
+**Rating:** 8.4
+**Runtime:** 100分钟
+**Country:** 意大利 西班牙 西德
+**Director:** 赛尔乔·莱昂内
+**Cast:** 克林特·伊斯特伍德 / 吉安·马里亚·沃隆特 / 沃尔夫冈·路卡西
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2178157710.jpg" alt="荒野大镖客">
+</div>
+
+---
+## 天伦之旅
+**Rating:** 8.6
+**Runtime:** 99分钟
+**Country:** 美国
+**Director:** 柯克·琼斯
+**Cast:** 罗伯特·德尼罗 / 凯特·贝金赛尔 / 山姆·洛克威尔
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1217133544.jpg" alt="天伦之旅">
+</div>
+
+---
+## 音魂掠影
+**Rating:** 9.2
+**Runtime:** 156分钟
+**Country:** 意大利 荷兰 德国 比利时
+**Director:** 朱塞佩·托纳多雷
+**Cast:** 恩尼奥·莫里康内 / 昆汀·塔伦蒂诺 / 克林特·伊斯特伍德
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2871903361.jpg" alt="音魂掠影">
+</div>
+
+---
+## 黄昏双镖客
+**Rating:** 8.9
+**Runtime:** 132分钟
+**Country:** 意大利 西班牙 西德
+**Director:** 赛尔乔·莱昂内
+**Cast:** 克林特·伊斯特伍德 / 李·范·克里夫 / 吉安·马里亚·沃隆特
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2191195219.jpg" alt="黄昏双镖客">
+</div>
+
+---
 ## 一路幸福
 **Rating:** 0
 **Runtime:** 95分钟
@@ -503,6 +558,39 @@
 **Cast:** 卢奇 / 苗苗 / 释小龙
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2873935641.jpg" alt="周永开">
+</div>
+
+---
+## 幽国车站
+**Rating:** 7.8
+**Runtime:** 108分钟
+**Country:** 意大利 法国
+**Director:** 朱塞佩·托纳多雷
+**Cast:** 热拉尔·德帕迪约 / 罗曼·波兰斯基 / 赛尔乔·鲁比尼
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501807916.jpg" alt="幽国车站">
+</div>
+
+---
+## 浪荡少年时
+**Rating:** 7.7
+**Runtime:** 85 分钟
+**Country:** 意大利
+**Director:** 里娜·韦特缪勒
+**Cast:** Antonio Petruzzi / 斯特凡诺·萨塔·弗洛雷斯 / Sergio Ferranino
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2455538471.jpg" alt="浪荡少年时">
+</div>
+
+---
+## 京门烽火
+**Rating:** 0
+**Runtime:** 
+**Country:** 中国大陆
+**Director:** 刘子铭
+**Cast:** 郭艳 / 赵亦骥 / 马国飞
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893079411.jpg" alt="京门烽火">
 </div>
 
 ---
