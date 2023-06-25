@@ -22,17 +22,6 @@
 </div>
 
 ---
-## 别叫我“赌神”
-**Rating:** 5.7
-**Runtime:** 114分钟
-**Country:** 中国香港 中国大陆
-**Director:** 潘耀明
-**Cast:** 周润发 / 袁咏仪 / 柯炜林
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892073602.jpg" alt="别叫我“赌神”">
-</div>
-
----
 ## 闪电侠
 **Rating:** 7.9
 **Runtime:** 144分钟
@@ -41,6 +30,17 @@
 **Cast:** 埃兹拉·米勒 / 本·阿弗莱克 / 迈克尔·基顿
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892365111.jpg" alt="闪电侠">
+</div>
+
+---
+## 别叫我“赌神”
+**Rating:** 5.7
+**Runtime:** 114分钟
+**Country:** 中国香港 中国大陆
+**Director:** 潘耀明
+**Cast:** 周润发 / 袁咏仪 / 柯炜林
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892073602.jpg" alt="别叫我“赌神”">
 </div>
 
 ---
@@ -55,17 +55,6 @@
 </div>
 
 ---
-## 疯狂元素城
-**Rating:** 7.3
-**Runtime:** 102分钟
-**Country:** 美国
-**Director:** 彼得·孙
-**Cast:** 莉娅·刘易斯 / 马莫多·阿西 / 罗纳尔多·德尔·卡门
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891542432.jpg" alt="疯狂元素城">
-</div>
-
----
 ## 蜘蛛侠：纵横宇宙
 **Rating:** 8.6
 **Runtime:** 140分钟
@@ -74,6 +63,17 @@
 **Cast:** 沙梅克·摩尔 / 海莉·斯坦菲尔德 / 奥斯卡·伊萨克
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892315297.jpg" alt="蜘蛛侠：纵横宇宙">
+</div>
+
+---
+## 疯狂元素城
+**Rating:** 7.3
+**Runtime:** 102分钟
+**Country:** 美国
+**Director:** 彼得·孙
+**Cast:** 莉娅·刘易斯 / 马莫多·阿西 / 罗纳尔多·德尔·卡门
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891542432.jpg" alt="疯狂元素城">
 </div>
 
 ---
@@ -110,17 +110,6 @@
 </div>
 
 ---
-## 飞兔大联盟
-**Rating:** 6.2
-**Runtime:** 92分钟
-**Country:** 比利时 法国
-**Director:** 本杰明·莫斯奎特 本·斯塔森
-**Cast:** 乔丹·塔尔塔科夫 / 莱拉·贝尔津什 / 乔·奥克曼
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893307178.jpg" alt="飞兔大联盟">
-</div>
-
----
 ## 银河护卫队3
 **Rating:** 8.5
 **Runtime:** 150分钟
@@ -129,17 +118,6 @@
 **Cast:** 克里斯·帕拉特 / 佐伊·索尔达娜 / 戴夫·巴蒂斯塔
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889358680.jpg" alt="银河护卫队3">
-</div>
-
----
-## 憨兔的奇幻之旅
-**Rating:** 0
-**Runtime:** 
-**Country:** 中国大陆
-**Director:** 刘晓光
-**Cast:** 
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892643119.jpg" alt="憨兔的奇幻之旅">
 </div>
 
 ---
@@ -154,17 +132,6 @@
 </div>
 
 ---
-## 极寒之城
-**Rating:** 6.8
-**Runtime:** 120分钟
-**Country:** 中国大陆
-**Director:** 杨枫
-**Cast:** 夏雨 / 李立群 / 谭凯
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892959059.jpg" alt="极寒之城">
-</div>
-
----
 ## 小美人鱼
 **Rating:** 5.1
 **Runtime:** 135分钟
@@ -173,6 +140,17 @@
 **Cast:** 海莉·贝利 / 乔纳·豪尔-金 / 梅丽莎·麦卡西
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890188209.jpg" alt="小美人鱼">
+</div>
+
+---
+## 极寒之城
+**Rating:** 6.8
+**Runtime:** 120分钟
+**Country:** 中国大陆
+**Director:** 杨枫
+**Cast:** 夏雨 / 李立群 / 谭凯
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892959059.jpg" alt="极寒之城">
 </div>
 
 ---
@@ -187,6 +165,17 @@
 </div>
 
 ---
+## 飞兔大联盟
+**Rating:** 6.2
+**Runtime:** 92分钟
+**Country:** 比利时 法国
+**Director:** 本杰明·莫斯奎特 本·斯塔森
+**Cast:** 乔丹·塔尔塔科夫 / 莱拉·贝尔津什 / 乔·奥克曼
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893307178.jpg" alt="飞兔大联盟">
+</div>
+
+---
 ## 这么多年
 **Rating:** 6.3
 **Runtime:** 116分钟
@@ -198,47 +187,14 @@
 </div>
 
 ---
-## 长空之王
-**Rating:** 6.6
-**Runtime:** 127分钟
-**Country:** 中国大陆
-**Director:** 刘晓世
-**Cast:** 王一博 / 胡军 / 周冬雨
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889598060.jpg" alt="长空之王">
-</div>
-
----
-## 进球吧！少年
+## 憨兔的奇幻之旅
 **Rating:** 0
-**Runtime:** 103分钟
+**Runtime:** 
 **Country:** 中国大陆
-**Director:** 史蒂夫·威兹
-**Cast:** 埃里克·坎通纳 / 蒋雯丽 / 陈百祥
+**Director:** 刘晓光
+**Cast:** 
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893192712.jpg" alt="进球吧！少年">
-</div>
-
----
-## 人生路不熟
-**Rating:** 6.3
-**Runtime:** 100分钟
-**Country:** 中国大陆
-**Director:** 易小星
-**Cast:** 乔杉 / 范丞丞 / 马丽
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2889864501.jpg" alt="人生路不熟">
-</div>
-
----
-## 表白吧！在毕业前
-**Rating:** 7.1
-**Runtime:** 92分钟
-**Country:** 中国大陆
-**Director:** 宋晓文
-**Cast:** 曾柯琅 / 柴烨 / 韩雨成
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893230323.jpg" alt="表白吧！在毕业前">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892643119.jpg" alt="憨兔的奇幻之旅">
 </div>
 
 ---
@@ -253,14 +209,58 @@
 </div>
 
 ---
-## 疯狂小世界
-**Rating:** 0
-**Runtime:** 
-**Country:** 美国
-**Director:** 高国峰 王森
-**Cast:** 苏倩云 / 张艺雯 / 张成杰
+## 长空之王
+**Rating:** 6.6
+**Runtime:** 127分钟
+**Country:** 中国大陆
+**Director:** 刘晓世
+**Cast:** 王一博 / 胡军 / 周冬雨
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890182713.jpg" alt="疯狂小世界">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889598060.jpg" alt="长空之王">
+</div>
+
+---
+## 表白吧！在毕业前
+**Rating:** 7.1
+**Runtime:** 92分钟
+**Country:** 中国大陆
+**Director:** 宋晓文
+**Cast:** 曾柯琅 / 柴烨 / 韩雨成
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893230323.jpg" alt="表白吧！在毕业前">
+</div>
+
+---
+## 人生路不熟
+**Rating:** 6.3
+**Runtime:** 100分钟
+**Country:** 中国大陆
+**Director:** 易小星
+**Cast:** 乔杉 / 范丞丞 / 马丽
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2889864501.jpg" alt="人生路不熟">
+</div>
+
+---
+## 进球吧！少年
+**Rating:** 0
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 史蒂夫·威兹
+**Cast:** 埃里克·坎通纳 / 蒋雯丽 / 陈百祥
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893192712.jpg" alt="进球吧！少年">
+</div>
+
+---
+## 刀剑神域进击篇：暮色黄昏
+**Rating:** 6.5
+**Runtime:** 101分钟
+**Country:** 日本
+**Director:** 河野亚矢子
+**Cast:** 松冈祯丞 / 户松遥 / 井泽诗织
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892365943.jpg" alt="刀剑神域进击篇：暮色黄昏">
 </div>
 
 ---
@@ -275,6 +275,17 @@
 </div>
 
 ---
+## 疯狂小世界
+**Rating:** 0
+**Runtime:** 
+**Country:** 美国
+**Director:** 高国峰 王森
+**Cast:** 苏倩云 / 张艺雯 / 张成杰
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890182713.jpg" alt="疯狂小世界">
+</div>
+
+---
 ## 街娃儿
 **Rating:** 6.3
 **Runtime:** 96分钟
@@ -283,17 +294,6 @@
 **Cast:** 李九霄 / 黄米依 / 余皑磊
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893318625.jpg" alt="街娃儿">
-</div>
-
----
-## 刀剑神域进击篇：暮色黄昏
-**Rating:** 6.5
-**Runtime:** 101分钟
-**Country:** 日本
-**Director:** 河野亚矢子
-**Cast:** 松冈祯丞 / 户松遥 / 井泽诗织
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892365943.jpg" alt="刀剑神域进击篇：暮色黄昏">
 </div>
 
 ---
@@ -319,17 +319,6 @@
 </div>
 
 ---
-## 凯利和超级可乐
-**Rating:** 0
-**Runtime:** 79分钟
-**Country:** 韩国
-**Director:** 吴成允 李春白
-**Cast:** 
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893348101.jpg" alt="凯利和超级可乐">
-</div>
-
----
 ## 铃芽之旅
 **Rating:** 7.3
 **Runtime:** 122分钟(中国大陆)
@@ -338,17 +327,6 @@
 **Cast:** 原菜乃华 / 松村北斗 / 深津绘里
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2887641712.jpg" alt="铃芽之旅">
-</div>
-
----
-## 超级马力欧兄弟大电影
-**Rating:** 7.9
-**Runtime:** 92分钟
-**Country:** 美国 日本
-**Director:** 亚伦·霍瓦斯 迈克尔·杰勒尼克
-**Cast:** 克里斯·帕拉特 / 安雅·泰勒-乔伊 / 查理·戴
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888584528.jpg" alt="超级马力欧兄弟大电影">
 </div>
 
 ---
@@ -363,6 +341,39 @@
 </div>
 
 ---
+## 超级马力欧兄弟大电影
+**Rating:** 7.9
+**Runtime:** 92分钟
+**Country:** 美国 日本
+**Director:** 亚伦·霍瓦斯 迈克尔·杰勒尼克
+**Cast:** 克里斯·帕拉特 / 安雅·泰勒-乔伊 / 查理·戴
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888584528.jpg" alt="超级马力欧兄弟大电影">
+</div>
+
+---
+## 宇宙护卫队：风暴力量
+**Rating:** 7.2
+**Runtime:** 94分钟
+**Country:** 中国大陆
+**Director:** 刘彭
+**Cast:** 李靖 / 刘妤姻子 / 刘蕊
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890770674.jpg" alt="宇宙护卫队：风暴力量">
+</div>
+
+---
+## 凯利和超级可乐
+**Rating:** 0
+**Runtime:** 79分钟
+**Country:** 韩国
+**Director:** 吴成允 李春白
+**Cast:** 
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893348101.jpg" alt="凯利和超级可乐">
+</div>
+
+---
 ## 煞面迷影
 **Rating:** 0
 **Runtime:** 90分钟
@@ -371,17 +382,6 @@
 **Cast:** 周育竹 / 侯旭 / 雷承昆
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890009747.jpg" alt="煞面迷影">
-</div>
-
----
-## 凌晨两点半2
-**Rating:** 0
-**Runtime:** 92分钟
-**Country:** 中国大陆
-**Director:** 王赛
-**Cast:** 彭剑雄 / 张露文 / 王尊
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891656459.jpg" alt="凌晨两点半2">
 </div>
 
 ---
@@ -396,14 +396,14 @@
 </div>
 
 ---
-## 北京2022
+## 凌晨两点半2
 **Rating:** 0
-**Runtime:** 103分钟
+**Runtime:** 92分钟
 **Country:** 中国大陆
-**Director:** 陆川
-**Cast:** 武大靖 / 任子威 / 苏翊鸣
+**Director:** 王赛
+**Cast:** 彭剑雄 / 张露文 / 王尊
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891832226.jpg" alt="北京2022">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891656459.jpg" alt="凌晨两点半2">
 </div>
 
 ---
@@ -415,6 +415,17 @@
 **Cast:** 范明 / 李倩 / 于慧
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892370191.jpg" alt="爸爸，我懂你了">
+</div>
+
+---
+## 北京2022
+**Rating:** 0
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 陆川
+**Cast:** 武大靖 / 任子威 / 苏翊鸣
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891832226.jpg" alt="北京2022">
 </div>
 
 ---
@@ -448,17 +459,6 @@
 **Cast:** 田哉妹 / 宋新文 / 吕梦圆
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891266922.jpg" alt="不孤岛">
-</div>
-
----
-## 宇宙护卫队：风暴力量
-**Rating:** 7.2
-**Runtime:** 94分钟
-**Country:** 中国大陆
-**Director:** 刘彭
-**Cast:** 李靖 / 刘妤姻子 / 刘蕊
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890770674.jpg" alt="宇宙护卫队：风暴力量">
 </div>
 
 ---
