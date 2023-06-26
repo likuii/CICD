@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 塞多纳，亚利桑那州，美国 (© Jonathan Ross/Getty Images)
+
+![塞多纳，亚利桑那州，美国 (© Jonathan Ross/Getty Images)](https://cn.bing.com/th?id=OHR.SedonaSunset_ZH-CN6289462383_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%A1%9E%E5%A4%9A%E7%BA%B3&form=hpcapt&mkt=zh-cn)
+
 ## 维朗德里城堡及花园，卢瓦尔河谷，法国 (© VLADJ55/Shutterstock)
 
 ![维朗德里城堡及花园，卢瓦尔河谷，法国 (© VLADJ55/Shutterstock)](https://cn.bing.com/th?id=OHR.VillandryGarden_ZH-CN6140359139_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![夏日盛开的荷花 (© pandemin/Getty Images)](https://cn.bing.com/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%A4%8F%E8%87%B3&form=hpcapt&mkt=zh-cn)
-
-## 秃鹰，通加斯国家森林，阿拉斯加，美国 (© Jaynes Gallery/Shutterstock)
-
-![秃鹰，通加斯国家森林，阿拉斯加，美国 (© Jaynes Gallery/Shutterstock)](https://cn.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E7%A7%83%E9%B9%B0&form=hpcapt&mkt=zh-cn)
 
