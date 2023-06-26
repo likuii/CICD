@@ -34,7 +34,7 @@
 
 ---
 ## 别叫我“赌神”
-**Rating:** 5.5
+**Rating:** 5.6
 **Runtime:** 114分钟
 **Country:** 中国香港 中国大陆
 **Director:** 潘耀明
