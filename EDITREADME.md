@@ -298,7 +298,7 @@
 
 ---
 ## 检察风云
-**Rating:** 4.5
+**Rating:** 4.4
 **Runtime:** 112分钟
 **Country:** 中国大陆
 **Director:** 麦兆辉
