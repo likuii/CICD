@@ -539,6 +539,17 @@
 </div>
 
 ---
+## 飞鱼秀
+**Rating:** 8.4
+**Runtime:** 78分钟
+**Country:** 中国大陆
+**Director:** 孙虹
+**Cast:** 小飞 / 喻舟
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2205718282.jpg" alt="飞鱼秀">
+</div>
+
+---
 ## 申纪兰
 **Rating:** 0
 **Runtime:** 108分钟
@@ -596,7 +607,7 @@
 ---
 ## 不曾消失的爱
 **Rating:** 0
-**Runtime:** 100分钟
+**Runtime:** 97分钟
 **Country:** 中国大陆
 **Director:** 杨真
 **Cast:** 高亚麟 / 黄奕 / 句号
