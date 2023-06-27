@@ -546,7 +546,7 @@
 **Director:** 哈斯朝鲁
 **Cast:** 岳红 / 姚兵蓉 / 苏丽
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893463412.jpg" alt="申纪兰">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893775015.jpg" alt="申纪兰">
 </div>
 
 ---
