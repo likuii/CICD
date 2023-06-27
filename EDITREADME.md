@@ -33,17 +33,6 @@
 </div>
 
 ---
-## 别叫我“赌神”
-**Rating:** 5.5
-**Runtime:** 114分钟
-**Country:** 中国香港 中国大陆
-**Director:** 潘耀明
-**Cast:** 周润发 / 袁咏仪 / 柯炜林
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892073602.jpg" alt="别叫我“赌神”">
-</div>
-
----
 ## 记忆
 **Rating:** 7.6
 **Runtime:** 136分钟
@@ -52,6 +41,17 @@
 **Cast:** 蒂尔达·斯文顿 / 艾格尼丝·布雷克 / 丹尼尔·希梅内斯·卡乔
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893377039.jpg" alt="记忆">
+</div>
+
+---
+## 别叫我“赌神”
+**Rating:** 5.5
+**Runtime:** 114分钟
+**Country:** 中国香港 中国大陆
+**Director:** 潘耀明
+**Cast:** 周润发 / 袁咏仪 / 柯炜林
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892073602.jpg" alt="别叫我“赌神”">
 </div>
 
 ---
@@ -110,17 +110,6 @@
 </div>
 
 ---
-## 银河护卫队3
-**Rating:** 8.5
-**Runtime:** 150分钟
-**Country:** 美国
-**Director:** 詹姆斯·古恩
-**Cast:** 克里斯·帕拉特 / 佐伊·索尔达娜 / 戴夫·巴蒂斯塔
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889358680.jpg" alt="银河护卫队3">
-</div>
-
----
 ## 极寒之城
 **Rating:** 6.8
 **Runtime:** 120分钟
@@ -129,6 +118,17 @@
 **Cast:** 夏雨 / 李立群 / 谭凯
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892959059.jpg" alt="极寒之城">
+</div>
+
+---
+## 银河护卫队3
+**Rating:** 8.5
+**Runtime:** 150分钟
+**Country:** 美国
+**Director:** 詹姆斯·古恩
+**Cast:** 克里斯·帕拉特 / 佐伊·索尔达娜 / 戴夫·巴蒂斯塔
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889358680.jpg" alt="银河护卫队3">
 </div>
 
 ---
@@ -154,6 +154,17 @@
 </div>
 
 ---
+## 表白吧！在毕业前
+**Rating:** 7.2
+**Runtime:** 92分钟
+**Country:** 中国大陆
+**Director:** 宋晓文
+**Cast:** 曾柯琅 / 柴烨 / 韩雨成
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893772317.jpg" alt="表白吧！在毕业前">
+</div>
+
+---
 ## 这么多年
 **Rating:** 6.3
 **Runtime:** 116分钟
@@ -162,17 +173,6 @@
 **Cast:** 张新成 / 孙千 / 刘丹
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890952124.jpg" alt="这么多年">
-</div>
-
----
-## 表白吧！在毕业前
-**Rating:** 7.2
-**Runtime:** 92分钟
-**Country:** 中国大陆
-**Director:** 宋晓文
-**Cast:** 曾柯琅 / 柴烨 / 韩雨成
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893230323.jpg" alt="表白吧！在毕业前">
 </div>
 
 ---
@@ -209,17 +209,6 @@
 </div>
 
 ---
-## 飞兔大联盟
-**Rating:** 6.2
-**Runtime:** 92分钟
-**Country:** 比利时 法国
-**Director:** 本杰明·莫斯奎特 本·斯塔森
-**Cast:** 乔丹·塔尔塔科夫 / 莱拉·贝尔津什 / 乔·奥克曼
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893307178.jpg" alt="飞兔大联盟">
-</div>
-
----
 ## 人生路不熟
 **Rating:** 6.3
 **Runtime:** 100分钟
@@ -253,6 +242,17 @@
 </div>
 
 ---
+## 飞兔大联盟
+**Rating:** 6.2
+**Runtime:** 92分钟
+**Country:** 比利时 法国
+**Director:** 本杰明·莫斯奎特 本·斯塔森
+**Cast:** 乔丹·塔尔塔科夫 / 莱拉·贝尔津什 / 乔·奥克曼
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893307178.jpg" alt="飞兔大联盟">
+</div>
+
+---
 ## 午夜迷途
 **Rating:** 0
 **Runtime:** 74分钟
@@ -272,6 +272,17 @@
 **Cast:** 原菜乃华 / 松村北斗 / 深津绘里
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2887641712.jpg" alt="铃芽之旅">
+</div>
+
+---
+## 检察风云
+**Rating:** 4.4
+**Runtime:** 112分钟
+**Country:** 中国大陆
+**Director:** 麦兆辉
+**Cast:** 黄景瑜 / 白百何 / 王丽坤
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890643247.jpg" alt="检察风云">
 </div>
 
 ---
@@ -297,17 +308,6 @@
 </div>
 
 ---
-## 检察风云
-**Rating:** 4.4
-**Runtime:** 112分钟
-**Country:** 中国大陆
-**Director:** 麦兆辉
-**Cast:** 黄景瑜 / 白百何 / 王丽坤
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890643247.jpg" alt="检察风云">
-</div>
-
----
 ## 超级马力欧兄弟大电影
 **Rating:** 7.9
 **Runtime:** 92分钟
@@ -316,6 +316,17 @@
 **Cast:** 克里斯·帕拉特 / 安雅·泰勒-乔伊 / 查理·戴
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888584528.jpg" alt="超级马力欧兄弟大电影">
+</div>
+
+---
+## 北京2022
+**Rating:** 0
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 陆川
+**Cast:** 武大靖 / 任子威 / 苏翊鸣
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891832226.jpg" alt="北京2022">
 </div>
 
 ---
@@ -341,14 +352,14 @@
 </div>
 
 ---
-## 北京2022
-**Rating:** 0
-**Runtime:** 103分钟
+## 长沙夜生活
+**Rating:** 5.7
+**Runtime:** 106分钟
 **Country:** 中国大陆
-**Director:** 陆川
-**Cast:** 武大靖 / 任子威 / 苏翊鸣
+**Director:** 张冀
+**Cast:** 尹昉 / 张婧仪 / 苏岩
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891832226.jpg" alt="北京2022">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888648134.jpg" alt="长沙夜生活">
 </div>
 
 ---
@@ -371,17 +382,6 @@
 **Cast:** 
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893348101.jpg" alt="凯利和超级可乐">
-</div>
-
----
-## 长沙夜生活
-**Rating:** 5.7
-**Runtime:** 106分钟
-**Country:** 中国大陆
-**Director:** 张冀
-**Cast:** 尹昉 / 张婧仪 / 苏岩
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888648134.jpg" alt="长沙夜生活">
 </div>
 
 ---
@@ -440,6 +440,17 @@
 </div>
 
 ---
+## 音魂掠影
+**Rating:** 9.2
+**Runtime:** 156分钟
+**Country:** 意大利 荷兰 德国 比利时
+**Director:** 朱塞佩·托纳多雷
+**Cast:** 恩尼奥·莫里康内 / 昆汀·塔伦蒂诺 / 克林特·伊斯特伍德
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2871903361.jpg" alt="音魂掠影">
+</div>
+
+---
 ## 一路幸福
 **Rating:** 0
 **Runtime:** 95分钟
@@ -451,14 +462,14 @@
 </div>
 
 ---
-## 音魂掠影
-**Rating:** 9.2
-**Runtime:** 156分钟
-**Country:** 意大利 荷兰 德国 比利时
-**Director:** 朱塞佩·托纳多雷
-**Cast:** 恩尼奥·莫里康内 / 昆汀·塔伦蒂诺 / 克林特·伊斯特伍德
+## 云雀
+**Rating:** 0
+**Runtime:** 91分钟
+**Country:** 中国大陆
+**Director:** 张锐
+**Cast:** 丁海峰 / 于莎莎 / 赵子琪
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2871903361.jpg" alt="音魂掠影">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892396577.jpg" alt="云雀">
 </div>
 
 ---
@@ -514,17 +525,6 @@
 **Cast:** 热拉尔·德帕迪约 / 罗曼·波兰斯基 / 赛尔乔·鲁比尼
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501807916.jpg" alt="幽国车站">
-</div>
-
----
-## 云雀
-**Rating:** 0
-**Runtime:** 91分钟
-**Country:** 中国大陆
-**Director:** 张锐
-**Cast:** 丁海峰 / 于莎莎 / 赵子琪
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892396577.jpg" alt="云雀">
 </div>
 
 ---
