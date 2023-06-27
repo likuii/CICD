@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 韦尔纳扎，五渔村，意大利 (© Rubin Versigny/Getty Images)
+
+![韦尔纳扎，五渔村，意大利 (© Rubin Versigny/Getty Images)](https://cn.bing.com/th?id=OHR.ItalyCinqueTerre_ZH-CN6495965228_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E9%9F%A6%E5%B0%94%E7%BA%B3%E6%89%8E&form=hpcapt&mkt=zh-cn)
+
 ## 塞多纳，亚利桑那州，美国 (© Jonathan Ross/Getty Images)
 
 ![塞多纳，亚利桑那州，美国 (© Jonathan Ross/Getty Images)](https://cn.bing.com/th?id=OHR.SedonaSunset_ZH-CN6289462383_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![中国传统节日端午节 (© timekeep/Shutterstock)](https://cn.bing.com/th?id=OHR.DragonBoatFestival2023_ZH-CN5255671687_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E7%AB%AF%E5%8D%88%E8%8A%82&form=hpcapt&mkt=zh-cn)
-
-## 夏日盛开的荷花 (© pandemin/Getty Images)
-
-![夏日盛开的荷花 (© pandemin/Getty Images)](https://cn.bing.com/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%A4%8F%E8%87%B3&form=hpcapt&mkt=zh-cn)
 
