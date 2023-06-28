@@ -22,6 +22,28 @@
 </div>
 
 ---
+## 闪电侠
+**Rating:** 7.9
+**Runtime:** 144分钟
+**Country:** 美国
+**Director:** 安德斯·穆斯切蒂
+**Cast:** 埃兹拉·米勒 / 本·阿弗莱克 / 迈克尔·基顿
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892365111.jpg" alt="闪电侠">
+</div>
+
+---
+## 记忆
+**Rating:** 7.6
+**Runtime:** 136分钟
+**Country:** 哥伦比亚 泰国 法国 德国 墨西哥 卡塔尔 英国 中国大陆 瑞士
+**Director:** 阿彼察邦·韦拉斯哈古
+**Cast:** 蒂尔达·斯文顿 / 艾格尼丝·布雷克 / 丹尼尔·希梅内斯·卡乔
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893377039.jpg" alt="记忆">
+</div>
+
+---
 ## 别叫我“赌神”
 **Rating:** 5.5
 **Runtime:** 114分钟
@@ -63,6 +85,17 @@
 **Cast:** 安东尼·拉莫斯 / 多米尼克·菲什巴克 / 彼特·库伦
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892024245.jpg" alt="变形金刚：超能勇士崛起">
+</div>
+
+---
+## 万湖会议
+**Rating:** 8.1
+**Runtime:** 108分钟
+**Country:** 德国
+**Director:** 马蒂·格肖内克
+**Cast:** 菲利普·霍奇迈尔 / 约翰尼斯·艾麦亚 / 马克西米连·布鲁克纳
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892500011.jpg" alt="万湖会议">
 </div>
 
 ---
@@ -110,6 +143,39 @@
 </div>
 
 ---
+## 银河护卫队3
+**Rating:** 8.5
+**Runtime:** 150分钟
+**Country:** 美国
+**Director:** 詹姆斯·古恩
+**Cast:** 克里斯·帕拉特 / 佐伊·索尔达娜 / 戴夫·巴蒂斯塔
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889358680.jpg" alt="银河护卫队3">
+</div>
+
+---
+## 街娃儿
+**Rating:** 6.3
+**Runtime:** 96分钟
+**Country:** 中国大陆
+**Director:** 那嘉佐
+**Cast:** 李九霄 / 黄米依 / 余皑磊
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893318625.jpg" alt="街娃儿">
+</div>
+
+---
+## 表白吧！在毕业前
+**Rating:** 7.2
+**Runtime:** 92分钟
+**Country:** 中国大陆
+**Director:** 宋晓文
+**Cast:** 曾柯琅 / 柴烨 / 韩雨成
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893833330.jpg" alt="表白吧！在毕业前">
+</div>
+
+---
 ## 进球吧！少年
 **Rating:** 0
 **Runtime:** 103分钟
@@ -151,6 +217,28 @@
 **Cast:** 王一博 / 胡军 / 周冬雨
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889598060.jpg" alt="长空之王">
+</div>
+
+---
+## 天空之城
+**Rating:** 9.2
+**Runtime:** 125分钟
+**Country:** 日本
+**Director:** 宫崎骏
+**Cast:** 田中真弓 / 横泽启子 / 初井言荣
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892380420.jpg" alt="天空之城">
+</div>
+
+---
+## 飞兔大联盟
+**Rating:** 6.3
+**Runtime:** 92分钟
+**Country:** 比利时 法国
+**Director:** 本杰明·莫斯奎特 本·斯塔森
+**Cast:** 乔丹·塔尔塔科夫 / 莱拉·贝尔津什 / 乔·奥克曼
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893307178.jpg" alt="飞兔大联盟">
 </div>
 
 ---
@@ -198,6 +286,28 @@
 </div>
 
 ---
+## 超级马力欧兄弟大电影
+**Rating:** 7.9
+**Runtime:** 92分钟
+**Country:** 美国 日本
+**Director:** 亚伦·霍瓦斯 迈克尔·杰勒尼克
+**Cast:** 克里斯·帕拉特 / 安雅·泰勒-乔伊 / 查理·戴
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888584528.jpg" alt="超级马力欧兄弟大电影">
+</div>
+
+---
+## 北京2022
+**Rating:** 0
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 陆川
+**Cast:** 武大靖 / 任子威 / 苏翊鸣
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891832226.jpg" alt="北京2022">
+</div>
+
+---
 ## 煞面迷影
 **Rating:** 0
 **Runtime:** 90分钟
@@ -209,6 +319,28 @@
 </div>
 
 ---
+## 长沙夜生活
+**Rating:** 5.7
+**Runtime:** 106分钟
+**Country:** 中国大陆
+**Director:** 张冀
+**Cast:** 尹昉 / 张婧仪 / 苏岩
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888648134.jpg" alt="长沙夜生活">
+</div>
+
+---
+## 追你而来
+**Rating:** 0
+**Runtime:** 89分钟
+**Country:** 中国大陆
+**Director:** 杨议
+**Cast:** 樊少皇 / 罗米 / 丁海峰
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890615565.jpg" alt="追你而来">
+</div>
+
+---
 ## 凯利和超级可乐
 **Rating:** 0
 **Runtime:** 79分钟
@@ -217,6 +349,105 @@
 **Cast:** 
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893348101.jpg" alt="凯利和超级可乐">
+</div>
+
+---
+## 宇宙护卫队：风暴力量
+**Rating:** 7.2
+**Runtime:** 94分钟
+**Country:** 中国大陆
+**Director:** 刘彭
+**Cast:** 李靖 / 刘妤姻子 / 刘蕊
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890770674.jpg" alt="宇宙护卫队：风暴力量">
+</div>
+
+---
+## 不孤岛
+**Rating:** 0
+**Runtime:** 83分钟
+**Country:** 中国大陆
+**Director:** 曹金玲
+**Cast:** 田哉妹 / 宋新文 / 吕梦圆
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891266922.jpg" alt="不孤岛">
+</div>
+
+---
+## 巧虎奇幻舞台历险记
+**Rating:** 0
+**Runtime:** 75分钟
+**Country:** 中国大陆
+**Director:** 河村友宏
+**Cast:** 李晔 / 罗玉婷 / 沈达威
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892767855.jpg" alt="巧虎奇幻舞台历险记">
+</div>
+
+---
+## 此生有约
+**Rating:** 0
+**Runtime:** 95分钟
+**Country:** 中国大陆
+**Director:** 杨涧华
+**Cast:** 王键桥 / 于华 / 徐少武
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893475550.jpg" alt="此生有约">
+</div>
+
+---
+## 凌晨两点半2
+**Rating:** 0
+**Runtime:** 92分钟
+**Country:** 中国大陆
+**Director:** 王赛
+**Cast:** 彭剑雄 / 张露文 / 王尊
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891656459.jpg" alt="凌晨两点半2">
+</div>
+
+---
+## 一路幸福
+**Rating:** 0
+**Runtime:** 95分钟
+**Country:** 中国大陆
+**Director:** 李谊 周婧 黄跃
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892469147.jpg" alt="一路幸福">
+</div>
+
+---
+## 井冈星火
+**Rating:** 0
+**Runtime:** 92分钟
+**Country:** 中国大陆
+**Director:** 周耀杰
+**Cast:** 郭广平 / 赵凯 / 杨雪儿
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890340118.jpg" alt="井冈星火">
+</div>
+
+---
+## 乔治娅
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 乔美
+**Cast:** 乔治娅 / 王柠 / 陈齐
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892637727.jpg" alt="乔治娅">
+</div>
+
+---
+## 长江
+**Rating:** 7.9
+**Runtime:** 50分钟
+**Country:** 中国大陆
+**Director:** 夏骏
+**Cast:** 胡阿祥 / 苏智良 / 王澍
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574476155.jpg" alt="长江">
 </div>
 
 ---
