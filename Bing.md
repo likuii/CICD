@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 巴尼亚群岛，苏门答腊，印度尼西亚 (© fbxx/Getty Imagesz)
+
+![巴尼亚群岛，苏门答腊，印度尼西亚 (© fbxx/Getty Imagesz)](https://cn.bing.com/th?id=OHR.BanyakIslands_ZH-CN6620304821_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%B7%B4%E5%B0%BC%E4%BA%9A%E7%BE%A4%E5%B2%9B&form=hpcapt&mkt=zh-cn)
+
 ## 韦尔纳扎，五渔村，意大利 (© Rubin Versigny/Getty Images)
 
 ![韦尔纳扎，五渔村，意大利 (© Rubin Versigny/Getty Images)](https://cn.bing.com/th?id=OHR.ItalyCinqueTerre_ZH-CN6495965228_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![帝王蝶在野花中取食 (© bookguy/Getty Images)](https://cn.bing.com/th?id=OHR.PollinatorMonarch_ZH-CN5556988827_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%B8%9D%E7%8E%8B%E8%9D%B6&form=hpcapt&mkt=zh-cn)
-
-## 中国传统节日端午节 (© timekeep/Shutterstock)
-
-![中国传统节日端午节 (© timekeep/Shutterstock)](https://cn.bing.com/th?id=OHR.DragonBoatFestival2023_ZH-CN5255671687_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E7%AB%AF%E5%8D%88%E8%8A%82&form=hpcapt&mkt=zh-cn)
 

@@ -572,17 +572,6 @@
 </div>
 
 ---
-## 矩阵·梦迷宫
-**Rating:** 0
-**Runtime:** 98分钟
-**Country:** 中国大陆
-**Director:** 郭文基
-**Cast:** 迟帅 / 于荣光 / 鲍天琦
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893474044.jpg" alt="矩阵·梦迷宫">
-</div>
-
----
 ## 夺宝奇兵5：命运转盘
 **Rating:** 0
 **Runtime:** 155分钟
@@ -679,6 +668,17 @@
 **Cast:** 杨天翔 / 凌振赫 / 吴俊全
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893820209.jpg" alt="长安三万里">
+</div>
+
+---
+## 超级飞侠：乐迪加速
+**Rating:** 0
+**Runtime:** 89分钟
+**Country:** 中国大陆
+**Director:** 冯操
+**Cast:** 张嘉骐 / 吴若萱  / 何沛祺
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891860948.jpg" alt="超级飞侠：乐迪加速">
 </div>
 
 ---
