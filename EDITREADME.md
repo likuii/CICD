@@ -601,7 +601,7 @@
 **Director:** 徐铮
 **Cast:** 陈苏 / 郏捷 / 耿晨晨
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892370602.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893877455.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
 </div>
 
 ---
