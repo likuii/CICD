@@ -550,39 +550,6 @@
 </div>
 
 ---
-## 夺宝奇兵5：命运转盘
-**Rating:** 0
-**Runtime:** 155分钟
-**Country:** 美国
-**Director:** 詹姆斯·曼高德
-**Cast:** 哈里森·福特 / 菲比·沃勒-布里奇 / 麦斯·米科尔森
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892683049.jpg" alt="夺宝奇兵5：命运转盘">
-</div>
-
----
-## 破冰72小时
-**Rating:** 0
-**Runtime:** 94分钟
-**Country:** 中国大陆
-**Director:** 陈林海
-**Cast:** 陈奕名 / 李萌萌 / 施骏喆
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893184789.jpg" alt="破冰72小时">
-</div>
-
----
-## 不曾消失的爱
-**Rating:** 0
-**Runtime:** 97分钟
-**Country:** 中国大陆
-**Director:** 杨真
-**Cast:** 高亚麟 / 黄奕 / 句号
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893199587.jpg" alt="不曾消失的爱">
-</div>
-
----
 ## 力量密码
 **Rating:** 0
 **Runtime:** 103分钟
@@ -657,6 +624,39 @@
 **Cast:** 张嘉骐 / 吴若萱  / 何沛祺
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893886888.jpg" alt="超级飞侠：乐迪加速">
+</div>
+
+---
+## 碟中谍7：致命清算（上）
+**Rating:** 0
+**Runtime:** 164分钟
+**Country:** 美国
+**Director:** 克里斯托弗·麦奎里
+**Cast:** 汤姆·克鲁斯 / 海莉·阿特维尔 / 文·瑞姆斯
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893481084.jpg" alt="碟中谍7：致命清算（上）">
+</div>
+
+---
+## 茶啊二中
+**Rating:** 0
+**Runtime:** 91分钟
+**Country:** 中国大陆
+**Director:** 夏铭泽 阎凯
+**Cast:** 邢原源 / 王博文 / 高禹恒
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891212309.jpg" alt="茶啊二中">
+</div>
+
+---
+## 欢乐丛林之外星人大冒险
+**Rating:** 0
+**Runtime:** 
+**Country:** 中国大陆
+**Director:** 
+**Cast:** 李凤良
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890512825.jpg" alt="欢乐丛林之外星人大冒险">
 </div>
 
 ---
