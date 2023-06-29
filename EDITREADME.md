@@ -656,7 +656,7 @@
 **Director:** 冯操
 **Cast:** 张嘉骐 / 吴若萱  / 何沛祺
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891860948.jpg" alt="超级飞侠：乐迪加速">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893886888.jpg" alt="超级飞侠：乐迪加速">
 </div>
 
 ---
