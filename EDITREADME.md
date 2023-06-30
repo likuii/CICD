@@ -590,7 +590,7 @@
 **Director:** 王宝强
 **Cast:** 王宝强 / 陈永胜 / 史彭元
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892918522.jpg" alt="八角笼中">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893476407.jpg" alt="八角笼中">
 </div>
 
 ---
