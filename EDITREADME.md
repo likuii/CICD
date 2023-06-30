@@ -44,17 +44,6 @@
 </div>
 
 ---
-## 别叫我“赌神”
-**Rating:** 5.5
-**Runtime:** 114分钟
-**Country:** 中国香港 中国大陆
-**Director:** 潘耀明
-**Cast:** 周润发 / 袁咏仪 / 柯炜林
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892073602.jpg" alt="别叫我“赌神”">
-</div>
-
----
 ## 蜘蛛侠：纵横宇宙
 **Rating:** 8.6
 **Runtime:** 140分钟
@@ -63,6 +52,17 @@
 **Cast:** 沙梅克·摩尔 / 海莉·斯坦菲尔德 / 奥斯卡·伊萨克
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892315297.jpg" alt="蜘蛛侠：纵横宇宙">
+</div>
+
+---
+## 别叫我“赌神”
+**Rating:** 5.5
+**Runtime:** 114分钟
+**Country:** 中国香港 中国大陆
+**Director:** 潘耀明
+**Cast:** 周润发 / 袁咏仪 / 柯炜林
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892073602.jpg" alt="别叫我“赌神”">
 </div>
 
 ---
@@ -99,17 +99,6 @@
 </div>
 
 ---
-## 速度与激情10
-**Rating:** 6.2
-**Runtime:** 140分钟
-**Country:** 美国
-**Director:** 路易斯·莱特里尔
-**Cast:** 范·迪塞尔 / 米歇尔·罗德里格兹 / 杰森·莫玛
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890967604.jpg" alt="速度与激情10">
-</div>
-
----
 ## 申纪兰
 **Rating:** 0
 **Runtime:** 108分钟
@@ -118,6 +107,17 @@
 **Cast:** 岳红 / 姚兵蓉 / 苏丽
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893777607.jpg" alt="申纪兰">
+</div>
+
+---
+## 速度与激情10
+**Rating:** 6.2
+**Runtime:** 140分钟
+**Country:** 美国
+**Director:** 路易斯·莱特里尔
+**Cast:** 范·迪塞尔 / 米歇尔·罗德里格兹 / 杰森·莫玛
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890967604.jpg" alt="速度与激情10">
 </div>
 
 ---
@@ -165,36 +165,14 @@
 </div>
 
 ---
-## 憨兔的奇幻之旅
+## 破冰72小时
 **Rating:** 0
-**Runtime:** 
+**Runtime:** 94分钟
 **Country:** 中国大陆
-**Director:** 刘晓光
-**Cast:** 
+**Director:** 陈林海
+**Cast:** 陈奕名 / 李萌萌 / 施骏喆
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892643119.jpg" alt="憨兔的奇幻之旅">
-</div>
-
----
-## 进球吧！少年
-**Rating:** 0
-**Runtime:** 103分钟
-**Country:** 中国大陆
-**Director:** 史蒂夫·威兹
-**Cast:** 埃里克·坎通纳 / 蒋雯丽 / 陈百祥
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893192712.jpg" alt="进球吧！少年">
-</div>
-
----
-## 表白吧！在毕业前
-**Rating:** 7.1
-**Runtime:** 92分钟
-**Country:** 中国大陆
-**Director:** 宋晓文
-**Cast:** 曾柯琅 / 柴烨 / 韩雨成
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893833330.jpg" alt="表白吧！在毕业前">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893184789.jpg" alt="破冰72小时">
 </div>
 
 ---
@@ -209,17 +187,6 @@
 </div>
 
 ---
-## 长空之王
-**Rating:** 6.6
-**Runtime:** 127分钟
-**Country:** 中国大陆
-**Director:** 刘晓世
-**Cast:** 王一博 / 胡军 / 周冬雨
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889598060.jpg" alt="长空之王">
-</div>
-
----
 ## 人生路不熟
 **Rating:** 6.3
 **Runtime:** 100分钟
@@ -231,14 +198,36 @@
 </div>
 
 ---
-## 破冰72小时
+## 憨兔的奇幻之旅
 **Rating:** 0
-**Runtime:** 94分钟
+**Runtime:** 
 **Country:** 中国大陆
-**Director:** 陈林海
-**Cast:** 陈奕名 / 李萌萌 / 施骏喆
+**Director:** 刘晓光
+**Cast:** 
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893184789.jpg" alt="破冰72小时">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892643119.jpg" alt="憨兔的奇幻之旅">
+</div>
+
+---
+## 表白吧！在毕业前
+**Rating:** 7.1
+**Runtime:** 92分钟
+**Country:** 中国大陆
+**Director:** 宋晓文
+**Cast:** 曾柯琅 / 柴烨 / 韩雨成
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893833330.jpg" alt="表白吧！在毕业前">
+</div>
+
+---
+## 进球吧！少年
+**Rating:** 0
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 史蒂夫·威兹
+**Cast:** 埃里克·坎通纳 / 蒋雯丽 / 陈百祥
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893192712.jpg" alt="进球吧！少年">
 </div>
 
 ---
@@ -250,6 +239,17 @@
 **Cast:** 高亚麟 / 黄奕 / 句号
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893199587.jpg" alt="不曾消失的爱">
+</div>
+
+---
+## 长空之王
+**Rating:** 6.6
+**Runtime:** 127分钟
+**Country:** 中国大陆
+**Director:** 刘晓世
+**Cast:** 王一博 / 胡军 / 周冬雨
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889598060.jpg" alt="长空之王">
 </div>
 
 ---
@@ -275,17 +275,6 @@
 </div>
 
 ---
-## 铃芽之旅
-**Rating:** 7.3
-**Runtime:** 122分钟(中国大陆)
-**Country:** 日本
-**Director:** 新海诚
-**Cast:** 原菜乃华 / 松村北斗 / 深津绘里
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2887641712.jpg" alt="铃芽之旅">
-</div>
-
----
 ## 飞兔大联盟
 **Rating:** 6.3
 **Runtime:** 92分钟
@@ -297,14 +286,14 @@
 </div>
 
 ---
-## 超级马力欧兄弟大电影
-**Rating:** 7.9
-**Runtime:** 92分钟
-**Country:** 美国 日本
-**Director:** 亚伦·霍瓦斯 迈克尔·杰勒尼克
-**Cast:** 克里斯·帕拉特 / 安雅·泰勒-乔伊 / 查理·戴
+## 铃芽之旅
+**Rating:** 7.3
+**Runtime:** 122分钟(中国大陆)
+**Country:** 日本
+**Director:** 新海诚
+**Cast:** 原菜乃华 / 松村北斗 / 深津绘里
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888584528.jpg" alt="超级马力欧兄弟大电影">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2887641712.jpg" alt="铃芽之旅">
 </div>
 
 ---
@@ -316,6 +305,17 @@
 **Cast:** 仲村宗悟 / 笠间淳 / 木村昴
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888398295.jpg" alt="灌篮高手">
+</div>
+
+---
+## 超级马力欧兄弟大电影
+**Rating:** 7.9
+**Runtime:** 92分钟
+**Country:** 美国 日本
+**Director:** 亚伦·霍瓦斯 迈克尔·杰勒尼克
+**Cast:** 克里斯·帕拉特 / 安雅·泰勒-乔伊 / 查理·戴
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888584528.jpg" alt="超级马力欧兄弟大电影">
 </div>
 
 ---
@@ -363,6 +363,17 @@
 </div>
 
 ---
+## 凌晨两点半2
+**Rating:** 0
+**Runtime:** 92分钟
+**Country:** 中国大陆
+**Director:** 王赛
+**Cast:** 彭剑雄 / 张露文 / 王尊
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891656459.jpg" alt="凌晨两点半2">
+</div>
+
+---
 ## 追你而来
 **Rating:** 0
 **Runtime:** 89分钟
@@ -371,17 +382,6 @@
 **Cast:** 樊少皇 / 罗米 / 丁海峰
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890615565.jpg" alt="追你而来">
-</div>
-
----
-## 宇宙护卫队：风暴力量
-**Rating:** 7.2
-**Runtime:** 94分钟
-**Country:** 中国大陆
-**Director:** 刘彭
-**Cast:** 李靖 / 刘妤姻子 / 刘蕊
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890770674.jpg" alt="宇宙护卫队：风暴力量">
 </div>
 
 ---
@@ -396,14 +396,14 @@
 </div>
 
 ---
-## 凌晨两点半2
-**Rating:** 0
-**Runtime:** 92分钟
+## 宇宙护卫队：风暴力量
+**Rating:** 7.2
+**Runtime:** 94分钟
 **Country:** 中国大陆
-**Director:** 王赛
-**Cast:** 彭剑雄 / 张露文 / 王尊
+**Director:** 刘彭
+**Cast:** 李靖 / 刘妤姻子 / 刘蕊
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891656459.jpg" alt="凌晨两点半2">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890770674.jpg" alt="宇宙护卫队：风暴力量">
 </div>
 
 ---
@@ -418,25 +418,14 @@
 </div>
 
 ---
-## 巧虎奇幻舞台历险记
-**Rating:** 0
-**Runtime:** 75分钟
-**Country:** 中国大陆
-**Director:** 河村友宏
-**Cast:** 李晔 / 罗玉婷 / 沈达威
+## 荒野大镖客
+**Rating:** 8.4
+**Runtime:** 100分钟
+**Country:** 意大利 西班牙 西德
+**Director:** 赛尔乔·莱昂内
+**Cast:** 克林特·伊斯特伍德 / 吉安·马里亚·沃隆特 / 沃尔夫冈·路卡西
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892767855.jpg" alt="巧虎奇幻舞台历险记">
-</div>
-
----
-## 音魂掠影
-**Rating:** 9.2
-**Runtime:** 156分钟
-**Country:** 意大利 荷兰 德国 比利时
-**Director:** 朱塞佩·托纳多雷
-**Cast:** 恩尼奥·莫里康内 / 昆汀·塔伦蒂诺 / 克林特·伊斯特伍德
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2871903361.jpg" alt="音魂掠影">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2178157710.jpg" alt="荒野大镖客">
 </div>
 
 ---
@@ -451,25 +440,25 @@
 </div>
 
 ---
-## 荒野大镖客
-**Rating:** 8.4
-**Runtime:** 100分钟
-**Country:** 意大利 西班牙 西德
-**Director:** 赛尔乔·莱昂内
-**Cast:** 克林特·伊斯特伍德 / 吉安·马里亚·沃隆特 / 沃尔夫冈·路卡西
+## 音魂掠影
+**Rating:** 9.2
+**Runtime:** 156分钟
+**Country:** 意大利 荷兰 德国 比利时
+**Director:** 朱塞佩·托纳多雷
+**Cast:** 恩尼奥·莫里康内 / 昆汀·塔伦蒂诺 / 克林特·伊斯特伍德
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2178157710.jpg" alt="荒野大镖客">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2871903361.jpg" alt="音魂掠影">
 </div>
 
 ---
-## 乔治娅
+## 巧虎奇幻舞台历险记
 **Rating:** 0
-**Runtime:** 88分钟
+**Runtime:** 75分钟
 **Country:** 中国大陆
-**Director:** 乔美
-**Cast:** 乔治娅 / 王柠 / 陈齐
+**Director:** 河村友宏
+**Cast:** 李晔 / 罗玉婷 / 沈达威
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892637727.jpg" alt="乔治娅">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892767855.jpg" alt="巧虎奇幻舞台历险记">
 </div>
 
 ---
@@ -484,17 +473,6 @@
 </div>
 
 ---
-## 黄昏双镖客
-**Rating:** 8.9
-**Runtime:** 132分钟
-**Country:** 意大利 西班牙 西德
-**Director:** 赛尔乔·莱昂内
-**Cast:** 克林特·伊斯特伍德 / 李·范·克里夫 / 吉安·马里亚·沃隆特
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2191195219.jpg" alt="黄昏双镖客">
-</div>
-
----
 ## 一路幸福
 **Rating:** 0
 **Runtime:** 95分钟
@@ -506,14 +484,25 @@
 </div>
 
 ---
-## 井冈星火
+## 乔治娅
 **Rating:** 0
-**Runtime:** 92分钟
+**Runtime:** 88分钟
 **Country:** 中国大陆
-**Director:** 周耀杰
-**Cast:** 郭广平 / 赵凯 / 杨雪儿
+**Director:** 乔美
+**Cast:** 乔治娅 / 王柠 / 陈齐
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890340118.jpg" alt="井冈星火">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892637727.jpg" alt="乔治娅">
+</div>
+
+---
+## 黄昏双镖客
+**Rating:** 8.9
+**Runtime:** 132分钟
+**Country:** 意大利 西班牙 西德
+**Director:** 赛尔乔·莱昂内
+**Cast:** 克林特·伊斯特伍德 / 李·范·克里夫 / 吉安·马里亚·沃隆特
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2191195219.jpg" alt="黄昏双镖客">
 </div>
 
 ---
@@ -525,6 +514,17 @@
 **Cast:** 热拉尔·德帕迪约 / 罗曼·波兰斯基 / 赛尔乔·鲁比尼
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501807916.jpg" alt="幽国车站">
+</div>
+
+---
+## 井冈星火
+**Rating:** 0
+**Runtime:** 92分钟
+**Country:** 中国大陆
+**Director:** 周耀杰
+**Cast:** 郭广平 / 赵凯 / 杨雪儿
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890340118.jpg" alt="井冈星火">
 </div>
 
 ---
