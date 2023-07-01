@@ -23,7 +23,7 @@
 
 ---
 ## 夺宝奇兵5：命运转盘
-**Rating:** 7.2
+**Rating:** 7.3
 **Runtime:** 155分钟
 **Country:** 美国
 **Director:** 詹姆斯·曼高德
@@ -287,7 +287,7 @@
 
 ---
 ## 表白吧！在毕业前
-**Rating:** 7.1
+**Rating:** 7
 **Runtime:** 92分钟
 **Country:** 中国大陆
 **Director:** 宋晓文
