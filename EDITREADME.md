@@ -122,7 +122,7 @@
 
 ---
 ## 人生路不熟
-**Rating:** 6.3
+**Rating:** 6.2
 **Runtime:** 100分钟
 **Country:** 中国大陆
 **Director:** 易小星
