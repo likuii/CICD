@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 费吕沃湖水道桥，荷兰 (© Frolova_Elena/Shutterstock)
+
+![费吕沃湖水道桥，荷兰 (© Frolova_Elena/Shutterstock)](https://cn.bing.com/th?id=OHR.HalfwayBoats_ZH-CN3563044251_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E8%B4%B9%E5%90%95%E6%B2%83%E6%B9%96%E6%B0%B4%E9%81%93%E6%A1%A5&form=hpcapt&mkt=zh-cn)
+
 ## 从意大利圣天使城堡俯瞰罗马 (© sborisov/Getty Images)
 
 ![从意大利圣天使城堡俯瞰罗马 (© sborisov/Getty Images)](https://cn.bing.com/th?id=OHR.RomeView_ZH-CN5882212305_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![维朗德里城堡及花园，卢瓦尔河谷，法国 (© VLADJ55/Shutterstock)](https://cn.bing.com/th?id=OHR.VillandryGarden_ZH-CN6140359139_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E7%BB%B4%E6%9C%97%E5%BE%B7%E9%87%8C%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn)
-
-## 佩特拉的宝库，约旦 (© WitthayaP/Shutterstock)
-
-![佩特拉的宝库，约旦 (© WitthayaP/Shutterstock)](https://cn.bing.com/th?id=OHR.PetraTreasury_ZH-CN6007151900_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E4%BD%A9%E7%89%B9%E6%8B%89&form=hpcapt&mkt=zh-cn)
 
