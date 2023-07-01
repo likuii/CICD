@@ -23,7 +23,7 @@
 
 ---
 ## 夺宝奇兵5：命运转盘
-**Rating:** 7.3
+**Rating:** 7.2
 **Runtime:** 155分钟
 **Country:** 美国
 **Director:** 詹姆斯·曼高德
