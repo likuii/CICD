@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 班夫的土狼，加拿大 (© Harry Collins/Getty Images)
+
+![班夫的土狼，加拿大 (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.CoyoteBanff_ZH-CN4183627255_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%9C%9F%E7%8B%BC&form=hpcapt&mkt=zh-cn)
+
 ## 费吕沃湖水道桥，荷兰 (© Frolova_Elena/Shutterstock)
 
 ![费吕沃湖水道桥，荷兰 (© Frolova_Elena/Shutterstock)](https://cn.bing.com/th?id=OHR.HalfwayBoats_ZH-CN3563044251_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![塞多纳，亚利桑那州，美国 (© Jonathan Ross/Getty Images)](https://cn.bing.com/th?id=OHR.SedonaSunset_ZH-CN6289462383_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%A1%9E%E5%A4%9A%E7%BA%B3&form=hpcapt&mkt=zh-cn)
-
-## 维朗德里城堡及花园，卢瓦尔河谷，法国 (© VLADJ55/Shutterstock)
-
-![维朗德里城堡及花园，卢瓦尔河谷，法国 (© VLADJ55/Shutterstock)](https://cn.bing.com/th?id=OHR.VillandryGarden_ZH-CN6140359139_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E7%BB%B4%E6%9C%97%E5%BE%B7%E9%87%8C%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn)
 
