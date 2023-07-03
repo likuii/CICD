@@ -27,7 +27,7 @@
 **Runtime:** 155分钟
 **Country:** 美国
 **Director:** 詹姆斯·曼高德
-**Cast:** 哈里森·福特 / 菲比·沃勒-布里奇 / 麦斯·米科尔森
+**Cast:** 哈里森·福特 / 菲比·沃勒-布里奇 / 安东尼奥·班德拉斯
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892683049.jpg" alt="夺宝奇兵5：命运转盘">
 </div>
