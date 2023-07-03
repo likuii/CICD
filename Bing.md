@@ -6,7 +6,7 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
 ## 班夫的土狼，加拿大 (© Harry Collins/Getty Images)
 
-![班夫的土狼，加拿大 (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.CoyoteBanff_ZH-CN4183627255_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+![班夫的土狼，加拿大 (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.CoyoteBanff_ZH-CN7537137739_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%9C%9F%E7%8B%BC&form=hpcapt&mkt=zh-cn)
 
