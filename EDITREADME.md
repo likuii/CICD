@@ -187,6 +187,17 @@
 </div>
 
 ---
+## 温柔壳
+**Rating:** 7.3
+**Runtime:** 104分钟
+**Country:** 中国大陆
+**Director:** 王沐
+**Cast:** 王子文 / 尹昉 / 咏梅
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892635176.jpg" alt="温柔壳">
+</div>
+
+---
 ## 银河护卫队3
 **Rating:** 8.5
 **Runtime:** 150分钟
