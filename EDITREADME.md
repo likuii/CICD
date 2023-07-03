@@ -621,7 +621,7 @@
 **Runtime:** 164分钟
 **Country:** 美国
 **Director:** 克里斯托弗·麦奎里
-**Cast:** 汤姆·克鲁斯 / 海莉·阿特维尔 / 文·瑞姆斯
+**Cast:** 汤姆·克鲁斯 / 丽贝卡·弗格森 / 西蒙·佩吉
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893481084.jpg" alt="碟中谍7：致命清算（上）">
 </div>
