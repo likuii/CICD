@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 草原国家公园，萨斯喀彻温省，加拿大 (© Robert Postma/Getty Images)
+
+![草原国家公园，萨斯喀彻温省，加拿大 (© Robert Postma/Getty Images)](https://cn.bing.com/th?id=OHR.GrasslandsNationalParkSaskachewan_ZH-CN6530285883_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E8%8D%89%E5%8E%9F%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+
 ## 班夫的土狼，加拿大 (© Harry Collins/Getty Images)
 
 ![班夫的土狼，加拿大 (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.CoyoteBanff_ZH-CN7537137739_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![韦尔纳扎，五渔村，意大利 (© Rubin Versigny/Getty Images)](https://cn.bing.com/th?id=OHR.ItalyCinqueTerre_ZH-CN6495965228_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E9%9F%A6%E5%B0%94%E7%BA%B3%E6%89%8E&form=hpcapt&mkt=zh-cn)
-
-## 塞多纳，亚利桑那州，美国 (© Jonathan Ross/Getty Images)
-
-![塞多纳，亚利桑那州，美国 (© Jonathan Ross/Getty Images)](https://cn.bing.com/th?id=OHR.SedonaSunset_ZH-CN6289462383_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%A1%9E%E5%A4%9A%E7%BA%B3&form=hpcapt&mkt=zh-cn)
 
