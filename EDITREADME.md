@@ -610,7 +610,7 @@
 **Runtime:** 88分钟
 **Country:** 中国大陆
 **Director:** 张国栋
-**Cast:** 仁青甲木措 / 扎西 / 菊琼钦哲巴赞
+**Cast:** 仁青甲木措 / 扎西 / 居琼钦哲
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893912243.jpg" alt="少年桑吉">
 </div>
