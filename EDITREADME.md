@@ -605,6 +605,17 @@
 </div>
 
 ---
+## 少年桑吉
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 张国栋
+**Cast:** 仁青甲木措 / 扎西 / 菊琼钦哲巴赞
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893912243.jpg" alt="少年桑吉">
+</div>
+
+---
 ## 碟中谍7：致命清算（上）
 **Rating:** 0
 **Runtime:** 164分钟
@@ -657,17 +668,6 @@
 **Cast:** 艾伦 / 沈腾 / 陶慧
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890369636.jpg" alt="超能一家人">
-</div>
-
----
-## 芭比
-**Rating:** 0
-**Runtime:** 114分钟
-**Country:** 加拿大 美国
-**Director:** 格蕾塔·葛韦格
-**Cast:** 玛格特·罗比 / 瑞恩·高斯林 / 海伦·米伦
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893368060.jpg" alt="芭比">
 </div>
 
 ---
