@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 蒂莫尼港海滩，科孚岛，希腊 (© nantonov/Getty Images)
+
+![蒂莫尼港海滩，科孚岛，希腊 (© nantonov/Getty Images)](https://cn.bing.com/th?id=OHR.CorfuBeach_ZH-CN8660068587_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E7%A7%91%E5%AD%9A%E5%B2%9B&form=hpcapt&mkt=zh-cn)
+
 ## 草原国家公园，萨斯喀彻温省，加拿大 (© Robert Postma/Getty Images)
 
 ![草原国家公园，萨斯喀彻温省，加拿大 (© Robert Postma/Getty Images)](https://cn.bing.com/th?id=OHR.GrasslandsNationalParkSaskachewan_ZH-CN6530285883_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![巴尼亚群岛，苏门答腊，印度尼西亚 (© fbxx/Getty Imagesz)](https://cn.bing.com/th?id=OHR.BanyakIslands_ZH-CN6620304821_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%B7%B4%E5%B0%BC%E4%BA%9A%E7%BE%A4%E5%B2%9B&form=hpcapt&mkt=zh-cn)
-
-## 韦尔纳扎，五渔村，意大利 (© Rubin Versigny/Getty Images)
-
-![韦尔纳扎，五渔村，意大利 (© Rubin Versigny/Getty Images)](https://cn.bing.com/th?id=OHR.ItalyCinqueTerre_ZH-CN6495965228_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E9%9F%A6%E5%B0%94%E7%BA%B3%E6%89%8E&form=hpcapt&mkt=zh-cn)
 
