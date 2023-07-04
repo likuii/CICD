@@ -462,6 +462,17 @@
 </div>
 
 ---
+## 周恩来与乌兰牧骑
+**Rating:** 0
+**Runtime:** 110分钟
+**Country:** 中国大陆
+**Director:** 孙海波
+**Cast:** 刘劲 / 刘佩琦 / 刘欣
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2872831588.jpg" alt="周恩来与乌兰牧骑">
+</div>
+
+---
 ## 音魂掠影
 **Rating:** 9.2
 **Runtime:** 156分钟
