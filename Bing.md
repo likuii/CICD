@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 南跳岩企鹅，福克兰群岛 (© Tony Beck/Getty Images)
+
+![南跳岩企鹅，福克兰群岛 (© Tony Beck/Getty Images)](https://cn.bing.com/th?id=OHR.KissingPenguins_ZH-CN5449471262_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%8D%97%E8%B7%B3%E5%B2%A9%E4%BC%81%E9%B9%85&form=hpcapt&mkt=zh-cn)
+
 ## 蒂莫尼港海滩，科孚岛，希腊 (© nantonov/Getty Images)
 
 ![蒂莫尼港海滩，科孚岛，希腊 (© nantonov/Getty Images)](https://cn.bing.com/th?id=OHR.CorfuBeach_ZH-CN8660068587_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![棕熊妈妈和幼崽，克拉克湖国家公园和自然保护区，美国阿拉斯加州 (© Carlos Carreno/Getty Images)](https://cn.bing.com/th?id=OHR.ClamBears_ZH-CN5686721500_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E6%A3%95%E7%86%8A&form=hpcapt&mkt=zh-cn)
-
-## 巴尼亚群岛，苏门答腊，印度尼西亚 (© fbxx/Getty Imagesz)
-
-![巴尼亚群岛，苏门答腊，印度尼西亚 (© fbxx/Getty Imagesz)](https://cn.bing.com/th?id=OHR.BanyakIslands_ZH-CN6620304821_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%B7%B4%E5%B0%BC%E4%BA%9A%E7%BE%A4%E5%B2%9B&form=hpcapt&mkt=zh-cn)
 
