@@ -540,7 +540,7 @@
 
 ---
 ## 宇宙护卫队：风暴力量
-**Rating:** 7.2
+**Rating:** 7.1
 **Runtime:** 94分钟
 **Country:** 中国大陆
 **Director:** 刘彭
