@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 安班加的可可豆荚，马达加斯加 (© pierivb/Getty Images)
+
+![安班加的可可豆荚，马达加斯加 (© pierivb/Getty Images)](https://cn.bing.com/th?id=OHR.CocoaPods_ZH-CN6192387360_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%8F%AF%E5%8F%AF%E8%B1%86&form=hpcapt&mkt=zh-cn)
+
 ## 南跳岩企鹅，福克兰群岛 (© Tony Beck/Getty Images)
 
 ![南跳岩企鹅，福克兰群岛 (© Tony Beck/Getty Images)](https://cn.bing.com/th?id=OHR.KissingPenguins_ZH-CN5449471262_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![从意大利圣天使城堡俯瞰罗马 (© sborisov/Getty Images)](https://cn.bing.com/th?id=OHR.RomeView_ZH-CN5882212305_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E7%BD%97%E9%A9%AC&form=hpcapt&mkt=zh-cn)
-
-## 棕熊妈妈和幼崽，克拉克湖国家公园和自然保护区，美国阿拉斯加州 (© Carlos Carreno/Getty Images)
-
-![棕熊妈妈和幼崽，克拉克湖国家公园和自然保护区，美国阿拉斯加州 (© Carlos Carreno/Getty Images)](https://cn.bing.com/th?id=OHR.ClamBears_ZH-CN5686721500_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E6%A3%95%E7%86%8A&form=hpcapt&mkt=zh-cn)
 
