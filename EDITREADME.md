@@ -12,7 +12,7 @@
 
 ---
 ## 八角笼中
-**Rating:** 0
+**Rating:** 7.6
 **Runtime:** 117分钟
 **Country:** 中国大陆
 **Director:** 王宝强
@@ -309,7 +309,7 @@
 
 ---
 ## 表白吧！在毕业前
-**Rating:** 6.9
+**Rating:** 7
 **Runtime:** 92分钟
 **Country:** 中国大陆
 **Director:** 宋晓文
