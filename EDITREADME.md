@@ -539,39 +539,6 @@
 </div>
 
 ---
-## 长安三万里
-**Rating:** 0
-**Runtime:** 168分钟
-**Country:** 中国大陆
-**Director:** 谢君伟 邹靖
-**Cast:** 杨天翔 / 凌振赫 / 吴俊全
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893820209.jpg" alt="长安三万里">
-</div>
-
----
-## 超级飞侠：乐迪加速
-**Rating:** 0
-**Runtime:** 89分钟
-**Country:** 中国大陆
-**Director:** 冯操
-**Cast:** 张嘉骐 / 吴若萱  / 何沛祺
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893886888.jpg" alt="超级飞侠：乐迪加速">
-</div>
-
----
-## 少年桑吉
-**Rating:** 0
-**Runtime:** 88分钟
-**Country:** 中国大陆
-**Director:** 张国栋
-**Cast:** 仁青甲木措 / 扎西 / 居琼钦
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893912243.jpg" alt="少年桑吉">
-</div>
-
----
 ## 碟中谍7：致命清算（上）
 **Rating:** 0
 **Runtime:** 164分钟
@@ -646,6 +613,39 @@
 **Cast:** 姚培华 / 秦紫翼 / 刘方芳
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892683338.jpg" alt="百变马丁：怪兽大作战">
+</div>
+
+---
+## 热烈
+**Rating:** 0
+**Runtime:** 
+**Country:** 中国大陆
+**Director:** 大鹏
+**Cast:** 黄渤 / 王一博 / 刘敏涛
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893878185.jpg" alt="热烈">
+</div>
+
+---
+## 巨齿鲨2：深渊
+**Rating:** 0
+**Runtime:** 116分钟
+**Country:** 美国 中国大陆
+**Director:** 本·维特利 
+**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891777430.jpg" alt="巨齿鲨2：深渊">
+</div>
+
+---
+## 雪豹和她的朋友们
+**Rating:** 0
+**Runtime:** 85分钟
+**Country:** 中国大陆
+**Director:** 奚志农
+**Cast:** 朱亚文
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893468304.jpg" alt="雪豹和她的朋友们">
 </div>
 
 ---

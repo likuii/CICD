@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 米尔德里德-B-库珀纪念教堂，贝拉维斯塔，阿肯色州 (© Eddie Brady/Getty Images)
+
+![米尔德里德-B-库珀纪念教堂，贝拉维斯塔，阿肯色州 (© Eddie Brady/Getty Images)](https://cn.bing.com/th?id=OHR.CooperChapel_ZH-CN1150924688_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E9%98%BF%E8%82%AF%E8%89%B2%E5%B7%9E&form=hpcapt&mkt=zh-cn)
+
 ## 安班加的可可豆荚，马达加斯加 (© pierivb/Getty Images)
 
 ![安班加的可可豆荚，马达加斯加 (© pierivb/Getty Images)](https://cn.bing.com/th?id=OHR.CocoaPods_ZH-CN6192387360_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![费吕沃湖水道桥，荷兰 (© Frolova_Elena/Shutterstock)](https://cn.bing.com/th?id=OHR.HalfwayBoats_ZH-CN3563044251_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E8%B4%B9%E5%90%95%E6%B2%83%E6%B9%96%E6%B0%B4%E9%81%93%E6%A1%A5&form=hpcapt&mkt=zh-cn)
-
-## 从意大利圣天使城堡俯瞰罗马 (© sborisov/Getty Images)
-
-![从意大利圣天使城堡俯瞰罗马 (© sborisov/Getty Images)](https://cn.bing.com/th?id=OHR.RomeView_ZH-CN5882212305_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E7%BD%97%E9%A9%AC&form=hpcapt&mkt=zh-cn)
 
