@@ -1,5 +1,16 @@
 # Douban Currently Playing Movies
 
+## 八角笼中
+**Rating:** 7.6
+**Runtime:** 117分钟
+**Country:** 中国大陆
+**Director:** 王宝强
+**Cast:** 王宝强 / 陈永胜 / 史彭元
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893476407.jpg" alt="八角笼中">
+</div>
+
+---
 ## 消失的她
 **Rating:** 6.5
 **Runtime:** 121 分钟
@@ -11,14 +22,14 @@
 </div>
 
 ---
-## 八角笼中
-**Rating:** 7.6
-**Runtime:** 117分钟
-**Country:** 中国大陆
-**Director:** 王宝强
-**Cast:** 王宝强 / 陈永胜 / 史彭元
+## 扫毒3：人在天涯
+**Rating:** 0
+**Runtime:** 124分钟
+**Country:** 中国大陆 中国香港
+**Director:** 邱礼涛
+**Cast:** 刘青云 / 古天乐 / 郭富城
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893476407.jpg" alt="八角笼中">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892914259.jpg" alt="扫毒3：人在天涯">
 </div>
 
 ---
@@ -41,17 +52,6 @@
 **Cast:** 哈里森·福特 / 菲比·沃勒-布里奇 / 安东尼奥·班德拉斯
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892683049.jpg" alt="夺宝奇兵5：命运转盘">
-</div>
-
----
-## 扫毒3：人在天涯
-**Rating:** 0
-**Runtime:** 124分钟
-**Country:** 中国大陆 中国香港
-**Director:** 邱礼涛
-**Cast:** 刘青云 / 古天乐 / 郭富城
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892914259.jpg" alt="扫毒3：人在天涯">
 </div>
 
 ---
@@ -121,14 +121,14 @@
 </div>
 
 ---
-## 申纪兰
+## 力量密码
 **Rating:** 0
-**Runtime:** 108分钟
+**Runtime:** 103分钟
 **Country:** 中国大陆
-**Director:** 哈斯朝鲁
-**Cast:** 岳红 / 姚兵蓉 / 苏丽
+**Director:** 高峰
+**Cast:** 张桐 / 陈都灵 / 白恩
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893777607.jpg" alt="申纪兰">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
 </div>
 
 ---
@@ -140,17 +140,6 @@
 **Cast:** 乔杉 / 范丞丞 / 马丽
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2889864501.jpg" alt="人生路不熟">
-</div>
-
----
-## 力量密码
-**Rating:** 0
-**Runtime:** 103分钟
-**Country:** 中国大陆
-**Director:** 高峰
-**Cast:** 张桐 / 陈都灵 / 白恩
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
 </div>
 
 ---
@@ -176,6 +165,17 @@
 </div>
 
 ---
+## 申纪兰
+**Rating:** 0
+**Runtime:** 108分钟
+**Country:** 中国大陆
+**Director:** 哈斯朝鲁
+**Cast:** 岳红 / 姚兵蓉 / 苏丽
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893777607.jpg" alt="申纪兰">
+</div>
+
+---
 ## 铃芽之旅
 **Rating:** 7.3
 **Runtime:** 122分钟(中国大陆)
@@ -184,6 +184,17 @@
 **Cast:** 原菜乃华 / 松村北斗 / 深津绘里
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2887641712.jpg" alt="铃芽之旅">
+</div>
+
+---
+## 长空之王
+**Rating:** 6.6
+**Runtime:** 127分钟
+**Country:** 中国大陆
+**Director:** 刘晓世
+**Cast:** 王一博 / 胡军 / 周冬雨
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889598060.jpg" alt="长空之王">
 </div>
 
 ---
@@ -220,17 +231,6 @@
 </div>
 
 ---
-## 长空之王
-**Rating:** 6.6
-**Runtime:** 127分钟
-**Country:** 中国大陆
-**Director:** 刘晓世
-**Cast:** 王一博 / 胡军 / 周冬雨
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889598060.jpg" alt="长空之王">
-</div>
-
----
 ## 街娃儿
 **Rating:** 6.3
 **Runtime:** 96分钟
@@ -264,14 +264,25 @@
 </div>
 
 ---
-## 海洋传奇
+## 午夜迷途
 **Rating:** 0
-**Runtime:** 90分钟
+**Runtime:** 74分钟
 **Country:** 中国大陆
-**Director:** 刘红梅 孙一曦
-**Cast:** 朱媛媛 / 黄志忠 / 克拉拉
+**Director:** 张若以
+**Cast:** 单思杰 / 廖越 / 郭万超
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893031018.jpg" alt="海洋传奇">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892799691.jpg" alt="午夜迷途">
+</div>
+
+---
+## 矩阵·梦迷宫
+**Rating:** 0
+**Runtime:** 98分钟
+**Country:** 中国大陆
+**Director:** 郭文基
+**Cast:** 迟帅 / 于荣光 / 鲍天琦
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893835621.jpg" alt="矩阵·梦迷宫">
 </div>
 
 ---
@@ -286,14 +297,14 @@
 </div>
 
 ---
-## 午夜迷途
+## 海洋传奇
 **Rating:** 0
-**Runtime:** 74分钟
+**Runtime:** 90分钟
 **Country:** 中国大陆
-**Director:** 张若以
-**Cast:** 单思杰 / 廖越 / 郭万超
+**Director:** 刘红梅 孙一曦
+**Cast:** 朱媛媛 / 黄志忠 / 克拉拉
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892799691.jpg" alt="午夜迷途">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893031018.jpg" alt="海洋传奇">
 </div>
 
 ---
@@ -319,17 +330,6 @@
 </div>
 
 ---
-## 破冰72小时
-**Rating:** 0
-**Runtime:** 94分钟
-**Country:** 中国大陆
-**Director:** 陈林海
-**Cast:** 陈奕名 / 李萌萌 / 施骏喆
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893184789.jpg" alt="破冰72小时">
-</div>
-
----
 ## 疯狂小世界
 **Rating:** 0
 **Runtime:** 
@@ -338,6 +338,17 @@
 **Cast:** 苏倩云 / 张艺雯 / 张成杰
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890182713.jpg" alt="疯狂小世界">
+</div>
+
+---
+## 破冰72小时
+**Rating:** 0
+**Runtime:** 94分钟
+**Country:** 中国大陆
+**Director:** 陈林海
+**Cast:** 陈奕名 / 李萌萌 / 施骏喆
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893184789.jpg" alt="破冰72小时">
 </div>
 
 ---
@@ -363,17 +374,6 @@
 </div>
 
 ---
-## 矩阵·梦迷宫
-**Rating:** 0
-**Runtime:** 98分钟
-**Country:** 中国大陆
-**Director:** 郭文基
-**Cast:** 迟帅 / 于荣光 / 鲍天琦
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893835621.jpg" alt="矩阵·梦迷宫">
-</div>
-
----
 ## 黄金三镖客
 **Rating:** 9.2
 **Runtime:** 162分钟
@@ -382,6 +382,28 @@
 **Cast:** 克林特·伊斯特伍德 / 埃里·瓦拉赫 / 李·范·克里夫
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2178150710.jpg" alt="黄金三镖客">
+</div>
+
+---
+## 巧虎奇幻舞台历险记
+**Rating:** 0
+**Runtime:** 75分钟
+**Country:** 中国大陆
+**Director:** 河村友宏
+**Cast:** 李晔 / 罗玉婷 / 沈达威
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892767855.jpg" alt="巧虎奇幻舞台历险记">
+</div>
+
+---
+## 音魂掠影
+**Rating:** 9.2
+**Runtime:** 156分钟
+**Country:** 意大利 荷兰 德国 比利时
+**Director:** 朱塞佩·托纳多雷
+**Cast:** 恩尼奥·莫里康内 / 昆汀·塔伦蒂诺 / 克林特·伊斯特伍德
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2871903361.jpg" alt="音魂掠影">
 </div>
 
 ---
@@ -407,17 +429,6 @@
 </div>
 
 ---
-## 巧虎奇幻舞台历险记
-**Rating:** 0
-**Runtime:** 75分钟
-**Country:** 中国大陆
-**Director:** 河村友宏
-**Cast:** 李晔 / 罗玉婷 / 沈达威
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892767855.jpg" alt="巧虎奇幻舞台历险记">
-</div>
-
----
 ## 京门烽火
 **Rating:** 0
 **Runtime:** 
@@ -429,14 +440,14 @@
 </div>
 
 ---
-## 音魂掠影
-**Rating:** 9.2
-**Runtime:** 156分钟
-**Country:** 意大利 荷兰 德国 比利时
-**Director:** 朱塞佩·托纳多雷
-**Cast:** 恩尼奥·莫里康内 / 昆汀·塔伦蒂诺 / 克林特·伊斯特伍德
+## 乔治娅
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 乔美
+**Cast:** 乔治娅 / 王柠 / 陈齐
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2871903361.jpg" alt="音魂掠影">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892637727.jpg" alt="乔治娅">
 </div>
 
 ---
@@ -448,17 +459,6 @@
 **Cast:** 罗伯特·德尼罗 / 凯特·贝金赛尔 / 山姆·洛克威尔
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1217133544.jpg" alt="天伦之旅">
-</div>
-
----
-## 乔治娅
-**Rating:** 0
-**Runtime:** 88分钟
-**Country:** 中国大陆
-**Director:** 乔美
-**Cast:** 乔治娅 / 王柠 / 陈齐
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892637727.jpg" alt="乔治娅">
 </div>
 
 ---
