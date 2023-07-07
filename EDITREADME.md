@@ -12,7 +12,7 @@
 
 ---
 ## 消失的她
-**Rating:** 6.5
+**Rating:** 6.4
 **Runtime:** 121 分钟
 **Country:** 中国大陆
 **Director:** 崔睿 刘翔
@@ -23,7 +23,7 @@
 
 ---
 ## 扫毒3：人在天涯
-**Rating:** 6.2
+**Rating:** 6.1
 **Runtime:** 124分钟
 **Country:** 中国大陆 中国香港
 **Director:** 邱礼涛
