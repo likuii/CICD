@@ -242,6 +242,17 @@
 </div>
 
 ---
+## 银河护卫队3
+**Rating:** 8.5
+**Runtime:** 150分钟
+**Country:** 美国
+**Director:** 詹姆斯·古恩
+**Cast:** 克里斯·帕拉特 / 佐伊·索尔达娜 / 戴夫·巴蒂斯塔
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889358680.jpg" alt="银河护卫队3">
+</div>
+
+---
 ## 憨兔的奇幻之旅
 **Rating:** 0
 **Runtime:** 
