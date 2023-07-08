@@ -232,7 +232,7 @@
 
 ---
 ## 哆啦A梦：大雄与天空的理想乡
-**Rating:** 7.2
+**Rating:** 7.3
 **Runtime:** 107分钟
 **Country:** 日本
 **Director:** 堂山卓见 
@@ -470,6 +470,17 @@
 **Cast:** 热拉尔·德帕迪约 / 罗曼·波兰斯基 / 赛尔乔·鲁比尼
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2501807916.jpg" alt="幽国车站">
+</div>
+
+---
+## 魔幻奇缘之宝石公主
+**Rating:** 0
+**Runtime:** 
+**Country:** 中国大陆
+**Director:** 
+**Cast:** 
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891132382.jpg" alt="魔幻奇缘之宝石公主">
 </div>
 
 ---
