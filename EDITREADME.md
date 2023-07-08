@@ -232,13 +232,24 @@
 
 ---
 ## 哆啦A梦：大雄与天空的理想乡
-**Rating:** 7.3
+**Rating:** 7.2
 **Runtime:** 107分钟
 **Country:** 日本
 **Director:** 堂山卓见 
 **Cast:** 水田山葵 / 大原惠美 / 嘉数由美
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891257290.jpg" alt="哆啦A梦：大雄与天空的理想乡">
+</div>
+
+---
+## 少年桑吉
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 张国栋
+**Cast:** 仁青甲木措 / 扎西 / 居琼钦
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893912243.jpg" alt="少年桑吉">
 </div>
 
 ---
@@ -415,6 +426,17 @@
 **Cast:** 克林特·伊斯特伍德 / 李·范·克里夫 / 吉安·马里亚·沃隆特
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2191195219.jpg" alt="黄昏双镖客">
+</div>
+
+---
+## 云雀
+**Rating:** 0
+**Runtime:** 91分钟
+**Country:** 中国大陆
+**Director:** 张锐
+**Cast:** 丁海峰 / 于莎莎 / 赵子琪
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892396577.jpg" alt="云雀">
 </div>
 
 ---
