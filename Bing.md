@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 克罗夫附近的摩泽尔河，德国 (© Jorg Greuel/Getty Images)
+
+![克罗夫附近的摩泽尔河，德国 (© Jorg Greuel/Getty Images)](https://cn.bing.com/th?id=OHR.MoselleRiver_ZH-CN1283415242_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E6%91%A9%E6%B3%BD%E5%B0%94%E6%B2%B3&form=hpcapt&mkt=zh-cn)
+
 ## 米尔德里德-B-库珀纪念教堂，贝拉维斯塔，阿肯色州 (© Eddie Brady/Getty Images)
 
 ![米尔德里德-B-库珀纪念教堂，贝拉维斯塔，阿肯色州 (© Eddie Brady/Getty Images)](https://cn.bing.com/th?id=OHR.CooperChapel_ZH-CN1150924688_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![班夫的土狼，加拿大 (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.CoyoteBanff_ZH-CN7537137739_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%9C%9F%E7%8B%BC&form=hpcapt&mkt=zh-cn)
-
-## 费吕沃湖水道桥，荷兰 (© Frolova_Elena/Shutterstock)
-
-![费吕沃湖水道桥，荷兰 (© Frolova_Elena/Shutterstock)](https://cn.bing.com/th?id=OHR.HalfwayBoats_ZH-CN3563044251_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E8%B4%B9%E5%90%95%E6%B2%83%E6%B9%96%E6%B0%B4%E9%81%93%E6%A1%A5&form=hpcapt&mkt=zh-cn)
 
