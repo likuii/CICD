@@ -56,9 +56,9 @@ jobs:
 
     - name: Run the Task For Bing ②
       run:  python ./src/Bing.py
-
-    - name: Run the Task For MoviePost ③
-      run:  python ./src/MoviePost.py
+    # Disable this script for Movie Post
+    #- name: Run the Task For MoviePost ③
+    #  run:  python ./src/MoviePost.py
 
     - name: Generate Snake ④
       uses: Platane/snk@master
