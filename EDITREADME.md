@@ -297,6 +297,17 @@
 </div>
 
 ---
+## 萌鼠大冒险
+**Rating:** 0
+**Runtime:** 94分钟
+**Country:** 中国大陆
+**Director:** 
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895515610.jpg" alt="萌鼠大冒险">
+</div>
+
+---
 ## 午夜迷途
 **Rating:** 0
 **Runtime:** 74分钟
