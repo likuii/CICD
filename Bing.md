@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 斑马，塔兰吉雷国家公园，坦桑尼亚 (© cinoby/Getty Images)
+
+![斑马，塔兰吉雷国家公园，坦桑尼亚 (© cinoby/Getty Images)](https://cn.bing.com/th?id=OHR.ZebraCousins_ZH-CN8159888859_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E6%96%91%E9%A9%AC&form=hpcapt&mkt=zh-cn)
+
 ## 爱丁堡茶园, 努沃勒埃利耶, 斯里兰卡 (© Jeremy Woodhouse/Getty Images)
 
 ![爱丁堡茶园, 努沃勒埃利耶, 斯里兰卡 (© Jeremy Woodhouse/Getty Images)](https://cn.bing.com/th?id=OHR.TeaEstate_ZH-CN9645412630_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![双角犀鸟，考艾国家公园，泰国 (© kajornyot wildlife photography/Shutterstock)](https://cn.bing.com/th?id=OHR.BucerosBicornis_ZH-CN7795050230_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%8F%8C%E8%A7%92%E7%8A%80%E9%B8%9F&form=hpcapt&mkt=zh-cn)
-
-## 乌特湖的克拉夫特城堡，卡文郡，爱尔兰 (© 4H4 PH/Shutterstock)
-
-![乌特湖的克拉夫特城堡，卡文郡，爱尔兰 (© 4H4 PH/Shutterstock)](https://cn.bing.com/th?id=OHR.CavanCastle_ZH-CN7109317900_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%8D%A1%E6%96%87%E9%83%A1&form=hpcapt&mkt=zh-cn)
 
