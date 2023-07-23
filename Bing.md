@@ -4,45 +4,45 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
-## 克罗夫附近的摩泽尔河，德国 (© Jorg Greuel/Getty Images)
+## 爱丁堡茶园, 努沃勒埃利耶, 斯里兰卡 (© Jeremy Woodhouse/Getty Images)
 
-![克罗夫附近的摩泽尔河，德国 (© Jorg Greuel/Getty Images)](https://cn.bing.com/th?id=OHR.MoselleRiver_ZH-CN1283415242_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+![爱丁堡茶园, 努沃勒埃利耶, 斯里兰卡 (© Jeremy Woodhouse/Getty Images)](https://cn.bing.com/th?id=OHR.TeaEstate_ZH-CN9645412630_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
-[查看原图](https://www.bing.com/search?q=%E6%91%A9%E6%B3%BD%E5%B0%94%E6%B2%B3&form=hpcapt&mkt=zh-cn)
+[查看原图](https://www.bing.com/search?q=%E5%8A%AA%E6%B2%83%E5%8B%92%E5%9F%83%E5%88%A9%E8%80%B6&form=hpcapt&mkt=zh-cn)
 
-## 米尔德里德-B-库珀纪念教堂，贝拉维斯塔，阿肯色州 (© Eddie Brady/Getty Images)
+## 在一棵秃柏树上吊床露营，佛罗里达州，美国 (© Mac Stone/Tandem Stills + Motion)
 
-![米尔德里德-B-库珀纪念教堂，贝拉维斯塔，阿肯色州 (© Eddie Brady/Getty Images)](https://cn.bing.com/th?id=OHR.CooperChapel_ZH-CN1150924688_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+![在一棵秃柏树上吊床露营，佛罗里达州，美国 (© Mac Stone/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HammockDay_ZH-CN9368760971_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
-[查看原图](https://www.bing.com/search?q=%E9%98%BF%E8%82%AF%E8%89%B2%E5%B7%9E&form=hpcapt&mkt=zh-cn)
+[查看原图](https://www.bing.com/search?q=%E5%90%8A%E5%BA%8A%E9%9C%B2%E8%90%A5&form=hpcapt&mkt=zh-cn)
 
-## 安班加的可可豆荚，马达加斯加 (© pierivb/Getty Images)
+## 斯托尔桑德特大桥，挪威 (© Morten Falch Sortland/Getty Images)
 
-![安班加的可可豆荚，马达加斯加 (© pierivb/Getty Images)](https://cn.bing.com/th?id=OHR.CocoaPods_ZH-CN6192387360_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+![斯托尔桑德特大桥，挪威 (© Morten Falch Sortland/Getty Images)](https://cn.bing.com/th?id=OHR.BridgeNorway_ZH-CN9063814637_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
-[查看原图](https://www.bing.com/search?q=%E5%8F%AF%E5%8F%AF%E8%B1%86&form=hpcapt&mkt=zh-cn)
+[查看原图](https://www.bing.com/search?q=%E6%8C%AA%E5%A8%81%E6%96%AF%E6%89%98%E5%B0%94%E6%A1%91%E5%BE%B7%E7%89%B9%E5%A4%A7%E6%A1%A5&form=hpcapt&mkt=zh-cn)
 
-## 南跳岩企鹅，福克兰群岛 (© Tony Beck/Getty Images)
+## 从美国宇航局猎户座飞船上看到的月球 (© NASA)
 
-![南跳岩企鹅，福克兰群岛 (© Tony Beck/Getty Images)](https://cn.bing.com/th?id=OHR.KissingPenguins_ZH-CN5449471262_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+![从美国宇航局猎户座飞船上看到的月球 (© NASA)](https://cn.bing.com/th?id=OHR.MoonDayArtemis_ZH-CN8743374853_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
-[查看原图](https://www.bing.com/search?q=%E5%8D%97%E8%B7%B3%E5%B2%A9%E4%BC%81%E9%B9%85&form=hpcapt&mkt=zh-cn)
+[查看原图](https://www.bing.com/search?q=%E6%9C%88%E7%90%83&form=hpcapt&mkt=zh-cn)
 
-## 蒂莫尼港海滩，科孚岛，希腊 (© nantonov/Getty Images)
+## 敦煌月牙泉，甘肃省，中国 (© R7 Photo/Shutterstock)
 
-![蒂莫尼港海滩，科孚岛，希腊 (© nantonov/Getty Images)](https://cn.bing.com/th?id=OHR.CorfuBeach_ZH-CN8660068587_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+![敦煌月牙泉，甘肃省，中国 (© R7 Photo/Shutterstock)](https://cn.bing.com/th?id=OHR.CrescentLake_ZH-CN8294493832_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
-[查看原图](https://www.bing.com/search?q=%E7%A7%91%E5%AD%9A%E5%B2%9B&form=hpcapt&mkt=zh-cn)
+[查看原图](https://www.bing.com/search?q=%E6%95%A6%E7%85%8C%E6%9C%88%E7%89%99%E6%B3%89&form=hpcapt&mkt=zh-cn)
 
-## 草原国家公园，萨斯喀彻温省，加拿大 (© Robert Postma/Getty Images)
+## 双角犀鸟，考艾国家公园，泰国 (© kajornyot wildlife photography/Shutterstock)
 
-![草原国家公园，萨斯喀彻温省，加拿大 (© Robert Postma/Getty Images)](https://cn.bing.com/th?id=OHR.GrasslandsNationalParkSaskachewan_ZH-CN6530285883_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+![双角犀鸟，考艾国家公园，泰国 (© kajornyot wildlife photography/Shutterstock)](https://cn.bing.com/th?id=OHR.BucerosBicornis_ZH-CN7795050230_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
-[查看原图](https://www.bing.com/search?q=%E8%8D%89%E5%8E%9F%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[查看原图](https://www.bing.com/search?q=%E5%8F%8C%E8%A7%92%E7%8A%80%E9%B8%9F&form=hpcapt&mkt=zh-cn)
 
-## 班夫的土狼，加拿大 (© Harry Collins/Getty Images)
+## 乌特湖的克拉夫特城堡，卡文郡，爱尔兰 (© 4H4 PH/Shutterstock)
 
-![班夫的土狼，加拿大 (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.CoyoteBanff_ZH-CN7537137739_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+![乌特湖的克拉夫特城堡，卡文郡，爱尔兰 (© 4H4 PH/Shutterstock)](https://cn.bing.com/th?id=OHR.CavanCastle_ZH-CN7109317900_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
-[查看原图](https://www.bing.com/search?q=%E5%9C%9F%E7%8B%BC&form=hpcapt&mkt=zh-cn)
+[查看原图](https://www.bing.com/search?q=%E5%8D%A1%E6%96%87%E9%83%A1&form=hpcapt&mkt=zh-cn)
 
