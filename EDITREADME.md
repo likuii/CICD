@@ -12,7 +12,7 @@
 
 ---
 ## 封神第一部：朝歌风云
-**Rating:** 7.7
+**Rating:** 7.8
 **Runtime:** 148分钟
 **Country:** 中国大陆
 **Director:** 乌尔善
@@ -23,7 +23,7 @@
 
 ---
 ## 超能一家人
-**Rating:** 4.1
+**Rating:** 4
 **Runtime:** 113分钟
 **Country:** 中国大陆
 **Director:** 宋阳
