@@ -440,6 +440,17 @@
 </div>
 
 ---
+## 大旅行
+**Rating:** 0
+**Runtime:** 84分钟
+**Country:** 俄罗斯
+**Director:** Vasiliy Rovenskiy Natalya Nilova
+**Cast:** 德雷克·贝尔 / 保利·肖尔 / Danila Medvedev
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2889277954.jpg" alt="大旅行">
+</div>
+
+---
 ## 丁托列托：威尼斯的反叛者
 **Rating:** 0
 **Runtime:** 
