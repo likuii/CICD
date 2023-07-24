@@ -1,16 +1,5 @@
 # Douban Currently Playing Movies
 
-## 芭比
-**Rating:** 8.7
-**Runtime:** 114分钟
-**Country:** 加拿大 美国
-**Director:** 格蕾塔·葛韦格
-**Cast:** 玛格特·罗比 / 瑞恩·高斯林 / 亚美莉卡·费雷拉
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895679456.jpg" alt="芭比">
-</div>
-
----
 ## 封神第一部：朝歌风云
 **Rating:** 7.8
 **Runtime:** 148分钟
@@ -19,6 +8,17 @@
 **Cast:** 费翔 / 李雪健 / 黄渤
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.jpg" alt="封神第一部：朝歌风云">
+</div>
+
+---
+## 芭比
+**Rating:** 8.7
+**Runtime:** 114分钟
+**Country:** 加拿大 美国
+**Director:** 格蕾塔·葛韦格
+**Cast:** 玛格特·罗比 / 瑞恩·高斯林 / 亚美莉卡·费雷拉
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895679456.jpg" alt="芭比">
 </div>
 
 ---
@@ -176,17 +176,6 @@
 </div>
 
 ---
-## 力量密码
-**Rating:** 0
-**Runtime:** 103分钟
-**Country:** 中国大陆
-**Director:** 高峰
-**Cast:** 张桐 / 陈都灵 / 白恩
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
-</div>
-
----
 ## 记忆
 **Rating:** 7.6
 **Runtime:** 136分钟
@@ -198,14 +187,14 @@
 </div>
 
 ---
-## 荒野咖啡馆
-**Rating:** 3.4
-**Runtime:** 114分钟
+## 力量密码
+**Rating:** 0
+**Runtime:** 103分钟
 **Country:** 中国大陆
-**Director:** 时晓凡
-**Cast:** 刘雅瑟 / 王一钧 / 孙小雪
+**Director:** 高峰
+**Cast:** 张桐 / 陈都灵 / 白恩
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2575964732.jpg" alt="荒野咖啡馆">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
 </div>
 
 ---
@@ -217,6 +206,17 @@
 **Cast:** 王一博 / 胡军 / 周冬雨
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2889598060.jpg" alt="长空之王">
+</div>
+
+---
+## 荒野咖啡馆
+**Rating:** 3.4
+**Runtime:** 114分钟
+**Country:** 中国大陆
+**Director:** 时晓凡
+**Cast:** 刘雅瑟 / 王一钧 / 孙小雪
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2575964732.jpg" alt="荒野咖啡馆">
 </div>
 
 ---
@@ -242,17 +242,6 @@
 </div>
 
 ---
-## 棉花糖和云朵妈妈1宝贝芯计划
-**Rating:** 0
-**Runtime:** 88分钟
-**Country:** 中国大陆
-**Director:** 徐铮
-**Cast:** 陈苏 / 郏捷 / 耿晨晨
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893877455.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
-</div>
-
----
 ## 天空之城
 **Rating:** 9.2
 **Runtime:** 125分钟
@@ -261,6 +250,17 @@
 **Cast:** 田中真弓 / 横泽启子 / 初井言荣
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892380420.jpg" alt="天空之城">
+</div>
+
+---
+## 棉花糖和云朵妈妈1宝贝芯计划
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 徐铮
+**Cast:** 陈苏 / 郏捷 / 耿晨晨
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893877455.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
 </div>
 
 ---
@@ -275,17 +275,6 @@
 </div>
 
 ---
-## 萌鼠大冒险
-**Rating:** 0
-**Runtime:** 94分钟
-**Country:** 中国大陆
-**Director:** 
-**Cast:** 
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895515610.jpg" alt="萌鼠大冒险">
-</div>
-
----
 ## 哆啦A梦：大雄与天空的理想乡
 **Rating:** 7.2
 **Runtime:** 107分钟
@@ -294,6 +283,17 @@
 **Cast:** 水田山葵 / 大原惠美 / 嘉数由美
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891257290.jpg" alt="哆啦A梦：大雄与天空的理想乡">
+</div>
+
+---
+## 萌鼠大冒险
+**Rating:** 0
+**Runtime:** 94分钟
+**Country:** 中国大陆
+**Director:** 
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895515610.jpg" alt="萌鼠大冒险">
 </div>
 
 ---
@@ -363,17 +363,6 @@
 </div>
 
 ---
-## 普拉多博物馆：奇迹珍藏
-**Rating:** 8.2
-**Runtime:** 92分钟
-**Country:** 意大利 西班牙
-**Director:** Valeria Parisi
-**Cast:** 杰瑞米·艾恩斯 / 萨尔瓦多·达利 / 路易斯·布努埃尔
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2576213252.jpg" alt="普拉多博物馆：奇迹珍藏">
-</div>
-
----
 ## 井冈星火
 **Rating:** 0
 **Runtime:** 92分钟
@@ -382,17 +371,6 @@
 **Cast:** 郭广平 / 赵凯 / 杨雪儿
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890340118.jpg" alt="井冈星火">
-</div>
-
----
-## 拉斐尔：年轻的画圣
-**Rating:** 7.8
-**Runtime:** 83分钟
-**Country:** 意大利
-**Director:** Massimo Ferrari
-**Cast:** 
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2856751977.jpg" alt="拉斐尔：年轻的画圣">
 </div>
 
 ---
@@ -407,6 +385,28 @@
 </div>
 
 ---
+## 普拉多博物馆：奇迹珍藏
+**Rating:** 8.2
+**Runtime:** 92分钟
+**Country:** 意大利 西班牙
+**Director:** Valeria Parisi
+**Cast:** 杰瑞米·艾恩斯 / 萨尔瓦多·达利 / 路易斯·布努埃尔
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2576213252.jpg" alt="普拉多博物馆：奇迹珍藏">
+</div>
+
+---
+## 拉斐尔：年轻的画圣
+**Rating:** 7.8
+**Runtime:** 83分钟
+**Country:** 意大利
+**Director:** Massimo Ferrari
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2856751977.jpg" alt="拉斐尔：年轻的画圣">
+</div>
+
+---
 ## 卡拉瓦乔：灵与血
 **Rating:** 6.5
 **Runtime:** 94分钟
@@ -418,17 +418,6 @@
 </div>
 
 ---
-## 威尼斯：无限前卫
-**Rating:** 0
-**Runtime:** 93分钟
-**Country:** 意大利
-**Director:** Michele Mally
-**Cast:** Hania Rani / Carlo Cecchi
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890367227.jpg" alt="威尼斯：无限前卫">
-</div>
-
----
 ## 女王的肖像
 **Rating:** 0
 **Runtime:** 90分钟
@@ -437,6 +426,17 @@
 **Cast:** 
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890367162.jpg" alt="女王的肖像">
+</div>
+
+---
+## 威尼斯：无限前卫
+**Rating:** 0
+**Runtime:** 93分钟
+**Country:** 意大利
+**Director:** Michele Mally
+**Cast:** Hania Rani / Carlo Cecchi
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890367227.jpg" alt="威尼斯：无限前卫">
 </div>
 
 ---
