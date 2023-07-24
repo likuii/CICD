@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 封神第一部：朝歌风云
-**Rating:** 7.8
+**Rating:** 7.7
 **Runtime:** 148分钟
 **Country:** 中国大陆
 **Director:** 乌尔善
