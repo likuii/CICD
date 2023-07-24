@@ -187,6 +187,17 @@
 </div>
 
 ---
+## 人生路不熟
+**Rating:** 5.9
+**Runtime:** 100分钟
+**Country:** 中国大陆
+**Director:** 易小星
+**Cast:** 乔杉 / 范丞丞 / 马丽
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2889864501.jpg" alt="人生路不熟">
+</div>
+
+---
 ## 力量密码
 **Rating:** 0
 **Runtime:** 103分钟
