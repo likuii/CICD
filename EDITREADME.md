@@ -489,7 +489,7 @@
 **Runtime:** 119分钟
 **Country:** 美国
 **Director:** 达米安·斯兹弗隆
-**Cast:** 谢琳·伍德蕾 /  / 拉尔夫·伊内森
+**Cast:** 谢琳·伍德蕾 / 本·门德尔森 / 拉尔夫·伊内森
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895468066.jpg" alt="恶世之子">
 </div>
