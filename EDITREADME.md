@@ -12,7 +12,7 @@
 
 ---
 ## 芭比
-**Rating:** 8.7
+**Rating:** 8.6
 **Runtime:** 114分钟
 **Country:** 加拿大 美国
 **Director:** 格蕾塔·葛韦格
@@ -342,7 +342,7 @@
 
 ---
 ## 艾尔米塔什博物馆：艺术的力量
-**Rating:** 8.7
+**Rating:** 8.6
 **Runtime:** 90分钟
 **Country:** 意大利
 **Director:** Michele Mally
