@@ -56,7 +56,7 @@
 
 ---
 ## 茶啊二中
-**Rating:** 7.9
+**Rating:** 7.8
 **Runtime:** 91分钟
 **Country:** 中国大陆
 **Director:** 夏铭泽 阎凯
@@ -353,7 +353,7 @@
 
 ---
 ## 波提切利，佛罗伦萨和美第奇
-**Rating:** 8.5
+**Rating:** 8.4
 **Runtime:** 90分钟
 **Country:** 意大利
 **Director:** Marco Pianigiani
