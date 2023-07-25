@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 朱拜勒红树林公园，阿布扎比，阿拉伯联合酋长国 (© Amazing Aerial Premium/Shutterstock)
+
+![朱拜勒红树林公园，阿布扎比，阿拉伯联合酋长国 (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.MangrovePark_ZH-CN0208518370_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E7%BA%A2%E6%A0%91&form=hpcapt&mkt=zh-cn)
+
 ## 托雷维耶哈潟湖，阿利坎特，西班牙 (© Juan Maria Coy Vergara/Getty Images)
 
 ![托雷维耶哈潟湖，阿利坎特，西班牙 (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.LasLagunas_ZH-CN9917702340_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![从美国宇航局猎户座飞船上看到的月球 (© NASA)](https://cn.bing.com/th?id=OHR.MoonDayArtemis_ZH-CN8743374853_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E6%9C%88%E7%90%83&form=hpcapt&mkt=zh-cn)
-
-## 敦煌月牙泉，甘肃省，中国 (© R7 Photo/Shutterstock)
-
-![敦煌月牙泉，甘肃省，中国 (© R7 Photo/Shutterstock)](https://cn.bing.com/th?id=OHR.CrescentLake_ZH-CN8294493832_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E6%95%A6%E7%85%8C%E6%9C%88%E7%89%99%E6%B3%89&form=hpcapt&mkt=zh-cn)
 
