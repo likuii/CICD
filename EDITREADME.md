@@ -596,7 +596,7 @@
 ---
 ## 我经过风暴
 **Rating:** 0
-**Runtime:** 
+**Runtime:** 101分钟
 **Country:** 中国大陆
 **Director:** 秦海燕
 **Cast:** 佟丽娅 / 吴昱翰 / 王影璐
