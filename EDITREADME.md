@@ -22,17 +22,6 @@
 </div>
 
 ---
-## 超能一家人
-**Rating:** 4
-**Runtime:** 113分钟
-**Country:** 中国大陆
-**Director:** 宋阳
-**Cast:** 艾伦 / 沈腾 / 陶慧
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890369636.jpg" alt="超能一家人">
-</div>
-
----
 ## 长安三万里
 **Rating:** 8.2
 **Runtime:** 168分钟
@@ -41,6 +30,17 @@
 **Cast:** 杨天翔 / 凌振赫 / 吴俊全
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893820209.jpg" alt="长安三万里">
+</div>
+
+---
+## 超能一家人
+**Rating:** 4
+**Runtime:** 113分钟
+**Country:** 中国大陆
+**Director:** 宋阳
+**Cast:** 艾伦 / 沈腾 / 陶慧
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890369636.jpg" alt="超能一家人">
 </div>
 
 ---
@@ -55,17 +55,6 @@
 </div>
 
 ---
-## 碟中谍7：致命清算（上）
-**Rating:** 7.8
-**Runtime:** 164分钟
-**Country:** 美国
-**Director:** 克里斯托弗·麦奎里
-**Cast:** 汤姆·克鲁斯 / 海莉·阿特维尔 / 文·瑞姆斯
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893481084.jpg" alt="碟中谍7：致命清算（上）">
-</div>
-
----
 ## 八角笼中
 **Rating:** 7.4
 **Runtime:** 117分钟
@@ -74,6 +63,17 @@
 **Cast:** 王宝强 / 陈永胜 / 史彭元
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893476407.jpg" alt="八角笼中">
+</div>
+
+---
+## 碟中谍7：致命清算（上）
+**Rating:** 7.8
+**Runtime:** 164分钟
+**Country:** 美国
+**Director:** 克里斯托弗·麦奎里
+**Cast:** 汤姆·克鲁斯 / 海莉·阿特维尔 / 文·瑞姆斯
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893481084.jpg" alt="碟中谍7：致命清算（上）">
 </div>
 
 ---
@@ -154,17 +154,6 @@
 </div>
 
 ---
-## 蜘蛛侠：纵横宇宙
-**Rating:** 8.5
-**Runtime:** 140分钟
-**Country:** 美国
-**Director:** 乔伊姆·多斯·桑托斯 凯普·鲍尔斯 贾斯汀·汤普森
-**Cast:** 沙梅克·摩尔 / 海莉·斯坦菲尔德 / 奥斯卡·伊萨克
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892315297.jpg" alt="蜘蛛侠：纵横宇宙">
-</div>
-
----
 ## 申纪兰
 **Rating:** 0
 **Runtime:** 108分钟
@@ -173,6 +162,17 @@
 **Cast:** 岳红 / 姚兵蓉 / 苏丽
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893777607.jpg" alt="申纪兰">
+</div>
+
+---
+## 蜘蛛侠：纵横宇宙
+**Rating:** 8.5
+**Runtime:** 140分钟
+**Country:** 美国
+**Director:** 乔伊姆·多斯·桑托斯 凯普·鲍尔斯 贾斯汀·汤普森
+**Cast:** 沙梅克·摩尔 / 海莉·斯坦菲尔德 / 奥斯卡·伊萨克
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892315297.jpg" alt="蜘蛛侠：纵横宇宙">
 </div>
 
 ---
@@ -253,6 +253,17 @@
 </div>
 
 ---
+## 哆啦A梦：大雄与天空的理想乡
+**Rating:** 7.2
+**Runtime:** 107分钟
+**Country:** 日本
+**Director:** 堂山卓见 
+**Cast:** 水田山葵 / 大原惠美 / 嘉数由美
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891257290.jpg" alt="哆啦A梦：大雄与天空的理想乡">
+</div>
+
+---
 ## 灌篮高手
 **Rating:** 8.9
 **Runtime:** 124分钟
@@ -283,17 +294,6 @@
 **Cast:** 田中真弓 / 横泽启子 / 初井言荣
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892380420.jpg" alt="天空之城">
-</div>
-
----
-## 哆啦A梦：大雄与天空的理想乡
-**Rating:** 7.2
-**Runtime:** 107分钟
-**Country:** 日本
-**Director:** 堂山卓见 
-**Cast:** 水田山葵 / 大原惠美 / 嘉数由美
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891257290.jpg" alt="哆啦A梦：大雄与天空的理想乡">
 </div>
 
 ---
@@ -342,7 +342,7 @@
 
 ---
 ## 波提切利，佛罗伦萨和美第奇
-**Rating:** 8.4
+**Rating:** 8.3
 **Runtime:** 90分钟
 **Country:** 意大利
 **Director:** Marco Pianigiani
@@ -396,17 +396,6 @@
 </div>
 
 ---
-## 拉斐尔：年轻的画圣
-**Rating:** 7.8
-**Runtime:** 83分钟
-**Country:** 意大利
-**Director:** Massimo Ferrari
-**Cast:** 
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2856751977.jpg" alt="拉斐尔：年轻的画圣">
-</div>
-
----
 ## 一路幸福
 **Rating:** 0
 **Runtime:** 95分钟
@@ -415,6 +404,17 @@
 **Cast:** 
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892469147.jpg" alt="一路幸福">
+</div>
+
+---
+## 拉斐尔：年轻的画圣
+**Rating:** 7.8
+**Runtime:** 83分钟
+**Country:** 意大利
+**Director:** Massimo Ferrari
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2856751977.jpg" alt="拉斐尔：年轻的画圣">
 </div>
 
 ---
@@ -539,6 +539,17 @@
 </div>
 
 ---
+## 野蛮人入侵
+**Rating:** 0
+**Runtime:** 106分钟
+**Country:** 中国香港 马来西亚
+**Director:** 陈翠梅
+**Cast:** 张子夫 / 博朗·帕拉雷 / 李添兴
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896024943.jpg" alt="野蛮人入侵">
+</div>
+
+---
 ## 孤注一掷
 **Rating:** 0
 **Runtime:** 
@@ -580,17 +591,6 @@
 **Cast:** 刘昊然 / 陈飞宇 / 张雪迎
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893157537.jpg" alt="少年时代">
-</div>
-
----
-## 我经过风暴
-**Rating:** 0
-**Runtime:** 101分钟
-**Country:** 中国大陆
-**Director:** 秦海燕
-**Cast:** 佟丽娅 / 吴昱翰 / 王影璐
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895678264.jpg" alt="我经过风暴">
 </div>
 
 ---
