@@ -342,7 +342,7 @@
 
 ---
 ## 普拉多博物馆：奇迹珍藏
-**Rating:** 8.2
+**Rating:** 8.1
 **Runtime:** 92分钟
 **Country:** 意大利 西班牙
 **Director:** Valeria Parisi
