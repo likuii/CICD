@@ -408,7 +408,7 @@
 
 ---
 ## 拉斐尔：年轻的画圣
-**Rating:** 7.8
+**Rating:** 7.7
 **Runtime:** 83分钟
 **Country:** 意大利
 **Director:** Massimo Ferrari
