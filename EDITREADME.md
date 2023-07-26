@@ -552,7 +552,7 @@
 ---
 ## 孤注一掷
 **Rating:** 0
-**Runtime:** 
+**Runtime:** 130分钟
 **Country:** 中国大陆
 **Director:** 申奥
 **Cast:** 张艺兴 / 金晨 / 咏梅
