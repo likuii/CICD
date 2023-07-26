@@ -408,7 +408,7 @@
 
 ---
 ## 拉斐尔：年轻的画圣
-**Rating:** 7.7
+**Rating:** 7.8
 **Runtime:** 83分钟
 **Country:** 意大利
 **Director:** Massimo Ferrari
@@ -474,7 +474,7 @@
 
 ---
 ## 青春季
-**Rating:** 7
+**Rating:** 7.1
 **Runtime:** 55分钟
 **Country:** 中国大陆/澳大利亚
 **Director:** 卡尔林·米娜汉
