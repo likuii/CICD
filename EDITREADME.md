@@ -474,7 +474,7 @@
 
 ---
 ## 青春季
-**Rating:** 7.1
+**Rating:** 7
 **Runtime:** 55分钟
 **Country:** 中国大陆/澳大利亚
 **Director:** 卡尔林·米娜汉
