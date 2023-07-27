@@ -198,3 +198,113 @@
 </div>
 
 ---
+## 超级英雄美猴王——齐天儿
+**Rating:** 0
+**Runtime:** 101分钟
+**Country:** 中国大陆
+**Director:** 拉尔夫·宗戴格 迪克·宗达格 亓梅晓
+**Cast:** 钟巍 / 张琦 / 张欣
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2895467463.jpg" alt="超级英雄美猴王——齐天儿">
+</div>
+
+---
+## 巨齿鲨2：深渊
+**Rating:** 0
+**Runtime:** 119分钟
+**Country:** 美国 中国大陆
+**Director:** 本·维特利 
+**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
+</div>
+
+---
+## 雪豹和她的朋友们
+**Rating:** 0
+**Runtime:** 85分钟
+**Country:** 中国大陆
+**Director:** 奚志农
+**Cast:** 朱亚文
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895952357.jpg" alt="雪豹和她的朋友们">
+</div>
+
+---
+## 野蛮人入侵
+**Rating:** 0
+**Runtime:** 106分钟
+**Country:** 中国香港 马来西亚
+**Director:** 陈翠梅
+**Cast:** 陈翠梅 / 张子夫 / 博朗·帕拉雷
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896024943.jpg" alt="野蛮人入侵">
+</div>
+
+---
+## 孤注一掷
+**Rating:** 0
+**Runtime:** 130分钟
+**Country:** 中国大陆
+**Director:** 申奥
+**Cast:** 张艺兴 / 金晨 / 咏梅
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2894171645.jpg" alt="孤注一掷">
+</div>
+
+---
+## 忍者神龟：变种大乱斗
+**Rating:** 0
+**Runtime:** 
+**Country:** 美国
+**Director:** 杰夫·罗韦 凯勒·斯皮尔斯
+**Cast:** 尼古拉斯·坎图 / 布雷迪·诺恩 / 小肖恩·布朗
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895790300.jpg" alt="忍者神龟：变种大乱斗">
+</div>
+
+---
+## GT赛车：极速狂飙
+**Rating:** 0
+**Runtime:** 135分钟
+**Country:** 美国
+**Director:** 尼尔·布洛姆坎普
+**Cast:** 阿奇·马德基 / 大卫·哈伯 / 奥兰多·布鲁姆
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2894763350.jpg" alt="GT赛车：极速狂飙">
+</div>
+
+---
+## 少年时代
+**Rating:** 0
+**Runtime:** 
+**Country:** 中国大陆
+**Director:** 陈凯歌
+**Cast:** 刘昊然 / 陈飞宇 / 张雪迎
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893157537.jpg" alt="少年时代">
+</div>
+
+---
+## 我经过风暴
+**Rating:** 0
+**Runtime:** 101分钟
+**Country:** 中国大陆
+**Director:** 秦海燕
+**Cast:** 佟丽娅 / 吴昱翰 / 王影璐
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895678264.jpg" alt="我经过风暴">
+</div>
+
+---
+## 暗杀风暴
+**Rating:** 0
+**Runtime:** 
+**Country:** 中国大陆 中国香港
+**Director:** 邱礼涛
+**Cast:** 古天乐 / 张智霖 / 吴镇宇
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892025156.jpg" alt="暗杀风暴">
+</div>
+
+---
