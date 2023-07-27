@@ -22,6 +22,28 @@
 </div>
 
 ---
+## 热烈
+**Rating:** 0
+**Runtime:** 124分钟
+**Country:** 中国大陆
+**Director:** 大鹏
+**Cast:** 黄渤 / 王一博 / 刘敏涛
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895553074.jpg" alt="热烈">
+</div>
+
+---
+## 恶世之子
+**Rating:** 6.6
+**Runtime:** 120分钟
+**Country:** 美国
+**Director:** 达米安·斯兹弗隆
+**Cast:** 谢琳·伍德蕾 / 本·门德尔森 / 拉尔夫·伊内森
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895468066.jpg" alt="恶世之子">
+</div>
+
+---
 ## 长安三万里
 **Rating:** 8.2
 **Runtime:** 168分钟
@@ -121,17 +143,6 @@
 </div>
 
 ---
-## 疯狂元素城
-**Rating:** 7.3
-**Runtime:** 102分钟
-**Country:** 美国
-**Director:** 彼得·孙
-**Cast:** 莉娅·刘易斯 / 马莫多·阿西 / 罗纳尔多·德尔·卡门
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891542432.jpg" alt="疯狂元素城">
-</div>
-
----
 ## 百变马丁：怪兽大作战
 **Rating:** 0
 **Runtime:** 87分钟
@@ -140,17 +151,6 @@
 **Cast:** 姚培华 / 秦紫翼 / 刘方芳
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895602695.jpg" alt="百变马丁：怪兽大作战">
-</div>
-
----
-## 力量密码
-**Rating:** 0
-**Runtime:** 103分钟
-**Country:** 中国大陆
-**Director:** 高峰
-**Cast:** 张桐 / 陈都灵 / 白恩
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
 </div>
 
 ---
