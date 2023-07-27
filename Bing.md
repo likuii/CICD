@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 圣布拉斯群岛，巴拿马 (© bgremler/Shutterstock)
+
+![圣布拉斯群岛，巴拿马 (© bgremler/Shutterstock)](https://cn.bing.com/th?id=OHR.SanBlasIslands_ZH-CN6320572106_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%9C%A3%E5%B8%83%E6%8B%89%E6%96%AF%E7%BE%A4%E5%B2%9B&form=hpcapt&mkt=zh-cn)
+
 ## 卡鲁塞尔凯旋门和卢浮宫金字塔，巴黎，法国 (© Jon Hicks/Getty Images)
 
 ![卡鲁塞尔凯旋门和卢浮宫金字塔，巴黎，法国 (© Jon Hicks/Getty Images)](https://cn.bing.com/th?id=OHR.ParisLouvre_ZH-CN0341884841_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![在一棵秃柏树上吊床露营，佛罗里达州，美国 (© Mac Stone/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HammockDay_ZH-CN9368760971_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%90%8A%E5%BA%8A%E9%9C%B2%E8%90%A5&form=hpcapt&mkt=zh-cn)
-
-## 斯托尔桑德特大桥，挪威 (© Morten Falch Sortland/Getty Images)
-
-![斯托尔桑德特大桥，挪威 (© Morten Falch Sortland/Getty Images)](https://cn.bing.com/th?id=OHR.BridgeNorway_ZH-CN9063814637_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E6%8C%AA%E5%A8%81%E6%96%AF%E6%89%98%E5%B0%94%E6%A1%91%E5%BE%B7%E7%89%B9%E5%A4%A7%E6%A1%A5&form=hpcapt&mkt=zh-cn)
 
