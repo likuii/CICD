@@ -34,7 +34,7 @@
 
 ---
 ## 热烈
-**Rating:** 0
+**Rating:** 7.7
 **Runtime:** 124分钟
 **Country:** 中国大陆
 **Director:** 大鹏
