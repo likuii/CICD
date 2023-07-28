@@ -132,17 +132,6 @@
 </div>
 
 ---
-## 变形金刚：超能勇士崛起
-**Rating:** 6
-**Runtime:** 128分钟(中国大陆)
-**Country:** 美国
-**Director:** 小斯蒂芬·卡普尔
-**Cast:** 安东尼·拉莫斯 / 多米尼克·菲什巴克 / 彼特·库伦
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892024245.jpg" alt="变形金刚：超能勇士崛起">
-</div>
-
----
 ## 夺宝奇兵5：命运转盘
 **Rating:** 7.3
 **Runtime:** 155分钟
@@ -151,6 +140,17 @@
 **Cast:** 哈里森·福特 / 菲比·沃勒-布里奇 / 安东尼奥·班德拉斯
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892683049.jpg" alt="夺宝奇兵5：命运转盘">
+</div>
+
+---
+## 变形金刚：超能勇士崛起
+**Rating:** 6
+**Runtime:** 128分钟(中国大陆)
+**Country:** 美国
+**Director:** 小斯蒂芬·卡普尔
+**Cast:** 安东尼·拉莫斯 / 多米尼克·菲什巴克 / 彼特·库伦
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892024245.jpg" alt="变形金刚：超能勇士崛起">
 </div>
 
 ---
@@ -176,17 +176,6 @@
 </div>
 
 ---
-## 百变马丁：怪兽大作战
-**Rating:** 0
-**Runtime:** 87分钟
-**Country:** 中国大陆
-**Director:** 张天晓
-**Cast:** 姚培华 / 秦紫翼 / 刘方芳
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895602695.jpg" alt="百变马丁：怪兽大作战">
-</div>
-
----
 ## 力量密码
 **Rating:** 0
 **Runtime:** 103分钟
@@ -195,6 +184,17 @@
 **Cast:** 张桐 / 陈都灵 / 白恩
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
+</div>
+
+---
+## 百变马丁：怪兽大作战
+**Rating:** 0
+**Runtime:** 87分钟
+**Country:** 中国大陆
+**Director:** 张天晓
+**Cast:** 姚培华 / 秦紫翼 / 刘方芳
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895602695.jpg" alt="百变马丁：怪兽大作战">
 </div>
 
 ---
@@ -264,17 +264,6 @@
 </div>
 
 ---
-## 哆啦A梦：大雄与天空的理想乡
-**Rating:** 7.3
-**Runtime:** 107分钟
-**Country:** 日本
-**Director:** 堂山卓见 
-**Cast:** 水田山葵 / 大原惠美 / 嘉数由美
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891257290.jpg" alt="哆啦A梦：大雄与天空的理想乡">
-</div>
-
----
 ## 欢乐丛林之外星人大冒险
 **Rating:** 0
 **Runtime:** 
@@ -283,6 +272,17 @@
 **Cast:** 李凤良
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890512825.jpg" alt="欢乐丛林之外星人大冒险">
+</div>
+
+---
+## 哆啦A梦：大雄与天空的理想乡
+**Rating:** 7.3
+**Runtime:** 107分钟
+**Country:** 日本
+**Director:** 堂山卓见 
+**Cast:** 水田山葵 / 大原惠美 / 嘉数由美
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2891257290.jpg" alt="哆啦A梦：大雄与天空的理想乡">
 </div>
 
 ---
@@ -352,17 +352,6 @@
 </div>
 
 ---
-## 一路幸福
-**Rating:** 0
-**Runtime:** 95分钟
-**Country:** 中国大陆
-**Director:** 李谊 周婧 黄跃
-**Cast:** 
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892469147.jpg" alt="一路幸福">
-</div>
-
----
 ## 拉斐尔：年轻的画圣
 **Rating:** 7.7
 **Runtime:** 83分钟
@@ -371,6 +360,17 @@
 **Cast:** 
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2856751977.jpg" alt="拉斐尔：年轻的画圣">
+</div>
+
+---
+## 一路幸福
+**Rating:** 0
+**Runtime:** 95分钟
+**Country:** 中国大陆
+**Director:** 李谊 周婧 黄跃
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892469147.jpg" alt="一路幸福">
 </div>
 
 ---
@@ -385,17 +385,6 @@
 </div>
 
 ---
-## 威尼斯：无限前卫
-**Rating:** 0
-**Runtime:** 93分钟
-**Country:** 意大利
-**Director:** Michele Mally
-**Cast:** Hania Rani / Carlo Cecchi
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890367227.jpg" alt="威尼斯：无限前卫">
-</div>
-
----
 ## 女王的肖像
 **Rating:** 0
 **Runtime:** 90分钟
@@ -404,6 +393,17 @@
 **Cast:** 
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890367162.jpg" alt="女王的肖像">
+</div>
+
+---
+## 威尼斯：无限前卫
+**Rating:** 0
+**Runtime:** 93分钟
+**Country:** 意大利
+**Director:** Michele Mally
+**Cast:** Hania Rani / Carlo Cecchi
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890367227.jpg" alt="威尼斯：无限前卫">
 </div>
 
 ---
