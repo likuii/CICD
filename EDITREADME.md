@@ -331,7 +331,7 @@
 
 ---
 ## 艾尔米塔什博物馆：艺术的力量
-**Rating:** 8.6
+**Rating:** 8.5
 **Runtime:** 90分钟
 **Country:** 意大利
 **Director:** Michele Mally
