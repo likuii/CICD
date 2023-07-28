@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 孟加拉虎，兰坦波尔国家公园，印度 (© Andy Rouse/Minden Pictures)
+
+![孟加拉虎，兰坦波尔国家公园，印度 (© Andy Rouse/Minden Pictures)](https://cn.bing.com/th?id=OHR.TigerIndia_ZH-CN6657629375_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%AD%9F%E5%8A%A0%E6%8B%89%E8%99%8E&form=hpcapt&mkt=zh-cn)
+
 ## 圣布拉斯群岛，巴拿马 (© bgremler/Shutterstock)
 
 ![圣布拉斯群岛，巴拿马 (© bgremler/Shutterstock)](https://cn.bing.com/th?id=OHR.SanBlasIslands_ZH-CN6320572106_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![爱丁堡茶园, 努沃勒埃利耶, 斯里兰卡 (© Jeremy Woodhouse/Getty Images)](https://cn.bing.com/th?id=OHR.TeaEstate_ZH-CN9645412630_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%8A%AA%E6%B2%83%E5%8B%92%E5%9F%83%E5%88%A9%E8%80%B6&form=hpcapt&mkt=zh-cn)
-
-## 在一棵秃柏树上吊床露营，佛罗里达州，美国 (© Mac Stone/Tandem Stills + Motion)
-
-![在一棵秃柏树上吊床露营，佛罗里达州，美国 (© Mac Stone/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HammockDay_ZH-CN9368760971_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%90%8A%E5%BA%8A%E9%9C%B2%E8%90%A5&form=hpcapt&mkt=zh-cn)
 
