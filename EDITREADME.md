@@ -287,7 +287,7 @@
 
 ---
 ## 哆啦A梦：大雄与天空的理想乡
-**Rating:** 7.3
+**Rating:** 7.2
 **Runtime:** 107分钟
 **Country:** 日本
 **Director:** 堂山卓见 
@@ -342,7 +342,7 @@
 
 ---
 ## 拉斐尔：年轻的画圣
-**Rating:** 7.7
+**Rating:** 7.6
 **Runtime:** 83分钟
 **Country:** 意大利
 **Director:** Massimo Ferrari
