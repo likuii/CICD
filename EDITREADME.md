@@ -22,17 +22,6 @@
 </div>
 
 ---
-## 恶世之子
-**Rating:** 6.6
-**Runtime:** 120分钟
-**Country:** 美国
-**Director:** 达米安·斯兹弗隆
-**Cast:** 谢琳·伍德蕾 / 本·门德尔森 / 拉尔夫·伊内森
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895468066.jpg" alt="恶世之子">
-</div>
-
----
 ## 热烈
 **Rating:** 7.7
 **Runtime:** 124分钟
@@ -132,6 +121,17 @@
 </div>
 
 ---
+## 恶世之子
+**Rating:** 6.6
+**Runtime:** 120分钟
+**Country:** 美国
+**Director:** 达米安·斯兹弗隆
+**Cast:** 谢琳·伍德蕾 / 本·门德尔森 / 拉尔夫·伊内森
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895468066.jpg" alt="恶世之子">
+</div>
+
+---
 ## 夺宝奇兵5：命运转盘
 **Rating:** 7.3
 **Runtime:** 155分钟
@@ -165,17 +165,6 @@
 </div>
 
 ---
-## 疯狂元素城
-**Rating:** 7.3
-**Runtime:** 102分钟
-**Country:** 美国
-**Director:** 彼得·孙
-**Cast:** 莉娅·刘易斯 / 马莫多·阿西 / 罗纳尔多·德尔·卡门
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891542432.jpg" alt="疯狂元素城">
-</div>
-
----
 ## 力量密码
 **Rating:** 0
 **Runtime:** 103分钟
@@ -187,6 +176,17 @@
 </div>
 
 ---
+## 疯狂元素城
+**Rating:** 7.3
+**Runtime:** 102分钟
+**Country:** 美国
+**Director:** 彼得·孙
+**Cast:** 莉娅·刘易斯 / 马莫多·阿西 / 罗纳尔多·德尔·卡门
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891542432.jpg" alt="疯狂元素城">
+</div>
+
+---
 ## 百变马丁：怪兽大作战
 **Rating:** 0
 **Runtime:** 87分钟
@@ -195,6 +195,17 @@
 **Cast:** 姚培华 / 秦紫翼 / 刘方芳
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895602695.jpg" alt="百变马丁：怪兽大作战">
+</div>
+
+---
+## 超级英雄美猴王——齐天儿
+**Rating:** 0
+**Runtime:** 101分钟
+**Country:** 中国大陆
+**Director:** 拉尔夫·宗戴格 迪克·宗达格 亓梅晓
+**Cast:** 钟巍 / 张琦 / 张欣
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2895467463.jpg" alt="超级英雄美猴王——齐天儿">
 </div>
 
 ---
@@ -286,28 +297,6 @@
 </div>
 
 ---
-## 午夜迷途
-**Rating:** 0
-**Runtime:** 74分钟
-**Country:** 中国大陆
-**Director:** 张若以
-**Cast:** 单思杰 / 廖越 / 郭万超
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892799691.jpg" alt="午夜迷途">
-</div>
-
----
-## 矩阵·梦迷宫
-**Rating:** 0
-**Runtime:** 98分钟
-**Country:** 中国大陆
-**Director:** 郭文基
-**Cast:** 迟帅 / 于荣光 / 鲍天琦
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893835621.jpg" alt="矩阵·梦迷宫">
-</div>
-
----
 ## 波提切利，佛罗伦萨和美第奇
 **Rating:** 8.3
 **Runtime:** 90分钟
@@ -363,17 +352,6 @@
 </div>
 
 ---
-## 一路幸福
-**Rating:** 0
-**Runtime:** 95分钟
-**Country:** 中国大陆
-**Director:** 李谊 周婧 黄跃
-**Cast:** 
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892469147.jpg" alt="一路幸福">
-</div>
-
----
 ## 卡拉瓦乔：灵与血
 **Rating:** 6.5
 **Runtime:** 94分钟
@@ -426,17 +404,6 @@
 **Cast:** 胡阿祥 / 苏智良 / 王澍
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574476155.jpg" alt="长江">
-</div>
-
----
-## 超级英雄美猴王——齐天儿
-**Rating:** 0
-**Runtime:** 101分钟
-**Country:** 中国大陆
-**Director:** 拉尔夫·宗戴格 迪克·宗达格 亓梅晓
-**Cast:** 钟巍 / 张琦 / 张欣
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2895467463.jpg" alt="超级英雄美猴王——齐天儿">
 </div>
 
 ---
@@ -536,6 +503,17 @@
 **Cast:** 古天乐 / 张智霖 / 吴镇宇
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892025156.jpg" alt="暗杀风暴">
+</div>
+
+---
+## 学爸
+**Rating:** 0
+**Runtime:** 122分钟
+**Country:** 中国大陆
+**Director:** 苏亮
+**Cast:** 黄渤 / 单禹豪 / 闫妮
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895434209.jpg" alt="学爸">
 </div>
 
 ---
