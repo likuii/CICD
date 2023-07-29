@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 帕卢斯的农田，华盛顿州，美国 (© EJ-J/Getty Images)
+
+![帕卢斯的农田，华盛顿州，美国 (© EJ-J/Getty Images)](https://cn.bing.com/th?id=OHR.PalouseHills_ZH-CN6864015897_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%B8%95%E5%8D%A2%E6%96%AF&form=hpcapt&mkt=zh-cn)
+
 ## 孟加拉虎，兰坦波尔国家公园，印度 (© Andy Rouse/Minden Pictures)
 
 ![孟加拉虎，兰坦波尔国家公园，印度 (© Andy Rouse/Minden Pictures)](https://cn.bing.com/th?id=OHR.TigerIndia_ZH-CN6657629375_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![斑马，塔兰吉雷国家公园，坦桑尼亚 (© cinoby/Getty Images)](https://cn.bing.com/th?id=OHR.ZebraCousins_ZH-CN8159888859_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E6%96%91%E9%A9%AC&form=hpcapt&mkt=zh-cn)
-
-## 爱丁堡茶园, 努沃勒埃利耶, 斯里兰卡 (© Jeremy Woodhouse/Getty Images)
-
-![爱丁堡茶园, 努沃勒埃利耶, 斯里兰卡 (© Jeremy Woodhouse/Getty Images)](https://cn.bing.com/th?id=OHR.TeaEstate_ZH-CN9645412630_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%8A%AA%E6%B2%83%E5%8B%92%E5%9F%83%E5%88%A9%E8%80%B6&form=hpcapt&mkt=zh-cn)
 
