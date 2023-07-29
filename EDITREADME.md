@@ -23,7 +23,7 @@
 
 ---
 ## 热烈
-**Rating:** 7.7
+**Rating:** 7.6
 **Runtime:** 124分钟
 **Country:** 中国大陆
 **Director:** 大鹏
@@ -298,7 +298,7 @@
 
 ---
 ## 波提切利，佛罗伦萨和美第奇
-**Rating:** 8.3
+**Rating:** 8.2
 **Runtime:** 90分钟
 **Country:** 意大利
 **Director:** Marco Pianigiani
