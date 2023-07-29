@@ -12,7 +12,7 @@
 
 ---
 ## 芭比
-**Rating:** 8.5
+**Rating:** 8.4
 **Runtime:** 114分钟
 **Country:** 加拿大 美国
 **Director:** 格蕾塔·葛韦格
