@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 霍金山州立公园的岩石屋，俄亥俄州，美国 (© Kenneth Keifer/Getty Images)
+
+![霍金山州立公园的岩石屋，俄亥俄州，美国 (© Kenneth Keifer/Getty Images)](https://cn.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E&form=hpcapt&mkt=zh-cn)
+
 ## 帕卢斯的农田，华盛顿州，美国 (© EJ-J/Getty Images)
 
 ![帕卢斯的农田，华盛顿州，美国 (© EJ-J/Getty Images)](https://cn.bing.com/th?id=OHR.PalouseHills_ZH-CN6864015897_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![托雷维耶哈潟湖，阿利坎特，西班牙 (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.LasLagunas_ZH-CN9917702340_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E6%89%98%E9%9B%B7%E7%BB%B4%E8%80%B6%E5%93%88&form=hpcapt&mkt=zh-cn)
-
-## 斑马，塔兰吉雷国家公园，坦桑尼亚 (© cinoby/Getty Images)
-
-![斑马，塔兰吉雷国家公园，坦桑尼亚 (© cinoby/Getty Images)](https://cn.bing.com/th?id=OHR.ZebraCousins_ZH-CN8159888859_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E6%96%91%E9%A9%AC&form=hpcapt&mkt=zh-cn)
 
