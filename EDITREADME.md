@@ -45,7 +45,7 @@
 
 ---
 ## 八角笼中
-**Rating:** 7.5
+**Rating:** 7.4
 **Runtime:** 117分钟
 **Country:** 中国大陆
 **Director:** 王宝强
