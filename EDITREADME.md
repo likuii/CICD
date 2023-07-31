@@ -385,6 +385,17 @@
 </div>
 
 ---
+## 煞面迷影
+**Rating:** 0
+**Runtime:** 90分钟
+**Country:** 中国大陆
+**Director:** 张伟瑚
+**Cast:** 周育竹 / 侯旭 / 雷承昆
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890009747.jpg" alt="煞面迷影">
+</div>
+
+---
 ## 长江
 **Rating:** 7.9
 **Runtime:** 50分钟
