@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 从德纳里山看福克拉山，德纳里国家公园，美国阿拉斯加州 (© Andrew Peacock/Tandem Stills + Motion)
+
+![从德纳里山看福克拉山，德纳里国家公园，美国阿拉斯加州 (© Andrew Peacock/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.DenaliClimber_ZH-CN7548168932_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%BE%B7%E7%BA%B3%E9%87%8C%E5%B1%B1&form=hpcapt&mkt=zh-cn)
+
 ## 霍金山州立公园的岩石屋，俄亥俄州，美国 (© Kenneth Keifer/Getty Images)
 
 ![霍金山州立公园的岩石屋，俄亥俄州，美国 (© Kenneth Keifer/Getty Images)](https://cn.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![朱拜勒红树林公园，阿布扎比，阿拉伯联合酋长国 (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.MangrovePark_ZH-CN0208518370_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E7%BA%A2%E6%A0%91&form=hpcapt&mkt=zh-cn)
-
-## 托雷维耶哈潟湖，阿利坎特，西班牙 (© Juan Maria Coy Vergara/Getty Images)
-
-![托雷维耶哈潟湖，阿利坎特，西班牙 (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.LasLagunas_ZH-CN9917702340_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E6%89%98%E9%9B%B7%E7%BB%B4%E8%80%B6%E5%93%88&form=hpcapt&mkt=zh-cn)
 
