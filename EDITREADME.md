@@ -111,7 +111,7 @@
 
 ---
 ## 扫毒3：人在天涯
-**Rating:** 5.9
+**Rating:** 5.8
 **Runtime:** 124分钟
 **Country:** 中国大陆 中国香港
 **Director:** 邱礼涛
@@ -261,6 +261,17 @@
 **Cast:** 陈苏 / 郏捷 / 耿晨晨
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893877455.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
+</div>
+
+---
+## 天空之城
+**Rating:** 9.2
+**Runtime:** 125分钟
+**Country:** 日本
+**Director:** 宫崎骏
+**Cast:** 田中真弓 / 横泽启子 / 初井言荣
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892380420.jpg" alt="天空之城">
 </div>
 
 ---
