@@ -495,17 +495,6 @@
 </div>
 
 ---
-## 少年时代
-**Rating:** 0
-**Runtime:** 
-**Country:** 中国大陆
-**Director:** 陈凯歌
-**Cast:** 刘昊然 / 陈飞宇 / 张雪迎
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893157537.jpg" alt="少年时代">
-</div>
-
----
 ## 我经过风暴
 **Rating:** 0
 **Runtime:** 101分钟
@@ -525,6 +514,17 @@
 **Cast:** 古天乐 / 张智霖 / 吴镇宇
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892025156.jpg" alt="暗杀风暴">
+</div>
+
+---
+## 学爸
+**Rating:** 0
+**Runtime:** 122分钟
+**Country:** 中国大陆
+**Director:** 苏亮
+**Cast:** 黄渤 / 单禹豪 / 闫妮
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895434209.jpg" alt="学爸">
 </div>
 
 ---
