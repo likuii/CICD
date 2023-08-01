@@ -298,7 +298,7 @@
 
 ---
 ## 波提切利，佛罗伦萨和美第奇
-**Rating:** 8.2
+**Rating:** 8.1
 **Runtime:** 90分钟
 **Country:** 意大利
 **Director:** Marco Pianigiani
@@ -386,7 +386,7 @@
 
 ---
 ## 威尼斯：无限前卫
-**Rating:** 6.8
+**Rating:** 6.9
 **Runtime:** 93分钟
 **Country:** 意大利
 **Director:** Michele Mally
@@ -397,7 +397,7 @@
 
 ---
 ## 丁托列托：威尼斯的反叛者
-**Rating:** 7.2
+**Rating:** 7.3
 **Runtime:** 
 **Country:** 意大利
 **Director:** Giuseppe Domingo Romano
