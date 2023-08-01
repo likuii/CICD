@@ -23,7 +23,7 @@
 
 ---
 ## 芭比
-**Rating:** 8.4
+**Rating:** 8.3
 **Runtime:** 114分钟
 **Country:** 加拿大 美国
 **Director:** 格蕾塔·葛韦格
@@ -397,7 +397,7 @@
 
 ---
 ## 丁托列托：威尼斯的反叛者
-**Rating:** 7.3
+**Rating:** 7.2
 **Runtime:** 
 **Country:** 意大利
 **Director:** Giuseppe Domingo Romano
