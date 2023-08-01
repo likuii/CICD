@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 圆顶礁国家公园的砂岩山丘，犹他州，美国 (© Amazing Aerial Premium/Shutterstock)
+
+![圆顶礁国家公园的砂岩山丘，犹他州，美国 (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.CapitolButte_ZH-CN7707972988_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%9C%86%E9%A1%B6%E7%A4%81%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+
 ## 从德纳里山看福克拉山，德纳里国家公园，美国阿拉斯加州 (© Andrew Peacock/Tandem Stills + Motion)
 
 ![从德纳里山看福克拉山，德纳里国家公园，美国阿拉斯加州 (© Andrew Peacock/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.DenaliClimber_ZH-CN7548168932_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![卡鲁塞尔凯旋门和卢浮宫金字塔，巴黎，法国 (© Jon Hicks/Getty Images)](https://cn.bing.com/th?id=OHR.ParisLouvre_ZH-CN0341884841_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%8D%A1%E9%B2%81%E5%A1%9E%E5%B0%94%E5%87%AF%E6%97%8B%E9%97%A8&form=hpcapt&mkt=zh-cn)
-
-## 朱拜勒红树林公园，阿布扎比，阿拉伯联合酋长国 (© Amazing Aerial Premium/Shutterstock)
-
-![朱拜勒红树林公园，阿布扎比，阿拉伯联合酋长国 (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.MangrovePark_ZH-CN0208518370_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E7%BA%A2%E6%A0%91&form=hpcapt&mkt=zh-cn)
 
