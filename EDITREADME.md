@@ -385,6 +385,17 @@
 </div>
 
 ---
+## 南太平洋之旅
+**Rating:** 8.3
+**Runtime:** 40分钟
+**Country:** 美国
+**Director:** 格雷戈·迈吉里弗雷 Stephen Judson
+**Cast:** 凯特·布兰切特 / Ferdiel Ballamu / Menas Mambasar
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155676070.jpg" alt="南太平洋之旅">
+</div>
+
+---
 ## 巨齿鲨2：深渊
 **Rating:** 0
 **Runtime:** 119分钟
