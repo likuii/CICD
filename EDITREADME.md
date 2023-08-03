@@ -364,7 +364,7 @@
 
 ---
 ## 女王的肖像
-**Rating:** 6.9
+**Rating:** 6.8
 **Runtime:** 90分钟
 **Country:** 意大利
 **Director:** Fabrizio FERRI
@@ -375,7 +375,7 @@
 
 ---
 ## 丁托列托：威尼斯的反叛者
-**Rating:** 7.2
+**Rating:** 7.1
 **Runtime:** 
 **Country:** 意大利
 **Director:** Giuseppe Domingo Romano
