@@ -111,7 +111,7 @@
 
 ---
 ## 扫毒3：人在天涯
-**Rating:** 5.9
+**Rating:** 5.8
 **Runtime:** 124分钟
 **Country:** 中国大陆 中国香港
 **Director:** 邱礼涛
