@@ -425,7 +425,7 @@
 **Director:** 奚志农
 **Cast:** 朱亚文
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895952357.jpg" alt="雪豹和她的朋友们">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896344803.jpg" alt="雪豹和她的朋友们">
 </div>
 
 ---
