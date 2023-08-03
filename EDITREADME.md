@@ -407,28 +407,6 @@
 </div>
 
 ---
-## 巨齿鲨2：深渊
-**Rating:** 0
-**Runtime:** 119分钟
-**Country:** 美国 中国大陆
-**Director:** 本·维特利 
-**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
-</div>
-
----
-## 雪豹和她的朋友们
-**Rating:** 0
-**Runtime:** 85分钟
-**Country:** 中国大陆
-**Director:** 奚志农
-**Cast:** 朱亚文
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896344803.jpg" alt="雪豹和她的朋友们">
-</div>
-
----
 ## 野蛮人入侵
 **Rating:** 0
 **Runtime:** 106分钟
@@ -514,6 +492,28 @@
 **Cast:** 克里斯蒂娜·瓦伦苏埃拉 / 布莱斯·峇本布鲁克 / 泽诺·罗宾逊
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896104354.jpg" alt="奇迹少女">
+</div>
+
+---
+## 王牌二哈
+**Rating:** 0
+**Runtime:** 93分钟
+**Country:** 中国大陆
+**Director:** 曾元俊
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892957868.jpg" alt="王牌二哈">
+</div>
+
+---
+## 燃冬
+**Rating:** 0
+**Runtime:** 97分钟
+**Country:** 中国大陆
+**Director:** 陈哲艺
+**Cast:** 周冬雨 / 刘昊然 / 屈楚萧
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2894025389.jpg" alt="燃冬">
 </div>
 
 ---

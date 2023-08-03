@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 廷特恩修道院，威尔士 (© matthibcn/Getty Images)
+
+![廷特恩修道院，威尔士 (© matthibcn/Getty Images)](https://cn.bing.com/th?id=OHR.GothicRuins_ZH-CN8317467997_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%A8%81%E5%B0%94%E5%A3%AB%E5%BB%B7%E7%89%B9%E6%81%A9%E4%BF%AE%E9%81%93%E9%99%A2&form=hpcapt&mkt=zh-cn)
+
 ## 泽伦西自然保护区，斯洛文尼亚 (© Andrey Danilovich/Getty Images)
 
 ![泽伦西自然保护区，斯洛文尼亚 (© Andrey Danilovich/Getty Images)](https://cn.bing.com/th?id=OHR.ZelenciSprings_ZH-CN8022746409_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![孟加拉虎，兰坦波尔国家公园，印度 (© Andy Rouse/Minden Pictures)](https://cn.bing.com/th?id=OHR.TigerIndia_ZH-CN6657629375_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%AD%9F%E5%8A%A0%E6%8B%89%E8%99%8E&form=hpcapt&mkt=zh-cn)
-
-## 圣布拉斯群岛，巴拿马 (© bgremler/Shutterstock)
-
-![圣布拉斯群岛，巴拿马 (© bgremler/Shutterstock)](https://cn.bing.com/th?id=OHR.SanBlasIslands_ZH-CN6320572106_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%9C%A3%E5%B8%83%E6%8B%89%E6%96%AF%E7%BE%A4%E5%B2%9B&form=hpcapt&mkt=zh-cn)
 
