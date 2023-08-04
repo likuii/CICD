@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 大西洋海鹦，冰岛 (© Peter Hering/Minden Pictures)
+
+![大西洋海鹦，冰岛 (© Peter Hering/Minden Pictures)](https://cn.bing.com/th?id=OHR.AtlanticPuffin_ZH-CN8523220989_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%B5%B7%E9%B9%A6&form=hpcapt&mkt=zh-cn)
+
 ## 廷特恩修道院，威尔士 (© matthibcn/Getty Images)
 
 ![廷特恩修道院，威尔士 (© matthibcn/Getty Images)](https://cn.bing.com/th?id=OHR.GothicRuins_ZH-CN8317467997_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![帕卢斯的农田，华盛顿州，美国 (© EJ-J/Getty Images)](https://cn.bing.com/th?id=OHR.PalouseHills_ZH-CN6864015897_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%B8%95%E5%8D%A2%E6%96%AF&form=hpcapt&mkt=zh-cn)
-
-## 孟加拉虎，兰坦波尔国家公园，印度 (© Andy Rouse/Minden Pictures)
-
-![孟加拉虎，兰坦波尔国家公园，印度 (© Andy Rouse/Minden Pictures)](https://cn.bing.com/th?id=OHR.TigerIndia_ZH-CN6657629375_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%AD%9F%E5%8A%A0%E6%8B%89%E8%99%8E&form=hpcapt&mkt=zh-cn)
 
