@@ -77,17 +77,6 @@
 </div>
 
 ---
-## 超能一家人
-**Rating:** 4
-**Runtime:** 113分钟
-**Country:** 中国大陆
-**Director:** 宋阳
-**Cast:** 艾伦 / 沈腾 / 陶慧
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890369636.jpg" alt="超能一家人">
-</div>
-
----
 ## 碟中谍7：致命清算（上）
 **Rating:** 7.8
 **Runtime:** 164分钟
@@ -99,14 +88,14 @@
 </div>
 
 ---
-## 我爱你！
-**Rating:** 7.9
-**Runtime:** 116分钟
-**Country:** 中国大陆 中国香港
-**Director:** 韩延
-**Cast:** 倪大红 / 惠英红 / 梁家辉
+## 超能一家人
+**Rating:** 4
+**Runtime:** 113分钟
+**Country:** 中国大陆
+**Director:** 宋阳
+**Cast:** 艾伦 / 沈腾 / 陶慧
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888042597.jpg" alt="我爱你！">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890369636.jpg" alt="超能一家人">
 </div>
 
 ---
@@ -118,6 +107,17 @@
 **Cast:** 邢原源 / 王博文 / 高禹恒
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895351514.jpg" alt="茶啊二中">
+</div>
+
+---
+## 我爱你！
+**Rating:** 7.9
+**Runtime:** 116分钟
+**Country:** 中国大陆 中国香港
+**Director:** 韩延
+**Cast:** 倪大红 / 惠英红 / 梁家辉
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888042597.jpg" alt="我爱你！">
 </div>
 
 ---
@@ -176,17 +176,6 @@
 </div>
 
 ---
-## 疯狂元素城
-**Rating:** 7.3
-**Runtime:** 102分钟
-**Country:** 美国
-**Director:** 彼得·孙
-**Cast:** 莉娅·刘易斯 / 马莫多·阿西 / 罗纳尔多·德尔·卡门
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891542432.jpg" alt="疯狂元素城">
-</div>
-
----
 ## 超级飞侠：乐迪加速
 **Rating:** 6.3
 **Runtime:** 89分钟
@@ -195,6 +184,17 @@
 **Cast:** 张嘉骐 / 吴若萱  / 何沛祺
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893886888.jpg" alt="超级飞侠：乐迪加速">
+</div>
+
+---
+## 疯狂元素城
+**Rating:** 7.3
+**Runtime:** 102分钟
+**Country:** 美国
+**Director:** 彼得·孙
+**Cast:** 莉娅·刘易斯 / 马莫多·阿西 / 罗纳尔多·德尔·卡门
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891542432.jpg" alt="疯狂元素城">
 </div>
 
 ---
@@ -220,17 +220,6 @@
 </div>
 
 ---
-## 申纪兰
-**Rating:** 0
-**Runtime:** 108分钟
-**Country:** 中国大陆
-**Director:** 哈斯朝鲁
-**Cast:** 岳红 / 姚兵蓉 / 苏丽
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893777607.jpg" alt="申纪兰">
-</div>
-
----
 ## 荒野咖啡馆
 **Rating:** 3.4
 **Runtime:** 114分钟
@@ -239,6 +228,28 @@
 **Cast:** 刘雅瑟 / 王一钧 / 孙小雪
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2575964732.jpg" alt="荒野咖啡馆">
+</div>
+
+---
+## 棉花糖和云朵妈妈1宝贝芯计划
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 徐铮
+**Cast:** 陈苏 / 郏捷 / 耿晨晨
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893877455.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
+</div>
+
+---
+## 申纪兰
+**Rating:** 0
+**Runtime:** 108分钟
+**Country:** 中国大陆
+**Director:** 哈斯朝鲁
+**Cast:** 岳红 / 姚兵蓉 / 苏丽
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893777607.jpg" alt="申纪兰">
 </div>
 
 ---
@@ -261,17 +272,6 @@
 **Cast:** 田中真弓 / 横泽启子 / 初井言荣
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892380420.jpg" alt="天空之城">
-</div>
-
----
-## 棉花糖和云朵妈妈1宝贝芯计划
-**Rating:** 0
-**Runtime:** 88分钟
-**Country:** 中国大陆
-**Director:** 徐铮
-**Cast:** 陈苏 / 郏捷 / 耿晨晨
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893877455.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
 </div>
 
 ---
@@ -308,6 +308,17 @@
 </div>
 
 ---
+## 南太平洋之旅
+**Rating:** 8.2
+**Runtime:** 40分钟
+**Country:** 美国
+**Director:** 格雷戈·迈吉里弗雷 Stephen Judson
+**Cast:** 凯特·布兰切特 / Ferdiel Ballamu / Menas Mambasar
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155676070.jpg" alt="南太平洋之旅">
+</div>
+
+---
 ## 艾尔米塔什博物馆：艺术的力量
 **Rating:** 8.4
 **Runtime:** 90分钟
@@ -316,17 +327,6 @@
 **Cast:** 托尼·塞尔维洛
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2595443295.jpg" alt="艾尔米塔什博物馆：艺术的力量">
-</div>
-
----
-## 普拉多博物馆：奇迹珍藏
-**Rating:** 8
-**Runtime:** 92分钟
-**Country:** 意大利 西班牙
-**Director:** Valeria Parisi
-**Cast:** 杰瑞米·艾恩斯 / 萨尔瓦多·达利 / 路易斯·布努埃尔
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2576213252.jpg" alt="普拉多博物馆：奇迹珍藏">
 </div>
 
 ---
@@ -352,14 +352,14 @@
 </div>
 
 ---
-## 威尼斯：无限前卫
-**Rating:** 6.8
-**Runtime:** 93分钟
-**Country:** 意大利
-**Director:** Michele Mally
-**Cast:** Hania Rani / Carlo Cecchi
+## 普拉多博物馆：奇迹珍藏
+**Rating:** 8
+**Runtime:** 92分钟
+**Country:** 意大利 西班牙
+**Director:** Valeria Parisi
+**Cast:** 杰瑞米·艾恩斯 / 萨尔瓦多·达利 / 路易斯·布努埃尔
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890367227.jpg" alt="威尼斯：无限前卫">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2576213252.jpg" alt="普拉多博物馆：奇迹珍藏">
 </div>
 
 ---
@@ -374,6 +374,17 @@
 </div>
 
 ---
+## 威尼斯：无限前卫
+**Rating:** 6.8
+**Runtime:** 93分钟
+**Country:** 意大利
+**Director:** Michele Mally
+**Cast:** Hania Rani / Carlo Cecchi
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890367227.jpg" alt="威尼斯：无限前卫">
+</div>
+
+---
 ## 丁托列托：威尼斯的反叛者
 **Rating:** 7.1
 **Runtime:** 
@@ -382,17 +393,6 @@
 **Cast:** Helena Bonham Carter / 彼得·格林纳威 / Melania Gaia Mazzucco
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568493879.jpg" alt="丁托列托：威尼斯的反叛者">
-</div>
-
----
-## 南太平洋之旅
-**Rating:** 8.2
-**Runtime:** 40分钟
-**Country:** 美国
-**Director:** 格雷戈·迈吉里弗雷 Stephen Judson
-**Cast:** 凯特·布兰切特 / Ferdiel Ballamu / Menas Mambasar
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155676070.jpg" alt="南太平洋之旅">
 </div>
 
 ---
