@@ -1,5 +1,16 @@
 # Douban Currently Playing Movies
 
+## 巨齿鲨2：深渊
+**Rating:** 6.1
+**Runtime:** 119分钟
+**Country:** 美国 中国大陆
+**Director:** 本·维特利 
+**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
+</div>
+
+---
 ## 封神第一部：朝歌风云
 **Rating:** 7.8
 **Runtime:** 148分钟
@@ -33,17 +44,6 @@
 </div>
 
 ---
-## 巨齿鲨2：深渊
-**Rating:** 0
-**Runtime:** 119分钟
-**Country:** 美国 中国大陆
-**Director:** 本·维特利 
-**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
-</div>
-
----
 ## 长安三万里
 **Rating:** 8.2
 **Runtime:** 168分钟
@@ -52,6 +52,17 @@
 **Cast:** 杨天翔 / 凌振赫 / 吴俊全
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893820209.jpg" alt="长安三万里">
+</div>
+
+---
+## 雪豹和她的朋友们
+**Rating:** 0
+**Runtime:** 85分钟
+**Country:** 中国大陆
+**Director:** 奚志农
+**Cast:** 朱亚文
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896344803.jpg" alt="雪豹和她的朋友们">
 </div>
 
 ---
@@ -143,17 +154,6 @@
 </div>
 
 ---
-## 雪豹和她的朋友们
-**Rating:** 0
-**Runtime:** 85分钟
-**Country:** 中国大陆
-**Director:** 奚志农
-**Cast:** 朱亚文
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896344803.jpg" alt="雪豹和她的朋友们">
-</div>
-
----
 ## 超级英雄美猴王——齐天儿
 **Rating:** 0
 **Runtime:** 101分钟
@@ -176,17 +176,6 @@
 </div>
 
 ---
-## 疯狂元素城
-**Rating:** 7.3
-**Runtime:** 102分钟
-**Country:** 美国
-**Director:** 彼得·孙
-**Cast:** 莉娅·刘易斯 / 马莫多·阿西 / 罗纳尔多·德尔·卡门
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891542432.jpg" alt="疯狂元素城">
-</div>
-
----
 ## 变形金刚：超能勇士崛起
 **Rating:** 5.9
 **Runtime:** 128分钟(中国大陆)
@@ -195,6 +184,17 @@
 **Cast:** 安东尼·拉莫斯 / 多米尼克·菲什巴克 / 彼特·库伦
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892024245.jpg" alt="变形金刚：超能勇士崛起">
+</div>
+
+---
+## 疯狂元素城
+**Rating:** 7.3
+**Runtime:** 102分钟
+**Country:** 美国
+**Director:** 彼得·孙
+**Cast:** 莉娅·刘易斯 / 马莫多·阿西 / 罗纳尔多·德尔·卡门
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891542432.jpg" alt="疯狂元素城">
 </div>
 
 ---
@@ -220,17 +220,6 @@
 </div>
 
 ---
-## 荒野咖啡馆
-**Rating:** 3.4
-**Runtime:** 114分钟
-**Country:** 中国大陆
-**Director:** 时晓凡
-**Cast:** 刘雅瑟 / 王一钧 / 孙小雪
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2575964732.jpg" alt="荒野咖啡馆">
-</div>
-
----
 ## 记忆
 **Rating:** 7.6
 **Runtime:** 136分钟
@@ -253,14 +242,14 @@
 </div>
 
 ---
-## 申纪兰
-**Rating:** 0
-**Runtime:** 108分钟
+## 荒野咖啡馆
+**Rating:** 3.4
+**Runtime:** 114分钟
 **Country:** 中国大陆
-**Director:** 哈斯朝鲁
-**Cast:** 岳红 / 姚兵蓉 / 苏丽
+**Director:** 时晓凡
+**Cast:** 刘雅瑟 / 王一钧 / 孙小雪
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893777607.jpg" alt="申纪兰">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2575964732.jpg" alt="荒野咖啡馆">
 </div>
 
 ---
@@ -272,6 +261,17 @@
 **Cast:** 仲村宗悟 / 笠间淳 / 木村昴
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888398295.jpg" alt="灌篮高手">
+</div>
+
+---
+## 申纪兰
+**Rating:** 0
+**Runtime:** 108分钟
+**Country:** 中国大陆
+**Director:** 哈斯朝鲁
+**Cast:** 岳红 / 姚兵蓉 / 苏丽
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893777607.jpg" alt="申纪兰">
 </div>
 
 ---
@@ -308,17 +308,6 @@
 </div>
 
 ---
-## 北京2022
-**Rating:** 0
-**Runtime:** 103分钟
-**Country:** 中国大陆
-**Director:** 陆川
-**Cast:** 武大靖 / 任子威 / 苏翊鸣
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891832226.jpg" alt="北京2022">
-</div>
-
----
 ## 波提切利，佛罗伦萨和美第奇
 **Rating:** 8.1
 **Runtime:** 90分钟
@@ -327,6 +316,17 @@
 **Cast:** 史蒂芬·曼甘 / 杰丝敏·特丽卡
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2680939025.jpg" alt="波提切利，佛罗伦萨和美第奇">
+</div>
+
+---
+## 北京2022
+**Rating:** 0
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 陆川
+**Cast:** 武大靖 / 任子威 / 苏翊鸣
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2891832226.jpg" alt="北京2022">
 </div>
 
 ---
@@ -352,14 +352,14 @@
 </div>
 
 ---
-## 卡拉瓦乔：灵与血
-**Rating:** 6.5
-**Runtime:** 94分钟
+## 丁托列托：威尼斯的反叛者
+**Rating:** 7.1
+**Runtime:** 
 **Country:** 意大利
-**Director:** 杰苏斯·加尔塞斯·兰伯特
-**Cast:** 曼努埃尔·阿涅利 / Emanuele Marigliano / Sara Pallini
+**Director:** Giuseppe Domingo Romano
+**Cast:** Helena Bonham Carter / 彼得·格林纳威 / Melania Gaia Mazzucco
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2568714561.jpg" alt="卡拉瓦乔：灵与血">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568493879.jpg" alt="丁托列托：威尼斯的反叛者">
 </div>
 
 ---
@@ -371,6 +371,17 @@
 **Cast:** 杰瑞米·艾恩斯 / 萨尔瓦多·达利 / 路易斯·布努埃尔
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2576213252.jpg" alt="普拉多博物馆：奇迹珍藏">
+</div>
+
+---
+## 卡拉瓦乔：灵与血
+**Rating:** 6.5
+**Runtime:** 94分钟
+**Country:** 意大利
+**Director:** 杰苏斯·加尔塞斯·兰伯特
+**Cast:** 曼努埃尔·阿涅利 / Emanuele Marigliano / Sara Pallini
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2568714561.jpg" alt="卡拉瓦乔：灵与血">
 </div>
 
 ---
@@ -393,17 +404,6 @@
 **Cast:** Hania Rani / Carlo Cecchi
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890367227.jpg" alt="威尼斯：无限前卫">
-</div>
-
----
-## 丁托列托：威尼斯的反叛者
-**Rating:** 7.1
-**Runtime:** 
-**Country:** 意大利
-**Director:** Giuseppe Domingo Romano
-**Cast:** Helena Bonham Carter / 彼得·格林纳威 / Melania Gaia Mazzucco
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568493879.jpg" alt="丁托列托：威尼斯的反叛者">
 </div>
 
 ---
