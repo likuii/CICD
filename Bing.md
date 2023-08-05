@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 镜池，长野，日本 (© Shoji Fujita/Getty Images)
+
+![镜池，长野，日本 (© Shoji Fujita/Getty Images)](https://cn.bing.com/th?id=OHR.NaganoPond_ZH-CN8794832798_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E9%95%BF%E9%87%8E&form=hpcapt&mkt=zh-cn)
+
 ## 大西洋海鹦，冰岛 (© Peter Hering/Minden Pictures)
 
 ![大西洋海鹦，冰岛 (© Peter Hering/Minden Pictures)](https://cn.bing.com/th?id=OHR.AtlanticPuffin_ZH-CN8523220989_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![霍金山州立公园的岩石屋，俄亥俄州，美国 (© Kenneth Keifer/Getty Images)](https://cn.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E&form=hpcapt&mkt=zh-cn)
-
-## 帕卢斯的农田，华盛顿州，美国 (© EJ-J/Getty Images)
-
-![帕卢斯的农田，华盛顿州，美国 (© EJ-J/Getty Images)](https://cn.bing.com/th?id=OHR.PalouseHills_ZH-CN6864015897_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%B8%95%E5%8D%A2%E6%96%AF&form=hpcapt&mkt=zh-cn)
 
