@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 巨齿鲨2：深渊
-**Rating:** 6.1
+**Rating:** 6
 **Runtime:** 119分钟
 **Country:** 美国 中国大陆
 **Director:** 本·维特利 
@@ -386,7 +386,7 @@
 
 ---
 ## 卡拉瓦乔：灵与血
-**Rating:** 6.5
+**Rating:** 6.6
 **Runtime:** 94分钟
 **Country:** 意大利
 **Director:** 杰苏斯·加尔塞斯·兰伯特
