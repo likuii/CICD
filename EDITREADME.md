@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 巨齿鲨2：深渊
-**Rating:** 5.9
+**Rating:** 5.8
 **Runtime:** 119分钟
 **Country:** 美国 中国大陆
 **Director:** 本·维特利 
