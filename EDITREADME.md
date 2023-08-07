@@ -187,17 +187,6 @@
 </div>
 
 ---
-## 孤注一掷
-**Rating:** 0
-**Runtime:** 130分钟
-**Country:** 中国大陆
-**Director:** 申奥
-**Cast:** 张艺兴 / 金晨 / 咏梅
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896499810.jpg" alt="孤注一掷">
-</div>
-
----
 ## 野蛮人入侵
 **Rating:** 0
 **Runtime:** 106分钟
@@ -294,6 +283,17 @@
 **Cast:** 克里斯蒂娜·瓦伦苏埃拉 / 布莱斯·峇本布鲁克 / 泽诺·罗宾逊
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896104354.jpg" alt="奇迹少女">
+</div>
+
+---
+## 王牌二哈
+**Rating:** 0
+**Runtime:** 93分钟
+**Country:** 中国大陆
+**Director:** 曾元俊
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892957868.jpg" alt="王牌二哈">
 </div>
 
 ---
