@@ -491,7 +491,7 @@
 **Director:** 萨拉·多萨
 **Cast:** 米兰达·裘丽 / 卡提亚·克拉夫特 / 莫里斯·克拉夫特
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896523570.jpg" alt="火山挚恋">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896530311.jpg" alt="火山挚恋">
 </div>
 
 ---
