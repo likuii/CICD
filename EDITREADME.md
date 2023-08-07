@@ -1,16 +1,5 @@
 # Douban Currently Playing Movies
 
-## 巨齿鲨2：深渊
-**Rating:** 5.8
-**Runtime:** 119分钟
-**Country:** 美国 中国大陆
-**Director:** 本·维特利 
-**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
-</div>
-
----
 ## 封神第一部：朝歌风云
 **Rating:** 7.8
 **Runtime:** 148分钟
@@ -19,6 +8,17 @@
 **Cast:** 费翔 / 李雪健 / 黄渤
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.jpg" alt="封神第一部：朝歌风云">
+</div>
+
+---
+## 巨齿鲨2：深渊
+**Rating:** 5.8
+**Runtime:** 119分钟
+**Country:** 美国 中国大陆
+**Director:** 本·维特利 
+**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
 </div>
 
 ---
@@ -55,17 +55,6 @@
 </div>
 
 ---
-## 雪豹和她的朋友们
-**Rating:** 0
-**Runtime:** 85分钟
-**Country:** 中国大陆
-**Director:** 奚志农
-**Cast:** 朱亚文
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896344803.jpg" alt="雪豹和她的朋友们">
-</div>
-
----
 ## 八角笼中
 **Rating:** 7.5
 **Runtime:** 117分钟
@@ -74,6 +63,17 @@
 **Cast:** 王宝强 / 陈永胜 / 史彭元
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893476407.jpg" alt="八角笼中">
+</div>
+
+---
+## 雪豹和她的朋友们
+**Rating:** 0
+**Runtime:** 85分钟
+**Country:** 中国大陆
+**Director:** 奚志农
+**Cast:** 朱亚文
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896344803.jpg" alt="雪豹和她的朋友们">
 </div>
 
 ---
@@ -132,17 +132,6 @@
 </div>
 
 ---
-## 恶世之子
-**Rating:** 6.6
-**Runtime:** 120分钟
-**Country:** 美国
-**Director:** 达米安·斯兹弗隆
-**Cast:** 谢琳·伍德蕾 / 本·门德尔森 / 拉尔夫·伊内森
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895468066.jpg" alt="恶世之子">
-</div>
-
----
 ## 超级英雄美猴王——齐天儿
 **Rating:** 0
 **Runtime:** 101分钟
@@ -151,6 +140,17 @@
 **Cast:** 钟巍 / 张琦 / 张欣
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2895467463.jpg" alt="超级英雄美猴王——齐天儿">
+</div>
+
+---
+## 恶世之子
+**Rating:** 6.6
+**Runtime:** 120分钟
+**Country:** 美国
+**Director:** 达米安·斯兹弗隆
+**Cast:** 谢琳·伍德蕾 / 本·门德尔森 / 拉尔夫·伊内森
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895468066.jpg" alt="恶世之子">
 </div>
 
 ---
@@ -209,17 +209,6 @@
 </div>
 
 ---
-## 棉花糖和云朵妈妈1宝贝芯计划
-**Rating:** 0
-**Runtime:** 88分钟
-**Country:** 中国大陆
-**Director:** 徐铮
-**Cast:** 陈苏 / 郏捷 / 耿晨晨
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893877455.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
-</div>
-
----
 ## 记忆
 **Rating:** 7.6
 **Runtime:** 136分钟
@@ -231,14 +220,14 @@
 </div>
 
 ---
-## 荒野咖啡馆
-**Rating:** 3.4
-**Runtime:** 114分钟
+## 棉花糖和云朵妈妈1宝贝芯计划
+**Rating:** 0
+**Runtime:** 88分钟
 **Country:** 中国大陆
-**Director:** 时晓凡
-**Cast:** 刘雅瑟 / 王一钧 / 孙小雪
+**Director:** 徐铮
+**Cast:** 陈苏 / 郏捷 / 耿晨晨
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2575964732.jpg" alt="荒野咖啡馆">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893877455.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
 </div>
 
 ---
@@ -250,6 +239,17 @@
 **Cast:** 仲村宗悟 / 笠间淳 / 木村昴
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888398295.jpg" alt="灌篮高手">
+</div>
+
+---
+## 荒野咖啡馆
+**Rating:** 3.4
+**Runtime:** 114分钟
+**Country:** 中国大陆
+**Director:** 时晓凡
+**Cast:** 刘雅瑟 / 王一钧 / 孙小雪
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2575964732.jpg" alt="荒野咖啡馆">
 </div>
 
 ---
@@ -341,6 +341,17 @@
 </div>
 
 ---
+## 普拉多博物馆：奇迹珍藏
+**Rating:** 8
+**Runtime:** 92分钟
+**Country:** 意大利 西班牙
+**Director:** Valeria Parisi
+**Cast:** 杰瑞米·艾恩斯 / 萨尔瓦多·达利 / 路易斯·布努埃尔
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2576213252.jpg" alt="普拉多博物馆：奇迹珍藏">
+</div>
+
+---
 ## 拉斐尔：年轻的画圣
 **Rating:** 7.5
 **Runtime:** 83分钟
@@ -363,17 +374,6 @@
 </div>
 
 ---
-## 普拉多博物馆：奇迹珍藏
-**Rating:** 8
-**Runtime:** 92分钟
-**Country:** 意大利 西班牙
-**Director:** Valeria Parisi
-**Cast:** 杰瑞米·艾恩斯 / 萨尔瓦多·达利 / 路易斯·布努埃尔
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2576213252.jpg" alt="普拉多博物馆：奇迹珍藏">
-</div>
-
----
 ## 卡拉瓦乔：灵与血
 **Rating:** 6.5
 **Runtime:** 94分钟
@@ -385,17 +385,6 @@
 </div>
 
 ---
-## 女王的肖像
-**Rating:** 6.9
-**Runtime:** 90分钟
-**Country:** 意大利
-**Director:** Fabrizio FERRI
-**Cast:** 
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890367162.jpg" alt="女王的肖像">
-</div>
-
----
 ## 威尼斯：无限前卫
 **Rating:** 6.9
 **Runtime:** 93分钟
@@ -404,6 +393,17 @@
 **Cast:** Hania Rani / Carlo Cecchi
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890367227.jpg" alt="威尼斯：无限前卫">
+</div>
+
+---
+## 女王的肖像
+**Rating:** 6.9
+**Runtime:** 90分钟
+**Country:** 意大利
+**Director:** Fabrizio FERRI
+**Cast:** 
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890367162.jpg" alt="女王的肖像">
 </div>
 
 ---
