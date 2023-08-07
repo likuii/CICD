@@ -451,6 +451,17 @@
 </div>
 
 ---
+## 禁锢
+**Rating:** 0
+**Runtime:** 92分钟
+**Country:** 中国大陆
+**Director:** 吴亮
+**Cast:** 张杨 / 王树同
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896522354.jpg" alt="禁锢">
+</div>
+
+---
 ## 飞向月球
 **Rating:** 0
 **Runtime:** 88分钟
@@ -514,17 +525,6 @@
 **Cast:** 
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892957868.jpg" alt="王牌二哈">
-</div>
-
----
-## 燃冬
-**Rating:** 0
-**Runtime:** 97分钟
-**Country:** 中国大陆
-**Director:** 陈哲艺
-**Cast:** 周冬雨 / 刘昊然 / 屈楚萧
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2894025389.jpg" alt="燃冬">
 </div>
 
 ---
