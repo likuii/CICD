@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 马苏阿的甜面包海蚀柱，撒丁岛，意大利 (© DaLiu/Getty Images)
+
+![马苏阿的甜面包海蚀柱，撒丁岛，意大利 (© DaLiu/Getty Images)](https://cn.bing.com/th?id=OHR.PandiZucchero_ZH-CN9833521922_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E6%92%92%E4%B8%81%E5%B2%9B&form=hpcapt&mkt=zh-cn)
+
 ## 五花海，阿坝九寨沟旅游景区，四川省，中国 (© Michael Ver Sprill/Getty Images)
 
 ![五花海，阿坝九寨沟旅游景区，四川省，中国 (© Michael Ver Sprill/Getty Images)](https://cn.bing.com/th?id=OHR.LiQiu2023_ZH-CN9197909278_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![泽伦西自然保护区，斯洛文尼亚 (© Andrey Danilovich/Getty Images)](https://cn.bing.com/th?id=OHR.ZelenciSprings_ZH-CN8022746409_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A%E6%B3%BD%E4%BC%A6%E8%A5%BF%E8%87%AA%E7%84%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA&form=hpcapt&mkt=zh-cn)
-
-## 圆顶礁国家公园的砂岩山丘，犹他州，美国 (© Amazing Aerial Premium/Shutterstock)
-
-![圆顶礁国家公园的砂岩山丘，犹他州，美国 (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.CapitolButte_ZH-CN7707972988_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%9C%86%E9%A1%B6%E7%A4%81%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
