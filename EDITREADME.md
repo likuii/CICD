@@ -56,7 +56,7 @@
 
 ---
 ## 长安三万里
-**Rating:** 8.2
+**Rating:** 8.3
 **Runtime:** 168分钟
 **Country:** 中国大陆
 **Director:** 谢君伟 邹靖
