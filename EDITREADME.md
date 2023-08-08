@@ -166,7 +166,7 @@
 
 ---
 ## 超级飞侠：乐迪加速
-**Rating:** 6.4
+**Rating:** 6.3
 **Runtime:** 89分钟
 **Country:** 中国大陆
 **Director:** 冯操
@@ -497,7 +497,7 @@
 ---
 ## 学爸
 **Rating:** 0
-**Runtime:** 122分钟
+**Runtime:** 118分钟
 **Country:** 中国大陆
 **Director:** 苏亮
 **Cast:** 黄渤 / 单禹豪 / 闫妮
