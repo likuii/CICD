@@ -7,7 +7,7 @@
 **Director:** 申奥
 **Cast:** 张艺兴 / 金晨 / 咏梅
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896499810.jpg" alt="孤注一掷">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896551721.jpg" alt="孤注一掷">
 </div>
 
 ---
