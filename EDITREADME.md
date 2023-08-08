@@ -78,7 +78,7 @@
 
 ---
 ## 雪豹和她的朋友们
-**Rating:** 0
+**Rating:** 8.3
 **Runtime:** 85分钟
 **Country:** 中国大陆
 **Director:** 奚志农
@@ -455,7 +455,7 @@
 **Rating:** 0
 **Runtime:** 88分钟
 **Country:** 中国大陆
-**Director:** 孙立军
+**Director:** 孙立军 吴限
 **Cast:** 董浩 / 苏娜 / 刘纯燕
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896225339.jpg" alt="飞向月球">
