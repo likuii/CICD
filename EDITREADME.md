@@ -464,7 +464,7 @@
 ---
 ## 暗杀风暴
 **Rating:** 0
-**Runtime:** 
+**Runtime:** 100分钟
 **Country:** 中国大陆 中国香港
 **Director:** 邱礼涛
 **Cast:** 古天乐 / 张智霖 / 吴镇宇
