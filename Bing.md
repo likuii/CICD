@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 马赛马拉的一头狮子，肯尼亚 (© Federico Veronesi/Minden Pictures)
+
+![马赛马拉的一头狮子，肯尼亚 (© Federico Veronesi/Minden Pictures)](https://cn.bing.com/th?id=OHR.WorldLionDay_ZH-CN0525835107_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E9%9D%9E%E6%B4%B2%E7%8B%AE&form=hpcapt&mkt=zh-cn)
+
 ## 马苏阿的甜面包海蚀柱，撒丁岛，意大利 (© DaLiu/Getty Images)
 
 ![马苏阿的甜面包海蚀柱，撒丁岛，意大利 (© DaLiu/Getty Images)](https://cn.bing.com/th?id=OHR.PandiZucchero_ZH-CN9833521922_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![廷特恩修道院，威尔士 (© matthibcn/Getty Images)](https://cn.bing.com/th?id=OHR.GothicRuins_ZH-CN8317467997_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%A8%81%E5%B0%94%E5%A3%AB%E5%BB%B7%E7%89%B9%E6%81%A9%E4%BF%AE%E9%81%93%E9%99%A2&form=hpcapt&mkt=zh-cn)
-
-## 泽伦西自然保护区，斯洛文尼亚 (© Andrey Danilovich/Getty Images)
-
-![泽伦西自然保护区，斯洛文尼亚 (© Andrey Danilovich/Getty Images)](https://cn.bing.com/th?id=OHR.ZelenciSprings_ZH-CN8022746409_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A%E6%B3%BD%E4%BC%A6%E8%A5%BF%E8%87%AA%E7%84%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA&form=hpcapt&mkt=zh-cn)
 

@@ -418,17 +418,6 @@
 </div>
 
 ---
-## 野蛮人入侵
-**Rating:** 0
-**Runtime:** 106分钟
-**Country:** 中国香港 马来西亚
-**Director:** 陈翠梅
-**Cast:** 陈翠梅 / 张子夫 / 博朗·帕拉雷
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896024943.jpg" alt="野蛮人入侵">
-</div>
-
----
 ## 忍者神龟：变种大乱斗
 **Rating:** 0
 **Runtime:** 100分钟
@@ -525,6 +514,17 @@
 **Cast:** 
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896591331.jpg" alt="雪域少年">
+</div>
+
+---
+## 王牌二哈
+**Rating:** 0
+**Runtime:** 93分钟
+**Country:** 中国大陆
+**Director:** 曾元俊
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892957868.jpg" alt="王牌二哈">
 </div>
 
 ---
