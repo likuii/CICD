@@ -495,14 +495,14 @@
 </div>
 
 ---
-## 王牌二哈
+## 雪域少年
 **Rating:** 0
-**Runtime:** 93分钟
+**Runtime:** 
 **Country:** 中国大陆
-**Director:** 曾元俊
+**Director:** 路奇
 **Cast:** 
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892957868.jpg" alt="王牌二哈">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896591331.jpg" alt="雪域少年">
 </div>
 
 ---
