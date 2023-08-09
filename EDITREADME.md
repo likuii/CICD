@@ -491,7 +491,7 @@
 **Director:** 苏亮
 **Cast:** 黄渤 / 单禹豪 / 闫妮
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895434209.jpg" alt="学爸">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896597470.jpg" alt="学爸">
 </div>
 
 ---
