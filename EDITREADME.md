@@ -23,7 +23,7 @@
 
 ---
 ## 野蛮人入侵
-**Rating:** 7.6
+**Rating:** 7.5
 **Runtime:** 106分钟
 **Country:** 中国香港 马来西亚
 **Director:** 陈翠梅
@@ -397,7 +397,7 @@
 
 ---
 ## 威尼斯：无限前卫
-**Rating:** 6.8
+**Rating:** 6.9
 **Runtime:** 93分钟
 **Country:** 意大利
 **Director:** Michele Mally
