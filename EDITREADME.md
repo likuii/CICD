@@ -429,28 +429,6 @@
 </div>
 
 ---
-## 忍者神龟：变种大乱斗
-**Rating:** 0
-**Runtime:** 100分钟
-**Country:** 美国
-**Director:** 杰夫·罗韦 凯勒·斯皮尔斯
-**Cast:** 尼古拉斯·坎图 / 布雷迪·诺恩 / 小肖恩·布朗
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895790300.jpg" alt="忍者神龟：变种大乱斗">
-</div>
-
----
-## 禁锢
-**Rating:** 0
-**Runtime:** 92分钟
-**Country:** 中国大陆
-**Director:** 吴亮
-**Cast:** 张杨 / 王树同
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896522354.jpg" alt="禁锢">
-</div>
-
----
 ## 飞向月球
 **Rating:** 0
 **Runtime:** 88分钟
@@ -536,6 +514,28 @@
 **Cast:** 
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892957868.jpg" alt="王牌二哈">
+</div>
+
+---
+## 燃冬
+**Rating:** 0
+**Runtime:** 97分钟
+**Country:** 中国大陆
+**Director:** 陈哲艺
+**Cast:** 周冬雨 / 刘昊然 / 屈楚萧
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2894025389.jpg" alt="燃冬">
+</div>
+
+---
+## 念念相忘
+**Rating:** 0
+**Runtime:** 108分钟
+**Country:** 中国大陆
+**Director:** 刘雨霖
+**Cast:** 刘浩存 / 宋威龙 / 卜冠今
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893199282.jpg" alt="念念相忘">
 </div>
 
 ---

@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## '朱庇特艺术园的“入口”水池，爱丁堡，苏格兰 (© Owen Humphreys/PA Images/Alamy)
+
+!['朱庇特艺术园的“入口”水池，爱丁堡，苏格兰 (© Owen Humphreys/PA Images/Alamy)](https://cn.bing.com/th?id=OHR.JupiterArtland_ZH-CN7955790073_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E7%88%B1%E4%B8%81%E5%A0%A1%E8%89%BA%E6%9C%AF%E8%8A%82&form=hpcapt&mkt=zh-cn)
+
 ## 马赛马拉的一头狮子，肯尼亚 (© Federico Veronesi/Minden Pictures)
 
 ![马赛马拉的一头狮子，肯尼亚 (© Federico Veronesi/Minden Pictures)](https://cn.bing.com/th?id=OHR.WorldLionDay_ZH-CN0525835107_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![大西洋海鹦，冰岛 (© Peter Hering/Minden Pictures)](https://cn.bing.com/th?id=OHR.AtlanticPuffin_ZH-CN8523220989_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%B5%B7%E9%B9%A6&form=hpcapt&mkt=zh-cn)
-
-## 廷特恩修道院，威尔士 (© matthibcn/Getty Images)
-
-![廷特恩修道院，威尔士 (© matthibcn/Getty Images)](https://cn.bing.com/th?id=OHR.GothicRuins_ZH-CN8317467997_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%A8%81%E5%B0%94%E5%A3%AB%E5%BB%B7%E7%89%B9%E6%81%A9%E4%BF%AE%E9%81%93%E9%99%A2&form=hpcapt&mkt=zh-cn)
 
