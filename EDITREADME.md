@@ -408,7 +408,7 @@
 
 ---
 ## 威尼斯：无限前卫
-**Rating:** 6.9
+**Rating:** 6.8
 **Runtime:** 93分钟
 **Country:** 意大利
 **Director:** Michele Mally
@@ -426,6 +426,17 @@
 **Cast:** Helena Bonham Carter / 彼得·格林纳威 / Melania Gaia Mazzucco
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568493879.jpg" alt="丁托列托：威尼斯的反叛者">
+</div>
+
+---
+## 长江
+**Rating:** 7.8
+**Runtime:** 50分钟
+**Country:** 中国大陆
+**Director:** 夏骏
+**Cast:** 胡阿祥 / 苏智良 / 王澍
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574476155.jpg" alt="长江">
 </div>
 
 ---
