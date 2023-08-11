@@ -33,6 +33,17 @@
 </div>
 
 ---
+## 野蛮人入侵
+**Rating:** 7.5
+**Runtime:** 106分钟
+**Country:** 中国香港 马来西亚
+**Director:** 陈翠梅
+**Cast:** 陈翠梅 / 张子夫 / 博朗·帕拉雷
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896024943.jpg" alt="野蛮人入侵">
+</div>
+
+---
 ## 巨齿鲨2：深渊
 **Rating:** 5.6
 **Runtime:** 119分钟
@@ -121,17 +132,6 @@
 </div>
 
 ---
-## 野蛮人入侵
-**Rating:** 7.5
-**Runtime:** 106分钟
-**Country:** 中国香港 马来西亚
-**Director:** 陈翠梅
-**Cast:** 陈翠梅 / 张子夫 / 博朗·帕拉雷
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896024943.jpg" alt="野蛮人入侵">
-</div>
-
----
 ## 消失的她
 **Rating:** 6.4
 **Runtime:** 121 分钟
@@ -187,6 +187,17 @@
 </div>
 
 ---
+## 力量密码
+**Rating:** 0
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 高峰
+**Cast:** 张桐 / 陈都灵 / 白恩
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
+</div>
+
+---
 ## 百变马丁：怪兽大作战
 **Rating:** 0
 **Runtime:** 87分钟
@@ -220,17 +231,6 @@
 </div>
 
 ---
-## 力量密码
-**Rating:** 0
-**Runtime:** 103分钟
-**Country:** 中国大陆
-**Director:** 高峰
-**Cast:** 张桐 / 陈都灵 / 白恩
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
-</div>
-
----
 ## 灌篮高手
 **Rating:** 8.9
 **Runtime:** 124分钟
@@ -239,6 +239,17 @@
 **Cast:** 仲村宗悟 / 笠间淳 / 木村昴
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888398295.jpg" alt="灌篮高手">
+</div>
+
+---
+## 荒野咖啡馆
+**Rating:** 3.4
+**Runtime:** 114分钟
+**Country:** 中国大陆
+**Director:** 时晓凡
+**Cast:** 刘雅瑟 / 王一钧 / 孙小雪
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2575964732.jpg" alt="荒野咖啡馆">
 </div>
 
 ---
@@ -261,17 +272,6 @@
 **Cast:** 田中真弓 / 横泽启子 / 初井言荣
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892380420.jpg" alt="天空之城">
-</div>
-
----
-## 荒野咖啡馆
-**Rating:** 3.4
-**Runtime:** 114分钟
-**Country:** 中国大陆
-**Director:** 时晓凡
-**Cast:** 刘雅瑟 / 王一钧 / 孙小雪
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2575964732.jpg" alt="荒野咖啡馆">
 </div>
 
 ---
@@ -330,17 +330,6 @@
 </div>
 
 ---
-## 艾尔米塔什博物馆：艺术的力量
-**Rating:** 8.4
-**Runtime:** 90分钟
-**Country:** 意大利
-**Director:** Michele Mally
-**Cast:** 托尼·塞尔维洛
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2595443295.jpg" alt="艾尔米塔什博物馆：艺术的力量">
-</div>
-
----
 ## 完美音符
 **Rating:** 0
 **Runtime:** 95分钟
@@ -352,14 +341,14 @@
 </div>
 
 ---
-## 卡拉瓦乔：灵与血
-**Rating:** 6.5
-**Runtime:** 94分钟
+## 艾尔米塔什博物馆：艺术的力量
+**Rating:** 8.4
+**Runtime:** 90分钟
 **Country:** 意大利
-**Director:** 杰苏斯·加尔塞斯·兰伯特
-**Cast:** 曼努埃尔·阿涅利 / Emanuele Marigliano / Sara Pallini
+**Director:** Michele Mally
+**Cast:** 托尼·塞尔维洛
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2568714561.jpg" alt="卡拉瓦乔：灵与血">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2595443295.jpg" alt="艾尔米塔什博物馆：艺术的力量">
 </div>
 
 ---
@@ -374,6 +363,17 @@
 </div>
 
 ---
+## 卡拉瓦乔：灵与血
+**Rating:** 6.5
+**Runtime:** 94分钟
+**Country:** 意大利
+**Director:** 杰苏斯·加尔塞斯·兰伯特
+**Cast:** 曼努埃尔·阿涅利 / Emanuele Marigliano / Sara Pallini
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2568714561.jpg" alt="卡拉瓦乔：灵与血">
+</div>
+
+---
 ## 普拉多博物馆：奇迹珍藏
 **Rating:** 8
 **Runtime:** 92分钟
@@ -385,14 +385,14 @@
 </div>
 
 ---
-## 丁托列托：威尼斯的反叛者
-**Rating:** 7.1
-**Runtime:** 
-**Country:** 意大利
-**Director:** Giuseppe Domingo Romano
-**Cast:** Helena Bonham Carter / 彼得·格林纳威 / Melania Gaia Mazzucco
+## 一路幸福
+**Rating:** 0
+**Runtime:** 95分钟
+**Country:** 中国大陆
+**Director:** 李谊 周婧 黄跃
+**Cast:** 
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568493879.jpg" alt="丁托列托：威尼斯的反叛者">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892469147.jpg" alt="一路幸福">
 </div>
 
 ---
@@ -418,14 +418,14 @@
 </div>
 
 ---
-## 一路幸福
-**Rating:** 0
-**Runtime:** 95分钟
-**Country:** 中国大陆
-**Director:** 李谊 周婧 黄跃
-**Cast:** 
+## 丁托列托：威尼斯的反叛者
+**Rating:** 7.1
+**Runtime:** 
+**Country:** 意大利
+**Director:** Giuseppe Domingo Romano
+**Cast:** Helena Bonham Carter / 彼得·格林纳威 / Melania Gaia Mazzucco
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892469147.jpg" alt="一路幸福">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568493879.jpg" alt="丁托列托：威尼斯的反叛者">
 </div>
 
 ---
