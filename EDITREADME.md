@@ -55,17 +55,6 @@
 </div>
 
 ---
-## 忍者神龟：变种大乱斗
-**Rating:** 0
-**Runtime:** 100分钟
-**Country:** 美国
-**Director:** 杰夫·罗韦 凯勒·斯皮尔斯
-**Cast:** 尼古拉斯·坎图 / 布雷迪·诺恩 / 小肖恩·布朗
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895790300.jpg" alt="忍者神龟：变种大乱斗">
-</div>
-
----
 ## 芭比
 **Rating:** 8.3
 **Runtime:** 114分钟
@@ -74,6 +63,17 @@
 **Cast:** 玛格特·罗比 / 瑞恩·高斯林 / 亚美莉卡·费雷拉
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895679456.jpg" alt="芭比">
+</div>
+
+---
+## 忍者神龟：变种大乱斗
+**Rating:** 0
+**Runtime:** 100分钟
+**Country:** 美国
+**Director:** 杰夫·罗韦 凯勒·斯皮尔斯
+**Cast:** 尼古拉斯·坎图 / 布雷迪·诺恩 / 小肖恩·布朗
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895790300.jpg" alt="忍者神龟：变种大乱斗">
 </div>
 
 ---
@@ -220,17 +220,6 @@
 </div>
 
 ---
-## 力量密码
-**Rating:** 0
-**Runtime:** 103分钟
-**Country:** 中国大陆
-**Director:** 高峰
-**Cast:** 张桐 / 陈都灵 / 白恩
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
-</div>
-
----
 ## 灌篮高手
 **Rating:** 8.9
 **Runtime:** 124分钟
@@ -261,6 +250,17 @@
 **Cast:** 陈苏 / 郏捷 / 耿晨晨
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893877455.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
+</div>
+
+---
+## 力量密码
+**Rating:** 0
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 高峰
+**Cast:** 张桐 / 陈都灵 / 白恩
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
 </div>
 
 ---
@@ -330,6 +330,17 @@
 </div>
 
 ---
+## 普拉多博物馆：奇迹珍藏
+**Rating:** 8
+**Runtime:** 92分钟
+**Country:** 意大利 西班牙
+**Director:** Valeria Parisi
+**Cast:** 杰瑞米·艾恩斯 / 萨尔瓦多·达利 / 路易斯·布努埃尔
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2576213252.jpg" alt="普拉多博物馆：奇迹珍藏">
+</div>
+
+---
 ## 卡拉瓦乔：灵与血
 **Rating:** 6.5
 **Runtime:** 94分钟
@@ -341,14 +352,14 @@
 </div>
 
 ---
-## 普拉多博物馆：奇迹珍藏
-**Rating:** 8
-**Runtime:** 92分钟
-**Country:** 意大利 西班牙
-**Director:** Valeria Parisi
-**Cast:** 杰瑞米·艾恩斯 / 萨尔瓦多·达利 / 路易斯·布努埃尔
+## 丁托列托：威尼斯的反叛者
+**Rating:** 7.1
+**Runtime:** 
+**Country:** 意大利
+**Director:** Giuseppe Domingo Romano
+**Cast:** Helena Bonham Carter / 彼得·格林纳威 / Melania Gaia Mazzucco
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2576213252.jpg" alt="普拉多博物馆：奇迹珍藏">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568493879.jpg" alt="丁托列托：威尼斯的反叛者">
 </div>
 
 ---
@@ -371,17 +382,6 @@
 **Cast:** Hania Rani / Carlo Cecchi
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890367227.jpg" alt="威尼斯：无限前卫">
-</div>
-
----
-## 丁托列托：威尼斯的反叛者
-**Rating:** 7.1
-**Runtime:** 
-**Country:** 意大利
-**Director:** Giuseppe Domingo Romano
-**Cast:** Helena Bonham Carter / 彼得·格林纳威 / Melania Gaia Mazzucco
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568493879.jpg" alt="丁托列托：威尼斯的反叛者">
 </div>
 
 ---
