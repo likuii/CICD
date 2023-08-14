@@ -375,7 +375,7 @@
 
 ---
 ## 威尼斯：无限前卫
-**Rating:** 6.9
+**Rating:** 6.8
 **Runtime:** 93分钟
 **Country:** 意大利
 **Director:** Michele Mally
