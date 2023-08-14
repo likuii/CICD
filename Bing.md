@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 四月九日广场，陶尔米纳，西西里岛，意大利 (© rudi1976/Alamy)
+
+![四月九日广场，陶尔米纳，西西里岛，意大利 (© rudi1976/Alamy)](https://cn.bing.com/th?id=OHR.TaorminaSquare_ZH-CN0273325652_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E9%99%B6%E5%B0%94%E7%B1%B3%E7%BA%B3&form=hpcapt&mkt=zh-cn)
+
 ## 叶片上的小壁虎 (© Darren Greenwood/Alamy)
 
 ![叶片上的小壁虎 (© Darren Greenwood/Alamy)](https://cn.bing.com/th?id=OHR.GeckoLeaf_ZH-CN9908456174_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![马苏阿的甜面包海蚀柱，撒丁岛，意大利 (© DaLiu/Getty Images)](https://cn.bing.com/th?id=OHR.PandiZucchero_ZH-CN9833521922_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E6%92%92%E4%B8%81%E5%B2%9B&form=hpcapt&mkt=zh-cn)
-
-## 五花海，阿坝九寨沟旅游景区，四川省，中国 (© Michael Ver Sprill/Getty Images)
-
-![五花海，阿坝九寨沟旅游景区，四川省，中国 (© Michael Ver Sprill/Getty Images)](https://cn.bing.com/th?id=OHR.LiQiu2023_ZH-CN9197909278_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E4%B9%9D%E5%AF%A8%E6%B2%9F%E4%BA%94%E8%8A%B1%E6%B5%B7&form=hpcapt&mkt=zh-cn)
 
