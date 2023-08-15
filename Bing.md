@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 基韦斯特的七英里大桥，佛罗里达州，美国 (© Evgeny Vasenev/Cavan Images)
+
+![基韦斯特的七英里大桥，佛罗里达州，美国 (© Evgeny Vasenev/Cavan Images)](https://cn.bing.com/th?id=OHR.KeyWestBridge_ZH-CN2540450067_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E4%B8%83%E8%8B%B1%E9%87%8C%E5%A4%A7%E6%A1%A5&form=hpcapt&mkt=zh-cn)
+
 ## 四月九日广场，陶尔米纳，西西里岛，意大利 (© rudi1976/Alamy)
 
 ![四月九日广场，陶尔米纳，西西里岛，意大利 (© rudi1976/Alamy)](https://cn.bing.com/th?id=OHR.TaorminaSquare_ZH-CN0273325652_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![马赛马拉的一头狮子，肯尼亚 (© Federico Veronesi/Minden Pictures)](https://cn.bing.com/th?id=OHR.WorldLionDay_ZH-CN0525835107_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E9%9D%9E%E6%B4%B2%E7%8B%AE&form=hpcapt&mkt=zh-cn)
-
-## 马苏阿的甜面包海蚀柱，撒丁岛，意大利 (© DaLiu/Getty Images)
-
-![马苏阿的甜面包海蚀柱，撒丁岛，意大利 (© DaLiu/Getty Images)](https://cn.bing.com/th?id=OHR.PandiZucchero_ZH-CN9833521922_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E6%92%92%E4%B8%81%E5%B2%9B&form=hpcapt&mkt=zh-cn)
 
