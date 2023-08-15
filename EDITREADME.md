@@ -502,7 +502,7 @@
 **Director:** 刘雨霖
 **Cast:** 刘浩存 / 宋威龙 / 卜冠今
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893199282.jpg" alt="念念相忘">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896873968.jpg" alt="念念相忘">
 </div>
 
 ---
