@@ -165,6 +165,17 @@
 </div>
 
 ---
+## 超级英雄美猴王——齐天儿
+**Rating:** 0
+**Runtime:** 101分钟
+**Country:** 中国大陆
+**Director:** 拉尔夫·宗戴格 迪克·宗达格 亓梅晓
+**Cast:** 钟巍 / 张琦 / 张欣
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2895467463.jpg" alt="超级英雄美猴王——齐天儿">
+</div>
+
+---
 ## 潜艇总动员：环游地球80天
 **Rating:** 0
 **Runtime:** 80分钟
@@ -173,6 +184,17 @@
 **Cast:** 张嘉祺 / 李云龙 / 蔡旭东
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896442997.jpg" alt="潜艇总动员：环游地球80天">
+</div>
+
+---
+## 超级飞侠：乐迪加速
+**Rating:** 6.4
+**Runtime:** 89分钟
+**Country:** 中国大陆
+**Director:** 冯操
+**Cast:** 张嘉骐 / 吴若萱  / 何沛祺
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893886888.jpg" alt="超级飞侠：乐迪加速">
 </div>
 
 ---
@@ -228,6 +250,17 @@
 **Cast:** 张桐 / 陈都灵 / 白恩
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
+</div>
+
+---
+## 棉花糖和云朵妈妈1宝贝芯计划
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 徐铮
+**Cast:** 陈苏 / 郏捷 / 耿晨晨
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893877455.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
 </div>
 
 ---
