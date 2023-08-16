@@ -22,17 +22,6 @@
 </div>
 
 ---
-## 野蛮人入侵
-**Rating:** 7.4
-**Runtime:** 106分钟
-**Country:** 中国香港 马来西亚
-**Director:** 陈翠梅
-**Cast:** 陈翠梅 / 张子夫 / 博朗·帕拉雷
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896024943.jpg" alt="野蛮人入侵">
-</div>
-
----
 ## 热烈
 **Rating:** 7.2
 **Runtime:** 124分钟
@@ -41,6 +30,17 @@
 **Cast:** 黄渤 / 王一博 / 刘敏涛
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895553074.jpg" alt="热烈">
+</div>
+
+---
+## 野蛮人入侵
+**Rating:** 7.4
+**Runtime:** 106分钟
+**Country:** 中国香港 马来西亚
+**Director:** 陈翠梅
+**Cast:** 陈翠梅 / 张子夫 / 博朗·帕拉雷
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896024943.jpg" alt="野蛮人入侵">
 </div>
 
 ---
@@ -176,17 +176,6 @@
 </div>
 
 ---
-## 潜艇总动员：环游地球80天
-**Rating:** 0
-**Runtime:** 80分钟
-**Country:** 中国大陆
-**Director:** 陈永刚 李星良
-**Cast:** 张嘉祺 / 李云龙 / 蔡旭东
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896442997.jpg" alt="潜艇总动员：环游地球80天">
-</div>
-
----
 ## 超级飞侠：乐迪加速
 **Rating:** 6.4
 **Runtime:** 89分钟
@@ -195,6 +184,17 @@
 **Cast:** 张嘉骐 / 吴若萱  / 何沛祺
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893886888.jpg" alt="超级飞侠：乐迪加速">
+</div>
+
+---
+## 潜艇总动员：环游地球80天
+**Rating:** 0
+**Runtime:** 80分钟
+**Country:** 中国大陆
+**Director:** 陈永刚 李星良
+**Cast:** 张嘉祺 / 李云龙 / 蔡旭东
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896442997.jpg" alt="潜艇总动员：环游地球80天">
 </div>
 
 ---
@@ -231,17 +231,6 @@
 </div>
 
 ---
-## 天空之城
-**Rating:** 9.2
-**Runtime:** 125分钟
-**Country:** 日本
-**Director:** 宫崎骏
-**Cast:** 田中真弓 / 横泽启子 / 初井言荣
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892380420.jpg" alt="天空之城">
-</div>
-
----
 ## 力量密码
 **Rating:** 0
 **Runtime:** 103分钟
@@ -250,6 +239,17 @@
 **Cast:** 张桐 / 陈都灵 / 白恩
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
+</div>
+
+---
+## 天空之城
+**Rating:** 9.2
+**Runtime:** 125分钟
+**Country:** 日本
+**Director:** 宫崎骏
+**Cast:** 田中真弓 / 横泽启子 / 初井言荣
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892380420.jpg" alt="天空之城">
 </div>
 
 ---
@@ -330,17 +330,6 @@
 </div>
 
 ---
-## 卡拉瓦乔：灵与血
-**Rating:** 6.6
-**Runtime:** 94分钟
-**Country:** 意大利
-**Director:** 杰苏斯·加尔塞斯·兰伯特
-**Cast:** 曼努埃尔·阿涅利 / Emanuele Marigliano / Sara Pallini
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2568714561.jpg" alt="卡拉瓦乔：灵与血">
-</div>
-
----
 ## 拉斐尔：年轻的画圣
 **Rating:** 7.5
 **Runtime:** 83分钟
@@ -349,6 +338,17 @@
 **Cast:** 
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2856751977.jpg" alt="拉斐尔：年轻的画圣">
+</div>
+
+---
+## 卡拉瓦乔：灵与血
+**Rating:** 6.6
+**Runtime:** 94分钟
+**Country:** 意大利
+**Director:** 杰苏斯·加尔塞斯·兰伯特
+**Cast:** 曼努埃尔·阿涅利 / Emanuele Marigliano / Sara Pallini
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2568714561.jpg" alt="卡拉瓦乔：灵与血">
 </div>
 
 ---
@@ -363,17 +363,6 @@
 </div>
 
 ---
-## 女王的肖像
-**Rating:** 6.9
-**Runtime:** 90分钟
-**Country:** 意大利
-**Director:** Fabrizio FERRI
-**Cast:** 
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890367162.jpg" alt="女王的肖像">
-</div>
-
----
 ## 丁托列托：威尼斯的反叛者
 **Rating:** 7.1
 **Runtime:** 
@@ -382,6 +371,17 @@
 **Cast:** Helena Bonham Carter / 彼得·格林纳威 / Melania Gaia Mazzucco
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568493879.jpg" alt="丁托列托：威尼斯的反叛者">
+</div>
+
+---
+## 女王的肖像
+**Rating:** 6.9
+**Runtime:** 90分钟
+**Country:** 意大利
+**Director:** Fabrizio FERRI
+**Cast:** 
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890367162.jpg" alt="女王的肖像">
 </div>
 
 ---
