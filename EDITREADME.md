@@ -298,7 +298,7 @@
 
 ---
 ## 波提切利，佛罗伦萨和美第奇
-**Rating:** 8.1
+**Rating:** 8
 **Runtime:** 90分钟
 **Country:** 意大利
 **Director:** Marco Pianigiani
