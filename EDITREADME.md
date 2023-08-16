@@ -342,7 +342,7 @@
 
 ---
 ## 卡拉瓦乔：灵与血
-**Rating:** 6.5
+**Rating:** 6.6
 **Runtime:** 94分钟
 **Country:** 意大利
 **Director:** 杰苏斯·加尔塞斯·兰伯特
@@ -458,7 +458,7 @@
 **Director:** 路奇
 **Cast:** 
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896591331.jpg" alt="雪域少年">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896911817.jpg" alt="雪域少年">
 </div>
 
 ---
