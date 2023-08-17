@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 孤注一掷
-**Rating:** 7
+**Rating:** 6.9
 **Runtime:** 130分钟
 **Country:** 中国大陆
 **Director:** 申奥
