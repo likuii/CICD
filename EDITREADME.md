@@ -364,7 +364,7 @@
 
 ---
 ## 女王的肖像
-**Rating:** 7
+**Rating:** 6.9
 **Runtime:** 90分钟
 **Country:** 意大利
 **Director:** Fabrizio FERRI
