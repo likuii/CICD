@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 哈利路亚山，张家界国家森林公园，中国 (© Amazing Aerial Premium/Shutterstock)
+
+![哈利路亚山，张家界国家森林公园，中国 (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.AvatarMountain_ZH-CN3268610045_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%BC%A0%E5%AE%B6%E7%95%8C%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+
 ## 罕肯瀑布,威尔斯格雷省立公园, 加拿大不列颠哥伦比亚省 (© Laurens Verhoeven/Getty Images)
 
 ![罕肯瀑布,威尔斯格雷省立公园, 加拿大不列颠哥伦比亚省 (© Laurens Verhoeven/Getty Images)](https://cn.bing.com/th?id=OHR.HelmckenWaterfall_ZH-CN9694510761_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![大象家族，安波塞利国家公园，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)](https://cn.bing.com/th?id=OHR.ThreeElephants_ZH-CN8708711085_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%A4%A7%E8%B1%A1%E6%97%A5&form=hpcapt&mkt=zh-cn)
-
-## '朱庇特艺术园的“入口”水池，爱丁堡，苏格兰 (© Owen Humphreys/PA Images/Alamy)
-
-!['朱庇特艺术园的“入口”水池，爱丁堡，苏格兰 (© Owen Humphreys/PA Images/Alamy)](https://cn.bing.com/th?id=OHR.JupiterArtland_ZH-CN7955790073_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E7%88%B1%E4%B8%81%E5%A0%A1%E8%89%BA%E6%9C%AF%E8%8A%82&form=hpcapt&mkt=zh-cn)
 

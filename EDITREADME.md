@@ -353,7 +353,7 @@
 
 ---
 ## 卡拉瓦乔：灵与血
-**Rating:** 6.6
+**Rating:** 6.5
 **Runtime:** 94分钟
 **Country:** 意大利
 **Director:** 杰苏斯·加尔塞斯·兰伯特
@@ -429,50 +429,6 @@
 </div>
 
 ---
-## 火山挚恋
-**Rating:** 0
-**Runtime:** 99分钟
-**Country:** 美国 加拿大
-**Director:** 萨拉·多萨
-**Cast:** 卡提亚·克拉夫特 / 莫里斯·克拉夫特 / 米兰达·裘丽
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896531014.jpg" alt="火山挚恋">
-</div>
-
----
-## 暗杀风暴
-**Rating:** 0
-**Runtime:** 100分钟
-**Country:** 中国大陆 中国香港
-**Director:** 邱礼涛
-**Cast:** 古天乐 / 张智霖 / 吴镇宇
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892025156.jpg" alt="暗杀风暴">
-</div>
-
----
-## 学爸
-**Rating:** 0
-**Runtime:** 118分钟
-**Country:** 中国大陆
-**Director:** 苏亮
-**Cast:** 黄渤 / 单禹豪 / 闫妮
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896597470.jpg" alt="学爸">
-</div>
-
----
-## 奇迹少女
-**Rating:** 0
-**Runtime:** 105分钟
-**Country:** 法国
-**Director:** 杰里米·扎格
-**Cast:** 克里斯蒂娜·瓦伦苏埃拉 / 布莱斯·峇本布鲁克 / 泽诺·罗宾逊
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896104354.jpg" alt="奇迹少女">
-</div>
-
----
 ## 雪域少年
 **Rating:** 0
 **Runtime:** 
@@ -536,6 +492,50 @@
 **Cast:** 连晨翔 / 吴子霏 / 周予天
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886365839.jpg" alt="最遗憾是错过你">
+</div>
+
+---
+## 湄公河巨兽
+**Rating:** 0
+**Runtime:** 87分钟(中国大陆版)
+**Country:** 泰国 中国大陆
+**Director:** 李·通坎
+**Cast:** 苏查·玛娜英 / 臧金生 / 苏秋成
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2872187130.jpg" alt="湄公河巨兽">
+</div>
+
+---
+## 最后的真相
+**Rating:** 0
+**Runtime:** 112分钟
+**Country:** 中国大陆
+**Director:** 李太阁
+**Cast:** 黄晓明 / 闫妮 / 涂们
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895530144.jpg" alt="最后的真相">
+</div>
+
+---
+## 绝地追击
+**Rating:** 0
+**Runtime:** 108分钟
+**Country:** 中国大陆
+**Director:** 邱礼涛
+**Cast:** 欧豪 / 谷嘉诚 / 俞灏明
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896676883.jpg" alt="绝地追击">
+</div>
+
+---
+## 里奇不眠夜
+**Rating:** 0
+**Runtime:** 97分钟
+**Country:** 中国大陆
+**Director:** 丁子峻
+**Cast:** 高雨儿 / 李子峰 / 戴娇倩
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896523093.jpg" alt="里奇不眠夜">
 </div>
 
 ---
