@@ -22,6 +22,28 @@
 </div>
 
 ---
+## 暗杀风暴
+**Rating:** 0
+**Runtime:** 100分钟
+**Country:** 中国大陆 中国香港
+**Director:** 邱礼涛
+**Cast:** 古天乐 / 张智霖 / 吴镇宇
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892025156.jpg" alt="暗杀风暴">
+</div>
+
+---
+## 奇迹少女
+**Rating:** 0
+**Runtime:** 105分钟
+**Country:** 法国
+**Director:** 杰里米·扎格
+**Cast:** 克里斯蒂娜·瓦伦苏埃拉 / 布莱斯·峇本布鲁克 / 泽诺·罗宾逊
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896104354.jpg" alt="奇迹少女">
+</div>
+
+---
 ## 我经过风暴
 **Rating:** 0
 **Runtime:** 101分钟
@@ -52,6 +74,17 @@
 **Cast:** 玛格特·罗比 / 瑞恩·高斯林 / 亚美莉卡·费雷拉
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895679456.jpg" alt="芭比">
+</div>
+
+---
+## 野蛮人入侵
+**Rating:** 7.4
+**Runtime:** 106分钟
+**Country:** 中国香港 马来西亚
+**Director:** 陈翠梅
+**Cast:** 陈翠梅 / 张子夫 / 博朗·帕拉雷
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896024943.jpg" alt="野蛮人入侵">
 </div>
 
 ---
@@ -99,6 +132,17 @@
 </div>
 
 ---
+## 学爸
+**Rating:** 0
+**Runtime:** 118分钟
+**Country:** 中国大陆
+**Director:** 苏亮
+**Cast:** 黄渤 / 单禹豪 / 闫妮
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896597470.jpg" alt="学爸">
+</div>
+
+---
 ## 超能一家人
 **Rating:** 3.9
 **Runtime:** 113分钟
@@ -133,7 +177,7 @@
 
 ---
 ## 茶啊二中
-**Rating:** 7.8
+**Rating:** 7.7
 **Runtime:** 91分钟
 **Country:** 中国大陆
 **Director:** 夏铭泽 阎凯
@@ -187,14 +231,223 @@
 </div>
 
 ---
-## 星际变种
-**Rating:** 0
-**Runtime:** 96分钟
-**Country:** 中国大陆
-**Director:** 李麒麟
-**Cast:** 刘敬宇 / 杨舒婷 / 凯洱
+## 变形金刚：超能勇士崛起
+**Rating:** 5.9
+**Runtime:** 128分钟(中国大陆)
+**Country:** 美国
+**Director:** 小斯蒂芬·卡普尔
+**Cast:** 安东尼·拉莫斯 / 多米尼克·菲什巴克 / 彼特·库伦
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895428099.jpg" alt="星际变种">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892024245.jpg" alt="变形金刚：超能勇士崛起">
+</div>
+
+---
+## 灌篮高手
+**Rating:** 8.9
+**Runtime:** 124分钟
+**Country:** 日本
+**Director:** 井上雄彦
+**Cast:** 仲村宗悟 / 笠间淳 / 木村昴
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888398295.jpg" alt="灌篮高手">
+</div>
+
+---
+## 天空之城
+**Rating:** 9.2
+**Runtime:** 125分钟
+**Country:** 日本
+**Director:** 宫崎骏
+**Cast:** 田中真弓 / 横泽启子 / 初井言荣
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892380420.jpg" alt="天空之城">
+</div>
+
+---
+## 力量密码
+**Rating:** 0
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 高峰
+**Cast:** 张桐 / 陈都灵 / 白恩
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
+</div>
+
+---
+## 棉花糖和云朵妈妈1宝贝芯计划
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 徐铮
+**Cast:** 陈苏 / 郏捷 / 耿晨晨
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893877455.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
+</div>
+
+---
+## 飞向月球
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 孙立军 吴限
+**Cast:** 董浩 / 苏娜 / 刘纯燕
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896225339.jpg" alt="飞向月球">
+</div>
+
+---
+## 欢乐丛林之外星人大冒险
+**Rating:** 0
+**Runtime:** 
+**Country:** 中国大陆
+**Director:** 
+**Cast:** 李凤良
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890512825.jpg" alt="欢乐丛林之外星人大冒险">
+</div>
+
+---
+## 波提切利，佛罗伦萨和美第奇
+**Rating:** 8
+**Runtime:** 90分钟
+**Country:** 意大利
+**Director:** Marco Pianigiani
+**Cast:** 史蒂芬·曼甘 / 杰丝敏·特丽卡
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2680939025.jpg" alt="波提切利，佛罗伦萨和美第奇">
+</div>
+
+---
+## 午夜迷途
+**Rating:** 0
+**Runtime:** 74分钟
+**Country:** 中国大陆
+**Director:** 张若以
+**Cast:** 单思杰 / 廖越 / 郭万超
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892799691.jpg" alt="午夜迷途">
+</div>
+
+---
+## 艾尔米塔什博物馆：艺术的力量
+**Rating:** 8.4
+**Runtime:** 90分钟
+**Country:** 意大利
+**Director:** Michele Mally
+**Cast:** 托尼·塞尔维洛
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2595443295.jpg" alt="艾尔米塔什博物馆：艺术的力量">
+</div>
+
+---
+## 普拉多博物馆：奇迹珍藏
+**Rating:** 7.9
+**Runtime:** 92分钟
+**Country:** 意大利 西班牙
+**Director:** Valeria Parisi
+**Cast:** 杰瑞米·艾恩斯 / 萨尔瓦多·达利 / 路易斯·布努埃尔
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2576213252.jpg" alt="普拉多博物馆：奇迹珍藏">
+</div>
+
+---
+## 拉斐尔：年轻的画圣
+**Rating:** 7.5
+**Runtime:** 83分钟
+**Country:** 意大利
+**Director:** Massimo Ferrari
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2856751977.jpg" alt="拉斐尔：年轻的画圣">
+</div>
+
+---
+## 卡拉瓦乔：灵与血
+**Rating:** 6.6
+**Runtime:** 94分钟
+**Country:** 意大利
+**Director:** 杰苏斯·加尔塞斯·兰伯特
+**Cast:** 曼努埃尔·阿涅利 / Emanuele Marigliano / Sara Pallini
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2568714561.jpg" alt="卡拉瓦乔：灵与血">
+</div>
+
+---
+## 女王的肖像
+**Rating:** 6.9
+**Runtime:** 90分钟
+**Country:** 意大利
+**Director:** Fabrizio FERRI
+**Cast:** 
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890367162.jpg" alt="女王的肖像">
+</div>
+
+---
+## 大熊雨林
+**Rating:** 8.5
+**Runtime:** 41分钟
+**Country:** 加拿大
+**Director:** Ian McAllister
+**Cast:** 瑞安·雷诺兹
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554383112.jpg" alt="大熊雨林">
+</div>
+
+---
+## 威尼斯：无限前卫
+**Rating:** 6.8
+**Runtime:** 93分钟
+**Country:** 意大利
+**Director:** Michele Mally
+**Cast:** Hania Rani / Carlo Cecchi
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890367227.jpg" alt="威尼斯：无限前卫">
+</div>
+
+---
+## 南太平洋之旅
+**Rating:** 8.2
+**Runtime:** 40分钟
+**Country:** 美国
+**Director:** 格雷戈·迈吉里弗雷 Stephen Judson
+**Cast:** 凯特·布兰切特 / Ferdiel Ballamu / Menas Mambasar
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155676070.jpg" alt="南太平洋之旅">
+</div>
+
+---
+## 丁托列托：威尼斯的反叛者
+**Rating:** 7.1
+**Runtime:** 
+**Country:** 意大利
+**Director:** Giuseppe Domingo Romano
+**Cast:** Helena Bonham Carter / 彼得·格林纳威 / Melania Gaia Mazzucco
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568493879.jpg" alt="丁托列托：威尼斯的反叛者">
+</div>
+
+---
+## 长江
+**Rating:** 7.8
+**Runtime:** 50分钟
+**Country:** 中国大陆
+**Director:** 夏骏
+**Cast:** 胡阿祥 / 苏智良 / 王澍
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574476155.jpg" alt="长江">
+</div>
+
+---
+## 火山挚恋
+**Rating:** 0
+**Runtime:** 
+**Country:** 法国
+**Director:** 
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png" alt="火山挚恋">
 </div>
 
 ---
