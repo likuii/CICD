@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 看着相机镜头的松鼠 (© Alfredo Piedrafita/Getty Images)
+
+![看着相机镜头的松鼠 (© Alfredo Piedrafita/Getty Images)](https://cn.bing.com/th?id=OHR.CameraSquirrel_ZH-CN3580119980_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E6%91%84%E5%BD%B1&form=hpcapt&mkt=zh-cn)
+
 ## 哈利路亚山，张家界国家森林公园，中国 (© Amazing Aerial Premium/Shutterstock)
 
 ![哈利路亚山，张家界国家森林公园，中国 (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.AvatarMountain_ZH-CN3268610045_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![英仙座流星雨，白杨木峡谷州立公园，俄勒冈州，美国 (© Joshua Meador/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.PerseidsOregon_ZH-CN9427980491_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E8%8B%B1%E4%BB%99%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8&form=hpcapt&mkt=zh-cn)
-
-## 大象家族，安波塞利国家公园，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)
-
-![大象家族，安波塞利国家公园，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)](https://cn.bing.com/th?id=OHR.ThreeElephants_ZH-CN8708711085_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%A4%A7%E8%B1%A1%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
