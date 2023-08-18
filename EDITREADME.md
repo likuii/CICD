@@ -264,6 +264,17 @@
 </div>
 
 ---
+## 百变马丁：怪兽大作战
+**Rating:** 0
+**Runtime:** 87分钟
+**Country:** 中国大陆
+**Director:** 张天晓
+**Cast:** 姚培华 / 秦紫翼 / 刘方芳
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895602695.jpg" alt="百变马丁：怪兽大作战">
+</div>
+
+---
 ## 天空之城
 **Rating:** 9.2
 **Runtime:** 125分钟
@@ -408,7 +419,7 @@
 
 ---
 ## 女王的肖像
-**Rating:** 7
+**Rating:** 6.9
 **Runtime:** 90分钟
 **Country:** 意大利
 **Director:** Fabrizio FERRI
