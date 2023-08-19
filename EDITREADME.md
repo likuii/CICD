@@ -385,6 +385,17 @@
 </div>
 
 ---
+## 申纪兰
+**Rating:** 0
+**Runtime:** 108分钟
+**Country:** 中国大陆
+**Director:** 哈斯朝鲁
+**Cast:** 岳红 / 姚兵蓉 / 苏丽
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893777607.jpg" alt="申纪兰">
+</div>
+
+---
 ## 变形记之旭日东升
 **Rating:** 0
 **Runtime:** 86分钟
