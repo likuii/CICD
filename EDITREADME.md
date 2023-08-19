@@ -12,7 +12,7 @@
 
 ---
 ## 我经过风暴
-**Rating:** 7.5
+**Rating:** 7.4
 **Runtime:** 101分钟
 **Country:** 中国大陆
 **Director:** 秦海燕
@@ -211,10 +211,10 @@
 ---
 ## 雪域少年
 **Rating:** 0
-**Runtime:** 
+**Runtime:** 110分钟
 **Country:** 中国大陆
 **Director:** 路奇
-**Cast:** 
+**Cast:** 张赫 / 刘颐诺  / 刘琮
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896911817.jpg" alt="雪域少年">
 </div>
