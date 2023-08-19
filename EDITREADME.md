@@ -264,17 +264,6 @@
 </div>
 
 ---
-## 灌篮高手
-**Rating:** 8.9
-**Runtime:** 124分钟
-**Country:** 日本
-**Director:** 井上雄彦
-**Cast:** 仲村宗悟 / 笠间淳 / 木村昴
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888398295.jpg" alt="灌篮高手">
-</div>
-
----
 ## 变形金刚：超能勇士崛起
 **Rating:** 5.9
 **Runtime:** 128分钟(中国大陆)
@@ -418,17 +407,6 @@
 </div>
 
 ---
-## 大熊雨林
-**Rating:** 8.6
-**Runtime:** 41分钟
-**Country:** 加拿大
-**Director:** Ian McAllister
-**Cast:** 瑞安·雷诺兹
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554383112.jpg" alt="大熊雨林">
-</div>
-
----
 ## 拉斐尔：年轻的画圣
 **Rating:** 7.5
 **Runtime:** 83分钟
@@ -481,28 +459,6 @@
 **Cast:** 
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890367162.jpg" alt="女王的肖像">
-</div>
-
----
-## 威尼斯：无限前卫
-**Rating:** 6.8
-**Runtime:** 93分钟
-**Country:** 意大利
-**Director:** Michele Mally
-**Cast:** Hania Rani / Carlo Cecchi
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2890367227.jpg" alt="威尼斯：无限前卫">
-</div>
-
----
-## 丁托列托：威尼斯的反叛者
-**Rating:** 7.1
-**Runtime:** 
-**Country:** 意大利
-**Director:** Giuseppe Domingo Romano
-**Cast:** Helena Bonham Carter / 彼得·格林纳威 / Melania Gaia Mazzucco
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568493879.jpg" alt="丁托列托：威尼斯的反叛者">
 </div>
 
 ---
