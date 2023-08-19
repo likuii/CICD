@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 起点灯塔，德文郡，英国 (© Guy Edwardes/Minden Pictures)
+
+![起点灯塔，德文郡，英国 (© Guy Edwardes/Minden Pictures)](https://cn.bing.com/th?id=OHR.StartPointLight_ZH-CN4021540566_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E8%8B%B1%E5%9B%BD%E5%BE%B7%E6%96%87%E9%83%A1&form=hpcapt&mkt=zh-cn)
+
 ## 看着相机镜头的松鼠 (© Alfredo Piedrafita/Getty Images)
 
 ![看着相机镜头的松鼠 (© Alfredo Piedrafita/Getty Images)](https://cn.bing.com/th?id=OHR.CameraSquirrel_ZH-CN3580119980_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![叶片上的小壁虎 (© Darren Greenwood/Alamy)](https://cn.bing.com/th?id=OHR.GeckoLeaf_ZH-CN9908456174_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%A3%81%E8%99%8E%E8%9C%A5%E8%9C%B4&form=hpcapt&mkt=zh-cn)
-
-## 英仙座流星雨，白杨木峡谷州立公园，俄勒冈州，美国 (© Joshua Meador/Tandem Stills + Motion)
-
-![英仙座流星雨，白杨木峡谷州立公园，俄勒冈州，美国 (© Joshua Meador/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.PerseidsOregon_ZH-CN9427980491_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E8%8B%B1%E4%BB%99%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8&form=hpcapt&mkt=zh-cn)
 
