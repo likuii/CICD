@@ -133,7 +133,7 @@
 
 ---
 ## 野蛮人入侵
-**Rating:** 7.4
+**Rating:** 7.5
 **Runtime:** 106分钟
 **Country:** 中国香港 马来西亚
 **Director:** 陈翠梅
