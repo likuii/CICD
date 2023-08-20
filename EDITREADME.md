@@ -220,6 +220,17 @@
 </div>
 
 ---
+## 我爱你！
+**Rating:** 7.9
+**Runtime:** 116分钟
+**Country:** 中国大陆 中国香港
+**Director:** 韩延
+**Cast:** 倪大红 / 惠英红 / 梁家辉
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2888042597.jpg" alt="我爱你！">
+</div>
+
+---
 ## 超级英雄美猴王——齐天儿
 **Rating:** 0
 **Runtime:** 101分钟
