@@ -49,7 +49,7 @@
 **Runtime:** 99分钟
 **Country:** 美国 加拿大
 **Director:** 萨拉·多萨
-**Cast:** 卡提亚·克拉夫特 / 莫里斯·克拉夫特 / 米兰达·裘丽
+**Cast:** 卡蒂娅·克拉夫特 / 莫里斯·克拉夫特 / 米兰达·裘丽
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896531014.jpg" alt="火山挚恋">
 </div>
