@@ -1,16 +1,5 @@
 # Douban Currently Playing Movies
 
-## 孤注一掷
-**Rating:** 6.9
-**Runtime:** 130分钟
-**Country:** 中国大陆
-**Director:** 申奥
-**Cast:** 张艺兴 / 金晨 / 咏梅
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896551721.jpg" alt="孤注一掷">
-</div>
-
----
 ## 我经过风暴
 **Rating:** 7.4
 **Runtime:** 101分钟
@@ -22,14 +11,14 @@
 </div>
 
 ---
-## 暗杀风暴
-**Rating:** 0
-**Runtime:** 100分钟
-**Country:** 中国大陆 中国香港
-**Director:** 邱礼涛
-**Cast:** 古天乐 / 张智霖 / 吴镇宇
+## 孤注一掷
+**Rating:** 6.9
+**Runtime:** 130分钟
+**Country:** 中国大陆
+**Director:** 申奥
+**Cast:** 张艺兴 / 金晨 / 咏梅
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892025156.jpg" alt="暗杀风暴">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896551721.jpg" alt="孤注一掷">
 </div>
 
 ---
@@ -44,25 +33,14 @@
 </div>
 
 ---
-## 封神第一部：朝歌风云
-**Rating:** 7.8
-**Runtime:** 148分钟
-**Country:** 中国大陆
-**Director:** 乌尔善
-**Cast:** 费翔 / 李雪健 / 黄渤
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.jpg" alt="封神第一部：朝歌风云">
-</div>
-
----
-## 奇迹少女
+## 暗杀风暴
 **Rating:** 0
-**Runtime:** 105分钟
-**Country:** 法国
-**Director:** 杰里米·扎格
-**Cast:** 克里斯蒂娜·瓦伦苏埃拉 / 布莱斯·峇本布鲁克 / 泽诺·罗宾逊
+**Runtime:** 100分钟
+**Country:** 中国大陆 中国香港
+**Director:** 邱礼涛
+**Cast:** 古天乐 / 张智霖 / 吴镇宇
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896104354.jpg" alt="奇迹少女">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892025156.jpg" alt="暗杀风暴">
 </div>
 
 ---
@@ -74,6 +52,28 @@
 **Cast:** 卡提亚·克拉夫特 / 莫里斯·克拉夫特 / 米兰达·裘丽
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896531014.jpg" alt="火山挚恋">
+</div>
+
+---
+## 封神第一部：朝歌风云
+**Rating:** 7.8
+**Runtime:** 148分钟
+**Country:** 中国大陆
+**Director:** 乌尔善
+**Cast:** 费翔 / 李雪健 / 黄渤
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.jpg" alt="封神第一部：朝歌风云">
+</div>
+
+---
+## 超能一家人
+**Rating:** 3.8
+**Runtime:** 113分钟
+**Country:** 中国大陆
+**Director:** 宋阳
+**Cast:** 艾伦 / 沈腾 / 陶慧
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890369636.jpg" alt="超能一家人">
 </div>
 
 ---
@@ -99,6 +99,17 @@
 </div>
 
 ---
+## 奇迹少女
+**Rating:** 0
+**Runtime:** 105分钟
+**Country:** 法国
+**Director:** 杰里米·扎格
+**Cast:** 克里斯蒂娜·瓦伦苏埃拉 / 布莱斯·峇本布鲁克 / 泽诺·罗宾逊
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896104354.jpg" alt="奇迹少女">
+</div>
+
+---
 ## 巨齿鲨2：深渊
 **Rating:** 5.5
 **Runtime:** 119分钟
@@ -107,17 +118,6 @@
 **Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
-</div>
-
----
-## 野蛮人入侵
-**Rating:** 7.4
-**Runtime:** 106分钟
-**Country:** 中国香港 马来西亚
-**Director:** 陈翠梅
-**Cast:** 陈翠梅 / 张子夫 / 博朗·帕拉雷
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896024943.jpg" alt="野蛮人入侵">
 </div>
 
 ---
@@ -132,25 +132,14 @@
 </div>
 
 ---
-## 超能一家人
-**Rating:** 3.8
-**Runtime:** 113分钟
-**Country:** 中国大陆
-**Director:** 宋阳
-**Cast:** 艾伦 / 沈腾 / 陶慧
+## 野蛮人入侵
+**Rating:** 7.4
+**Runtime:** 106分钟
+**Country:** 中国香港 马来西亚
+**Director:** 陈翠梅
+**Cast:** 陈翠梅 / 张子夫 / 博朗·帕拉雷
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890369636.jpg" alt="超能一家人">
-</div>
-
----
-## 忍者神龟：变种大乱斗
-**Rating:** 7.2
-**Runtime:** 100分钟
-**Country:** 美国
-**Director:** 杰夫·罗韦 凯勒·斯皮尔斯
-**Cast:** 尼古拉斯·坎图 / 布雷迪·诺恩 / 小肖恩·布朗
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895790300.jpg" alt="忍者神龟：变种大乱斗">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896024943.jpg" alt="野蛮人入侵">
 </div>
 
 ---
@@ -176,14 +165,14 @@
 </div>
 
 ---
-## 雪豹和她的朋友们
-**Rating:** 8.3
-**Runtime:** 85分钟
-**Country:** 中国大陆
-**Director:** 奚志农
-**Cast:** 朱亚文
+## 忍者神龟：变种大乱斗
+**Rating:** 7.2
+**Runtime:** 100分钟
+**Country:** 美国
+**Director:** 杰夫·罗韦 凯勒·斯皮尔斯
+**Cast:** 尼古拉斯·坎图 / 布雷迪·诺恩 / 小肖恩·布朗
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896344803.jpg" alt="雪豹和她的朋友们">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895790300.jpg" alt="忍者神龟：变种大乱斗">
 </div>
 
 ---
@@ -198,14 +187,14 @@
 </div>
 
 ---
-## 消失的她
-**Rating:** 6.4
-**Runtime:** 121 分钟
+## 雪豹和她的朋友们
+**Rating:** 8.3
+**Runtime:** 85分钟
 **Country:** 中国大陆
-**Director:** 崔睿 刘翔
-**Cast:** 朱一龙 / 倪妮 / 文咏珊
+**Director:** 奚志农
+**Cast:** 朱亚文
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893270877.jpg" alt="消失的她">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896344803.jpg" alt="雪豹和她的朋友们">
 </div>
 
 ---
@@ -220,6 +209,17 @@
 </div>
 
 ---
+## 消失的她
+**Rating:** 6.4
+**Runtime:** 121 分钟
+**Country:** 中国大陆
+**Director:** 崔睿 刘翔
+**Cast:** 朱一龙 / 倪妮 / 文咏珊
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893270877.jpg" alt="消失的她">
+</div>
+
+---
 ## 超级英雄美猴王——齐天儿
 **Rating:** 0
 **Runtime:** 101分钟
@@ -231,17 +231,6 @@
 </div>
 
 ---
-## 超级飞侠：乐迪加速
-**Rating:** 6.3
-**Runtime:** 89分钟
-**Country:** 中国大陆
-**Director:** 冯操
-**Cast:** 张嘉骐 / 吴若萱  / 何沛祺
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893886888.jpg" alt="超级飞侠：乐迪加速">
-</div>
-
----
 ## 王牌二哈
 **Rating:** 0
 **Runtime:** 93分钟
@@ -250,6 +239,28 @@
 **Cast:** 
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892957868.jpg" alt="王牌二哈">
+</div>
+
+---
+## 丛林大冒险
+**Rating:** 6.6
+**Runtime:** 81分钟(中国大陆)
+**Country:** 德国
+**Director:** Mimi Maynard Regina Welker Nina Wels
+**Cast:** Ashley Bornancin / Danny Fehsenfeld / Leslie L. Miller
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2884794796.jpg" alt="丛林大冒险">
+</div>
+
+---
+## 超级飞侠：乐迪加速
+**Rating:** 6.3
+**Runtime:** 89分钟
+**Country:** 中国大陆
+**Director:** 冯操
+**Cast:** 张嘉骐 / 吴若萱  / 何沛祺
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893886888.jpg" alt="超级飞侠：乐迪加速">
 </div>
 
 ---
@@ -275,17 +286,6 @@
 </div>
 
 ---
-## 丛林大冒险
-**Rating:** 6.6
-**Runtime:** 81分钟(中国大陆)
-**Country:** 德国
-**Director:** Mimi Maynard Regina Welker Nina Wels
-**Cast:** Ashley Bornancin / Danny Fehsenfeld / Leslie L. Miller
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2884794796.jpg" alt="丛林大冒险">
-</div>
-
----
 ## 天空之城
 **Rating:** 9.2
 **Runtime:** 125分钟
@@ -308,17 +308,6 @@
 </div>
 
 ---
-## 力量密码
-**Rating:** 0
-**Runtime:** 103分钟
-**Country:** 中国大陆
-**Director:** 高峰
-**Cast:** 张桐 / 陈都灵 / 白恩
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
-</div>
-
----
 ## 棉花糖和云朵妈妈1宝贝芯计划
 **Rating:** 0
 **Runtime:** 88分钟
@@ -327,6 +316,28 @@
 **Cast:** 陈苏 / 郏捷 / 耿晨晨
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893877455.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
+</div>
+
+---
+## 变形记之旭日东升
+**Rating:** 0
+**Runtime:** 86分钟
+**Country:** 中国大陆
+**Director:** 周杰 林育塘
+**Cast:** 李凤鸣 / 孙志翔 / 邓钢
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2871530649.jpg" alt="变形记之旭日东升">
+</div>
+
+---
+## 力量密码
+**Rating:** 0
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 高峰
+**Cast:** 张桐 / 陈都灵 / 白恩
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
 </div>
 
 ---
@@ -352,6 +363,17 @@
 </div>
 
 ---
+## 申纪兰
+**Rating:** 0
+**Runtime:** 108分钟
+**Country:** 中国大陆
+**Director:** 哈斯朝鲁
+**Cast:** 岳红 / 姚兵蓉 / 苏丽
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893777607.jpg" alt="申纪兰">
+</div>
+
+---
 ## 波提切利，佛罗伦萨和美第奇
 **Rating:** 8
 **Runtime:** 90分钟
@@ -374,28 +396,6 @@
 </div>
 
 ---
-## 申纪兰
-**Rating:** 0
-**Runtime:** 108分钟
-**Country:** 中国大陆
-**Director:** 哈斯朝鲁
-**Cast:** 岳红 / 姚兵蓉 / 苏丽
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893777607.jpg" alt="申纪兰">
-</div>
-
----
-## 变形记之旭日东升
-**Rating:** 0
-**Runtime:** 86分钟
-**Country:** 中国大陆
-**Director:** 周杰 林育塘
-**Cast:** 李凤鸣 / 孙志翔 / 邓钢
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2871530649.jpg" alt="变形记之旭日东升">
-</div>
-
----
 ## 艾尔米塔什博物馆：艺术的力量
 **Rating:** 8.4
 **Runtime:** 90分钟
@@ -407,17 +407,6 @@
 </div>
 
 ---
-## 拉斐尔：年轻的画圣
-**Rating:** 7.5
-**Runtime:** 83分钟
-**Country:** 意大利
-**Director:** Massimo Ferrari
-**Cast:** 
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2856751977.jpg" alt="拉斐尔：年轻的画圣">
-</div>
-
----
 ## 南太平洋之旅
 **Rating:** 8.2
 **Runtime:** 40分钟
@@ -426,6 +415,17 @@
 **Cast:** 凯特·布兰切特 / Ferdiel Ballamu / Menas Mambasar
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155676070.jpg" alt="南太平洋之旅">
+</div>
+
+---
+## 拉斐尔：年轻的画圣
+**Rating:** 7.5
+**Runtime:** 83分钟
+**Country:** 意大利
+**Director:** Massimo Ferrari
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2856751977.jpg" alt="拉斐尔：年轻的画圣">
 </div>
 
 ---
