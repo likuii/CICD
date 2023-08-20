@@ -497,7 +497,7 @@
 ---
 ## 爱犬奇缘
 **Rating:** 0
-**Runtime:** 
+**Runtime:** 101分钟
 **Country:** 中国大陆
 **Director:** 陈国辉 夏永康
 **Cast:** 冯绍峰 / 古力娜扎 / 李嘉琦
