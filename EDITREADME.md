@@ -12,7 +12,7 @@
 
 ---
 ## 我经过风暴
-**Rating:** 7.3
+**Rating:** 7.2
 **Runtime:** 101分钟
 **Country:** 中国大陆
 **Director:** 秦海燕
@@ -78,7 +78,7 @@
 
 ---
 ## 暗杀风暴
-**Rating:** 6.4
+**Rating:** 6.5
 **Runtime:** 100分钟
 **Country:** 中国大陆 中国香港
 **Director:** 邱礼涛
@@ -199,7 +199,7 @@
 
 ---
 ## 忍者神龟：变种大乱斗
-**Rating:** 7.1
+**Rating:** 7.2
 **Runtime:** 100分钟
 **Country:** 美国
 **Director:** 杰夫·罗韦 凯勒·斯皮尔斯
