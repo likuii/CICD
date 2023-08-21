@@ -78,7 +78,7 @@
 
 ---
 ## 暗杀风暴
-**Rating:** 6.5
+**Rating:** 6.4
 **Runtime:** 100分钟
 **Country:** 中国大陆 中国香港
 **Director:** 邱礼涛
