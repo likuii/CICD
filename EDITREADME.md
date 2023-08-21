@@ -67,7 +67,7 @@
 
 ---
 ## 超能一家人
-**Rating:** 3.7
+**Rating:** 3.8
 **Runtime:** 113分钟
 **Country:** 中国大陆
 **Director:** 宋阳
