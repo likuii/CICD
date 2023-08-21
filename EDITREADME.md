@@ -442,7 +442,7 @@
 ---
 ## 念念相忘
 **Rating:** 0
-**Runtime:** 108分钟
+**Runtime:** 103分钟
 **Country:** 中国大陆
 **Director:** 刘雨霖
 **Cast:** 刘浩存 / 宋威龙 / 卜冠今
