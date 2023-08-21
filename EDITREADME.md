@@ -34,7 +34,7 @@
 
 ---
 ## 学爸
-**Rating:** 7.2
+**Rating:** 7.1
 **Runtime:** 118分钟
 **Country:** 中国大陆
 **Director:** 苏亮
@@ -473,14 +473,14 @@
 </div>
 
 ---
-## 湄公河巨兽
+## 怪兽湖
 **Rating:** 0
 **Runtime:** 87分钟(中国大陆版)
 **Country:** 泰国 中国大陆
 **Director:** 李·通坎
 **Cast:** 苏查·玛娜英 / 臧金生 / 苏秋成
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2872187130.jpg" alt="湄公河巨兽">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2872187130.jpg" alt="怪兽湖">
 </div>
 
 ---
