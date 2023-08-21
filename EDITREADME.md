@@ -12,7 +12,7 @@
 
 ---
 ## 我经过风暴
-**Rating:** 7.3
+**Rating:** 7.2
 **Runtime:** 101分钟
 **Country:** 中国大陆
 **Director:** 秦海燕
