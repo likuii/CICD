@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 埃尔杰姆露天剧场，突尼斯 (© Westend61/Getty Images)
+
+![埃尔杰姆露天剧场，突尼斯 (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.TunisiaAmphitheatre_ZH-CN4431856872_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%9F%83%E5%B0%94%E6%9D%B0%E5%A7%86%E9%9C%B2%E5%A4%A9%E5%89%A7%E5%9C%BA&form=hpcapt&mkt=zh-cn)
+
 ## 翡翠湖，加拿大育空地区 (© artherng/Getty Images)
 
 ![翡翠湖，加拿大育空地区 (© artherng/Getty Images)](https://cn.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![基韦斯特的七英里大桥，佛罗里达州，美国 (© Evgeny Vasenev/Cavan Images)](https://cn.bing.com/th?id=OHR.KeyWestBridge_ZH-CN2540450067_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E4%B8%83%E8%8B%B1%E9%87%8C%E5%A4%A7%E6%A1%A5&form=hpcapt&mkt=zh-cn)
-
-## 四月九日广场，陶尔米纳，西西里岛，意大利 (© rudi1976/Alamy)
-
-![四月九日广场，陶尔米纳，西西里岛，意大利 (© rudi1976/Alamy)](https://cn.bing.com/th?id=OHR.TaorminaSquare_ZH-CN0273325652_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E9%99%B6%E5%B0%94%E7%B1%B3%E7%BA%B3&form=hpcapt&mkt=zh-cn)
 
