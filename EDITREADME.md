@@ -396,6 +396,17 @@
 </div>
 
 ---
+## 川流不“熄”
+**Rating:** 7.5
+**Runtime:** 135分钟
+**Country:** 中国大陆
+**Director:** 冯钶予
+**Cast:** 杨新鸣 / 胡昌霖 / 涂松岩
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890954804.jpg" alt="川流不“熄”">
+</div>
+
+---
 ## 卡拉瓦乔：灵与血
 **Rating:** 6.6
 **Runtime:** 94分钟
