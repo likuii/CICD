@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 火山挚恋
-**Rating:** 9.1
+**Rating:** 9
 **Runtime:** 99分钟
 **Country:** 美国 加拿大
 **Director:** 萨拉·多萨
@@ -56,7 +56,7 @@
 
 ---
 ## 学爸
-**Rating:** 7.2
+**Rating:** 7.1
 **Runtime:** 118分钟
 **Country:** 中国大陆
 **Director:** 苏亮
