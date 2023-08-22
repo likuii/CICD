@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 斯科加瀑布，冰岛 (© Maridav/Shutterstock)
+
+![斯科加瀑布，冰岛 (© Maridav/Shutterstock)](https://cn.bing.com/th?id=OHR.SkogafossWaterfall_ZH-CN4763253095_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E6%96%AF%E7%A7%91%E5%8A%A0%E7%80%91%E5%B8%83&form=hpcapt&mkt=zh-cn)
+
 ## 埃尔杰姆露天剧场，突尼斯 (© Westend61/Getty Images)
 
 ![埃尔杰姆露天剧场，突尼斯 (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.TunisiaAmphitheatre_ZH-CN4431856872_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![罕肯瀑布,威尔斯格雷省立公园, 加拿大不列颠哥伦比亚省 (© Laurens Verhoeven/Getty Images)](https://cn.bing.com/th?id=OHR.HelmckenWaterfall_ZH-CN9694510761_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%A8%81%E5%B0%94%E6%96%AF%E6%A0%BC%E9%9B%B7%E7%9C%81%E7%AB%8B%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
-
-## 基韦斯特的七英里大桥，佛罗里达州，美国 (© Evgeny Vasenev/Cavan Images)
-
-![基韦斯特的七英里大桥，佛罗里达州，美国 (© Evgeny Vasenev/Cavan Images)](https://cn.bing.com/th?id=OHR.KeyWestBridge_ZH-CN2540450067_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E4%B8%83%E8%8B%B1%E9%87%8C%E5%A4%A7%E6%A1%A5&form=hpcapt&mkt=zh-cn)
 
