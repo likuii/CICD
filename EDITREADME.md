@@ -56,7 +56,7 @@
 
 ---
 ## 学爸
-**Rating:** 7.1
+**Rating:** 7.2
 **Runtime:** 118分钟
 **Country:** 中国大陆
 **Director:** 苏亮
@@ -122,7 +122,7 @@
 
 ---
 ## 巨齿鲨2：深渊
-**Rating:** 5.4
+**Rating:** 5.5
 **Runtime:** 119分钟
 **Country:** 美国 中国大陆
 **Director:** 本·维特利 
