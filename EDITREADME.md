@@ -155,7 +155,7 @@
 
 ---
 ## 最遗憾是错过你
-**Rating:** 5.2
+**Rating:** 5.1
 **Runtime:** 115分钟
 **Country:** 中国台湾
 **Director:** 詹馥华
@@ -188,7 +188,7 @@
 
 ---
 ## 野蛮人入侵
-**Rating:** 7.5
+**Rating:** 7.4
 **Runtime:** 106分钟
 **Country:** 中国香港 马来西亚
 **Director:** 陈翠梅
