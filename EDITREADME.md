@@ -88,17 +88,6 @@
 </div>
 
 ---
-## 奇迹少女
-**Rating:** 5.3
-**Runtime:** 105分钟
-**Country:** 法国
-**Director:** 杰里米·扎格
-**Cast:** 克里斯蒂娜·瓦伦苏埃拉 / 布莱斯·峇本布鲁克 / 泽诺·罗宾逊
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896104354.jpg" alt="奇迹少女">
-</div>
-
----
 ## 长安三万里
 **Rating:** 8.3
 **Runtime:** 168分钟
@@ -198,6 +187,17 @@
 </div>
 
 ---
+## 一定拿到手
+**Rating:** 0
+**Runtime:** 93分钟
+**Country:** 中国大陆
+**Director:** 王长虹 金桂斌
+**Cast:** 范雷 / 郭金杰 / 胡琳娜
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896308048.jpg" alt="一定拿到手">
+</div>
+
+---
 ## 相信·爱
 **Rating:** 0
 **Runtime:** 98分钟
@@ -247,7 +247,7 @@
 **Runtime:** 180分钟
 **Country:** 美国 英国
 **Director:** 克里斯托弗·诺兰
-**Cast:** 基里安·墨菲 / 艾米莉·布朗特 / 小罗伯特·唐尼
+**Cast:** 基里安·墨菲 / 艾米莉·布朗特 / 马特·达蒙
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895997080.jpg" alt="奥本海默">
 </div>
