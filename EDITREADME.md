@@ -45,7 +45,7 @@
 
 ---
 ## 学爸
-**Rating:** 7.1
+**Rating:** 7
 **Runtime:** 118分钟
 **Country:** 中国大陆
 **Director:** 苏亮
