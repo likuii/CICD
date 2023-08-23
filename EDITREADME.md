@@ -524,7 +524,7 @@
 **Director:** 克里斯托弗·诺兰
 **Cast:** 基里安·墨菲 / 艾米莉·布朗特 / 马特·达蒙
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895997080.jpg" alt="奥本海默">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897210097.jpg" alt="奥本海默">
 </div>
 
 ---
