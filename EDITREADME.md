@@ -441,7 +441,7 @@
 
 ---
 ## 拉斐尔：年轻的画圣
-**Rating:** 7.5
+**Rating:** 7.4
 **Runtime:** 83分钟
 **Country:** 意大利
 **Director:** Massimo Ferrari
@@ -463,7 +463,7 @@
 
 ---
 ## 卡拉瓦乔：灵与血
-**Rating:** 6.6
+**Rating:** 6.5
 **Runtime:** 94分钟
 **Country:** 意大利
 **Director:** 杰苏斯·加尔塞斯·兰伯特
