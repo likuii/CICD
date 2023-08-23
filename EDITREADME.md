@@ -133,7 +133,7 @@
 
 ---
 ## 最遗憾是错过你
-**Rating:** 5.1
+**Rating:** 5
 **Runtime:** 115分钟
 **Country:** 中国台湾
 **Director:** 詹馥华
