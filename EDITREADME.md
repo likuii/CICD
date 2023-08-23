@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 燃冬
-**Rating:** 0
+**Rating:** 6.3
 **Runtime:** 97分钟
 **Country:** 中国大陆
 **Director:** 陈哲艺
@@ -23,7 +23,7 @@
 
 ---
 ## 念念相忘
-**Rating:** 0
+**Rating:** 6.9
 **Runtime:** 103分钟
 **Country:** 中国大陆
 **Director:** 刘雨霖
