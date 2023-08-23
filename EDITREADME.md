@@ -546,7 +546,7 @@
 **Director:** 尼尔·布洛姆坎普
 **Cast:** 阿奇·马德基 / 大卫·哈伯 / 奥兰多·布鲁姆
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896313967.jpg" alt="GT赛车：极速狂飙">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897205491.jpg" alt="GT赛车：极速狂飙">
 </div>
 
 ---
@@ -568,7 +568,7 @@
 **Director:** 李子俊
 **Cast:** 大鹏 / 林家栋 / 张颂文
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893462813.jpg" alt="第八个嫌疑人">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897204948.jpg" alt="第八个嫌疑人">
 </div>
 
 ---
