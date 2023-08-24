@@ -166,7 +166,7 @@
 
 ---
 ## 奇迹少女
-**Rating:** 5.3
+**Rating:** 5.2
 **Runtime:** 105分钟
 **Country:** 法国
 **Director:** 杰里米·扎格
@@ -430,7 +430,7 @@
 
 ---
 ## OMG! 我爱你...但不合时宜
-**Rating:** 7.1
+**Rating:** 7
 **Runtime:** 124分钟
 **Country:** 泰国
 **Director:** 西提彭·科桐塔维
