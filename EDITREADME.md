@@ -429,6 +429,17 @@
 </div>
 
 ---
+## OMG! 我爱你...但不合时宜
+**Rating:** 7.1
+**Runtime:** 124分钟
+**Country:** 泰国
+**Director:** 西提彭·科桐塔维
+**Cast:** 翁拉维·那提通 / 普莉恩皮察雅·克玛拉娜君 / 帕查拉·奇拉锡瓦特
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886258689.jpg" alt="OMG! 我爱你...但不合时宜">
+</div>
+
+---
 ## 申纪兰
 **Rating:** 0
 **Runtime:** 108分钟
@@ -451,6 +462,17 @@
 </div>
 
 ---
+## 天生一对
+**Rating:** 7
+**Runtime:** 166分钟
+**Country:** 泰国
+**Director:** Adisorn Tresirikasem
+**Cast:** 塔纳瓦特·瓦塔纳普迪 / 蓝妮·卡彭 / 帕瑞斯·因塔拉科玛亚苏特
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2881567102.jpg" alt="天生一对">
+</div>
+
+---
 ## 拉斐尔：年轻的画圣
 **Rating:** 7.4
 **Runtime:** 83分钟
@@ -459,6 +481,17 @@
 **Cast:** 
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2856751977.jpg" alt="拉斐尔：年轻的画圣">
+</div>
+
+---
+## 那些年，我们一起追的女孩
+**Rating:** 0
+**Runtime:** 120分钟
+**Country:** 泰国
+**Director:** Napat Jitweerapat 卡尼萨·坤宇
+**Cast:** 格拉帕·格潘 / 拉查楠·玛哈菀 / 帕瓦·吉沙晚迪
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2755967924.jpg" alt="那些年，我们一起追的女孩">
 </div>
 
 ---
@@ -506,6 +539,17 @@
 </div>
 
 ---
+## 你与我和我
+**Rating:** 6.8
+**Runtime:** 121分钟
+**Country:** 泰国
+**Director:** 宛薇·洪维瓦塔娜 薇婉·洪维瓦塔娜
+**Cast:** 泰蒂娅·吉拉庞恩斯普 / 安东尼·布塞尔特 / Supaksorn Chaimongkol
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2887353385.jpg" alt="你与我和我">
+</div>
+
+---
 ## 长江
 **Rating:** 7.9
 **Runtime:** 50分钟
@@ -514,6 +558,17 @@
 **Cast:** 胡阿祥 / 苏智良 / 王澍
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574476155.jpg" alt="长江">
+</div>
+
+---
+## 营救野猪队
+**Rating:** 5.5
+**Runtime:** 104分钟
+**Country:** 泰国 爱尔兰
+**Director:** 汤姆·沃勒
+**Cast:** 埃卡瓦·尼拉沃纳潘亚 / 阿帕·芭薇莱 / 宝儿
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568035828.jpg" alt="营救野猪队">
 </div>
 
 ---
