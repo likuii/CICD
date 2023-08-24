@@ -374,6 +374,17 @@
 </div>
 
 ---
+## 天空之城
+**Rating:** 9.2
+**Runtime:** 125分钟
+**Country:** 日本
+**Director:** 宫崎骏
+**Cast:** 田中真弓 / 横泽启子 / 初井言荣
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892380420.jpg" alt="天空之城">
+</div>
+
+---
 ## 百变马丁：怪兽大作战
 **Rating:** 0
 **Runtime:** 87分钟
