@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 燃冬
-**Rating:** 6.3
+**Rating:** 6.2
 **Runtime:** 97分钟
 **Country:** 中国大陆
 **Director:** 陈哲艺
