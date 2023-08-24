@@ -412,7 +412,7 @@
 **Runtime:** 88分钟
 **Country:** 中国大陆
 **Director:** 孙立军 吴限
-**Cast:** 董浩 / 苏娜 / 刘纯燕
+**Cast:** 董浩 /  / 刘纯燕
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896225339.jpg" alt="飞向月球">
 </div>
