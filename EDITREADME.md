@@ -649,6 +649,17 @@
 </div>
 
 ---
+## 踢球吧少年
+**Rating:** 0
+**Runtime:** 91分钟
+**Country:** 中国大陆
+**Director:** 郝鸿远
+**Cast:** 贾冰 / 冯文娟 / 常远
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896982360.jpg" alt="踢球吧少年">
+</div>
+
+---
 ## 第八个嫌疑人
 **Rating:** 0
 **Runtime:** 111分钟
@@ -668,17 +679,6 @@
 **Cast:** 胡歌 / 吴磊 / 齐溪
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893413208.jpg" alt="不虚此行">
-</div>
-
----
-## 三贵情史
-**Rating:** 0
-**Runtime:** 108分钟
-**Country:** 中国大陆
-**Director:** 刘斯逸
-**Cast:** 胡先煦 / 姚晨 / 周也
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896996500.jpg" alt="三贵情史">
 </div>
 
 ---
