@@ -44,17 +44,6 @@
 </div>
 
 ---
-## 学爸
-**Rating:** 7
-**Runtime:** 118分钟
-**Country:** 中国大陆
-**Director:** 苏亮
-**Cast:** 黄渤 / 单禹豪 / 闫妮
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896597470.jpg" alt="学爸">
-</div>
-
----
 ## 我经过风暴
 **Rating:** 7.2
 **Runtime:** 101分钟
@@ -63,6 +52,17 @@
 **Cast:** 佟丽娅 / 吴昱翰 / 王影璐
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896816460.jpg" alt="我经过风暴">
+</div>
+
+---
+## 学爸
+**Rating:** 7
+**Runtime:** 118分钟
+**Country:** 中国大陆
+**Director:** 苏亮
+**Cast:** 黄渤 / 单禹豪 / 闫妮
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896597470.jpg" alt="学爸">
 </div>
 
 ---
@@ -88,17 +88,6 @@
 </div>
 
 ---
-## 超能一家人
-**Rating:** 3.7
-**Runtime:** 113分钟
-**Country:** 中国大陆
-**Director:** 宋阳
-**Cast:** 艾伦 / 沈腾 / 陶慧
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890369636.jpg" alt="超能一家人">
-</div>
-
----
 ## 热烈
 **Rating:** 7.2
 **Runtime:** 124分钟
@@ -107,6 +96,17 @@
 **Cast:** 黄渤 / 王一博 / 刘敏涛
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895553074.jpg" alt="热烈">
+</div>
+
+---
+## 超能一家人
+**Rating:** 3.7
+**Runtime:** 113分钟
+**Country:** 中国大陆
+**Director:** 宋阳
+**Cast:** 艾伦 / 沈腾 / 陶慧
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890369636.jpg" alt="超能一家人">
 </div>
 
 ---
@@ -132,17 +132,6 @@
 </div>
 
 ---
-## 最遗憾是错过你
-**Rating:** 5
-**Runtime:** 115分钟
-**Country:** 中国台湾
-**Director:** 詹馥华
-**Cast:** 连晨翔 / 吴子霏 / 周予天
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886365839.jpg" alt="最遗憾是错过你">
-</div>
-
----
 ## 野蛮人入侵
 **Rating:** 7.4
 **Runtime:** 106分钟
@@ -162,6 +151,17 @@
 **Cast:** 杨天翔 / 凌振赫 / 吴俊全
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893820209.jpg" alt="长安三万里">
+</div>
+
+---
+## 最遗憾是错过你
+**Rating:** 5
+**Runtime:** 115分钟
+**Country:** 中国台湾
+**Director:** 詹馥华
+**Cast:** 连晨翔 / 吴子霏 / 周予天
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886365839.jpg" alt="最遗憾是错过你">
 </div>
 
 ---
@@ -198,17 +198,6 @@
 </div>
 
 ---
-## 爱犬奇缘
-**Rating:** 0
-**Runtime:** 101分钟
-**Country:** 中国大陆
-**Director:** 陈国辉 夏永康
-**Cast:** 冯绍峰 / 古力娜扎 / 李嘉琦
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896106444.jpg" alt="爱犬奇缘">
-</div>
-
----
 ## 茶啊二中
 **Rating:** 7.7
 **Runtime:** 91分钟
@@ -217,6 +206,17 @@
 **Cast:** 邢原源 / 王博文 / 高禹恒
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895351514.jpg" alt="茶啊二中">
+</div>
+
+---
+## 爱犬奇缘
+**Rating:** 0
+**Runtime:** 101分钟
+**Country:** 中国大陆
+**Director:** 陈国辉 夏永康
+**Cast:** 冯绍峰 / 古力娜扎 / 李嘉琦
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896106444.jpg" alt="爱犬奇缘">
 </div>
 
 ---
@@ -231,17 +231,6 @@
 </div>
 
 ---
-## 怪兽湖
-**Rating:** 3.6
-**Runtime:** 87分钟(中国大陆版)
-**Country:** 泰国 中国大陆
-**Director:** 李·通坎
-**Cast:** 苏查·玛娜英 / 臧金生 / 苏秋成
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2872187130.jpg" alt="怪兽湖">
-</div>
-
----
 ## 消失的她
 **Rating:** 6.4
 **Runtime:** 121 分钟
@@ -250,6 +239,17 @@
 **Cast:** 朱一龙 / 倪妮 / 文咏珊
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893270877.jpg" alt="消失的她">
+</div>
+
+---
+## 怪兽湖
+**Rating:** 3.6
+**Runtime:** 87分钟(中国大陆版)
+**Country:** 泰国 中国大陆
+**Director:** 李·通坎
+**Cast:** 苏查·玛娜英 / 臧金生 / 苏秋成
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2872187130.jpg" alt="怪兽湖">
 </div>
 
 ---
@@ -264,17 +264,6 @@
 </div>
 
 ---
-## 雪域少年
-**Rating:** 0
-**Runtime:** 110分钟
-**Country:** 中国大陆
-**Director:** 路奇
-**Cast:** 张赫 / 刘颐诺  / 刘琮
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896911817.jpg" alt="雪域少年">
-</div>
-
----
 ## 婚前72小时
 **Rating:** 0
 **Runtime:** 95分钟
@@ -283,6 +272,17 @@
 **Cast:** 耿波 / 王璐瑶 / 王岚
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895665485.jpg" alt="婚前72小时">
+</div>
+
+---
+## 雪域少年
+**Rating:** 0
+**Runtime:** 110分钟
+**Country:** 中国大陆
+**Director:** 路奇
+**Cast:** 张赫 / 刘颐诺  / 刘琮
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896911817.jpg" alt="雪域少年">
 </div>
 
 ---
@@ -319,17 +319,6 @@
 </div>
 
 ---
-## 王牌二哈
-**Rating:** 0
-**Runtime:** 93分钟
-**Country:** 中国大陆
-**Director:** 曾元俊
-**Cast:** 
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892957868.jpg" alt="王牌二哈">
-</div>
-
----
 ## 变形金刚：超能勇士崛起
 **Rating:** 5.9
 **Runtime:** 128分钟(中国大陆)
@@ -363,6 +352,17 @@
 </div>
 
 ---
+## 王牌二哈
+**Rating:** 0
+**Runtime:** 93分钟
+**Country:** 中国大陆
+**Director:** 曾元俊
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892957868.jpg" alt="王牌二哈">
+</div>
+
+---
 ## 天空之城
 **Rating:** 9.2
 **Runtime:** 125分钟
@@ -385,17 +385,6 @@
 </div>
 
 ---
-## 棉花糖和云朵妈妈1宝贝芯计划
-**Rating:** 0
-**Runtime:** 88分钟
-**Country:** 中国大陆
-**Director:** 徐铮
-**Cast:** 陈苏 / 郏捷 / 耿晨晨
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893877455.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
-</div>
-
----
 ## 力量密码
 **Rating:** 0
 **Runtime:** 103分钟
@@ -407,14 +396,25 @@
 </div>
 
 ---
-## 申纪兰
+## 棉花糖和云朵妈妈1宝贝芯计划
 **Rating:** 0
-**Runtime:** 108分钟
+**Runtime:** 88分钟
 **Country:** 中国大陆
-**Director:** 哈斯朝鲁
-**Cast:** 岳红 / 姚兵蓉 / 苏丽
+**Director:** 徐铮
+**Cast:** 陈苏 / 郏捷 / 耿晨晨
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893777607.jpg" alt="申纪兰">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893877455.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
+</div>
+
+---
+## 飞向月球
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 孙立军 吴限
+**Cast:** 董浩 / 苏娜 / 刘纯燕
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896225339.jpg" alt="飞向月球">
 </div>
 
 ---
@@ -429,14 +429,14 @@
 </div>
 
 ---
-## 飞向月球
+## 申纪兰
 **Rating:** 0
-**Runtime:** 88分钟
+**Runtime:** 108分钟
 **Country:** 中国大陆
-**Director:** 孙立军 吴限
-**Cast:** 董浩 / 苏娜 / 刘纯燕
+**Director:** 哈斯朝鲁
+**Cast:** 岳红 / 姚兵蓉 / 苏丽
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896225339.jpg" alt="飞向月球">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893777607.jpg" alt="申纪兰">
 </div>
 
 ---
@@ -462,6 +462,17 @@
 </div>
 
 ---
+## 南太平洋之旅
+**Rating:** 8.2
+**Runtime:** 40分钟
+**Country:** 美国
+**Director:** 格雷戈·迈吉里弗雷 Stephen Judson
+**Cast:** 凯特·布兰切特 / Ferdiel Ballamu / Menas Mambasar
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155676070.jpg" alt="南太平洋之旅">
+</div>
+
+---
 ## 女王的肖像
 **Rating:** 6.9
 **Runtime:** 90分钟
@@ -484,28 +495,6 @@
 </div>
 
 ---
-## 长江
-**Rating:** 7.9
-**Runtime:** 50分钟
-**Country:** 中国大陆
-**Director:** 夏骏
-**Cast:** 胡阿祥 / 苏智良 / 王澍
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574476155.jpg" alt="长江">
-</div>
-
----
-## 南太平洋之旅
-**Rating:** 8.2
-**Runtime:** 40分钟
-**Country:** 美国
-**Director:** 格雷戈·迈吉里弗雷 Stephen Judson
-**Cast:** 凯特·布兰切特 / Ferdiel Ballamu / Menas Mambasar
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155676070.jpg" alt="南太平洋之旅">
-</div>
-
----
 ## 大熊雨林
 **Rating:** 8.6
 **Runtime:** 41分钟
@@ -514,6 +503,17 @@
 **Cast:** 瑞安·雷诺兹
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554383112.jpg" alt="大熊雨林">
+</div>
+
+---
+## 长江
+**Rating:** 7.9
+**Runtime:** 50分钟
+**Country:** 中国大陆
+**Director:** 夏骏
+**Cast:** 胡阿祥 / 苏智良 / 王澍
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574476155.jpg" alt="长江">
 </div>
 
 ---
