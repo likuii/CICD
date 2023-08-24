@@ -166,7 +166,7 @@
 
 ---
 ## 奇迹少女
-**Rating:** 5.2
+**Rating:** 5.3
 **Runtime:** 105分钟
 **Country:** 法国
 **Director:** 杰里米·扎格
@@ -551,7 +551,7 @@
 
 ---
 ## 你与我和我
-**Rating:** 6.8
+**Rating:** 6.7
 **Runtime:** 121分钟
 **Country:** 泰国
 **Director:** 宛薇·洪维瓦塔娜 薇婉·洪维瓦塔娜
