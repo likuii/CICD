@@ -56,7 +56,7 @@
 
 ---
 ## 学爸
-**Rating:** 7
+**Rating:** 6.9
 **Runtime:** 118分钟
 **Country:** 中国大陆
 **Director:** 苏亮
@@ -583,28 +583,6 @@
 </div>
 
 ---
-## 最后的真相
-**Rating:** 0
-**Runtime:** 112分钟
-**Country:** 中国大陆
-**Director:** 李太阁
-**Cast:** 黄晓明 / 闫妮 / 涂们
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895530144.jpg" alt="最后的真相">
-</div>
-
----
-## 绝地追击
-**Rating:** 0
-**Runtime:** 108分钟
-**Country:** 中国大陆
-**Director:** 邱礼涛
-**Cast:** 欧豪 / 谷嘉诚 / 俞灏明
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896676883.jpg" alt="绝地追击">
-</div>
-
----
 ## 里奇不眠夜
 **Rating:** 0
 **Runtime:** 97分钟
@@ -690,6 +668,28 @@
 **Cast:** 胡歌 / 吴磊 / 齐溪
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893413208.jpg" alt="不虚此行">
+</div>
+
+---
+## 三贵情史
+**Rating:** 0
+**Runtime:** 108分钟
+**Country:** 中国大陆
+**Director:** 刘斯逸
+**Cast:** 胡先煦 / 姚晨 / 周也
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896996500.jpg" alt="三贵情史">
+</div>
+
+---
+## 不要走散好不好
+**Rating:** 0
+**Runtime:** 99分钟
+**Country:** 中国大陆
+**Director:** 郑来志 阿猛
+**Cast:** 徐若晗 / 张开泰 / 秦奋
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896555070.jpg" alt="不要走散好不好">
 </div>
 
 ---
