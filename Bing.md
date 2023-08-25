@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 柏林大教堂和博物馆岛，柏林，德国 (© Rudy Balasko/Shutterstock)
+
+![柏林大教堂和博物馆岛，柏林，德国 (© Rudy Balasko/Shutterstock)](https://cn.bing.com/th?id=OHR.MuseumIsland_ZH-CN8277258964_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E6%9F%8F%E6%9E%97%E5%8D%9A%E7%89%A9%E9%A6%86%E5%B2%9B&form=hpcapt&mkt=zh-cn)
+
 ## 黄石下瀑布，黄石国家公园，怀俄明州，美国 (© Tim Fitzharris/Minden Pictures)
 
 ![黄石下瀑布，黄石国家公园，怀俄明州，美国 (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.YellowstoneFalls_ZH-CN8050562150_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![起点灯塔，德文郡，英国 (© Guy Edwardes/Minden Pictures)](https://cn.bing.com/th?id=OHR.StartPointLight_ZH-CN4021540566_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E8%8B%B1%E5%9B%BD%E5%BE%B7%E6%96%87%E9%83%A1&form=hpcapt&mkt=zh-cn)
-
-## 看着相机镜头的松鼠 (© Alfredo Piedrafita/Getty Images)
-
-![看着相机镜头的松鼠 (© Alfredo Piedrafita/Getty Images)](https://cn.bing.com/th?id=OHR.CameraSquirrel_ZH-CN3580119980_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E6%91%84%E5%BD%B1&form=hpcapt&mkt=zh-cn)
 
