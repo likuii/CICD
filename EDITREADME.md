@@ -45,7 +45,7 @@
 
 ---
 ## 我经过风暴
-**Rating:** 7.2
+**Rating:** 7.1
 **Runtime:** 101分钟
 **Country:** 中国大陆
 **Director:** 秦海燕
@@ -133,7 +133,7 @@
 
 ---
 ## 最遗憾是错过你
-**Rating:** 5
+**Rating:** 4.9
 **Runtime:** 115分钟
 **Country:** 中国台湾
 **Director:** 詹馥华
