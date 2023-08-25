@@ -67,7 +67,7 @@
 
 ---
 ## 封神第一部：朝歌风云
-**Rating:** 7.8
+**Rating:** 7.9
 **Runtime:** 148分钟
 **Country:** 中国大陆
 **Director:** 乌尔善
@@ -293,7 +293,7 @@
 **Director:** 谈宜之
 **Cast:** 七福 / 张浩庭 / 金巧巧
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2545295126.jpg" alt="忠爱无言2">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897307159.jpg" alt="忠爱无言2">
 </div>
 
 ---
