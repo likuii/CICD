@@ -29,7 +29,7 @@
 **Director:** 邱礼涛
 **Cast:** 欧豪 / 谷嘉诚 / 俞灏明
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896676883.jpg" alt="绝地追击">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897295760.jpg" alt="绝地追击">
 </div>
 
 ---
