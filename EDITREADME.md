@@ -67,7 +67,7 @@
 
 ---
 ## 学爸
-**Rating:** 6.9
+**Rating:** 7
 **Runtime:** 118分钟
 **Country:** 中国大陆
 **Director:** 苏亮
@@ -100,7 +100,7 @@
 
 ---
 ## 暗杀风暴
-**Rating:** 6.4
+**Rating:** 6.3
 **Runtime:** 100分钟
 **Country:** 中国大陆 中国香港
 **Director:** 邱礼涛
@@ -188,7 +188,7 @@
 
 ---
 ## 奇迹少女
-**Rating:** 5.3
+**Rating:** 5.2
 **Runtime:** 105分钟
 **Country:** 法国
 **Director:** 杰里米·扎格
