@@ -78,7 +78,7 @@
 
 ---
 ## 念念相忘
-**Rating:** 6.9
+**Rating:** 6.8
 **Runtime:** 103分钟
 **Country:** 中国大陆
 **Director:** 刘雨霖
