@@ -78,7 +78,7 @@
 
 ---
 ## 念念相忘
-**Rating:** 6.8
+**Rating:** 6.9
 **Runtime:** 103分钟
 **Country:** 中国大陆
 **Director:** 刘雨霖
@@ -177,7 +177,7 @@
 
 ---
 ## 野蛮人入侵
-**Rating:** 7.4
+**Rating:** 7.3
 **Runtime:** 106分钟
 **Country:** 中国香港 马来西亚
 **Director:** 陈翠梅
