@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 城山日出峰，济州岛上的凝灰岩锥，韩国 (© Quynh Anh Nguyen/Getty Images)
+
+![城山日出峰，济州岛上的凝灰岩锥，韩国 (© Quynh Anh Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.JejuIsland_ZH-CN8434910851_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E6%B5%8E%E5%B7%9E%E5%B2%9B&form=hpcapt&mkt=zh-cn)
+
 ## 柏林大教堂和博物馆岛，柏林，德国 (© Rudy Balasko/Shutterstock)
 
 ![柏林大教堂和博物馆岛，柏林，德国 (© Rudy Balasko/Shutterstock)](https://cn.bing.com/th?id=OHR.MuseumIsland_ZH-CN8277258964_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![翡翠湖，加拿大育空地区 (© artherng/Getty Images)](https://cn.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%82%B2%E7%A9%BA%E5%9C%B0%E5%8C%BA&form=hpcapt&mkt=zh-cn)
-
-## 起点灯塔，德文郡，英国 (© Guy Edwardes/Minden Pictures)
-
-![起点灯塔，德文郡，英国 (© Guy Edwardes/Minden Pictures)](https://cn.bing.com/th?id=OHR.StartPointLight_ZH-CN4021540566_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E8%8B%B1%E5%9B%BD%E5%BE%B7%E6%96%87%E9%83%A1&form=hpcapt&mkt=zh-cn)
 
