@@ -1,5 +1,16 @@
 # Douban Currently Playing Movies
 
+## 最后的真相
+**Rating:** 0
+**Runtime:** 112分钟
+**Country:** 中国大陆
+**Director:** 李太阁
+**Cast:** 黄晓明 / 闫妮 / 涂们
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895530144.jpg" alt="最后的真相">
+</div>
+
+---
 ## 燃冬
 **Rating:** 6.2
 **Runtime:** 97分钟
@@ -22,6 +33,17 @@
 </div>
 
 ---
+## 绝地追击
+**Rating:** 0
+**Runtime:** 108分钟
+**Country:** 中国大陆
+**Director:** 邱礼涛
+**Cast:** 欧豪 / 谷嘉诚 / 俞灏明
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897295760.jpg" alt="绝地追击">
+</div>
+
+---
 ## 孤注一掷
 **Rating:** 6.9
 **Runtime:** 130分钟
@@ -33,19 +55,8 @@
 </div>
 
 ---
-## 念念相忘
-**Rating:** 6.9
-**Runtime:** 103分钟
-**Country:** 中国大陆
-**Director:** 刘雨霖
-**Cast:** 刘浩存 / 宋威龙 / 卜冠今
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896873968.jpg" alt="念念相忘">
-</div>
-
----
 ## 我经过风暴
-**Rating:** 7.1
+**Rating:** 7.2
 **Runtime:** 101分钟
 **Country:** 中国大陆
 **Director:** 秦海燕
@@ -63,6 +74,17 @@
 **Cast:** 黄渤 / 单禹豪 / 闫妮
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896597470.jpg" alt="学爸">
+</div>
+
+---
+## 念念相忘
+**Rating:** 6.9
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 刘雨霖
+**Cast:** 刘浩存 / 宋威龙 / 卜冠今
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896873968.jpg" alt="念念相忘">
 </div>
 
 ---
@@ -88,14 +110,14 @@
 </div>
 
 ---
-## 最后的真相
-**Rating:** 0
-**Runtime:** 112分钟
-**Country:** 中国大陆
-**Director:** 李太阁
-**Cast:** 黄晓明 / 闫妮 / 涂们
+## 巨齿鲨2：深渊
+**Rating:** 5.4
+**Runtime:** 119分钟
+**Country:** 美国 中国大陆
+**Director:** 本·维特利 
+**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895530144.jpg" alt="最后的真相">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
 </div>
 
 ---
@@ -110,14 +132,14 @@
 </div>
 
 ---
-## 超能一家人
-**Rating:** 3.7
-**Runtime:** 113分钟
+## 消失的她
+**Rating:** 6.4
+**Runtime:** 121 分钟
 **Country:** 中国大陆
-**Director:** 宋阳
-**Cast:** 艾伦 / 沈腾 / 陶慧
+**Director:** 崔睿 刘翔
+**Cast:** 朱一龙 / 倪妮 / 文咏珊
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890369636.jpg" alt="超能一家人">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893270877.jpg" alt="消失的她">
 </div>
 
 ---
@@ -132,36 +154,14 @@
 </div>
 
 ---
-## 绝地追击
-**Rating:** 0
-**Runtime:** 108分钟
+## 超能一家人
+**Rating:** 3.7
+**Runtime:** 113分钟
 **Country:** 中国大陆
-**Director:** 邱礼涛
-**Cast:** 欧豪 / 谷嘉诚 / 俞灏明
+**Director:** 宋阳
+**Cast:** 艾伦 / 沈腾 / 陶慧
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897295760.jpg" alt="绝地追击">
-</div>
-
----
-## 巨齿鲨2：深渊
-**Rating:** 5.4
-**Runtime:** 119分钟
-**Country:** 美国 中国大陆
-**Director:** 本·维特利 
-**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
-</div>
-
----
-## 野蛮人入侵
-**Rating:** 7.4
-**Runtime:** 106分钟
-**Country:** 中国香港 马来西亚
-**Director:** 陈翠梅
-**Cast:** 陈翠梅 / 张子夫 / 博朗·帕拉雷
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896024943.jpg" alt="野蛮人入侵">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890369636.jpg" alt="超能一家人">
 </div>
 
 ---
@@ -173,6 +173,17 @@
 **Cast:** 杨天翔 / 凌振赫 / 吴俊全
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893820209.jpg" alt="长安三万里">
+</div>
+
+---
+## 野蛮人入侵
+**Rating:** 7.4
+**Runtime:** 106分钟
+**Country:** 中国香港 马来西亚
+**Director:** 陈翠梅
+**Cast:** 陈翠梅 / 张子夫 / 博朗·帕拉雷
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896024943.jpg" alt="野蛮人入侵">
 </div>
 
 ---
@@ -198,17 +209,6 @@
 </div>
 
 ---
-## 最遗憾是错过你
-**Rating:** 4.9
-**Runtime:** 115分钟
-**Country:** 中国台湾
-**Director:** 詹馥华
-**Cast:** 连晨翔 / 吴子霏 / 周予天
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886365839.jpg" alt="最遗憾是错过你">
-</div>
-
----
 ## 八角笼中
 **Rating:** 7.5
 **Runtime:** 117分钟
@@ -231,14 +231,25 @@
 </div>
 
 ---
-## 消失的她
-**Rating:** 6.4
-**Runtime:** 121 分钟
-**Country:** 中国大陆
-**Director:** 崔睿 刘翔
-**Cast:** 朱一龙 / 倪妮 / 文咏珊
+## 最遗憾是错过你
+**Rating:** 4.9
+**Runtime:** 115分钟
+**Country:** 中国台湾
+**Director:** 詹馥华
+**Cast:** 连晨翔 / 吴子霏 / 周予天
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893270877.jpg" alt="消失的她">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886365839.jpg" alt="最遗憾是错过你">
+</div>
+
+---
+## 忠爱无言2
+**Rating:** 0
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 谈宜之
+**Cast:** 七福 / 张浩庭 / 金巧巧
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897307159.jpg" alt="忠爱无言2">
 </div>
 
 ---
@@ -286,17 +297,6 @@
 </div>
 
 ---
-## 忠爱无言2
-**Rating:** 0
-**Runtime:** 103分钟
-**Country:** 中国大陆
-**Director:** 谈宜之
-**Cast:** 七福 / 张浩庭 / 金巧巧
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897307159.jpg" alt="忠爱无言2">
-</div>
-
----
 ## 雪域少年
 **Rating:** 0
 **Runtime:** 110分钟
@@ -305,6 +305,17 @@
 **Cast:** 张赫 / 刘颐诺  / 刘琮
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896911817.jpg" alt="雪域少年">
+</div>
+
+---
+## 我本少年
+**Rating:** 0
+**Runtime:** 85分钟
+**Country:** 中国大陆
+**Director:** 白铭健 吴吞
+**Cast:** 姜晨 / 房子斌 / 嘉泽
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895674236.jpg" alt="我本少年">
 </div>
 
 ---
@@ -341,6 +352,17 @@
 </div>
 
 ---
+## 丛林大冒险
+**Rating:** 6.6
+**Runtime:** 81分钟(中国大陆)
+**Country:** 德国
+**Director:** Mimi Maynard Regina Welker Nina Wels
+**Cast:** Ashley Bornancin / Danny Fehsenfeld / Leslie L. Miller
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2884794796.jpg" alt="丛林大冒险">
+</div>
+
+---
 ## 王牌二哈
 **Rating:** 0
 **Runtime:** 93分钟
@@ -363,17 +385,6 @@
 </div>
 
 ---
-## 丛林大冒险
-**Rating:** 6.6
-**Runtime:** 81分钟(中国大陆)
-**Country:** 德国
-**Director:** Mimi Maynard Regina Welker Nina Wels
-**Cast:** Ashley Bornancin / Danny Fehsenfeld / Leslie L. Miller
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2884794796.jpg" alt="丛林大冒险">
-</div>
-
----
 ## 天空之城
 **Rating:** 9.2
 **Runtime:** 125分钟
@@ -382,17 +393,6 @@
 **Cast:** 田中真弓 / 横泽启子 / 初井言荣
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892380420.jpg" alt="天空之城">
-</div>
-
----
-## 我本少年
-**Rating:** 0
-**Runtime:** 85分钟
-**Country:** 中国大陆
-**Director:** 白铭健 吴吞
-**Cast:** 姜晨 / 房子斌 / 嘉泽
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895674236.jpg" alt="我本少年">
 </div>
 
 ---
@@ -407,17 +407,6 @@
 </div>
 
 ---
-## 棉花糖和云朵妈妈1宝贝芯计划
-**Rating:** 0
-**Runtime:** 88分钟
-**Country:** 中国大陆
-**Director:** 徐铮
-**Cast:** 陈苏 / 郏捷 / 耿晨晨
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893877455.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
-</div>
-
----
 ## 飞向月球
 **Rating:** 0
 **Runtime:** 88分钟
@@ -426,6 +415,17 @@
 **Cast:** 董浩 / 苏娜 / 刘纯燕
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896225339.jpg" alt="飞向月球">
+</div>
+
+---
+## 棉花糖和云朵妈妈1宝贝芯计划
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 徐铮
+**Cast:** 陈苏 / 郏捷 / 耿晨晨
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893877455.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
 </div>
 
 ---
@@ -440,17 +440,6 @@
 </div>
 
 ---
-## OMG! 我爱你...但不合时宜
-**Rating:** 7
-**Runtime:** 124分钟
-**Country:** 泰国
-**Director:** 西提彭·科桐塔维
-**Cast:** 翁拉维·那提通 / 普莉恩皮察雅·克玛拉娜君 / 帕查拉·奇拉锡瓦特
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886258689.jpg" alt="OMG! 我爱你...但不合时宜">
-</div>
-
----
 ## 欢乐丛林之外星人大冒险
 **Rating:** 0
 **Runtime:** 
@@ -459,6 +448,17 @@
 **Cast:** 李凤良
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890512825.jpg" alt="欢乐丛林之外星人大冒险">
+</div>
+
+---
+## OMG! 我爱你...但不合时宜
+**Rating:** 7
+**Runtime:** 124分钟
+**Country:** 泰国
+**Director:** 西提彭·科桐塔维
+**Cast:** 翁拉维·那提通 / 普莉恩皮察雅·克玛拉娜君 / 帕查拉·奇拉锡瓦特
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886258689.jpg" alt="OMG! 我爱你...但不合时宜">
 </div>
 
 ---
@@ -506,17 +506,6 @@
 </div>
 
 ---
-## 午夜迷途
-**Rating:** 0
-**Runtime:** 74分钟
-**Country:** 中国大陆
-**Director:** 张若以
-**Cast:** 单思杰 / 廖越 / 郭万超
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892799691.jpg" alt="午夜迷途">
-</div>
-
----
 ## 艾尔米塔什博物馆：艺术的力量
 **Rating:** 8.4
 **Runtime:** 90分钟
@@ -525,17 +514,6 @@
 **Cast:** 托尼·塞尔维洛
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2595443295.jpg" alt="艾尔米塔什博物馆：艺术的力量">
-</div>
-
----
-## 营救野猪队
-**Rating:** 5.5
-**Runtime:** 104分钟
-**Country:** 泰国 爱尔兰
-**Director:** 汤姆·沃勒
-**Cast:** 埃卡瓦·尼拉沃纳潘亚 / 阿帕·芭薇莱 / 宝儿
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568035828.jpg" alt="营救野猪队">
 </div>
 
 ---
@@ -550,6 +528,28 @@
 </div>
 
 ---
+## 午夜迷途
+**Rating:** 0
+**Runtime:** 74分钟
+**Country:** 中国大陆
+**Director:** 张若以
+**Cast:** 单思杰 / 廖越 / 郭万超
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892799691.jpg" alt="午夜迷途">
+</div>
+
+---
+## 营救野猪队
+**Rating:** 5.5
+**Runtime:** 104分钟
+**Country:** 泰国 爱尔兰
+**Director:** 汤姆·沃勒
+**Cast:** 埃卡瓦·尼拉沃纳潘亚 / 阿帕·芭薇莱 / 宝儿
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568035828.jpg" alt="营救野猪队">
+</div>
+
+---
 ## 拉斐尔：年轻的画圣
 **Rating:** 7.4
 **Runtime:** 83分钟
@@ -561,17 +561,6 @@
 </div>
 
 ---
-## 卡拉瓦乔：灵与血
-**Rating:** 6.5
-**Runtime:** 94分钟
-**Country:** 意大利
-**Director:** 杰苏斯·加尔塞斯·兰伯特
-**Cast:** 曼努埃尔·阿涅利 / Emanuele Marigliano / Sara Pallini
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2568714561.jpg" alt="卡拉瓦乔：灵与血">
-</div>
-
----
 ## 女王的肖像
 **Rating:** 6.9
 **Runtime:** 90分钟
@@ -580,6 +569,17 @@
 **Cast:** 
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890367162.jpg" alt="女王的肖像">
+</div>
+
+---
+## 卡拉瓦乔：灵与血
+**Rating:** 6.5
+**Runtime:** 94分钟
+**Country:** 意大利
+**Director:** 杰苏斯·加尔塞斯·兰伯特
+**Cast:** 曼努埃尔·阿涅利 / Emanuele Marigliano / Sara Pallini
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2568714561.jpg" alt="卡拉瓦乔：灵与血">
 </div>
 
 ---
