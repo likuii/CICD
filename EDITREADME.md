@@ -462,6 +462,17 @@
 </div>
 
 ---
+## OMG! 我爱你...但不合时宜
+**Rating:** 7
+**Runtime:** 124分钟
+**Country:** 泰国
+**Director:** 西提彭·科桐塔维
+**Cast:** 翁拉维·那提通 / 普莉恩皮察雅·克玛拉娜君 / 帕查拉·奇拉锡瓦特
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886258689.jpg" alt="OMG! 我爱你...但不合时宜">
+</div>
+
+---
 ## 欢乐丛林之外星人大冒险
 **Rating:** 0
 **Runtime:** 
@@ -470,6 +481,17 @@
 **Cast:** 李凤良
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890512825.jpg" alt="欢乐丛林之外星人大冒险">
+</div>
+
+---
+## 那些年，我们一起追的女孩
+**Rating:** 0
+**Runtime:** 120分钟
+**Country:** 泰国
+**Director:** Napat Jitweerapat 卡尼萨·坤宇
+**Cast:** 格拉帕·格潘 / 拉查楠·玛哈菀 / 帕瓦·吉沙晚迪
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2755967924.jpg" alt="那些年，我们一起追的女孩">
 </div>
 
 ---
@@ -517,6 +539,17 @@
 </div>
 
 ---
+## 营救野猪队
+**Rating:** 5.5
+**Runtime:** 104分钟
+**Country:** 泰国 爱尔兰
+**Director:** 汤姆·沃勒
+**Cast:** 埃卡瓦·尼拉沃纳潘亚 / 阿帕·芭薇莱 / 宝儿
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568035828.jpg" alt="营救野猪队">
+</div>
+
+---
 ## 女王的肖像
 **Rating:** 6.9
 **Runtime:** 90分钟
@@ -536,6 +569,17 @@
 **Cast:** 曼努埃尔·阿涅利 / Emanuele Marigliano / Sara Pallini
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2568714561.jpg" alt="卡拉瓦乔：灵与血">
+</div>
+
+---
+## 恋爱局中局
+**Rating:** 6.5
+**Runtime:** 127分钟
+**Country:** 泰国
+**Director:** 梅兹·塔拉
+**Cast:** 纳得克·库吉米亚 / 平采娜·乐维瑟派布恩 / 提顶·玛哈由踏纳
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2629407129.jpg" alt="恋爱局中局">
 </div>
 
 ---
