@@ -381,7 +381,7 @@
 **Director:** 刘作涛
 **Cast:** 张磊 / 杨一威 / 曲少石
 <div align="left">
-<img src="https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png" alt="末路囧徒">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897355697.jpg" alt="末路囧徒">
 </div>
 
 ---
