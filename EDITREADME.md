@@ -11,6 +11,28 @@
 </div>
 
 ---
+## 孤注一掷
+**Rating:** 6.9
+**Runtime:** 130分钟
+**Country:** 中国大陆
+**Director:** 申奥
+**Cast:** 张艺兴 / 金晨 / 咏梅
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896551721.jpg" alt="孤注一掷">
+</div>
+
+---
+## 绝地追击
+**Rating:** 7.7
+**Runtime:** 108分钟
+**Country:** 中国大陆
+**Director:** 邱礼涛
+**Cast:** 欧豪 / 谷嘉诚 / 俞灏明
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897295760.jpg" alt="绝地追击">
+</div>
+
+---
 ## 燃冬
 **Rating:** 6.2
 **Runtime:** 97分钟
@@ -33,28 +55,6 @@
 </div>
 
 ---
-## 绝地追击
-**Rating:** 7.7
-**Runtime:** 108分钟
-**Country:** 中国大陆
-**Director:** 邱礼涛
-**Cast:** 欧豪 / 谷嘉诚 / 俞灏明
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897295760.jpg" alt="绝地追击">
-</div>
-
----
-## 孤注一掷
-**Rating:** 6.9
-**Runtime:** 130分钟
-**Country:** 中国大陆
-**Director:** 申奥
-**Cast:** 张艺兴 / 金晨 / 咏梅
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896551721.jpg" alt="孤注一掷">
-</div>
-
----
 ## 我经过风暴
 **Rating:** 7.2
 **Runtime:** 101分钟
@@ -63,6 +63,17 @@
 **Cast:** 佟丽娅 / 吴昱翰 / 王影璐
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896816460.jpg" alt="我经过风暴">
+</div>
+
+---
+## 封神第一部：朝歌风云
+**Rating:** 7.9
+**Runtime:** 148分钟
+**Country:** 中国大陆
+**Director:** 乌尔善
+**Cast:** 费翔 / 李雪健 / 黄渤
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.jpg" alt="封神第一部：朝歌风云">
 </div>
 
 ---
@@ -88,14 +99,25 @@
 </div>
 
 ---
-## 封神第一部：朝歌风云
-**Rating:** 7.9
-**Runtime:** 148分钟
-**Country:** 中国大陆
-**Director:** 乌尔善
-**Cast:** 费翔 / 李雪健 / 黄渤
+## 巨齿鲨2：深渊
+**Rating:** 5.4
+**Runtime:** 119分钟
+**Country:** 美国 中国大陆
+**Director:** 本·维特利 
+**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.jpg" alt="封神第一部：朝歌风云">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
+</div>
+
+---
+## 消失的她
+**Rating:** 6.4
+**Runtime:** 121 分钟
+**Country:** 中国大陆
+**Director:** 崔睿 刘翔
+**Cast:** 朱一龙 / 倪妮 / 文咏珊
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893270877.jpg" alt="消失的她">
 </div>
 
 ---
@@ -110,17 +132,6 @@
 </div>
 
 ---
-## 巨齿鲨2：深渊
-**Rating:** 5.4
-**Runtime:** 119分钟
-**Country:** 美国 中国大陆
-**Director:** 本·维特利 
-**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
-</div>
-
----
 ## 热烈
 **Rating:** 7.2
 **Runtime:** 124分钟
@@ -129,17 +140,6 @@
 **Cast:** 黄渤 / 王一博 / 刘敏涛
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895553074.jpg" alt="热烈">
-</div>
-
----
-## 消失的她
-**Rating:** 6.4
-**Runtime:** 121 分钟
-**Country:** 中国大陆
-**Director:** 崔睿 刘翔
-**Cast:** 朱一龙 / 倪妮 / 文咏珊
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893270877.jpg" alt="消失的她">
 </div>
 
 ---
@@ -187,17 +187,6 @@
 </div>
 
 ---
-## 奇迹少女
-**Rating:** 5.2
-**Runtime:** 105分钟
-**Country:** 法国
-**Director:** 杰里米·扎格
-**Cast:** 克里斯蒂娜·瓦伦苏埃拉 / 布莱斯·峇本布鲁克 / 泽诺·罗宾逊
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896104354.jpg" alt="奇迹少女">
-</div>
-
----
 ## 碟中谍7：致命清算（上）
 **Rating:** 7.8
 **Runtime:** 164分钟
@@ -206,6 +195,17 @@
 **Cast:** 汤姆·克鲁斯 / 海莉·阿特维尔 / 文·瑞姆斯
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893481084.jpg" alt="碟中谍7：致命清算（上）">
+</div>
+
+---
+## 奇迹少女
+**Rating:** 5.2
+**Runtime:** 105分钟
+**Country:** 法国
+**Director:** 杰里米·扎格
+**Cast:** 克里斯蒂娜·瓦伦苏埃拉 / 布莱斯·峇本布鲁克 / 泽诺·罗宾逊
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896104354.jpg" alt="奇迹少女">
 </div>
 
 ---
@@ -231,14 +231,14 @@
 </div>
 
 ---
-## 最遗憾是错过你
-**Rating:** 4.9
-**Runtime:** 115分钟
-**Country:** 中国台湾
-**Director:** 詹馥华
-**Cast:** 连晨翔 / 吴子霏 / 周予天
+## 忍者神龟：变种大乱斗
+**Rating:** 7.1
+**Runtime:** 100分钟
+**Country:** 美国
+**Director:** 杰夫·罗韦 凯勒·斯皮尔斯
+**Cast:** 尼古拉斯·坎图 / 布雷迪·诺恩 / 小肖恩·布朗
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886365839.jpg" alt="最遗憾是错过你">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895790300.jpg" alt="忍者神龟：变种大乱斗">
 </div>
 
 ---
@@ -253,25 +253,14 @@
 </div>
 
 ---
-## 忍者神龟：变种大乱斗
-**Rating:** 7.1
-**Runtime:** 100分钟
-**Country:** 美国
-**Director:** 杰夫·罗韦 凯勒·斯皮尔斯
-**Cast:** 尼古拉斯·坎图 / 布雷迪·诺恩 / 小肖恩·布朗
+## 最遗憾是错过你
+**Rating:** 4.9
+**Runtime:** 115分钟
+**Country:** 中国台湾
+**Director:** 詹馥华
+**Cast:** 连晨翔 / 吴子霏 / 周予天
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895790300.jpg" alt="忍者神龟：变种大乱斗">
-</div>
-
----
-## 爱犬奇缘
-**Rating:** 0
-**Runtime:** 101分钟
-**Country:** 中国大陆
-**Director:** 陈国辉 夏永康
-**Cast:** 冯绍峰 / 古力娜扎 / 李嘉琦
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896106444.jpg" alt="爱犬奇缘">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886365839.jpg" alt="最遗憾是错过你">
 </div>
 
 ---
@@ -286,6 +275,17 @@
 </div>
 
 ---
+## 爱犬奇缘
+**Rating:** 0
+**Runtime:** 101分钟
+**Country:** 中国大陆
+**Director:** 陈国辉 夏永康
+**Cast:** 冯绍峰 / 古力娜扎 / 李嘉琦
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896106444.jpg" alt="爱犬奇缘">
+</div>
+
+---
 ## 怪兽湖
 **Rating:** 3.6
 **Runtime:** 87分钟(中国大陆版)
@@ -294,17 +294,6 @@
 **Cast:** 苏查·玛娜英 / 臧金生 / 苏秋成
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2872187130.jpg" alt="怪兽湖">
-</div>
-
----
-## 雪域少年
-**Rating:** 0
-**Runtime:** 110分钟
-**Country:** 中国大陆
-**Director:** 路奇
-**Cast:** 张赫 / 刘颐诺  / 刘琮
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896911817.jpg" alt="雪域少年">
 </div>
 
 ---
@@ -319,6 +308,17 @@
 </div>
 
 ---
+## 雪域少年
+**Rating:** 0
+**Runtime:** 110分钟
+**Country:** 中国大陆
+**Director:** 路奇
+**Cast:** 张赫 / 刘颐诺  / 刘琮
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896911817.jpg" alt="雪域少年">
+</div>
+
+---
 ## 超级英雄美猴王——齐天儿
 **Rating:** 0
 **Runtime:** 101分钟
@@ -330,17 +330,6 @@
 </div>
 
 ---
-## 变形金刚：超能勇士崛起
-**Rating:** 5.9
-**Runtime:** 128分钟(中国大陆)
-**Country:** 美国
-**Director:** 小斯蒂芬·卡普尔
-**Cast:** 安东尼·拉莫斯 / 多米尼克·菲什巴克 / 彼特·库伦
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892024245.jpg" alt="变形金刚：超能勇士崛起">
-</div>
-
----
 ## 潜艇总动员：环游地球80天
 **Rating:** 0
 **Runtime:** 80分钟
@@ -349,6 +338,17 @@
 **Cast:** 张嘉祺 / 李云龙 / 蔡旭东
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896442997.jpg" alt="潜艇总动员：环游地球80天">
+</div>
+
+---
+## 变形金刚：超能勇士崛起
+**Rating:** 5.9
+**Runtime:** 128分钟(中国大陆)
+**Country:** 美国
+**Director:** 小斯蒂芬·卡普尔
+**Cast:** 安东尼·拉莫斯 / 多米尼克·菲什巴克 / 彼特·库伦
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892024245.jpg" alt="变形金刚：超能勇士崛起">
 </div>
 
 ---
@@ -374,14 +374,14 @@
 </div>
 
 ---
-## 超级飞侠：乐迪加速
-**Rating:** 6.3
-**Runtime:** 89分钟
+## 末路囧徒
+**Rating:** 0
+**Runtime:** 95分钟
 **Country:** 中国大陆
-**Director:** 冯操
-**Cast:** 张嘉骐 / 吴若萱  / 何沛祺
+**Director:** 刘作涛
+**Cast:** 张磊 / 杨一威 / 曲少石
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893886888.jpg" alt="超级飞侠：乐迪加速">
+<img src="https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png" alt="末路囧徒">
 </div>
 
 ---
@@ -393,6 +393,17 @@
 **Cast:** 田中真弓 / 横泽启子 / 初井言荣
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892380420.jpg" alt="天空之城">
+</div>
+
+---
+## 超级飞侠：乐迪加速
+**Rating:** 6.3
+**Runtime:** 89分钟
+**Country:** 中国大陆
+**Director:** 冯操
+**Cast:** 张嘉骐 / 吴若萱  / 何沛祺
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893886888.jpg" alt="超级飞侠：乐迪加速">
 </div>
 
 ---
@@ -440,6 +451,17 @@
 </div>
 
 ---
+## 你与我和我
+**Rating:** 6.7
+**Runtime:** 121分钟
+**Country:** 泰国
+**Director:** 宛薇·洪维瓦塔娜 薇婉·洪维瓦塔娜
+**Cast:** 泰蒂娅·吉拉庞恩斯普 / 安东尼·布塞尔特 / Supaksorn Chaimongkol
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2887353385.jpg" alt="你与我和我">
+</div>
+
+---
 ## 欢乐丛林之外星人大冒险
 **Rating:** 0
 **Runtime:** 
@@ -462,14 +484,14 @@
 </div>
 
 ---
-## 你与我和我
-**Rating:** 6.7
-**Runtime:** 121分钟
-**Country:** 泰国
-**Director:** 宛薇·洪维瓦塔娜 薇婉·洪维瓦塔娜
-**Cast:** 泰蒂娅·吉拉庞恩斯普 / 安东尼·布塞尔特 / Supaksorn Chaimongkol
+## 午夜迷途
+**Rating:** 0
+**Runtime:** 74分钟
+**Country:** 中国大陆
+**Director:** 张若以
+**Cast:** 单思杰 / 廖越 / 郭万超
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2887353385.jpg" alt="你与我和我">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892799691.jpg" alt="午夜迷途">
 </div>
 
 ---
@@ -481,17 +503,6 @@
 **Cast:** 瑞安·雷诺兹
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554383112.jpg" alt="大熊雨林">
-</div>
-
----
-## 午夜迷途
-**Rating:** 0
-**Runtime:** 74分钟
-**Country:** 中国大陆
-**Director:** 张若以
-**Cast:** 单思杰 / 廖越 / 郭万超
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892799691.jpg" alt="午夜迷途">
 </div>
 
 ---
@@ -514,17 +525,6 @@
 **Cast:** 曼努埃尔·阿涅利 / Emanuele Marigliano / Sara Pallini
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2568714561.jpg" alt="卡拉瓦乔：灵与血">
-</div>
-
----
-## 末路囧徒
-**Rating:** 0
-**Runtime:** 95分钟
-**Country:** 中国大陆
-**Director:** 刘作涛
-**Cast:** 张磊 / 杨一威 / 曲少石
-<div align="left">
-<img src="https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png" alt="末路囧徒">
 </div>
 
 ---
