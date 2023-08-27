@@ -199,7 +199,7 @@
 
 ---
 ## 奇迹少女
-**Rating:** 5.2
+**Rating:** 5.3
 **Runtime:** 105分钟
 **Country:** 法国
 **Director:** 杰里米·扎格
@@ -492,6 +492,17 @@
 **Cast:** 单思杰 / 廖越 / 郭万超
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892799691.jpg" alt="午夜迷途">
+</div>
+
+---
+## 南太平洋之旅
+**Rating:** 8.2
+**Runtime:** 40分钟
+**Country:** 美国
+**Director:** 格雷戈·迈吉里弗雷 Stephen Judson
+**Cast:** 凯特·布兰切特 / Ferdiel Ballamu / Menas Mambasar
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155676070.jpg" alt="南太平洋之旅">
 </div>
 
 ---
