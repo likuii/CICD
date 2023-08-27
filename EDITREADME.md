@@ -78,7 +78,7 @@
 
 ---
 ## 学爸
-**Rating:** 6.9
+**Rating:** 7
 **Runtime:** 118分钟
 **Country:** 中国大陆
 **Director:** 苏亮
@@ -199,7 +199,7 @@
 
 ---
 ## 奇迹少女
-**Rating:** 5.3
+**Rating:** 5.2
 **Runtime:** 105分钟
 **Country:** 法国
 **Director:** 杰里米·扎格
