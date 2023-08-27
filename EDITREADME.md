@@ -56,7 +56,7 @@
 
 ---
 ## 我经过风暴
-**Rating:** 7.2
+**Rating:** 7.1
 **Runtime:** 101分钟
 **Country:** 中国大陆
 **Director:** 秦海燕
@@ -199,7 +199,7 @@
 
 ---
 ## 奇迹少女
-**Rating:** 5.2
+**Rating:** 5.3
 **Runtime:** 105分钟
 **Country:** 法国
 **Director:** 杰里米·扎格
@@ -423,7 +423,7 @@
 **Runtime:** 88分钟
 **Country:** 中国大陆
 **Director:** 孙立军 吴限
-**Cast:** 董浩 /  / 刘纯燕
+**Cast:** 董浩 / 苏娜 / 刘纯燕
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896225339.jpg" alt="飞向月球">
 </div>
