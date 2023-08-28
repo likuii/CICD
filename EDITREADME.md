@@ -12,7 +12,7 @@
 
 ---
 ## 最后的真相
-**Rating:** 6.4
+**Rating:** 6.3
 **Runtime:** 112分钟
 **Country:** 中国大陆
 **Director:** 李太阁
