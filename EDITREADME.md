@@ -649,14 +649,14 @@
 </div>
 
 ---
-## 不要走散好不好
+## 红色恋人
 **Rating:** 0
-**Runtime:** 99分钟
+**Runtime:** 98分钟
 **Country:** 中国大陆
-**Director:** 郑来志 阿猛
-**Cast:** 徐若晗 / 张开泰 / 秦奋
+**Director:** 叶大鹰
+**Cast:** 张国荣 / 梅婷 / 泰德·巴勃考克
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896555070.jpg" alt="不要走散好不好">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896534116.jpg" alt="红色恋人">
 </div>
 
 ---
