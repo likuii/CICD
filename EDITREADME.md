@@ -249,7 +249,7 @@
 **Director:** 谈宜之
 **Cast:** 七福 / 张浩庭 / 金巧巧
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897307159.jpg" alt="忠爱无言2">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897396583.jpg" alt="忠爱无言2">
 </div>
 
 ---
