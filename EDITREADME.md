@@ -550,17 +550,6 @@
 </div>
 
 ---
-## 里奇不眠夜
-**Rating:** 0
-**Runtime:** 97分钟
-**Country:** 中国大陆
-**Director:** 丁子峻
-**Cast:** 高雨儿 / 李子峰 / 戴娇倩
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896523093.jpg" alt="里奇不眠夜">
-</div>
-
----
 ## 奥本海默
 **Rating:** 0
 **Runtime:** 180分钟
@@ -657,6 +646,17 @@
 **Cast:** 张国荣 / 梅婷 / 泰德·巴勃考克
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896534116.jpg" alt="红色恋人">
+</div>
+
+---
+## 鹦鹉杀
+**Rating:** 0
+**Runtime:** 100分钟
+**Country:** 中国大陆
+**Director:** 麻赢心
+**Cast:** 周冬雨 / 章宇 / 张宥浩
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897277026.jpg" alt="鹦鹉杀">
 </div>
 
 ---

@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 美洲野牛，大提顿国家公园，怀俄明州 (© Enrique Aguirre Aves/Getty Images)
+
+![美洲野牛，大提顿国家公园，怀俄明州 (© Enrique Aguirre Aves/Getty Images)](https://cn.bing.com/th?id=OHR.TetonBison_ZH-CN9384306649_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E7%BE%8E%E6%B4%B2%E9%87%8E%E7%89%9B&form=hpcapt&mkt=zh-cn)
+
 ## 洛夫里耶纳克堡，西港，杜布罗夫尼克，克罗地亚 (© Benny Marty/Shutterstock)
 
 ![洛夫里耶纳克堡，西港，杜布罗夫尼克，克罗地亚 (© Benny Marty/Shutterstock)](https://cn.bing.com/th?id=OHR.DubrovnikHarbor_ZH-CN8590217905_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![斯科加瀑布，冰岛 (© Maridav/Shutterstock)](https://cn.bing.com/th?id=OHR.SkogafossWaterfall_ZH-CN4763253095_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E6%96%AF%E7%A7%91%E5%8A%A0%E7%80%91%E5%B8%83&form=hpcapt&mkt=zh-cn)
-
-## 埃尔杰姆露天剧场，突尼斯 (© Westend61/Getty Images)
-
-![埃尔杰姆露天剧场，突尼斯 (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.TunisiaAmphitheatre_ZH-CN4431856872_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%9F%83%E5%B0%94%E6%9D%B0%E5%A7%86%E9%9C%B2%E5%A4%A9%E5%89%A7%E5%9C%BA&form=hpcapt&mkt=zh-cn)
 
