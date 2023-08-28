@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 绝地追击
-**Rating:** 7.5
+**Rating:** 7.4
 **Runtime:** 108分钟
 **Country:** 中国大陆
 **Director:** 邱礼涛
@@ -12,7 +12,7 @@
 
 ---
 ## 最后的真相
-**Rating:** 6.3
+**Rating:** 6.4
 **Runtime:** 112分钟
 **Country:** 中国大陆
 **Director:** 李太阁
