@@ -1,5 +1,16 @@
 # Douban Currently Playing Movies
 
+## 绝地追击
+**Rating:** 7.6
+**Runtime:** 108分钟
+**Country:** 中国大陆
+**Director:** 邱礼涛
+**Cast:** 欧豪 / 谷嘉诚 / 俞灏明
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897295760.jpg" alt="绝地追击">
+</div>
+
+---
 ## 最后的真相
 **Rating:** 6.4
 **Runtime:** 112分钟
@@ -19,17 +30,6 @@
 **Cast:** 张艺兴 / 金晨 / 咏梅
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896551721.jpg" alt="孤注一掷">
-</div>
-
----
-## 绝地追击
-**Rating:** 7.6
-**Runtime:** 108分钟
-**Country:** 中国大陆
-**Director:** 邱礼涛
-**Cast:** 欧豪 / 谷嘉诚 / 俞灏明
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897295760.jpg" alt="绝地追击">
 </div>
 
 ---
@@ -88,17 +88,6 @@
 </div>
 
 ---
-## 念念相忘
-**Rating:** 6.8
-**Runtime:** 103分钟
-**Country:** 中国大陆
-**Director:** 刘雨霖
-**Cast:** 刘浩存 / 宋威龙 / 卜冠今
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896873968.jpg" alt="念念相忘">
-</div>
-
----
 ## 巨齿鲨2：深渊
 **Rating:** 5.4
 **Runtime:** 119分钟
@@ -107,6 +96,17 @@
 **Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
+</div>
+
+---
+## 念念相忘
+**Rating:** 6.8
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 刘雨霖
+**Cast:** 刘浩存 / 宋威龙 / 卜冠今
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896873968.jpg" alt="念念相忘">
 </div>
 
 ---
@@ -176,17 +176,6 @@
 </div>
 
 ---
-## 野蛮人入侵
-**Rating:** 7.3
-**Runtime:** 106分钟
-**Country:** 中国香港 马来西亚
-**Director:** 陈翠梅
-**Cast:** 陈翠梅 / 张子夫 / 博朗·帕拉雷
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896024943.jpg" alt="野蛮人入侵">
-</div>
-
----
 ## 碟中谍7：致命清算（上）
 **Rating:** 7.8
 **Runtime:** 164分钟
@@ -195,6 +184,17 @@
 **Cast:** 汤姆·克鲁斯 / 海莉·阿特维尔 / 文·瑞姆斯
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893481084.jpg" alt="碟中谍7：致命清算（上）">
+</div>
+
+---
+## 野蛮人入侵
+**Rating:** 7.3
+**Runtime:** 106分钟
+**Country:** 中国香港 马来西亚
+**Director:** 陈翠梅
+**Cast:** 陈翠梅 / 张子夫 / 博朗·帕拉雷
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896024943.jpg" alt="野蛮人入侵">
 </div>
 
 ---
@@ -253,17 +253,6 @@
 </div>
 
 ---
-## 最遗憾是错过你
-**Rating:** 4.9
-**Runtime:** 115分钟
-**Country:** 中国台湾
-**Director:** 詹馥华
-**Cast:** 连晨翔 / 吴子霏 / 周予天
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886365839.jpg" alt="最遗憾是错过你">
-</div>
-
----
 ## 雪豹和她的朋友们
 **Rating:** 8.3
 **Runtime:** 85分钟
@@ -275,14 +264,14 @@
 </div>
 
 ---
-## 爱犬奇缘
-**Rating:** 0
-**Runtime:** 101分钟
-**Country:** 中国大陆
-**Director:** 陈国辉 夏永康
-**Cast:** 冯绍峰 / 古力娜扎 / 李嘉琦
+## 最遗憾是错过你
+**Rating:** 4.9
+**Runtime:** 115分钟
+**Country:** 中国台湾
+**Director:** 詹馥华
+**Cast:** 连晨翔 / 吴子霏 / 周予天
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896106444.jpg" alt="爱犬奇缘">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886365839.jpg" alt="最遗憾是错过你">
 </div>
 
 ---
@@ -294,6 +283,17 @@
 **Cast:** 苏查·玛娜英 / 臧金生 / 苏秋成
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2872187130.jpg" alt="怪兽湖">
+</div>
+
+---
+## 爱犬奇缘
+**Rating:** 0
+**Runtime:** 101分钟
+**Country:** 中国大陆
+**Director:** 陈国辉 夏永康
+**Cast:** 冯绍峰 / 古力娜扎 / 李嘉琦
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896106444.jpg" alt="爱犬奇缘">
 </div>
 
 ---
@@ -319,6 +319,17 @@
 </div>
 
 ---
+## 变形金刚：超能勇士崛起
+**Rating:** 5.9
+**Runtime:** 128分钟(中国大陆)
+**Country:** 美国
+**Director:** 小斯蒂芬·卡普尔
+**Cast:** 安东尼·拉莫斯 / 多米尼克·菲什巴克 / 彼特·库伦
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892024245.jpg" alt="变形金刚：超能勇士崛起">
+</div>
+
+---
 ## 超级英雄美猴王——齐天儿
 **Rating:** 0
 **Runtime:** 101分钟
@@ -341,14 +352,14 @@
 </div>
 
 ---
-## 变形金刚：超能勇士崛起
-**Rating:** 5.9
-**Runtime:** 128分钟(中国大陆)
-**Country:** 美国
-**Director:** 小斯蒂芬·卡普尔
-**Cast:** 安东尼·拉莫斯 / 多米尼克·菲什巴克 / 彼特·库伦
+## 觅渡
+**Rating:** 0
+**Runtime:** 120分钟
+**Country:** 中国大陆
+**Director:** 宁敬武
+**Cast:** 宋洋 / 张桐 / 谷嘉诚
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892024245.jpg" alt="变形金刚：超能勇士崛起">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2894205295.jpg" alt="觅渡">
 </div>
 
 ---
@@ -363,17 +374,6 @@
 </div>
 
 ---
-## 觅渡
-**Rating:** 0
-**Runtime:** 120分钟
-**Country:** 中国大陆
-**Director:** 宁敬武
-**Cast:** 宋洋 / 张桐 / 谷嘉诚
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2894205295.jpg" alt="觅渡">
-</div>
-
----
 ## 王牌二哈
 **Rating:** 0
 **Runtime:** 93分钟
@@ -385,17 +385,6 @@
 </div>
 
 ---
-## 末路囧徒
-**Rating:** 0
-**Runtime:** 95分钟
-**Country:** 中国大陆
-**Director:** 刘作涛
-**Cast:** 张磊 / 杨一威 / 曲少石
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897355697.jpg" alt="末路囧徒">
-</div>
-
----
 ## 天空之城
 **Rating:** 9.2
 **Runtime:** 125分钟
@@ -404,6 +393,17 @@
 **Cast:** 田中真弓 / 横泽启子 / 初井言荣
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892380420.jpg" alt="天空之城">
+</div>
+
+---
+## 末路囧徒
+**Rating:** 0
+**Runtime:** 95分钟
+**Country:** 中国大陆
+**Director:** 刘作涛
+**Cast:** 张磊 / 杨一威 / 曲少石
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897355697.jpg" alt="末路囧徒">
 </div>
 
 ---
@@ -440,14 +440,14 @@
 </div>
 
 ---
-## 你与我和我
-**Rating:** 6.7
-**Runtime:** 121分钟
-**Country:** 泰国
-**Director:** 宛薇·洪维瓦塔娜 薇婉·洪维瓦塔娜
-**Cast:** 泰蒂娅·吉拉庞恩斯普 / 安东尼·布塞尔特 / Supaksorn Chaimongkol
+## 欢乐丛林之外星人大冒险
+**Rating:** 0
+**Runtime:** 
+**Country:** 中国大陆
+**Director:** 
+**Cast:** 李凤良
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2887353385.jpg" alt="你与我和我">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890512825.jpg" alt="欢乐丛林之外星人大冒险">
 </div>
 
 ---
@@ -462,28 +462,6 @@
 </div>
 
 ---
-## OMG! 我爱你...但不合时宜
-**Rating:** 7
-**Runtime:** 124分钟
-**Country:** 泰国
-**Director:** 西提彭·科桐塔维
-**Cast:** 翁拉维·那提通 / 普莉恩皮察雅·克玛拉娜君 / 帕查拉·奇拉锡瓦特
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886258689.jpg" alt="OMG! 我爱你...但不合时宜">
-</div>
-
----
-## 欢乐丛林之外星人大冒险
-**Rating:** 0
-**Runtime:** 
-**Country:** 中国大陆
-**Director:** 
-**Cast:** 李凤良
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890512825.jpg" alt="欢乐丛林之外星人大冒险">
-</div>
-
----
 ## 那些年，我们一起追的女孩
 **Rating:** 0
 **Runtime:** 120分钟
@@ -492,6 +470,17 @@
 **Cast:** 格拉帕·格潘 / 拉查楠·玛哈菀 / 帕瓦·吉沙晚迪
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2755967924.jpg" alt="那些年，我们一起追的女孩">
+</div>
+
+---
+## OMG! 我爱你...但不合时宜
+**Rating:** 7
+**Runtime:** 124分钟
+**Country:** 泰国
+**Director:** 西提彭·科桐塔维
+**Cast:** 翁拉维·那提通 / 普莉恩皮察雅·克玛拉娜君 / 帕查拉·奇拉锡瓦特
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886258689.jpg" alt="OMG! 我爱你...但不合时宜">
 </div>
 
 ---
@@ -506,17 +495,6 @@
 </div>
 
 ---
-## 南太平洋之旅
-**Rating:** 8.2
-**Runtime:** 40分钟
-**Country:** 美国
-**Director:** 格雷戈·迈吉里弗雷 Stephen Judson
-**Cast:** 凯特·布兰切特 / Ferdiel Ballamu / Menas Mambasar
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155676070.jpg" alt="南太平洋之旅">
-</div>
-
----
 ## 大熊雨林
 **Rating:** 8.6
 **Runtime:** 41分钟
@@ -525,6 +503,28 @@
 **Cast:** 瑞安·雷诺兹
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554383112.jpg" alt="大熊雨林">
+</div>
+
+---
+## 你与我和我
+**Rating:** 6.7
+**Runtime:** 121分钟
+**Country:** 泰国
+**Director:** 宛薇·洪维瓦塔娜 薇婉·洪维瓦塔娜
+**Cast:** 泰蒂娅·吉拉庞恩斯普 / 安东尼·布塞尔特 / Supaksorn Chaimongkol
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2887353385.jpg" alt="你与我和我">
+</div>
+
+---
+## 南太平洋之旅
+**Rating:** 8.2
+**Runtime:** 40分钟
+**Country:** 美国
+**Director:** 格雷戈·迈吉里弗雷 Stephen Judson
+**Cast:** 凯特·布兰切特 / Ferdiel Ballamu / Menas Mambasar
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155676070.jpg" alt="南太平洋之旅">
 </div>
 
 ---
