@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 最后的真相
-**Rating:** 6.3
+**Rating:** 6.4
 **Runtime:** 112分钟
 **Country:** 中国大陆
 **Director:** 李太阁
@@ -199,7 +199,7 @@
 
 ---
 ## 奇迹少女
-**Rating:** 5.2
+**Rating:** 5.3
 **Runtime:** 105分钟
 **Country:** 法国
 **Director:** 杰里米·扎格
