@@ -1,5 +1,16 @@
 # Douban Currently Playing Movies
 
+## 奥本海默
+**Rating:** 8.6
+**Runtime:** 180分钟
+**Country:** 美国 英国
+**Director:** 克里斯托弗·诺兰
+**Cast:** 基里安·墨菲 / 艾米莉·布朗特 / 马特·达蒙
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897210097.jpg" alt="奥本海默">
+</div>
+
+---
 ## 绝地追击
 **Rating:** 7.2
 **Runtime:** 108分钟
@@ -55,14 +66,14 @@
 </div>
 
 ---
-## 火山挚恋
-**Rating:** 9
-**Runtime:** 99分钟
-**Country:** 美国 加拿大
-**Director:** 萨拉·多萨
-**Cast:** 卡蒂娅·克拉夫特 / 莫里斯·克拉夫特 / 米兰达·裘丽
+## 封神第一部：朝歌风云
+**Rating:** 7.9
+**Runtime:** 148分钟
+**Country:** 中国大陆
+**Director:** 乌尔善
+**Cast:** 费翔 / 李雪健 / 黄渤
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896531014.jpg" alt="火山挚恋">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.jpg" alt="封神第一部：朝歌风云">
 </div>
 
 ---
@@ -162,28 +173,6 @@
 **Cast:** 高雨儿 / 李子峰 / 戴娇倩
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896523093.jpg" alt="里奇不眠夜">
-</div>
-
----
-## 最遗憾是错过你
-**Rating:** 4.9
-**Runtime:** 115分钟
-**Country:** 中国台湾
-**Director:** 詹馥华
-**Cast:** 连晨翔 / 吴子霏 / 周予天
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886365839.jpg" alt="最遗憾是错过你">
-</div>
-
----
-## 怪兽湖
-**Rating:** 3.6
-**Runtime:** 87分钟(中国大陆版)
-**Country:** 泰国 中国大陆
-**Director:** 李·通坎
-**Cast:** 苏查·玛娜英 / 臧金生 / 苏秋成
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2872187130.jpg" alt="怪兽湖">
 </div>
 
 ---
