@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 绝地追击
-**Rating:** 7.3
+**Rating:** 7.2
 **Runtime:** 108分钟
 **Country:** 中国大陆
 **Director:** 邱礼涛
@@ -45,7 +45,7 @@
 
 ---
 ## 我经过风暴
-**Rating:** 7.1
+**Rating:** 7.2
 **Runtime:** 101分钟
 **Country:** 中国大陆
 **Director:** 秦海燕
