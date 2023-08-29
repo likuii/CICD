@@ -563,7 +563,7 @@
 ---
 ## 意外人生
 **Rating:** 0
-**Runtime:** 90分钟
+**Runtime:** 87分钟
 **Country:** 中国大陆
 **Director:** 左志国
 **Cast:** 吴镇宇 / 任素汐 / 李康生
