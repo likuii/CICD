@@ -599,7 +599,7 @@
 **Runtime:** 135分钟
 **Country:** 美国
 **Director:** 尼尔·布洛姆坎普
-**Cast:** 阿奇·马德基 / 大卫·哈伯 / 奥兰多·布鲁姆
+**Cast:** 大卫·哈伯 / 奥兰多·布鲁姆 / 阿奇·马德基
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897205491.jpg" alt="GT赛车：极速狂飙">
 </div>
@@ -667,7 +667,7 @@
 **Director:** 梁明
 **Cast:** 董钒 / 王浩宇 / 张熙唯
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897396665.jpg" alt="老师，别哭">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897479178.jpg" alt="老师，别哭">
 </div>
 
 ---
