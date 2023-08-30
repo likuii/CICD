@@ -462,6 +462,17 @@
 </div>
 
 ---
+## 小黄人大眼萌：神偷奶爸前传
+**Rating:** 7.1
+**Runtime:** 88分钟(中国大陆)
+**Country:** 美国
+**Director:** 凯尔·巴尔达 布拉德·埃布尔森 乔纳森·德尔瓦尔
+**Cast:** 史蒂夫·卡瑞尔 / 皮埃尔·柯芬 / 艾伦·阿金
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2877522569.jpg" alt="小黄人大眼萌：神偷奶爸前传">
+</div>
+
+---
 ## 那些年，我们一起追的女孩
 **Rating:** 0
 **Runtime:** 120分钟
@@ -558,6 +569,17 @@
 **Cast:** 埃卡瓦·尼拉沃纳潘亚 / 阿帕·芭薇莱 / 宝儿
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568035828.jpg" alt="营救野猪队">
+</div>
+
+---
+## 长江
+**Rating:** 7.9
+**Runtime:** 50分钟
+**Country:** 中国大陆
+**Director:** 夏骏
+**Cast:** 胡阿祥 / 苏智良 / 王澍
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574476155.jpg" alt="长江">
 </div>
 
 ---
