@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 巨人柱，铁木森林国家纪念地，亚利桑那州，美国 (© Jack Dykinga/Minden Pictures)
+
+![巨人柱，铁木森林国家纪念地，亚利桑那州，美国 (© Jack Dykinga/Minden Pictures)](https://cn.bing.com/th?id=OHR.IronwoodCactus_ZH-CN9290037977_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%B7%A8%E4%BA%BA%E6%9F%B1&form=hpcapt&mkt=zh-cn)
+
 ## 鲸鲨，宁加洛珊瑚礁，西澳大利亚 (© Jason Edwards/Getty Images)
 
 ![鲸鲨，宁加洛珊瑚礁，西澳大利亚 (© Jason Edwards/Getty Images)](https://cn.bing.com/th?id=OHR.NingalooShark_ZH-CN9014712175_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![黄石下瀑布，黄石国家公园，怀俄明州，美国 (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.YellowstoneFalls_ZH-CN8050562150_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E9%BB%84%E7%9F%B3%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
-
-## 鲨鱼鳍湾，达文波特，加利福尼亚州，美国 (© Jeff Lewis/Tandem Stills + Motion)
-
-![鲨鱼鳍湾，达文波特，加利福尼亚州，美国 (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SharkFinCove_ZH-CN4952934195_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E6%B5%B7%E8%9A%80%E6%9F%B1&form=hpcapt&mkt=zh-cn)
 
