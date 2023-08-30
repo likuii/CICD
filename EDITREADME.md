@@ -11,17 +11,6 @@
 </div>
 
 ---
-## 绝地追击
-**Rating:** 7.2
-**Runtime:** 108分钟
-**Country:** 中国大陆
-**Director:** 邱礼涛
-**Cast:** 欧豪 / 谷嘉诚 / 俞灏明
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897295760.jpg" alt="绝地追击">
-</div>
-
----
 ## 燃冬
 **Rating:** 6.2
 **Runtime:** 97分钟
@@ -30,6 +19,17 @@
 **Cast:** 周冬雨 / 刘昊然 / 屈楚萧
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2894025389.jpg" alt="燃冬">
+</div>
+
+---
+## 绝地追击
+**Rating:** 7.2
+**Runtime:** 108分钟
+**Country:** 中国大陆
+**Director:** 邱礼涛
+**Cast:** 欧豪 / 谷嘉诚 / 俞灏明
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897295760.jpg" alt="绝地追击">
 </div>
 
 ---
@@ -121,17 +121,6 @@
 </div>
 
 ---
-## 消失的她
-**Rating:** 6.4
-**Runtime:** 121 分钟
-**Country:** 中国大陆
-**Director:** 崔睿 刘翔
-**Cast:** 朱一龙 / 倪妮 / 文咏珊
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893270877.jpg" alt="消失的她">
-</div>
-
----
 ## 芭比
 **Rating:** 8.3
 **Runtime:** 114分钟
@@ -140,6 +129,17 @@
 **Cast:** 玛格特·罗比 / 瑞恩·高斯林 / 亚美莉卡·费雷拉
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895679456.jpg" alt="芭比">
+</div>
+
+---
+## 消失的她
+**Rating:** 6.4
+**Runtime:** 121 分钟
+**Country:** 中国大陆
+**Director:** 崔睿 刘翔
+**Cast:** 朱一龙 / 倪妮 / 文咏珊
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893270877.jpg" alt="消失的她">
 </div>
 
 ---
@@ -231,17 +231,6 @@
 </div>
 
 ---
-## 茶啊二中
-**Rating:** 7.7
-**Runtime:** 91分钟
-**Country:** 中国大陆
-**Director:** 夏铭泽 阎凯
-**Cast:** 邢原源 / 王博文 / 高禹恒
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895351514.jpg" alt="茶啊二中">
-</div>
-
----
 ## 里奇不眠夜
 **Rating:** 0
 **Runtime:** 97分钟
@@ -253,6 +242,17 @@
 </div>
 
 ---
+## 茶啊二中
+**Rating:** 7.7
+**Runtime:** 91分钟
+**Country:** 中国大陆
+**Director:** 夏铭泽 阎凯
+**Cast:** 邢原源 / 王博文 / 高禹恒
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895351514.jpg" alt="茶啊二中">
+</div>
+
+---
 ## 忍者神龟：变种大乱斗
 **Rating:** 7.1
 **Runtime:** 100分钟
@@ -261,6 +261,17 @@
 **Cast:** 尼古拉斯·坎图 / 布雷迪·诺恩 / 小肖恩·布朗
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895790300.jpg" alt="忍者神龟：变种大乱斗">
+</div>
+
+---
+## 爱犬奇缘
+**Rating:** 0
+**Runtime:** 101分钟
+**Country:** 中国大陆
+**Director:** 陈国辉 夏永康
+**Cast:** 冯绍峰 / 古力娜扎 / 李嘉琦
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896106444.jpg" alt="爱犬奇缘">
 </div>
 
 ---
@@ -283,17 +294,6 @@
 **Cast:** 宋洋 / 张桐 / 谷嘉诚
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2894205295.jpg" alt="觅渡">
-</div>
-
----
-## 爱犬奇缘
-**Rating:** 0
-**Runtime:** 101分钟
-**Country:** 中国大陆
-**Director:** 陈国辉 夏永康
-**Cast:** 冯绍峰 / 古力娜扎 / 李嘉琦
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896106444.jpg" alt="爱犬奇缘">
 </div>
 
 ---
@@ -330,17 +330,6 @@
 </div>
 
 ---
-## 雪域少年
-**Rating:** 0
-**Runtime:** 110分钟
-**Country:** 中国大陆
-**Director:** 路奇
-**Cast:** 张赫 / 刘颐诺  / 刘琮
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896911817.jpg" alt="雪域少年">
-</div>
-
----
 ## 我本少年
 **Rating:** 0
 **Runtime:** 85分钟
@@ -349,6 +338,17 @@
 **Cast:** 姜晨 / 房子斌 / 嘉泽
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895674236.jpg" alt="我本少年">
+</div>
+
+---
+## 雪域少年
+**Rating:** 0
+**Runtime:** 110分钟
+**Country:** 中国大陆
+**Director:** 路奇
+**Cast:** 张赫 / 刘颐诺  / 刘琮
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896911817.jpg" alt="雪域少年">
 </div>
 
 ---
@@ -374,14 +374,14 @@
 </div>
 
 ---
-## 丛林大冒险
-**Rating:** 6.6
-**Runtime:** 81分钟(中国大陆)
-**Country:** 德国
-**Director:** Mimi Maynard Regina Welker Nina Wels
-**Cast:** Ashley Bornancin / Danny Fehsenfeld / Leslie L. Miller
+## 天空之城
+**Rating:** 9.2
+**Runtime:** 125分钟
+**Country:** 日本
+**Director:** 宫崎骏
+**Cast:** 田中真弓 / 横泽启子 / 初井言荣
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2884794796.jpg" alt="丛林大冒险">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892380420.jpg" alt="天空之城">
 </div>
 
 ---
@@ -396,14 +396,14 @@
 </div>
 
 ---
-## 天空之城
-**Rating:** 9.2
-**Runtime:** 125分钟
-**Country:** 日本
-**Director:** 宫崎骏
-**Cast:** 田中真弓 / 横泽启子 / 初井言荣
+## 丛林大冒险
+**Rating:** 6.6
+**Runtime:** 81分钟(中国大陆)
+**Country:** 德国
+**Director:** Mimi Maynard Regina Welker Nina Wels
+**Cast:** Ashley Bornancin / Danny Fehsenfeld / Leslie L. Miller
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892380420.jpg" alt="天空之城">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2884794796.jpg" alt="丛林大冒险">
 </div>
 
 ---
@@ -418,17 +418,6 @@
 </div>
 
 ---
-## 百变马丁：怪兽大作战
-**Rating:** 0
-**Runtime:** 87分钟
-**Country:** 中国大陆
-**Director:** 张天晓
-**Cast:** 姚培华 / 秦紫翼 / 刘方芳
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895602695.jpg" alt="百变马丁：怪兽大作战">
-</div>
-
----
 ## 欢乐丛林之外星人大冒险
 **Rating:** 0
 **Runtime:** 
@@ -440,14 +429,14 @@
 </div>
 
 ---
-## 力量密码
+## 百变马丁：怪兽大作战
 **Rating:** 0
-**Runtime:** 103分钟
+**Runtime:** 87分钟
 **Country:** 中国大陆
-**Director:** 高峰
-**Cast:** 张桐 / 陈都灵 / 白恩
+**Director:** 张天晓
+**Cast:** 姚培华 / 秦紫翼 / 刘方芳
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895602695.jpg" alt="百变马丁：怪兽大作战">
 </div>
 
 ---
@@ -459,6 +448,17 @@
 **Cast:** 陈苏 / 郏捷 / 耿晨晨
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893877455.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
+</div>
+
+---
+## 力量密码
+**Rating:** 0
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 高峰
+**Cast:** 张桐 / 陈都灵 / 白恩
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
 </div>
 
 ---
@@ -495,28 +495,6 @@
 </div>
 
 ---
-## 大熊雨林
-**Rating:** 8.6
-**Runtime:** 41分钟
-**Country:** 加拿大
-**Director:** Ian McAllister
-**Cast:** 瑞安·雷诺兹
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554383112.jpg" alt="大熊雨林">
-</div>
-
----
-## 南太平洋之旅
-**Rating:** 8.2
-**Runtime:** 40分钟
-**Country:** 美国
-**Director:** 格雷戈·迈吉里弗雷 Stephen Judson
-**Cast:** 凯特·布兰切特 / Ferdiel Ballamu / Menas Mambasar
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155676070.jpg" alt="南太平洋之旅">
-</div>
-
----
 ## 你与我和我
 **Rating:** 6.7
 **Runtime:** 121分钟
@@ -528,6 +506,17 @@
 </div>
 
 ---
+## 大熊雨林
+**Rating:** 8.6
+**Runtime:** 41分钟
+**Country:** 加拿大
+**Director:** Ian McAllister
+**Cast:** 瑞安·雷诺兹
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554383112.jpg" alt="大熊雨林">
+</div>
+
+---
 ## 恋爱局中局
 **Rating:** 6.5
 **Runtime:** 127分钟
@@ -536,6 +525,17 @@
 **Cast:** 纳得克·库吉米亚 / 平采娜·乐维瑟派布恩 / 提顶·玛哈由踏纳
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2629407129.jpg" alt="恋爱局中局">
+</div>
+
+---
+## 南太平洋之旅
+**Rating:** 8.2
+**Runtime:** 40分钟
+**Country:** 美国
+**Director:** 格雷戈·迈吉里弗雷 Stephen Judson
+**Cast:** 凯特·布兰切特 / Ferdiel Ballamu / Menas Mambasar
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155676070.jpg" alt="南太平洋之旅">
 </div>
 
 ---
