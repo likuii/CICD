@@ -249,7 +249,7 @@
 **Director:** 郝鸿远
 **Cast:** 贾冰 / 冯文娟 / 常远
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896982360.jpg" alt="踢球吧少年">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897496282.jpg" alt="踢球吧少年">
 </div>
 
 ---
