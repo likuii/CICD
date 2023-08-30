@@ -56,7 +56,7 @@
 
 ---
 ## 我经过风暴
-**Rating:** 7.2
+**Rating:** 7.1
 **Runtime:** 101分钟
 **Country:** 中国大陆
 **Director:** 秦海燕
@@ -660,6 +660,17 @@
 </div>
 
 ---
+## 老师，别哭
+**Rating:** 0
+**Runtime:** 96分钟
+**Country:** 中国大陆
+**Director:** 梁明
+**Cast:** 董钒 / 王浩宇 / 张熙唯
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897396665.jpg" alt="老师，别哭">
+</div>
+
+---
 ## 红色恋人
 **Rating:** 0
 **Runtime:** 98分钟
@@ -679,17 +690,6 @@
 **Cast:** 周冬雨 / 章宇 / 张宥浩
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897277026.jpg" alt="鹦鹉杀">
-</div>
-
----
-## 威尼斯惊魂夜
-**Rating:** 0
-**Runtime:** 103分钟
-**Country:** 美国
-**Director:** 肯尼思·布拉纳
-**Cast:** 肯尼思·布拉纳 / 杨紫琼 / 蒂娜·菲
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896593530.jpg" alt="威尼斯惊魂夜">
 </div>
 
 ---
