@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 奥本海默
-**Rating:** 8.7
+**Rating:** 8.8
 **Runtime:** 180分钟
 **Country:** 美国 英国
 **Director:** 克里斯托弗·诺兰
@@ -478,7 +478,7 @@
 **Runtime:** 88分钟
 **Country:** 中国大陆
 **Director:** 孙立军 吴限
-**Cast:** 董浩 / 苏娜 / 刘纯燕
+**Cast:** 董浩 /  / 刘纯燕
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896225339.jpg" alt="飞向月球">
 </div>
@@ -573,7 +573,7 @@
 
 ---
 ## 长江
-**Rating:** 7.9
+**Rating:** 7.8
 **Runtime:** 50分钟
 **Country:** 中国大陆
 **Director:** 夏骏
@@ -645,7 +645,7 @@
 **Director:** 刘伽茵
 **Cast:** 胡歌 / 吴磊 / 齐溪
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893413208.jpg" alt="不虚此行">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897502151.jpg" alt="不虚此行">
 </div>
 
 ---
