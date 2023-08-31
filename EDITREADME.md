@@ -638,6 +638,17 @@
 </div>
 
 ---
+## 爹地
+**Rating:** 6.5
+**Runtime:** 18分钟
+**Country:** 美国
+**Director:** Christian Coppola
+**Cast:** 朗·瑞弗金 / 迪伦·斯普罗斯 / 库珀·科奇
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2578963026.jpg" alt="爹地">
+</div>
+
+---
 ## 长江
 **Rating:** 7.8
 **Runtime:** 50分钟
