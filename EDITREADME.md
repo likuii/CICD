@@ -418,6 +418,17 @@
 </div>
 
 ---
+## #窨井盖
+**Rating:** 6.4
+**Runtime:** 99分钟
+**Country:** 日本
+**Director:** 熊切和嘉
+**Cast:** 中岛裕翔 / 奈绪 / 永山绚斗
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2879152500.jpg" alt="#窨井盖">
+</div>
+
+---
 ## 欢乐丛林之外星人大冒险
 **Rating:** 0
 **Runtime:** 
@@ -437,6 +448,17 @@
 **Cast:** 姚培华 / 秦紫翼 / 刘方芳
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895602695.jpg" alt="百变马丁：怪兽大作战">
+</div>
+
+---
+## 在公交车站直到黎明
+**Rating:** 6.4
+**Runtime:** 91分钟
+**Country:** 日本
+**Director:** 高桥伴明
+**Cast:** 板谷由夏 / 大西礼芳 / 三浦贵大
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2875219039.jpg" alt="在公交车站直到黎明">
 </div>
 
 ---
@@ -462,6 +484,17 @@
 </div>
 
 ---
+## 世界的阿菊
+**Rating:** 7.9
+**Runtime:** 90分钟
+**Country:** 日本
+**Director:** 阪本顺治
+**Cast:** 黑木华 / 宽一郎 / 池松壮亮
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2887688457.jpg" alt="世界的阿菊">
+</div>
+
+---
 ## 棉花糖和云朵妈妈1宝贝芯计划
 **Rating:** 0
 **Runtime:** 88分钟
@@ -470,6 +503,17 @@
 **Cast:** 陈苏 / 郏捷 / 耿晨晨
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893877455.jpg" alt="棉花糖和云朵妈妈1宝贝芯计划">
+</div>
+
+---
+## 银河铁道999
+**Rating:** 8.2
+**Runtime:** 129分钟
+**Country:** 日本
+**Director:** 林太郎
+**Cast:** 野泽雅子 / 池田昌子 / 麻上洋子
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p551591781.jpg" alt="银河铁道999">
 </div>
 
 ---
@@ -492,6 +536,17 @@
 **Cast:** 格拉帕·格潘 / 拉查楠·玛哈菀 / 帕瓦·吉沙晚迪
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2755967924.jpg" alt="那些年，我们一起追的女孩">
+</div>
+
+---
+## 汤道
+**Rating:** 7.3
+**Runtime:** 126分钟
+**Country:** 日本
+**Director:** 铃木雅之
+**Cast:** 生田斗真 / 滨田岳 / 桥本环奈
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2880246992.jpg" alt="汤道">
 </div>
 
 ---
@@ -569,6 +624,17 @@
 **Cast:** 埃卡瓦·尼拉沃纳潘亚 / 阿帕·芭薇莱 / 宝儿
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568035828.jpg" alt="营救野猪队">
+</div>
+
+---
+## 我痴呆了，请多关照。～欢迎回家，妈妈～
+**Rating:** 0
+**Runtime:** 100分钟
+**Country:** 日本
+**Director:** 信友直子
+**Cast:** 
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2783965604.jpg" alt="我痴呆了，请多关照。～欢迎回家，妈妈～">
 </div>
 
 ---
@@ -689,7 +755,7 @@
 **Director:** 麻赢心
 **Cast:** 周冬雨 / 章宇 / 张宥浩
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897277026.jpg" alt="鹦鹉杀">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897518505.jpg" alt="鹦鹉杀">
 </div>
 
 ---
