@@ -744,7 +744,7 @@
 **Director:** 麻赢心
 **Cast:** 周冬雨 / 章宇 / 张宥浩
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897545195.jpg" alt="鹦鹉杀">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897554264.jpg" alt="鹦鹉杀">
 </div>
 
 ---
