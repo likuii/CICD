@@ -731,7 +731,7 @@
 **Runtime:** 103分钟
 **Country:** 美国
 **Director:** 斯科特·沃
-**Cast:** 杰森·斯坦森 / 50分 / 梅根·福克斯
+**Cast:** 杰森·斯坦森 / 西尔维斯特·史泰龙 / 50分
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897558506.jpg" alt="敢死队4：最终章">
 </div>
