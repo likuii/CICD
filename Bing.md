@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 艾氏煌蜂鸟，圣克鲁斯，加利福尼亚州，美国 (© mallardg500/Getty Images)
+
+![艾氏煌蜂鸟，圣克鲁斯，加利福尼亚州，美国 (© mallardg500/Getty Images)](https://cn.bing.com/th?id=OHR.TinyHummer_ZH-CN9853929957_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E8%89%BE%E6%B0%8F%E7%85%8C%E8%9C%82%E9%B8%9F&form=hpcapt&mkt=zh-cn)
+
 ## 火鸡尾蘑菇，布里瓦德，北卡罗来纳州，美国 (© Bill Gozansky/Alamy Stock Photo)
 
 ![火鸡尾蘑菇，布里瓦德，北卡罗来纳州，美国 (© Bill Gozansky/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.TurkeyTailMush_ZH-CN9683744281_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![城山日出峰，济州岛上的凝灰岩锥，韩国 (© Quynh Anh Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.JejuIsland_ZH-CN8434910851_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E6%B5%8E%E5%B7%9E%E5%B2%9B&form=hpcapt&mkt=zh-cn)
-
-## 柏林大教堂和博物馆岛，柏林，德国 (© Rudy Balasko/Shutterstock)
-
-![柏林大教堂和博物馆岛，柏林，德国 (© Rudy Balasko/Shutterstock)](https://cn.bing.com/th?id=OHR.MuseumIsland_ZH-CN8277258964_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E6%9F%8F%E6%9E%97%E5%8D%9A%E7%89%A9%E9%A6%86%E5%B2%9B&form=hpcapt&mkt=zh-cn)
 
