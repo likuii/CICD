@@ -183,7 +183,7 @@
 **Director:** 李·通坎
 **Cast:** 苏查·玛娜英 / 臧金生 / 苏秋成
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2872187130.jpg" alt="怪兽湖">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888331166.jpg" alt="怪兽湖">
 </div>
 
 ---
