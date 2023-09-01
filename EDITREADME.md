@@ -678,7 +678,7 @@
 **Director:** 李子俊
 **Cast:** 大鹏 / 林家栋 / 张颂文
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897434377.jpg" alt="第八个嫌疑人">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897543922.jpg" alt="第八个嫌疑人">
 </div>
 
 ---
