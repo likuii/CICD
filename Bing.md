@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 曼哈顿鸟瞰图，纽约市，美国 (© Wojtek Zagorski/Getty Images)
+
+![曼哈顿鸟瞰图，纽约市，美国 (© Wojtek Zagorski/Getty Images)](https://cn.bing.com/th?id=OHR.ManhattanAerial_ZH-CN0036686873_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E6%9B%BC%E5%93%88%E9%A1%BF&form=hpcapt&mkt=zh-cn)
+
 ## 艾氏煌蜂鸟，圣克鲁斯，加利福尼亚州，美国 (© mallardg500/Getty Images)
 
 ![艾氏煌蜂鸟，圣克鲁斯，加利福尼亚州，美国 (© mallardg500/Getty Images)](https://cn.bing.com/th?id=OHR.TinyHummer_ZH-CN9853929957_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![洛夫里耶纳克堡，西港，杜布罗夫尼克，克罗地亚 (© Benny Marty/Shutterstock)](https://cn.bing.com/th?id=OHR.DubrovnikHarbor_ZH-CN8590217905_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E6%9D%9C%E5%B8%83%E7%BD%97%E5%A4%AB%E5%B0%BC%E5%85%8B&form=hpcapt&mkt=zh-cn)
-
-## 城山日出峰，济州岛上的凝灰岩锥，韩国 (© Quynh Anh Nguyen/Getty Images)
-
-![城山日出峰，济州岛上的凝灰岩锥，韩国 (© Quynh Anh Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.JejuIsland_ZH-CN8434910851_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E6%B5%8E%E5%B7%9E%E5%B2%9B&form=hpcapt&mkt=zh-cn)
 
