@@ -451,6 +451,17 @@
 </div>
 
 ---
+## 湄公河行动
+**Rating:** 8
+**Runtime:** 124分钟
+**Country:** 中国大陆 中国香港
+**Director:** 林超贤
+**Cast:** 张涵予 / 彭于晏 / 孙淳
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2380677316.jpg" alt="湄公河行动">
+</div>
+
+---
 ## 超级飞侠：乐迪加速
 **Rating:** 6.3
 **Runtime:** 89分钟
@@ -470,6 +481,17 @@
 **Cast:** 姚培华 / 秦紫翼 / 刘方芳
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895602695.jpg" alt="百变马丁：怪兽大作战">
+</div>
+
+---
+## 中国机长
+**Rating:** 6.6
+**Runtime:** 111分钟
+**Country:** 中国大陆
+**Director:** 刘伟强
+**Cast:** 张涵予 / 欧豪 / 杜江
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2568258113.jpg" alt="中国机长">
 </div>
 
 ---
