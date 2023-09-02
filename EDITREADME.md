@@ -12,7 +12,7 @@
 
 ---
 ## GT赛车：极速狂飙
-**Rating:** 0
+**Rating:** 7.4
 **Runtime:** 135分钟
 **Country:** 美国 日本
 **Director:** 尼尔·布洛姆坎普
@@ -67,7 +67,7 @@
 
 ---
 ## 绝地追击
-**Rating:** 7.2
+**Rating:** 7.1
 **Runtime:** 108分钟
 **Country:** 中国大陆
 **Director:** 邱礼涛
@@ -562,7 +562,7 @@
 
 ---
 ## 那些年，我们一起追的女孩
-**Rating:** 0
+**Rating:** 6.9
 **Runtime:** 120分钟
 **Country:** 泰国
 **Director:** Napat Jitweerapat 卡尼萨·坤宇
