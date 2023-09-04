@@ -100,7 +100,7 @@
 
 ---
 ## 最后的真相
-**Rating:** 6.2
+**Rating:** 6.3
 **Runtime:** 112分钟
 **Country:** 中国大陆
 **Director:** 李太阁
@@ -133,7 +133,7 @@
 
 ---
 ## 巨齿鲨2：深渊
-**Rating:** 5.2
+**Rating:** 5.3
 **Runtime:** 119分钟
 **Country:** 美国 中国大陆
 **Director:** 本·维特利 
