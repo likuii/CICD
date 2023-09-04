@@ -451,6 +451,17 @@
 </div>
 
 ---
+## 小黄人大眼萌：神偷奶爸前传
+**Rating:** 7.1
+**Runtime:** 88分钟(中国大陆)
+**Country:** 美国
+**Director:** 凯尔·巴尔达 布拉德·埃布尔森 乔纳森·德尔瓦尔
+**Cast:** 史蒂夫·卡瑞尔 / 皮埃尔·柯芬 / 艾伦·阿金
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2877522569.jpg" alt="小黄人大眼萌：神偷奶爸前传">
+</div>
+
+---
 ## 欢乐丛林之外星人大冒险
 **Rating:** 0
 **Runtime:** 
@@ -613,6 +624,28 @@
 **Cast:** 胡阿祥 / 苏智良 / 王澍
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574476155.jpg" alt="长江">
+</div>
+
+---
+## 棒！少年
+**Rating:** 9
+**Runtime:** 30分钟
+**Country:** 中国大陆
+**Director:** 许慧晶
+**Cast:** 马虎 / 梁正双 / 张锦新
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2672790912.jpg" alt="棒！少年">
+</div>
+
+---
+## 色彩中国
+**Rating:** 0
+**Runtime:** 52
+**Country:** 新西兰
+**Director:** 
+**Cast:** 
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2870533876.jpg" alt="色彩中国">
 </div>
 
 ---
