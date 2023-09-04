@@ -561,6 +561,17 @@
 </div>
 
 ---
+## 这里是亚美子
+**Rating:** 7.3
+**Runtime:** 104分钟
+**Country:** 日本
+**Director:** 森井勇佑
+**Cast:** 大泽一菜 / 井浦新 / 尾野真千子
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2869823107.jpg" alt="这里是亚美子">
+</div>
+
+---
 ## 恋爱局中局
 **Rating:** 6.5
 **Runtime:** 127分钟
