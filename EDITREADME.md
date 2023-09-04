@@ -375,7 +375,7 @@
 
 ---
 ## 丛林大冒险
-**Rating:** 6.6
+**Rating:** 0
 **Runtime:** 81分钟(中国大陆)
 **Country:** 德国
 **Director:** Mimi Maynard Regina Welker Nina Wels
