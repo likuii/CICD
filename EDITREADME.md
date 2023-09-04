@@ -484,6 +484,17 @@
 </div>
 
 ---
+## 末路囧徒
+**Rating:** 0
+**Runtime:** 95分钟
+**Country:** 中国大陆
+**Director:** 刘作涛
+**Cast:** 张磊 / 杨一威 / 曲少石
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897355697.jpg" alt="末路囧徒">
+</div>
+
+---
 ## 力量密码
 **Rating:** 0
 **Runtime:** 103分钟
