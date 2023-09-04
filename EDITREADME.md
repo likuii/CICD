@@ -45,7 +45,7 @@
 
 ---
 ## 意外人生
-**Rating:** 5
+**Rating:** 4.9
 **Runtime:** 87分钟
 **Country:** 中国大陆
 **Director:** 左志国
@@ -133,7 +133,7 @@
 
 ---
 ## 巨齿鲨2：深渊
-**Rating:** 5.4
+**Rating:** 5.3
 **Runtime:** 119分钟
 **Country:** 美国 中国大陆
 **Director:** 本·维特利 
@@ -199,7 +199,7 @@
 
 ---
 ## 超能一家人
-**Rating:** 3.7
+**Rating:** 3.6
 **Runtime:** 113分钟
 **Country:** 中国大陆
 **Director:** 宋阳
