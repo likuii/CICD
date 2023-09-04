@@ -133,7 +133,7 @@
 
 ---
 ## 巨齿鲨2：深渊
-**Rating:** 5.3
+**Rating:** 5.2
 **Runtime:** 119分钟
 **Country:** 美国 中国大陆
 **Director:** 本·维特利 
