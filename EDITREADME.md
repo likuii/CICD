@@ -155,7 +155,7 @@
 
 ---
 ## 消失的她
-**Rating:** 6.4
+**Rating:** 6.3
 **Runtime:** 121 分钟
 **Country:** 中国大陆
 **Director:** 崔睿 刘翔
