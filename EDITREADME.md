@@ -638,6 +638,17 @@
 </div>
 
 ---
+## 草原大作战
+**Rating:** 0
+**Runtime:** 82分钟(中国大陆)
+**Country:** 俄罗斯
+**Director:** Andrey Galat 马克西姆·沃尔科夫
+**Cast:** JB·布兰科 / 汤姆·费尔顿 / 罗斯·马昆德
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2864252833.jpg" alt="草原大作战">
+</div>
+
+---
 ## 长江
 **Rating:** 7.8
 **Runtime:** 50分钟
