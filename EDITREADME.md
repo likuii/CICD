@@ -781,14 +781,14 @@
 </div>
 
 ---
-## 鹦鹉杀
+## 威尼斯惊魂夜
 **Rating:** 0
-**Runtime:** 100分钟
-**Country:** 中国大陆
-**Director:** 麻赢心
-**Cast:** 周冬雨 / 章宇 / 张宥浩
+**Runtime:** 103分钟
+**Country:** 美国
+**Director:** 肯尼思·布拉纳
+**Cast:** 肯尼思·布拉纳 / 杨紫琼 / 蒂娜·菲
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897554264.jpg" alt="鹦鹉杀">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896593530.jpg" alt="威尼斯惊魂夜">
 </div>
 
 ---
