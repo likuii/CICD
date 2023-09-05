@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 威尼斯旧港，克里特岛，希腊 (© Gatsi/Getty Images)
+
+![威尼斯旧港，克里特岛，希腊 (© Gatsi/Getty Images)](https://cn.bing.com/th?id=OHR.CreteHarbor_ZH-CN0937533372_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%B8%8C%E8%85%8A%E5%85%8B%E9%87%8C%E7%89%B9%E5%B2%9B&form=hpcapt&mkt=zh-cn)
+
 ## 塞格拉山，塞尼亚岛，挪威 (© imageBROKER/Moritz Wolf/Getty Images)
 
 ![塞格拉山，塞尼亚岛，挪威 (© imageBROKER/Moritz Wolf/Getty Images)](https://cn.bing.com/th?id=OHR.MountSegla_ZH-CN0758615745_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![巨人柱，铁木森林国家纪念地，亚利桑那州，美国 (© Jack Dykinga/Minden Pictures)](https://cn.bing.com/th?id=OHR.IronwoodCactus_ZH-CN9290037977_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%B7%A8%E4%BA%BA%E6%9F%B1&form=hpcapt&mkt=zh-cn)
-
-## 鲸鲨，宁加洛珊瑚礁，西澳大利亚 (© Jason Edwards/Getty Images)
-
-![鲸鲨，宁加洛珊瑚礁，西澳大利亚 (© Jason Edwards/Getty Images)](https://cn.bing.com/th?id=OHR.NingalooShark_ZH-CN9014712175_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E9%B2%B8%E9%B2%A8&form=hpcapt&mkt=zh-cn)
 
