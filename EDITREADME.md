@@ -77,6 +77,17 @@
 </div>
 
 ---
+## 芭比
+**Rating:** 8.2
+**Runtime:** 114分钟
+**Country:** 加拿大 美国
+**Director:** 格蕾塔·葛韦格
+**Cast:** 玛格特·罗比 / 瑞恩·高斯林 / 亚美莉卡·费雷拉
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895679456.jpg" alt="芭比">
+</div>
+
+---
 ## 绝地追击
 **Rating:** 7.1
 **Runtime:** 108分钟
@@ -107,17 +118,6 @@
 **Cast:** 黄晓明 / 闫妮 / 涂们
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895530144.jpg" alt="最后的真相">
-</div>
-
----
-## 芭比
-**Rating:** 8.3
-**Runtime:** 114分钟
-**Country:** 加拿大 美国
-**Director:** 格蕾塔·葛韦格
-**Cast:** 玛格特·罗比 / 瑞恩·高斯林 / 亚美莉卡·费雷拉
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895679456.jpg" alt="芭比">
 </div>
 
 ---
@@ -154,17 +154,6 @@
 </div>
 
 ---
-## 消失的她
-**Rating:** 6.3
-**Runtime:** 121 分钟
-**Country:** 中国大陆
-**Director:** 崔睿 刘翔
-**Cast:** 朱一龙 / 倪妮 / 文咏珊
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893270877.jpg" alt="消失的她">
-</div>
-
----
 ## 热烈
 **Rating:** 7.2
 **Runtime:** 124分钟
@@ -173,6 +162,17 @@
 **Cast:** 黄渤 / 王一博 / 刘敏涛
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895553074.jpg" alt="热烈">
+</div>
+
+---
+## 消失的她
+**Rating:** 6.3
+**Runtime:** 121 分钟
+**Country:** 中国大陆
+**Director:** 崔睿 刘翔
+**Cast:** 朱一龙 / 倪妮 / 文咏珊
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893270877.jpg" alt="消失的她">
 </div>
 
 ---
@@ -220,17 +220,6 @@
 </div>
 
 ---
-## 长安三万里
-**Rating:** 8.3
-**Runtime:** 168分钟
-**Country:** 中国大陆
-**Director:** 谢君伟 邹靖
-**Cast:** 杨天翔 / 凌振赫 / 吴俊全
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893820209.jpg" alt="长安三万里">
-</div>
-
----
 ## 看不见的他们
 **Rating:** 0
 **Runtime:** 88分钟
@@ -239,17 +228,6 @@
 **Cast:** 和佳蓉 / 毛凡 / 陈晓霞
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2895989952.jpg" alt="看不见的他们">
-</div>
-
----
-## 奇迹少女
-**Rating:** 5.3
-**Runtime:** 105分钟
-**Country:** 法国
-**Director:** 杰里米·扎格
-**Cast:** 克里斯蒂娜·瓦伦苏埃拉 / 布莱斯·峇本布鲁克 / 泽诺·罗宾逊
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896104354.jpg" alt="奇迹少女">
 </div>
 
 ---
@@ -264,6 +242,17 @@
 </div>
 
 ---
+## 长安三万里
+**Rating:** 8.3
+**Runtime:** 168分钟
+**Country:** 中国大陆
+**Director:** 谢君伟 邹靖
+**Cast:** 杨天翔 / 凌振赫 / 吴俊全
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893820209.jpg" alt="长安三万里">
+</div>
+
+---
 ## 里奇不眠夜
 **Rating:** 0
 **Runtime:** 97分钟
@@ -272,6 +261,28 @@
 **Cast:** 高雨儿 / 李子峰 / 戴娇倩
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896523093.jpg" alt="里奇不眠夜">
+</div>
+
+---
+## 觅渡
+**Rating:** 0
+**Runtime:** 120分钟
+**Country:** 中国大陆
+**Director:** 宁敬武
+**Cast:** 宋洋 / 张桐 / 谷嘉诚
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2894205295.jpg" alt="觅渡">
+</div>
+
+---
+## 奇迹少女
+**Rating:** 5.3
+**Runtime:** 105分钟
+**Country:** 法国
+**Director:** 杰里米·扎格
+**Cast:** 克里斯蒂娜·瓦伦苏埃拉 / 布莱斯·峇本布鲁克 / 泽诺·罗宾逊
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896104354.jpg" alt="奇迹少女">
 </div>
 
 ---
@@ -297,17 +308,6 @@
 </div>
 
 ---
-## 变形金刚：超能勇士崛起
-**Rating:** 5.9
-**Runtime:** 128分钟(中国大陆)
-**Country:** 美国
-**Director:** 小斯蒂芬·卡普尔
-**Cast:** 安东尼·拉莫斯 / 多米尼克·菲什巴克 / 彼特·库伦
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892024245.jpg" alt="变形金刚：超能勇士崛起">
-</div>
-
----
 ## 雪豹和她的朋友们
 **Rating:** 8.3
 **Runtime:** 85分钟
@@ -319,14 +319,14 @@
 </div>
 
 ---
-## 最遗憾是错过你
-**Rating:** 4.8
-**Runtime:** 115分钟
-**Country:** 中国台湾
-**Director:** 詹馥华
-**Cast:** 连晨翔 / 吴子霏 / 周予天
+## 变形金刚：超能勇士崛起
+**Rating:** 5.9
+**Runtime:** 128分钟(中国大陆)
+**Country:** 美国
+**Director:** 小斯蒂芬·卡普尔
+**Cast:** 安东尼·拉莫斯 / 多米尼克·菲什巴克 / 彼特·库伦
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886365839.jpg" alt="最遗憾是错过你">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892024245.jpg" alt="变形金刚：超能勇士崛起">
 </div>
 
 ---
@@ -341,14 +341,14 @@
 </div>
 
 ---
-## 觅渡
-**Rating:** 0
-**Runtime:** 120分钟
-**Country:** 中国大陆
-**Director:** 宁敬武
-**Cast:** 宋洋 / 张桐 / 谷嘉诚
+## 最遗憾是错过你
+**Rating:** 4.8
+**Runtime:** 115分钟
+**Country:** 中国台湾
+**Director:** 詹馥华
+**Cast:** 连晨翔 / 吴子霏 / 周予天
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2894205295.jpg" alt="觅渡">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886365839.jpg" alt="最遗憾是错过你">
 </div>
 
 ---
@@ -374,14 +374,14 @@
 </div>
 
 ---
-## 丛林大冒险
+## 雪域少年
 **Rating:** 0
-**Runtime:** 81分钟(中国大陆)
-**Country:** 德国
-**Director:** Mimi Maynard Regina Welker Nina Wels
-**Cast:** Ashley Bornancin / Danny Fehsenfeld / Leslie L. Miller
+**Runtime:** 110分钟
+**Country:** 中国大陆
+**Director:** 路奇
+**Cast:** 张赫 / 刘颐诺  / 刘琮
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2884794796.jpg" alt="丛林大冒险">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896911817.jpg" alt="雪域少年">
 </div>
 
 ---
@@ -407,14 +407,14 @@
 </div>
 
 ---
-## 雪域少年
+## 丛林大冒险
 **Rating:** 0
-**Runtime:** 110分钟
-**Country:** 中国大陆
-**Director:** 路奇
-**Cast:** 张赫 / 刘颐诺  / 刘琮
+**Runtime:** 81分钟(中国大陆)
+**Country:** 德国
+**Director:** Mimi Maynard Regina Welker Nina Wels
+**Cast:** Ashley Bornancin / Danny Fehsenfeld / Leslie L. Miller
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896911817.jpg" alt="雪域少年">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2884794796.jpg" alt="丛林大冒险">
 </div>
 
 ---
@@ -451,6 +451,17 @@
 </div>
 
 ---
+## 末路囧徒
+**Rating:** 0
+**Runtime:** 95分钟
+**Country:** 中国大陆
+**Director:** 刘作涛
+**Cast:** 张磊 / 杨一威 / 曲少石
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897355697.jpg" alt="末路囧徒">
+</div>
+
+---
 ## 超级飞侠：乐迪加速
 **Rating:** 6.3
 **Runtime:** 89分钟
@@ -481,17 +492,6 @@
 **Cast:** 板谷由夏 / 大西礼芳 / 三浦贵大
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2875219039.jpg" alt="在公交车站直到黎明">
-</div>
-
----
-## 末路囧徒
-**Rating:** 0
-**Runtime:** 95分钟
-**Country:** 中国大陆
-**Director:** 刘作涛
-**Cast:** 张磊 / 杨一威 / 曲少石
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897355697.jpg" alt="末路囧徒">
 </div>
 
 ---
@@ -550,6 +550,39 @@
 </div>
 
 ---
+## 恋爱局中局
+**Rating:** 6.5
+**Runtime:** 127分钟
+**Country:** 泰国
+**Director:** 梅兹·塔拉
+**Cast:** 纳得克·库吉米亚 / 平采娜·乐维瑟派布恩 / 提顶·玛哈由踏纳
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2629407129.jpg" alt="恋爱局中局">
+</div>
+
+---
+## 这里是亚美子
+**Rating:** 7.3
+**Runtime:** 104分钟
+**Country:** 日本
+**Director:** 森井勇佑
+**Cast:** 大泽一菜 / 井浦新 / 尾野真千子
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2869823107.jpg" alt="这里是亚美子">
+</div>
+
+---
+## 汤道
+**Rating:** 7.2
+**Runtime:** 126分钟
+**Country:** 日本
+**Director:** 铃木雅之
+**Cast:** 生田斗真 / 滨田岳 / 桥本环奈
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2880246992.jpg" alt="汤道">
+</div>
+
+---
 ## 你与我和我
 **Rating:** 6.7
 **Runtime:** 121分钟
@@ -569,39 +602,6 @@
 **Cast:** 塔纳瓦特·瓦塔纳普迪 / 蓝妮·卡彭 / 帕瑞斯·因塔拉科玛亚苏特
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2881567102.jpg" alt="天生一对">
-</div>
-
----
-## 汤道
-**Rating:** 7.2
-**Runtime:** 126分钟
-**Country:** 日本
-**Director:** 铃木雅之
-**Cast:** 生田斗真 / 滨田岳 / 桥本环奈
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2880246992.jpg" alt="汤道">
-</div>
-
----
-## 这里是亚美子
-**Rating:** 7.3
-**Runtime:** 104分钟
-**Country:** 日本
-**Director:** 森井勇佑
-**Cast:** 大泽一菜 / 井浦新 / 尾野真千子
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2869823107.jpg" alt="这里是亚美子">
-</div>
-
----
-## 恋爱局中局
-**Rating:** 6.5
-**Runtime:** 127分钟
-**Country:** 泰国
-**Director:** 梅兹·塔拉
-**Cast:** 纳得克·库吉米亚 / 平采娜·乐维瑟派布恩 / 提顶·玛哈由踏纳
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2629407129.jpg" alt="恋爱局中局">
 </div>
 
 ---
