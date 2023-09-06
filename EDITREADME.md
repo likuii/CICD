@@ -495,6 +495,17 @@
 </div>
 
 ---
+## 扒手
+**Rating:** 8.3
+**Runtime:** 75分钟
+**Country:** 法国
+**Director:** 罗伯特·布列松
+**Cast:** 马丁·拉萨尔 / 玛莉卡·格林 / Jean Pélégri
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1716876999.jpg" alt="扒手">
+</div>
+
+---
 ## 那些年，我们一起追的女孩
 **Rating:** 7
 **Runtime:** 120分钟
@@ -561,6 +572,17 @@
 </div>
 
 ---
+## 钱
+**Rating:** 6.8
+**Runtime:** 115分钟
+**Country:** 韩国
+**Director:** 朴世上
+**Cast:** 柳俊烈 / 刘智泰 / 赵祐镇
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2548832210.jpg" alt="钱">
+</div>
+
+---
 ## 欢乐丛林之外星人大冒险
 **Rating:** 0
 **Runtime:** 
@@ -594,6 +616,17 @@
 </div>
 
 ---
+## 穆谢特
+**Rating:** 8.5
+**Runtime:** 81分钟
+**Country:** 法国
+**Director:** 罗伯特·布列松
+**Cast:** 娜丁·诺蒂尔 / Jean-Claude Guilbert / Marie Cardinal
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1710495655.jpg" alt="穆谢特">
+</div>
+
+---
 ## 天生一对
 **Rating:** 7
 **Runtime:** 166分钟
@@ -602,6 +635,28 @@
 **Cast:** 塔纳瓦特·瓦塔纳普迪 / 蓝妮·卡彭 / 帕瑞斯·因塔拉科玛亚苏特
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2881567102.jpg" alt="天生一对">
+</div>
+
+---
+## 驴子巴特萨
+**Rating:** 8.3
+**Runtime:** 95分钟
+**Country:** 法国 瑞典
+**Director:** 罗伯特·布列松
+**Cast:** 安妮·维亚泽姆斯基 / Walter Green / François Lafarge
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1370491619.jpg" alt="驴子巴特萨">
+</div>
+
+---
+## 女收藏家
+**Rating:** 7.8
+**Runtime:** 89分钟
+**Country:** 法国
+**Director:** 埃里克·侯麦
+**Cast:** 帕特里克·波查 / 哈蒂·波丽托弗 / 丹尼尔·波默勒尔
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2203519387.jpg" alt="女收藏家">
 </div>
 
 ---
@@ -627,6 +682,17 @@
 </div>
 
 ---
+## 圣女贞德的审判
+**Rating:** 7.9
+**Runtime:** 65分钟
+**Country:** 法国
+**Director:** 罗伯特·布列松
+**Cast:** 弗洛朗丝·德莱 / 让-克洛德·富尔诺 / Roger Honorat
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1717618180.jpg" alt="圣女贞德的审判">
+</div>
+
+---
 ## 草原大作战
 **Rating:** 0
 **Runtime:** 82分钟(中国大陆)
@@ -646,6 +712,28 @@
 **Cast:** 胡阿祥 / 苏智良 / 王澍
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574476155.jpg" alt="长江">
+</div>
+
+---
+## 南太平洋之旅
+**Rating:** 8.2
+**Runtime:** 40分钟
+**Country:** 美国
+**Director:** 格雷戈·迈吉里弗雷 Stephen Judson
+**Cast:** 凯特·布兰切特 / Ferdiel Ballamu / Menas Mambasar
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155676070.jpg" alt="南太平洋之旅">
+</div>
+
+---
+## 大熊雨林
+**Rating:** 8.6
+**Runtime:** 41分钟
+**Country:** 加拿大
+**Director:** Ian McAllister
+**Cast:** 瑞安·雷诺兹
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554383112.jpg" alt="大熊雨林">
 </div>
 
 ---
