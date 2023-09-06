@@ -12,7 +12,7 @@
 
 ---
 ## GT赛车：极速狂飙
-**Rating:** 7.3
+**Rating:** 7.4
 **Runtime:** 135分钟
 **Country:** 美国 日本
 **Director:** 尼尔·布洛姆坎普
@@ -45,7 +45,7 @@
 
 ---
 ## 意外人生
-**Rating:** 4.8
+**Rating:** 4.7
 **Runtime:** 87分钟
 **Country:** 中国大陆
 **Director:** 左志国
