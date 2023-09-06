@@ -507,7 +507,7 @@
 
 ---
 ## 世界的阿菊
-**Rating:** 7.9
+**Rating:** 7.8
 **Runtime:** 90分钟
 **Country:** 日本
 **Director:** 阪本顺治
