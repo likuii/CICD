@@ -331,7 +331,7 @@
 
 ---
 ## 雪豹和她的朋友们
-**Rating:** 8.3
+**Rating:** 8.4
 **Runtime:** 85分钟
 **Country:** 中国大陆
 **Director:** 奚志农
