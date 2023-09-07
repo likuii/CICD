@@ -605,6 +605,17 @@
 </div>
 
 ---
+## 此生有约
+**Rating:** 0
+**Runtime:** 95分钟
+**Country:** 中国大陆
+**Director:** 杨涧华
+**Cast:** 王键桥 / 于华 / 徐少武
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893475550.jpg" alt="此生有约">
+</div>
+
+---
 ## 欢乐丛林之外星人大冒险
 **Rating:** 0
 **Runtime:** 
