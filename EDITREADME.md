@@ -396,6 +396,17 @@
 </div>
 
 ---
+## 王牌二哈
+**Rating:** 0
+**Runtime:** 93分钟
+**Country:** 中国大陆
+**Director:** 曾元俊
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892957868.jpg" alt="王牌二哈">
+</div>
+
+---
 ## 丛林大冒险
 **Rating:** 0
 **Runtime:** 81分钟(中国大陆)
