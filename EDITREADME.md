@@ -320,7 +320,7 @@
 
 ---
 ## 雪豹和她的朋友们
-**Rating:** 8.3
+**Rating:** 8.4
 **Runtime:** 85分钟
 **Country:** 中国大陆
 **Director:** 奚志农
@@ -353,7 +353,7 @@
 
 ---
 ## 最遗憾是错过你
-**Rating:** 4.8
+**Rating:** 4.9
 **Runtime:** 115分钟
 **Country:** 中国台湾
 **Director:** 詹馥华
