@@ -628,7 +628,7 @@
 
 ---
 ## 那些年，我们一起追的女孩
-**Rating:** 7.1
+**Rating:** 7
 **Runtime:** 120分钟
 **Country:** 泰国
 **Director:** Napat Jitweerapat 卡尼萨·坤宇
@@ -825,6 +825,17 @@
 </div>
 
 ---
+## 青木劫
+**Rating:** 0
+**Runtime:** 86分钟
+**Country:** 中国大陆
+**Director:** 一水
+**Cast:** 赵帅 / 葛昊 / 曹高波
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896553323.jpg" alt="青木劫">
+</div>
+
+---
 ## 红色恋人
 **Rating:** 0
 **Runtime:** 98分钟
@@ -877,17 +888,6 @@
 **Cast:** 周冬雨 / 章宇 / 张宥浩
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897518505.jpg" alt="鹦鹉杀">
-</div>
-
----
-## 速度与爱情
-**Rating:** 0
-**Runtime:** 132分钟
-**Country:** 泰国
-**Director:** 纳瓦彭·坦荣瓜塔纳利
-**Cast:** 纳特·奇查理 / 乌拉萨雅·斯帕邦德 / 阿努萨拉·科萨普汗
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896964458.jpg" alt="速度与爱情">
 </div>
 
 ---
