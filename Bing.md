@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 斯瓦尔巴群岛海上的一对海象，挪威 (© Mark Smith/Getty Images)
+
+![斯瓦尔巴群岛海上的一对海象，挪威 (© Mark Smith/Getty Images)](https://cn.bing.com/th?id=OHR.WalrusSvalbard_ZH-CN6343458320_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E7%A5%96%E7%88%B6%E6%AF%8D%E8%8A%82&form=hpcapt&mkt=zh-cn)
+
 ## 大城府历史公园的柴瓦塔那兰寺，泰国 (© Weerasak Saeku/Getty Images)
 
 ![大城府历史公园的柴瓦塔那兰寺，泰国 (© Weerasak Saeku/Getty Images)](https://cn.bing.com/th?id=OHR.AyutthayaTemple_ZH-CN5996587937_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![布尔日的沼泽，法国 (© Tuul & Bruno Morandi/Getty Images)](https://cn.bing.com/th?id=OHR.BourgesMarsh_ZH-CN0505354655_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%B8%83%E5%B0%94%E6%97%A5&form=hpcapt&mkt=zh-cn)
-
-## 曼哈顿鸟瞰图，纽约市，美国 (© Wojtek Zagorski/Getty Images)
-
-![曼哈顿鸟瞰图，纽约市，美国 (© Wojtek Zagorski/Getty Images)](https://cn.bing.com/th?id=OHR.ManhattanAerial_ZH-CN0036686873_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E6%9B%BC%E5%93%88%E9%A1%BF&form=hpcapt&mkt=zh-cn)
 
