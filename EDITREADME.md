@@ -1,5 +1,16 @@
 # Douban Currently Playing Movies
 
+## 永安镇故事集
+**Rating:** 7.7
+**Runtime:** 123分钟
+**Country:** 中国大陆
+**Director:** 魏书钧
+**Cast:** 杨子姗 / 黄米依 / 刘洋
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897670329.jpg" alt="永安镇故事集">
+</div>
+
+---
 ## 奥本海默
 **Rating:** 8.8
 **Runtime:** 180分钟
@@ -77,17 +88,6 @@
 </div>
 
 ---
-## 永安镇故事集
-**Rating:** 7.7
-**Runtime:** 123分钟
-**Country:** 中国大陆
-**Director:** 魏书钧
-**Cast:** 杨子姗 / 黄米依 / 刘洋
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897670329.jpg" alt="永安镇故事集">
-</div>
-
----
 ## 意外人生
 **Rating:** 4.7
 **Runtime:** 87分钟
@@ -96,17 +96,6 @@
 **Cast:** 吴镇宇 / 任素汐 / 李康生
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896823833.jpg" alt="意外人生">
-</div>
-
----
-## 燃冬
-**Rating:** 6.1
-**Runtime:** 97分钟
-**Country:** 中国大陆
-**Director:** 陈哲艺
-**Cast:** 周冬雨 / 刘昊然 / 屈楚萧
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2894025389.jpg" alt="燃冬">
 </div>
 
 ---
@@ -121,14 +110,14 @@
 </div>
 
 ---
-## 我经过风暴
-**Rating:** 7.1
-**Runtime:** 101分钟
+## 燃冬
+**Rating:** 6.1
+**Runtime:** 97分钟
 **Country:** 中国大陆
-**Director:** 秦海燕
-**Cast:** 佟丽娅 / 吴昱翰 / 王影璐
+**Director:** 陈哲艺
+**Cast:** 周冬雨 / 刘昊然 / 屈楚萧
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896816460.jpg" alt="我经过风暴">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2894025389.jpg" alt="燃冬">
 </div>
 
 ---
@@ -165,14 +154,25 @@
 </div>
 
 ---
-## 最后的真相
-**Rating:** 6.3
-**Runtime:** 112分钟
+## 我经过风暴
+**Rating:** 7.1
+**Runtime:** 101分钟
 **Country:** 中国大陆
-**Director:** 李太阁
-**Cast:** 黄晓明 / 闫妮 / 涂们
+**Director:** 秦海燕
+**Cast:** 佟丽娅 / 吴昱翰 / 王影璐
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895530144.jpg" alt="最后的真相">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896816460.jpg" alt="我经过风暴">
+</div>
+
+---
+## 八角笼中
+**Rating:** 7.5
+**Runtime:** 117分钟
+**Country:** 中国大陆
+**Director:** 王宝强
+**Cast:** 王宝强 / 陈永胜 / 史彭元
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893476407.jpg" alt="八角笼中">
 </div>
 
 ---
@@ -184,6 +184,17 @@
 **Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
+</div>
+
+---
+## 最后的真相
+**Rating:** 6.3
+**Runtime:** 112分钟
+**Country:** 中国大陆
+**Director:** 李太阁
+**Cast:** 黄晓明 / 闫妮 / 涂们
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895530144.jpg" alt="最后的真相">
 </div>
 
 ---
@@ -231,17 +242,6 @@
 </div>
 
 ---
-## 念念相忘
-**Rating:** 6.7
-**Runtime:** 103分钟
-**Country:** 中国大陆
-**Director:** 刘雨霖
-**Cast:** 刘浩存 / 宋威龙 / 卜冠今
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896873968.jpg" alt="念念相忘">
-</div>
-
----
 ## 踢球吧少年
 **Rating:** 0
 **Runtime:** 91分钟
@@ -250,6 +250,17 @@
 **Cast:** 贾冰 / 冯文娟 / 常远
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897496282.jpg" alt="踢球吧少年">
+</div>
+
+---
+## 念念相忘
+**Rating:** 6.7
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 刘雨霖
+**Cast:** 刘浩存 / 宋威龙 / 卜冠今
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896873968.jpg" alt="念念相忘">
 </div>
 
 ---
@@ -264,36 +275,14 @@
 </div>
 
 ---
-## 看不见的他们
+## 青木劫
 **Rating:** 0
-**Runtime:** 88分钟
+**Runtime:** 86分钟
 **Country:** 中国大陆
-**Director:** 李飞
-**Cast:** 和佳蓉 / 毛凡 / 陈晓霞
+**Director:** 一水
+**Cast:** 赵帅 / 葛昊 / 曹高波
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2895989952.jpg" alt="看不见的他们">
-</div>
-
----
-## 八角笼中
-**Rating:** 7.5
-**Runtime:** 117分钟
-**Country:** 中国大陆
-**Director:** 王宝强
-**Cast:** 王宝强 / 陈永胜 / 史彭元
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893476407.jpg" alt="八角笼中">
-</div>
-
----
-## 觅渡
-**Rating:** 0
-**Runtime:** 120分钟
-**Country:** 中国大陆
-**Director:** 宁敬武
-**Cast:** 宋洋 / 张桐 / 谷嘉诚
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2894205295.jpg" alt="觅渡">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896553323.jpg" alt="青木劫">
 </div>
 
 ---
@@ -308,14 +297,25 @@
 </div>
 
 ---
-## 碟中谍7：致命清算（上）
-**Rating:** 7.8
-**Runtime:** 164分钟
-**Country:** 美国
-**Director:** 克里斯托弗·麦奎里
-**Cast:** 汤姆·克鲁斯 / 海莉·阿特维尔 / 文·瑞姆斯
+## 看不见的他们
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 李飞
+**Cast:** 和佳蓉 / 毛凡 / 陈晓霞
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893481084.jpg" alt="碟中谍7：致命清算（上）">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2895989952.jpg" alt="看不见的他们">
+</div>
+
+---
+## 觅渡
+**Rating:** 0
+**Runtime:** 120分钟
+**Country:** 中国大陆
+**Director:** 宁敬武
+**Cast:** 宋洋 / 张桐 / 谷嘉诚
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2894205295.jpg" alt="觅渡">
 </div>
 
 ---
@@ -330,6 +330,17 @@
 </div>
 
 ---
+## 碟中谍7：致命清算（上）
+**Rating:** 7.8
+**Runtime:** 164分钟
+**Country:** 美国
+**Director:** 克里斯托弗·麦奎里
+**Cast:** 汤姆·克鲁斯 / 海莉·阿特维尔 / 文·瑞姆斯
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893481084.jpg" alt="碟中谍7：致命清算（上）">
+</div>
+
+---
 ## 奇迹少女
 **Rating:** 5.3
 **Runtime:** 105分钟
@@ -338,17 +349,6 @@
 **Cast:** 克里斯蒂娜·瓦伦苏埃拉 / 布莱斯·峇本布鲁克 / 泽诺·罗宾逊
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896104354.jpg" alt="奇迹少女">
-</div>
-
----
-## 爱犬奇缘
-**Rating:** 0
-**Runtime:** 101分钟
-**Country:** 中国大陆
-**Director:** 陈国辉 夏永康
-**Cast:** 冯绍峰 / 古力娜扎 / 李嘉琦
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896106444.jpg" alt="爱犬奇缘">
 </div>
 
 ---
@@ -385,6 +385,39 @@
 </div>
 
 ---
+## 爱犬奇缘
+**Rating:** 0
+**Runtime:** 101分钟
+**Country:** 中国大陆
+**Director:** 陈国辉 夏永康
+**Cast:** 冯绍峰 / 古力娜扎 / 李嘉琦
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896106444.jpg" alt="爱犬奇缘">
+</div>
+
+---
+## 邻里邻医
+**Rating:** 0
+**Runtime:** 90分钟
+**Country:** 中国大陆
+**Director:** 张海舰
+**Cast:** 何达 / 罗京民 / 昌隆
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897775611.jpg" alt="邻里邻医">
+</div>
+
+---
+## #窨井盖
+**Rating:** 6.4
+**Runtime:** 99分钟
+**Country:** 日本
+**Director:** 熊切和嘉
+**Cast:** 中岛裕翔 / 奈绪 / 永山绚斗
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2879152500.jpg" alt="#窨井盖">
+</div>
+
+---
 ## 忠爱无言2
 **Rating:** 0
 **Runtime:** 103分钟
@@ -393,28 +426,6 @@
 **Cast:** 七福 / 张浩庭 / 金巧巧
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897396583.jpg" alt="忠爱无言2">
-</div>
-
----
-## 青木劫
-**Rating:** 0
-**Runtime:** 86分钟
-**Country:** 中国大陆
-**Director:** 一水
-**Cast:** 赵帅 / 葛昊 / 曹高波
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896553323.jpg" alt="青木劫">
-</div>
-
----
-## 我本少年
-**Rating:** 0
-**Runtime:** 85分钟
-**Country:** 中国大陆
-**Director:** 白铭健 吴吞
-**Cast:** 姜晨 / 房子斌 / 嘉泽
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895674236.jpg" alt="我本少年">
 </div>
 
 ---
@@ -429,17 +440,6 @@
 </div>
 
 ---
-## 王牌二哈
-**Rating:** 0
-**Runtime:** 93分钟
-**Country:** 中国大陆
-**Director:** 曾元俊
-**Cast:** 
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892957868.jpg" alt="王牌二哈">
-</div>
-
----
 ## 丛林大冒险
 **Rating:** 0
 **Runtime:** 81分钟(中国大陆)
@@ -451,14 +451,25 @@
 </div>
 
 ---
-## #窨井盖
-**Rating:** 6.4
-**Runtime:** 99分钟
-**Country:** 日本
-**Director:** 熊切和嘉
-**Cast:** 中岛裕翔 / 奈绪 / 永山绚斗
+## 王牌二哈
+**Rating:** 0
+**Runtime:** 93分钟
+**Country:** 中国大陆
+**Director:** 曾元俊
+**Cast:** 
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2879152500.jpg" alt="#窨井盖">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892957868.jpg" alt="王牌二哈">
+</div>
+
+---
+## 我本少年
+**Rating:** 0
+**Runtime:** 85分钟
+**Country:** 中国大陆
+**Director:** 白铭健 吴吞
+**Cast:** 姜晨 / 房子斌 / 嘉泽
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895674236.jpg" alt="我本少年">
 </div>
 
 ---
@@ -484,17 +495,6 @@
 </div>
 
 ---
-## 在公交车站直到黎明
-**Rating:** 6.4
-**Runtime:** 91分钟
-**Country:** 日本
-**Director:** 高桥伴明
-**Cast:** 板谷由夏 / 大西礼芳 / 三浦贵大
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2875219039.jpg" alt="在公交车站直到黎明">
-</div>
-
----
 ## 小黄人大眼萌：神偷奶爸前传
 **Rating:** 7.1
 **Runtime:** 88分钟(中国大陆)
@@ -503,39 +503,6 @@
 **Cast:** 史蒂夫·卡瑞尔 / 皮埃尔·柯芬 / 艾伦·阿金
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2877522569.jpg" alt="小黄人大眼萌：神偷奶爸前传">
-</div>
-
----
-## 扒手
-**Rating:** 8.3
-**Runtime:** 75分钟
-**Country:** 法国
-**Director:** 罗伯特·布列松
-**Cast:** 马丁·拉萨尔 / 玛莉卡·格林 / Jean Pélégri
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1716876999.jpg" alt="扒手">
-</div>
-
----
-## 力量密码
-**Rating:** 0
-**Runtime:** 103分钟
-**Country:** 中国大陆
-**Director:** 高峰
-**Cast:** 张桐 / 陈都灵 / 白恩
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
-</div>
-
----
-## 欢乐好声音
-**Rating:** 8.1
-**Runtime:** 108分钟
-**Country:** 美国
-**Director:** 加斯·詹宁斯 克里斯托夫·卢尔德莱
-**Cast:** 马修·麦康纳 / 瑞茜·威瑟斯彭 / 塞思·麦克法兰
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2411622136.jpg" alt="欢乐好声音">
 </div>
 
 ---
@@ -550,14 +517,14 @@
 </div>
 
 ---
-## 邻里邻医
-**Rating:** 0
-**Runtime:** 90分钟
-**Country:** 中国大陆
-**Director:** 张海舰
-**Cast:** 何达 / 罗京民 / 昌隆
+## 欢乐好声音
+**Rating:** 8.1
+**Runtime:** 108分钟
+**Country:** 美国
+**Director:** 加斯·詹宁斯 克里斯托夫·卢尔德莱
+**Cast:** 马修·麦康纳 / 瑞茜·威瑟斯彭 / 塞思·麦克法兰
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897775611.jpg" alt="邻里邻医">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2411622136.jpg" alt="欢乐好声音">
 </div>
 
 ---
@@ -569,6 +536,50 @@
 **Cast:** 张嘉骐 / 吴若萱  / 何沛祺
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893886888.jpg" alt="超级飞侠：乐迪加速">
+</div>
+
+---
+## 扒手
+**Rating:** 8.3
+**Runtime:** 75分钟
+**Country:** 法国
+**Director:** 罗伯特·布列松
+**Cast:** 马丁·拉萨尔 / 玛莉卡·格林 / Jean Pélégri
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1716876999.jpg" alt="扒手">
+</div>
+
+---
+## 在公交车站直到黎明
+**Rating:** 6.4
+**Runtime:** 91分钟
+**Country:** 日本
+**Director:** 高桥伴明
+**Cast:** 板谷由夏 / 大西礼芳 / 三浦贵大
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2875219039.jpg" alt="在公交车站直到黎明">
+</div>
+
+---
+## 力量密码
+**Rating:** 0
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 高峰
+**Cast:** 张桐 / 陈都灵 / 白恩
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892805090.jpg" alt="力量密码">
+</div>
+
+---
+## 世界的阿菊
+**Rating:** 7.8
+**Runtime:** 90分钟
+**Country:** 日本
+**Director:** 阪本顺治
+**Cast:** 黑木华 / 宽一郎 / 池松壮亮
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2887688457.jpg" alt="世界的阿菊">
 </div>
 
 ---
@@ -594,17 +605,6 @@
 </div>
 
 ---
-## 圣女贞德的审判
-**Rating:** 7.9
-**Runtime:** 65分钟
-**Country:** 法国
-**Director:** 罗伯特·布列松
-**Cast:** 弗洛朗丝·德莱 / 让-克洛德·富尔诺 / Roger Honorat
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1717618180.jpg" alt="圣女贞德的审判">
-</div>
-
----
 ## 穆谢特
 **Rating:** 8.5
 **Runtime:** 81分钟
@@ -627,6 +627,17 @@
 </div>
 
 ---
+## 欢乐丛林之外星人大冒险
+**Rating:** 0
+**Runtime:** 
+**Country:** 中国大陆
+**Director:** 
+**Cast:** 李凤良
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890512825.jpg" alt="欢乐丛林之外星人大冒险">
+</div>
+
+---
 ## 这里是亚美子
 **Rating:** 7.3
 **Runtime:** 104分钟
@@ -638,25 +649,14 @@
 </div>
 
 ---
-## 世界的阿菊
-**Rating:** 7.8
-**Runtime:** 90分钟
-**Country:** 日本
-**Director:** 阪本顺治
-**Cast:** 黑木华 / 宽一郎 / 池松壮亮
+## 圣女贞德的审判
+**Rating:** 7.9
+**Runtime:** 65分钟
+**Country:** 法国
+**Director:** 罗伯特·布列松
+**Cast:** 弗洛朗丝·德莱 / 让-克洛德·富尔诺 / Roger Honorat
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2887688457.jpg" alt="世界的阿菊">
-</div>
-
----
-## 银河铁道999
-**Rating:** 8.2
-**Runtime:** 129分钟
-**Country:** 日本
-**Director:** 林太郎
-**Cast:** 野泽雅子 / 池田昌子 / 麻上洋子
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p551591781.jpg" alt="银河铁道999">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1717618180.jpg" alt="圣女贞德的审判">
 </div>
 
 ---
@@ -668,6 +668,17 @@
 **Cast:** 格拉帕·格潘 / 拉查楠·玛哈菀 / 帕瓦·吉沙晚迪
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2755967924.jpg" alt="那些年，我们一起追的女孩">
+</div>
+
+---
+## 天生一对
+**Rating:** 7
+**Runtime:** 166分钟
+**Country:** 泰国
+**Director:** Adisorn Tresirikasem
+**Cast:** 塔纳瓦特·瓦塔纳普迪 / 蓝妮·卡彭 / 帕瑞斯·因塔拉科玛亚苏特
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2881567102.jpg" alt="天生一对">
 </div>
 
 ---
@@ -693,28 +704,6 @@
 </div>
 
 ---
-## 欢乐丛林之外星人大冒险
-**Rating:** 0
-**Runtime:** 
-**Country:** 中国大陆
-**Director:** 
-**Cast:** 李凤良
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890512825.jpg" alt="欢乐丛林之外星人大冒险">
-</div>
-
----
-## 天生一对
-**Rating:** 7
-**Runtime:** 166分钟
-**Country:** 泰国
-**Director:** Adisorn Tresirikasem
-**Cast:** 塔纳瓦特·瓦塔纳普迪 / 蓝妮·卡彭 / 帕瑞斯·因塔拉科玛亚苏特
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2881567102.jpg" alt="天生一对">
-</div>
-
----
 ## 你与我和我
 **Rating:** 6.7
 **Runtime:** 121分钟
@@ -734,6 +723,17 @@
 **Cast:** 翁拉维·那提通 / 普莉恩皮察雅·克玛拉娜君 / 帕查拉·奇拉锡瓦特
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886258689.jpg" alt="OMG! 我爱你...但不合时宜">
+</div>
+
+---
+## 银河铁道999
+**Rating:** 8.2
+**Runtime:** 129分钟
+**Country:** 日本
+**Director:** 林太郎
+**Cast:** 野泽雅子 / 池田昌子 / 麻上洋子
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p551591781.jpg" alt="银河铁道999">
 </div>
 
 ---
