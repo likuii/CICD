@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 波尔多葡萄园的日出，法国 (© Esperanza33/Getty Images)
+
+![波尔多葡萄园的日出，法国 (© Esperanza33/Getty Images)](https://cn.bing.com/th?id=OHR.MarathonMedoc_ZH-CN6649798028_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E6%A2%85%E5%A4%9A%E5%85%8B%E5%9C%B0%E5%8C%BA&form=hpcapt&mkt=zh-cn)
+
 ## 斯瓦尔巴群岛海上的一对海象，挪威 (© Mark Smith/Getty Images)
 
 ![斯瓦尔巴群岛海上的一对海象，挪威 (© Mark Smith/Getty Images)](https://cn.bing.com/th?id=OHR.WalrusSvalbard_ZH-CN6343458320_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![塞格拉山，塞尼亚岛，挪威 (© imageBROKER/Moritz Wolf/Getty Images)](https://cn.bing.com/th?id=OHR.MountSegla_ZH-CN0758615745_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%A1%9E%E5%B0%BC%E4%BA%9A%E5%B2%9B&form=hpcapt&mkt=zh-cn)
-
-## 布尔日的沼泽，法国 (© Tuul & Bruno Morandi/Getty Images)
-
-![布尔日的沼泽，法国 (© Tuul & Bruno Morandi/Getty Images)](https://cn.bing.com/th?id=OHR.BourgesMarsh_ZH-CN0505354655_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%B8%83%E5%B0%94%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
