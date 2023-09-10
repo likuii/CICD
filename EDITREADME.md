@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 永安镇故事集
-**Rating:** 7.6
+**Rating:** 7.5
 **Runtime:** 123分钟
 **Country:** 中国大陆
 **Director:** 魏书钧
