@@ -188,7 +188,7 @@
 
 ---
 ## 最后的真相
-**Rating:** 6.3
+**Rating:** 6.2
 **Runtime:** 112分钟
 **Country:** 中国大陆
 **Director:** 李太阁
@@ -342,7 +342,7 @@
 
 ---
 ## 雪豹和她的朋友们
-**Rating:** 8.4
+**Rating:** 8.5
 **Runtime:** 85分钟
 **Country:** 中国大陆
 **Director:** 奚志农
