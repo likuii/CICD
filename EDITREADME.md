@@ -506,6 +506,17 @@
 </div>
 
 ---
+## 夏天的蜗牛
+**Rating:** 0
+**Runtime:** 91分钟
+**Country:** 中国大陆 Mainland China
+**Director:** 李巨涛
+**Cast:** 沈琳珺 / 胡潇悦 / 柏智杰
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897675990.jpg" alt="夏天的蜗牛">
+</div>
+
+---
 ## 超级飞侠：乐迪加速
 **Rating:** 6.3
 **Runtime:** 89分钟
