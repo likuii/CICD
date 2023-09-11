@@ -89,7 +89,7 @@
 
 ---
 ## 绝地追击
-**Rating:** 7.1
+**Rating:** 7
 **Runtime:** 108分钟
 **Country:** 中国大陆
 **Director:** 邱礼涛
