@@ -1,5 +1,16 @@
 # Douban Currently Playing Movies
 
+## 第八个嫌疑人
+**Rating:** 6.5
+**Runtime:** 111分钟
+**Country:** 中国大陆 中国香港
+**Director:** 李子俊
+**Cast:** 大鹏 / 林家栋 / 张颂文
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897543922.jpg" alt="第八个嫌疑人">
+</div>
+
+---
 ## 奥本海默
 **Rating:** 8.8
 **Runtime:** 180分钟
@@ -66,17 +77,6 @@
 </div>
 
 ---
-## 意外人生
-**Rating:** 4.7
-**Runtime:** 87分钟
-**Country:** 中国大陆
-**Director:** 左志国
-**Cast:** 吴镇宇 / 任素汐 / 李康生
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896823833.jpg" alt="意外人生">
-</div>
-
----
 ## 八角笼中
 **Rating:** 7.4
 **Runtime:** 117分钟
@@ -111,7 +111,7 @@
 
 ---
 ## 我经过风暴
-**Rating:** 7.1
+**Rating:** 7
 **Runtime:** 101分钟
 **Country:** 中国大陆
 **Director:** 秦海燕
@@ -121,14 +121,14 @@
 </div>
 
 ---
-## 最后的真相
-**Rating:** 6.3
-**Runtime:** 112分钟
-**Country:** 中国大陆
-**Director:** 李太阁
-**Cast:** 黄晓明 / 闫妮 / 涂们
+## 巨齿鲨2：深渊
+**Rating:** 5.2
+**Runtime:** 119分钟
+**Country:** 美国 中国大陆
+**Director:** 本·维特利 
+**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895530144.jpg" alt="最后的真相">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
 </div>
 
 ---
@@ -176,6 +176,17 @@
 </div>
 
 ---
+## 奇迹少女
+**Rating:** 5.4
+**Runtime:** 105分钟
+**Country:** 法国
+**Director:** 杰里米·扎格
+**Cast:** 克里斯蒂娜·瓦伦苏埃拉 / 布莱斯·峇本布鲁克 / 泽诺·罗宾逊
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896104354.jpg" alt="奇迹少女">
+</div>
+
+---
 ## 看不见的他们
 **Rating:** 0
 **Runtime:** 88分钟
@@ -195,17 +206,6 @@
 **Cast:** 邢原源 / 王博文 / 高禹恒
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895351514.jpg" alt="茶啊二中">
-</div>
-
----
-## 潜艇总动员：环游地球80天
-**Rating:** 0
-**Runtime:** 80分钟
-**Country:** 中国大陆
-**Director:** 陈永刚 李星良
-**Cast:** 张嘉祺 / 李云龙 / 蔡旭东
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896442997.jpg" alt="潜艇总动员：环游地球80天">
 </div>
 
 ---
