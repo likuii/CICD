@@ -462,6 +462,17 @@
 </div>
 
 ---
+## 雪域少年
+**Rating:** 0
+**Runtime:** 110分钟
+**Country:** 中国大陆
+**Director:** 路奇
+**Cast:** 张赫 / 刘颐诺  / 刘琮
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896911817.jpg" alt="雪域少年">
+</div>
+
+---
 ## 驯龙高手
 **Rating:** 8.8
 **Runtime:** 98分钟
