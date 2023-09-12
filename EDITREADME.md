@@ -418,6 +418,17 @@
 </div>
 
 ---
+## 怪兽湖
+**Rating:** 3.3
+**Runtime:** 87分钟(中国大陆版)
+**Country:** 泰国 中国大陆
+**Director:** 李·通坎
+**Cast:** 苏查·玛娜英 / 臧金生 / 苏秋成
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2888331166.jpg" alt="怪兽湖">
+</div>
+
+---
 ## 忠爱无言2
 **Rating:** 0
 **Runtime:** 103分钟
@@ -701,6 +712,17 @@
 **Cast:** 
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2870533876.jpg" alt="色彩中国">
+</div>
+
+---
+## 草原大作战
+**Rating:** 0
+**Runtime:** 82分钟(中国大陆)
+**Country:** 俄罗斯
+**Director:** Andrey Galat 马克西姆·沃尔科夫
+**Cast:** JB·布兰科 / 汤姆·费尔顿 / 罗斯·马昆德
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2864252833.jpg" alt="草原大作战">
 </div>
 
 ---
