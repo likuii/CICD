@@ -51,7 +51,7 @@
 **Director:** 刘斯逸
 **Cast:** 胡先煦 / 姚晨 / 周也
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896996500.jpg" alt="三贵情史">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897753821.jpg" alt="三贵情史">
 </div>
 
 ---
