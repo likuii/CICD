@@ -744,7 +744,7 @@
 **Director:** 潘文杰
 **Cast:** 富大龙 / 许亚军 / 高梓淇
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896961616.jpg" alt="毒蜂">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897994781.jpg" alt="毒蜂">
 </div>
 
 ---
