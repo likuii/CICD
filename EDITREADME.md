@@ -660,6 +660,28 @@
 </div>
 
 ---
+## 天生一对
+**Rating:** 7
+**Runtime:** 166分钟
+**Country:** 泰国
+**Director:** Adisorn Tresirikasem
+**Cast:** 塔纳瓦特·瓦塔纳普迪 / 蓝妮·卡彭 / 帕瑞斯·因塔拉科玛亚苏特
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2881567102.jpg" alt="天生一对">
+</div>
+
+---
+## 那些年，我们一起追的女孩
+**Rating:** 7.2
+**Runtime:** 120分钟
+**Country:** 泰国
+**Director:** Napat Jitweerapat 卡尼萨·坤宇
+**Cast:** 格拉帕·格潘 / 拉查楠·玛哈菀 / 帕瓦·吉沙晚迪
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2755967924.jpg" alt="那些年，我们一起追的女孩">
+</div>
+
+---
 ## 欢乐丛林之外星人大冒险
 **Rating:** 0
 **Runtime:** 
@@ -671,6 +693,17 @@
 </div>
 
 ---
+## OMG! 我爱你...但不合时宜
+**Rating:** 7
+**Runtime:** 124分钟
+**Country:** 泰国
+**Director:** 西提彭·科桐塔维
+**Cast:** 翁拉维·那提通 / 普莉恩皮察雅·克玛拉娜君 / 帕查拉·奇拉锡瓦特
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886258689.jpg" alt="OMG! 我爱你...但不合时宜">
+</div>
+
+---
 ## 我痴呆了，请多关照。～欢迎回家，妈妈～
 **Rating:** 0
 **Runtime:** 100分钟
@@ -679,6 +712,17 @@
 **Cast:** 
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2783965604.jpg" alt="我痴呆了，请多关照。～欢迎回家，妈妈～">
+</div>
+
+---
+## 恋爱局中局
+**Rating:** 6.5
+**Runtime:** 127分钟
+**Country:** 泰国
+**Director:** 梅兹·塔拉
+**Cast:** 纳得克·库吉米亚 / 平采娜·乐维瑟派布恩 / 提顶·玛哈由踏纳
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2629407129.jpg" alt="恋爱局中局">
 </div>
 
 ---
