@@ -871,7 +871,7 @@
 ---
 ## 曾经炽热的我们
 **Rating:** 0
-**Runtime:** 
+**Runtime:** 104分钟
 **Country:** 中国大陆
 **Director:** 马小刚
 **Cast:** 周政杰 / 卢洋洋 / 骆明劼
