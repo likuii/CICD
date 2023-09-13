@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 不虚此行
-**Rating:** 7.4
+**Rating:** 7.3
 **Runtime:** 119分钟
 **Country:** 中国大陆
 **Director:** 刘伽茵
@@ -12,7 +12,7 @@
 
 ---
 ## 第八个嫌疑人
-**Rating:** 6.5
+**Rating:** 6.4
 **Runtime:** 111分钟
 **Country:** 中国大陆 中国香港
 **Director:** 李子俊
