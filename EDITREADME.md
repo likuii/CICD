@@ -810,7 +810,7 @@
 **Director:** 马小刚
 **Cast:** 周政杰 / 卢洋洋 / 骆明劼
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897121112.jpg" alt="曾经炽热的我们">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2898024093.jpg" alt="曾经炽热的我们">
 </div>
 
 ---
