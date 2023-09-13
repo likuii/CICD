@@ -639,7 +639,7 @@
 
 ---
 ## 汤道
-**Rating:** 7.3
+**Rating:** 7.2
 **Runtime:** 126分钟
 **Country:** 日本
 **Director:** 铃木雅之
@@ -679,6 +679,17 @@
 **Cast:** 
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2783965604.jpg" alt="我痴呆了，请多关照。～欢迎回家，妈妈～">
+</div>
+
+---
+## 疯狂小世界
+**Rating:** 0
+**Runtime:** 
+**Country:** 美国
+**Director:** 高国峰 王森
+**Cast:** 苏倩云 / 张艺雯 / 张成杰
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890182713.jpg" alt="疯狂小世界">
 </div>
 
 ---
