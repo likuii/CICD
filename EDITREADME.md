@@ -45,7 +45,7 @@
 
 ---
 ## 三贵情史
-**Rating:** 6.3
+**Rating:** 6.2
 **Runtime:** 108分钟
 **Country:** 中国大陆
 **Director:** 刘斯逸
@@ -338,6 +338,17 @@
 **Cast:** 高雨儿 / 李子峰 / 戴娇倩
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896523093.jpg" alt="里奇不眠夜">
+</div>
+
+---
+## 七声
+**Rating:** 0
+**Runtime:** 115分钟
+**Country:** 中国大陆
+**Director:** 韩君倩
+**Cast:** 彭静 / 王中楷 / 徐萍
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2577814926.jpg" alt="七声">
 </div>
 
 ---
