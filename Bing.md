@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 格莱纳里夫森林公园的日落，安特里姆郡，爱尔兰 (© Peter Zelei/Getty Images)
+
+![格莱纳里夫森林公园的日落，安特里姆郡，爱尔兰 (© Peter Zelei/Getty Images)](https://cn.bing.com/th?id=OHR.GlenariffForest_ZH-CN7874768337_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E7%88%B1%E5%B0%94%E5%85%B0%E5%AE%89%E7%89%B9%E9%87%8C%E5%A7%86%E9%83%A1&form=hpcapt&mkt=zh-cn)
+
 ## 普氏野马，哈斯台国家公园，蒙古国 (© Ondrej Prosicky/Shutterstock)
 
 ![普氏野马，哈斯台国家公园，蒙古国 (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.MongoliaHorses_ZH-CN7660582867_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![大城府历史公园的柴瓦塔那兰寺，泰国 (© Weerasak Saeku/Getty Images)](https://cn.bing.com/th?id=OHR.AyutthayaTemple_ZH-CN5996587937_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E6%B3%B0%E5%9B%BD%E5%A4%A7%E5%9F%8E%E5%BA%9C%E5%8E%86%E5%8F%B2%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
-
-## 巴斯圆形广场，萨默塞特 ，英国 (© Gavin Hellier/Getty Images)
-
-![巴斯圆形广场，萨默塞特 ，英国 (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.BathCircus_ZH-CN5796600786_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E6%89%AB%E7%9B%B2%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
