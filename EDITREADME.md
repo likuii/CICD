@@ -650,7 +650,7 @@
 
 ---
 ## 那些年，我们一起追的女孩
-**Rating:** 7.2
+**Rating:** 7.1
 **Runtime:** 120分钟
 **Country:** 泰国
 **Director:** Napat Jitweerapat 卡尼萨·坤宇
@@ -760,7 +760,7 @@
 
 ---
 ## 长江
-**Rating:** 7.8
+**Rating:** 7.9
 **Runtime:** 50分钟
 **Country:** 中国大陆
 **Director:** 夏骏
