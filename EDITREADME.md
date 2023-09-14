@@ -650,7 +650,7 @@
 
 ---
 ## 那些年，我们一起追的女孩
-**Rating:** 7.1
+**Rating:** 7.2
 **Runtime:** 120分钟
 **Country:** 泰国
 **Director:** Napat Jitweerapat 卡尼萨·坤宇
