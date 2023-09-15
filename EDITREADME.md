@@ -90,7 +90,7 @@
 ---
 ## 鹦鹉杀
 **Rating:** 0
-**Runtime:** 100分钟
+**Runtime:** 101分钟
 **Country:** 中国大陆
 **Director:** 麻赢心
 **Cast:** 周冬雨 / 章宇 / 张宥浩
