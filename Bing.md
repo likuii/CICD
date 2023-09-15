@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 施布吕根山口，格劳宾登州，瑞士 (© Roberto Moiola/Getty Images)
+
+![施布吕根山口，格劳宾登州，瑞士 (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.SplugenPass_ZH-CN8347591461_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E6%96%BD%E5%B8%83%E5%90%95%E6%A0%B9&form=hpcapt&mkt=zh-cn)
+
 ## 格莱纳里夫森林公园的日落，安特里姆郡，爱尔兰 (© Peter Zelei/Getty Images)
 
 ![格莱纳里夫森林公园的日落，安特里姆郡，爱尔兰 (© Peter Zelei/Getty Images)](https://cn.bing.com/th?id=OHR.GlenariffForest_ZH-CN7874768337_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![斯瓦尔巴群岛海上的一对海象，挪威 (© Mark Smith/Getty Images)](https://cn.bing.com/th?id=OHR.WalrusSvalbard_ZH-CN6343458320_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E7%A5%96%E7%88%B6%E6%AF%8D%E8%8A%82&form=hpcapt&mkt=zh-cn)
-
-## 大城府历史公园的柴瓦塔那兰寺，泰国 (© Weerasak Saeku/Getty Images)
-
-![大城府历史公园的柴瓦塔那兰寺，泰国 (© Weerasak Saeku/Getty Images)](https://cn.bing.com/th?id=OHR.AyutthayaTemple_ZH-CN5996587937_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E6%B3%B0%E5%9B%BD%E5%A4%A7%E5%9F%8E%E5%BA%9C%E5%8E%86%E5%8F%B2%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
