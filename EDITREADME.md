@@ -749,7 +749,7 @@
 
 ---
 ## 南太平洋之旅
-**Rating:** 8.1
+**Rating:** 8.2
 **Runtime:** 40分钟
 **Country:** 美国
 **Director:** 格雷戈·迈吉里弗雷 Stephen Judson
