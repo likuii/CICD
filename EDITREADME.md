@@ -78,7 +78,7 @@
 
 ---
 ## 暗杀风暴
-**Rating:** 6.2
+**Rating:** 6.1
 **Runtime:** 100分钟
 **Country:** 中国大陆 中国香港
 **Director:** 邱礼涛
@@ -672,7 +672,7 @@
 
 ---
 ## 那些年，我们一起追的女孩
-**Rating:** 7.2
+**Rating:** 7.1
 **Runtime:** 120分钟
 **Country:** 泰国
 **Director:** Napat Jitweerapat 卡尼萨·坤宇
