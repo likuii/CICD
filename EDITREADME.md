@@ -770,6 +770,17 @@
 </div>
 
 ---
+## 疯狂小世界
+**Rating:** 0
+**Runtime:** 
+**Country:** 美国
+**Director:** 高国峰 王森
+**Cast:** 苏倩云 / 张艺雯 / 张成杰
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2890182713.jpg" alt="疯狂小世界">
+</div>
+
+---
 ## 棒！少年
 **Rating:** 9
 **Runtime:** 30分钟
