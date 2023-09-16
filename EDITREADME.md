@@ -1,11 +1,11 @@
 # Douban Currently Playing Movies
 
 ## 敢死队4：最终章
-**Rating:** 0
+**Rating:** 5.2
 **Runtime:** 101分钟(中国大陆)
 **Country:** 美国
 **Director:** 斯科特·沃
-**Cast:** 杰森·斯坦森 / 西尔维斯特·史泰龙 / 50分
+**Cast:** 杰森·斯坦森 / 50分 / 梅根·福克斯
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897558506.jpg" alt="敢死队4：最终章">
 </div>
@@ -672,7 +672,7 @@
 
 ---
 ## 那些年，我们一起追的女孩
-**Rating:** 7.2
+**Rating:** 7.1
 **Runtime:** 120分钟
 **Country:** 泰国
 **Director:** Napat Jitweerapat 卡尼萨·坤宇
@@ -749,7 +749,7 @@
 
 ---
 ## 南太平洋之旅
-**Rating:** 8.2
+**Rating:** 8.1
 **Runtime:** 40分钟
 **Country:** 美国
 **Director:** 格雷戈·迈吉里弗雷 Stephen Judson
