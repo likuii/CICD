@@ -56,7 +56,7 @@
 
 ---
 ## 第八个嫌疑人
-**Rating:** 6.4
+**Rating:** 6.3
 **Runtime:** 111分钟
 **Country:** 中国大陆 中国香港
 **Director:** 李子俊
@@ -166,7 +166,7 @@
 
 ---
 ## GT赛车：极速狂飙
-**Rating:** 7.3
+**Rating:** 7.4
 **Runtime:** 135分钟
 **Country:** 美国 日本
 **Director:** 尼尔·布洛姆坎普
