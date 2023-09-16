@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 杂色短尾鴗，阿里杰罗德胡波尔德国家公园，古巴 (© Bruno D'Amicis/Minden Pictures)
+
+![杂色短尾鴗，阿里杰罗德胡波尔德国家公园，古巴 (© Bruno D'Amicis/Minden Pictures)](https://cn.bing.com/th?id=OHR.CubanTody_ZH-CN8656368705_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E6%9D%82%E8%89%B2%E7%9F%AD%E5%B0%BE%E9%B4%97&form=hpcapt&mkt=zh-cn)
+
 ## 施布吕根山口，格劳宾登州，瑞士 (© Roberto Moiola/Getty Images)
 
 ![施布吕根山口，格劳宾登州，瑞士 (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.SplugenPass_ZH-CN8347591461_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![波尔多葡萄园的日出，法国 (© Esperanza33/Getty Images)](https://cn.bing.com/th?id=OHR.MarathonMedoc_ZH-CN6649798028_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E6%A2%85%E5%A4%9A%E5%85%8B%E5%9C%B0%E5%8C%BA&form=hpcapt&mkt=zh-cn)
-
-## 斯瓦尔巴群岛海上的一对海象，挪威 (© Mark Smith/Getty Images)
-
-![斯瓦尔巴群岛海上的一对海象，挪威 (© Mark Smith/Getty Images)](https://cn.bing.com/th?id=OHR.WalrusSvalbard_ZH-CN6343458320_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E7%A5%96%E7%88%B6%E6%AF%8D%E8%8A%82&form=hpcapt&mkt=zh-cn)
 
