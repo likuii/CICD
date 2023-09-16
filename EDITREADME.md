@@ -89,7 +89,7 @@
 
 ---
 ## 永安镇故事集
-**Rating:** 7.5
+**Rating:** 7.4
 **Runtime:** 123分钟
 **Country:** 中国大陆
 **Director:** 魏书钧
