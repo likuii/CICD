@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 鹦鹉杀
-**Rating:** 0
+**Rating:** 6.4
 **Runtime:** 101分钟
 **Country:** 中国大陆
 **Director:** 麻赢心
@@ -12,7 +12,7 @@
 
 ---
 ## 威尼斯惊魂夜
-**Rating:** 0
+**Rating:** 6.3
 **Runtime:** 103分钟
 **Country:** 美国
 **Director:** 肯尼思·布拉纳
