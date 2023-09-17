@@ -122,7 +122,7 @@
 
 ---
 ## 三贵情史
-**Rating:** 6.2
+**Rating:** 6.3
 **Runtime:** 108分钟
 **Country:** 中国大陆
 **Director:** 刘斯逸
