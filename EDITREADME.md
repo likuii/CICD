@@ -572,6 +572,17 @@
 </div>
 
 ---
+## 雾中风景
+**Rating:** 9
+**Runtime:** 127分钟
+**Country:** 希腊 法国 意大利
+**Director:** 西奥·安哲罗普洛斯
+**Cast:** 米哈利斯·齐克 / 塔尼娅·帕拉依奥罗葛 / 斯特拉托斯·楚措格卢
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1117765592.jpg" alt="雾中风景">
+</div>
+
+---
 ## 扒手
 **Rating:** 8.3
 **Runtime:** 75分钟
@@ -602,6 +613,17 @@
 **Cast:** 娜丁·诺蒂尔 / Jean-Claude Guilbert / Marie Cardinal
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1710495655.jpg" alt="穆谢特">
+</div>
+
+---
+## 尤里西斯的凝视
+**Rating:** 9.1
+**Runtime:** 176 分钟
+**Country:** 希腊 法国 意大利 德国 英国 南斯拉夫 罗马尼亚 阿尔巴尼亚 波黑
+**Director:** 西奥·安哲罗普洛斯
+**Cast:** 哈威·凯特尔 / 厄兰·约瑟夫森 / 玛雅·摩根斯特恩
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2613245678.jpg" alt="尤里西斯的凝视">
 </div>
 
 ---
