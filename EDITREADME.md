@@ -14,9 +14,9 @@
 ## 威尼斯惊魂夜
 **Rating:** 6.3
 **Runtime:** 103分钟
-**Country:** 美国
+**Country:** 美国 英国 意大利
 **Director:** 肯尼思·布拉纳
-**Cast:** 肯尼思·布拉纳 / 埃米尔·艾尔-马斯里 / 里卡多·斯卡马乔
+**Cast:** 肯尼思·布拉纳 / 凯利·蕾莉 / 卡米尔·科坦
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896593530.jpg" alt="威尼斯惊魂夜">
 </div>
