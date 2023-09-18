@@ -407,6 +407,17 @@
 </div>
 
 ---
+## 变形金刚：超能勇士崛起
+**Rating:** 5.8
+**Runtime:** 128分钟(中国大陆)
+**Country:** 美国
+**Director:** 小斯蒂芬·卡普尔
+**Cast:** 安东尼·拉莫斯 / 多米尼克·菲什巴克 / 彼特·库伦
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892024245.jpg" alt="变形金刚：超能勇士崛起">
+</div>
+
+---
 ## 雪豹和她的朋友们
 **Rating:** 8.4
 **Runtime:** 85分钟
@@ -690,6 +701,17 @@
 **Cast:** 
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2783965604.jpg" alt="我痴呆了，请多关照。～欢迎回家，妈妈～">
+</div>
+
+---
+## 草原大作战
+**Rating:** 0
+**Runtime:** 82分钟(中国大陆)
+**Country:** 俄罗斯
+**Director:** Andrey Galat 马克西姆·沃尔科夫
+**Cast:** JB·布兰科 / 汤姆·费尔顿 / 罗斯·马昆德
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2864252833.jpg" alt="草原大作战">
 </div>
 
 ---
