@@ -209,17 +209,6 @@
 </div>
 
 ---
-## 江米儿
-**Rating:** 0
-**Runtime:** 98分钟
-**Country:** 中国大陆
-**Director:** 潘朝奉
-**Cast:** 丹增挠杰 / 昂桑 / 扎西拉宗
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897831741.jpg" alt="江米儿">
-</div>
-
----
 ## 夏天只是一天
 **Rating:** 0
 **Runtime:** 90分钟
@@ -316,6 +305,17 @@
 **Cast:** 詹姆斯·麦斯登 / 麦肯娜·格瑞丝 / 伊恩·阿米蒂奇
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897946307.jpg" alt="汪汪队立大功大电影2：超能大冒险">
+</div>
+
+---
+## 小美人鱼之大海怪传说
+**Rating:** 0
+**Runtime:** 80分钟
+**Country:** 中国大陆
+**Director:** 庄潇
+**Cast:** 苏子芜 / 陈新玥 / 王亚琳
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895554669.jpg" alt="小美人鱼之大海怪传说">
 </div>
 
 ---
