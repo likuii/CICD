@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 哈德良长城，诺森伯兰郡国家公园，英国 (© daverhead/Getty Images)
+
+![哈德良长城，诺森伯兰郡国家公园，英国 (© daverhead/Getty Images)](https://cn.bing.com/th?id=OHR.HadriansWallUK_ZH-CN9203571422_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%93%88%E5%BE%B7%E8%89%AF%E9%95%BF%E5%9F%8E&form=hpcapt&mkt=zh-cn)
+
 ## 西南阿连特茹和维森廷海岸自然公园上空的银河，葡萄牙 (© Daniel Garrido/Getty Images)
 
 ![西南阿连特茹和维森廷海岸自然公园上空的银河，葡萄牙 (© Daniel Garrido/Getty Images)](https://cn.bing.com/th?id=OHR.MilkyWayPortugal_ZH-CN8878883229_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![赫马库塔山上的神庙，汉皮，卡纳塔克邦，印度 (© Images of india/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.HemakutaHill_ZH-CN7438439036_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%8D%A1%E7%BA%B3%E5%A1%94%E5%85%8B%E9%82%A6%E8%B5%AB%E9%A9%AC%E5%BA%93%E5%A1%94%E5%B1%B1&form=hpcapt&mkt=zh-cn)
-
-## 北海日落，诺德多夫，德国 (© Frederick Doerschem/Getty Images)
-
-![北海日落，诺德多夫，德国 (© Frederick Doerschem/Getty Images)](https://cn.bing.com/th?id=OHR.NorthSeaStairs_ZH-CN7044471948_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E8%AF%BA%E5%BE%B7%E5%A4%9A%E5%A4%AB&form=hpcapt&mkt=zh-cn)
 
