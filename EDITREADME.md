@@ -451,6 +451,17 @@
 </div>
 
 ---
+## 我和班主任的故事
+**Rating:** 0
+**Runtime:** 105分钟
+**Country:** 中国大陆
+**Director:** 高峰
+**Cast:** 曹磊 / 赵菁 / 翟小兴
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895475826.jpg" alt="我和班主任的故事">
+</div>
+
+---
 ## 忠爱无言2
 **Rating:** 0
 **Runtime:** 103分钟
