@@ -539,6 +539,17 @@
 </div>
 
 ---
+## 龙虾
+**Rating:** 7.6
+**Runtime:** 118分钟
+**Country:** 爱尔兰 英国 希腊 法国 荷兰
+**Director:** 欧格斯·兰斯莫斯
+**Cast:** 科林·法瑞尔 / 蕾切尔·薇兹 / 约翰·C·赖利
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2304460273.jpg" alt="龙虾">
+</div>
+
+---
 ## 欢乐好声音
 **Rating:** 8.1
 **Runtime:** 108分钟
@@ -715,6 +726,17 @@
 </div>
 
 ---
+## 工作的她
+**Rating:** 7.5
+**Runtime:** 90分钟
+**Country:** 希腊 法国 塞尔维亚
+**Director:** Nikos Labôt
+**Cast:** 玛丽萨·特里安德菲里都 / 季米特里斯·伊梅洛斯 / Maria Filini
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2558139777.jpg" alt="工作的她">
+</div>
+
+---
 ## 草原大作战
 **Rating:** 0
 **Runtime:** 82分钟(中国大陆)
@@ -726,6 +748,17 @@
 </div>
 
 ---
+## 磁场
+**Rating:** 7.5
+**Runtime:** 78分钟
+**Country:** 希腊
+**Director:** 乔治·古西斯
+**Cast:** 埃莉娜·托帕丽朵 / 安东尼斯·齐奥齐奥普洛斯 / Nikos Spanides
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2891939261.jpg" alt="磁场">
+</div>
+
+---
 ## 棒！少年
 **Rating:** 9
 **Runtime:** 30分钟
@@ -734,6 +767,17 @@
 **Cast:** 马虎 / 梁正双 / 张锦新
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2672790912.jpg" alt="棒！少年">
+</div>
+
+---
+## 房间里的客人
+**Rating:** 6.7
+**Runtime:** 106分钟
+**Country:** 希腊 比利时 法国
+**Director:** 米凯利斯·康斯坦塔托斯
+**Cast:** 约塔·阿吉罗普卢 / 科斯塔斯·安达洛普洛斯 / 卡特琳娜迪达斯卡鲁
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2614449537.jpg" alt="房间里的客人">
 </div>
 
 ---
@@ -799,7 +843,7 @@
 **Director:** 田羽生
 **Cast:** 韩庚 / 郑恺 / 于文文
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896815253.jpg" alt="前任4：英年早婚">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898244180.jpg" alt="前任4：英年早婚">
 </div>
 
 ---
