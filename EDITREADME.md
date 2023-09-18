@@ -16,7 +16,7 @@
 **Runtime:** 103分钟
 **Country:** 美国
 **Director:** 肯尼思·布拉纳
-**Cast:** 肯尼思·布拉纳 / 迪伦·科贝特-巴德 / 埃米尔·艾尔-马斯里
+**Cast:** 肯尼思·布拉纳 / 埃米尔·艾尔-马斯里 / 里卡多·斯卡马乔
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896593530.jpg" alt="威尼斯惊魂夜">
 </div>
