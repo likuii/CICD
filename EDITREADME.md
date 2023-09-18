@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 鹦鹉杀
-**Rating:** 6.4
+**Rating:** 6.3
 **Runtime:** 101分钟
 **Country:** 中国大陆
 **Director:** 麻赢心
