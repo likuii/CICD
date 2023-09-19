@@ -266,7 +266,7 @@
 ---
 ## 江米儿
 **Rating:** 0
-**Runtime:** 98分钟
+**Runtime:** 96分钟
 **Country:** 中国大陆
 **Director:** 潘朝奉
 **Cast:** 丹增挠杰 / 昂桑 / 扎西拉宗
