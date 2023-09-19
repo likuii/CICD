@@ -165,6 +165,17 @@
 </div>
 
 ---
+## 夏天只是一天
+**Rating:** 0
+**Runtime:** 90分钟
+**Country:** 中国大陆
+**Director:** 李小江
+**Cast:** 李九霄 / 李梦 / 王砚辉
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2627789141.jpg" alt="夏天只是一天">
+</div>
+
+---
 ## 三贵情史
 **Rating:** 6.3
 **Runtime:** 108分钟
@@ -814,17 +825,6 @@
 </div>
 
 ---
-## 夏天只是一天
-**Rating:** 0
-**Runtime:** 90分钟
-**Country:** 中国大陆
-**Director:** 李小江
-**Cast:** 李九霄 / 李梦 / 王砚辉
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2627789141.jpg" alt="夏天只是一天">
-</div>
-
----
 ## 坚如磐石
 **Rating:** 0
 **Runtime:** 120分钟
@@ -921,6 +921,17 @@
 **Cast:** 苏子芜 / 陈新玥 / 王亚琳
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895554669.jpg" alt="小美人鱼之大海怪传说">
+</div>
+
+---
+## 熊孩子·探险熊兵
+**Rating:** 0
+**Runtime:** 80分钟
+**Country:** 中国大陆
+**Director:** 
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897121228.jpg" alt="熊孩子·探险熊兵">
 </div>
 
 ---
