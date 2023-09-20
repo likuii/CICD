@@ -770,6 +770,28 @@
 </div>
 
 ---
+## 大熊雨林
+**Rating:** 8.6
+**Runtime:** 41分钟
+**Country:** 加拿大
+**Director:** Ian McAllister
+**Cast:** 瑞安·雷诺兹
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2554383112.jpg" alt="大熊雨林">
+</div>
+
+---
+## 南太平洋之旅
+**Rating:** 8.1
+**Runtime:** 40分钟
+**Country:** 美国
+**Director:** 格雷戈·迈吉里弗雷 Stephen Judson
+**Cast:** 凯特·布兰切特 / Ferdiel Ballamu / Menas Mambasar
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2155676070.jpg" alt="南太平洋之旅">
+</div>
+
+---
 ## 棒！少年
 **Rating:** 9
 **Runtime:** 30分钟
