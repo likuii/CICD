@@ -649,6 +649,17 @@
 </div>
 
 ---
+## 一江春水向东流
+**Rating:** 8.5
+**Runtime:** 192分钟
+**Country:** 中国大陆
+**Director:** 蔡楚生 郑君里
+**Cast:** 白杨 / 陶金 / 舒绣文
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2503175729.jpg" alt="一江春水向东流">
+</div>
+
+---
 ## 房间里的客人
 **Rating:** 6.7
 **Runtime:** 106分钟
@@ -657,6 +668,17 @@
 **Cast:** 约塔·阿吉罗普卢 / 科斯塔斯·安达洛普洛斯 / 卡特琳娜迪达斯卡鲁
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2614449537.jpg" alt="房间里的客人">
+</div>
+
+---
+## 马路天使
+**Rating:** 8.6
+**Runtime:** 91分钟
+**Country:** 中国大陆
+**Director:** 袁牧之
+**Cast:** 周璇 / 赵丹 / 魏鹤龄
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2194956092.jpg" alt="马路天使">
 </div>
 
 ---
@@ -704,6 +726,17 @@
 </div>
 
 ---
+## 这里的黎明静悄悄
+**Rating:** 8
+**Runtime:** 115分钟(中国大陆)
+**Country:** 俄罗斯
+**Director:** 列纳特·达夫列吉亚罗夫
+**Cast:** 彼得·费奥多罗夫 / 阿纳斯塔西娅·米库尔钦娜 / 叶夫根尼娅·马拉霍娃
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2262316531.jpg" alt="这里的黎明静悄悄">
+</div>
+
+---
 ## 汤道
 **Rating:** 7.2
 **Runtime:** 126分钟
@@ -737,6 +770,17 @@
 </div>
 
 ---
+## 乌鸦与麻雀
+**Rating:** 8.7
+**Runtime:** 107分钟
+**Country:** 中国大陆
+**Director:** 郑君里
+**Cast:** 赵丹 / 上官云珠 / 孙道临
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2582290536.jpg" alt="乌鸦与麻雀">
+</div>
+
+---
 ## 欢乐丛林之外星人大冒险
 **Rating:** 0
 **Runtime:** 
@@ -745,6 +789,39 @@
 **Cast:** 李凤良
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890512825.jpg" alt="欢乐丛林之外星人大冒险">
+</div>
+
+---
+## 风云儿女
+**Rating:** 7.4
+**Runtime:** 89分钟
+**Country:** 中国大陆
+**Director:** 许幸之
+**Cast:** 袁牧之 / 王人美 / 谈瑛
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1143787260.jpg" alt="风云儿女">
+</div>
+
+---
+## 夜店
+**Rating:** 7.2
+**Runtime:** 107分钟
+**Country:** 中国大陆
+**Director:** 黄佐临
+**Cast:** 石挥 / 童芷苓 / 周璇
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2028938323.jpg" alt="夜店">
+</div>
+
+---
+## 霓虹灯下的哨兵
+**Rating:** 7.3
+**Runtime:** 115分钟
+**Country:** 中国大陆
+**Director:** 王苹 葛鑫
+**Cast:** 徐林格 / 袁岳 / 廖有梁
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2601198270.jpg" alt="霓虹灯下的哨兵">
 </div>
 
 ---
@@ -759,6 +836,17 @@
 </div>
 
 ---
+## 白毛女
+**Rating:** 6.6
+**Runtime:** 122分钟
+**Country:** 中国大陆
+**Director:** 侯克明
+**Cast:** 雷佳 / 张英席 / 高鹏
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2325362155.jpg" alt="白毛女">
+</div>
+
+---
 ## 我痴呆了，请多关照。～欢迎回家，妈妈～
 **Rating:** 0
 **Runtime:** 100分钟
@@ -767,6 +855,39 @@
 **Cast:** 
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2783965604.jpg" alt="我痴呆了，请多关照。～欢迎回家，妈妈～">
+</div>
+
+---
+## 十字街头
+**Rating:** 8.5
+**Runtime:** 99 分钟
+**Country:** 美国
+**Director:** 沃尔特·希尔
+**Cast:** 拉尔夫·马基奥 / 乔·塞内卡 / 杰米·格尔兹
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505062311.jpg" alt="十字街头">
+</div>
+
+---
+## 长征
+**Rating:** 0
+**Runtime:** 176分钟
+**Country:** 中国大陆
+**Director:** 侯克明
+**Cast:** 
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2528947314.jpg" alt="长征">
+</div>
+
+---
+## 少奶奶的扇子
+**Rating:** 7.5
+**Runtime:** 90分钟
+**Country:** 中国大陆
+**Director:** 李萍倩
+**Cast:** 袁美云 / 陆露明 / 梅熹
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2630897978.jpg" alt="少奶奶的扇子">
 </div>
 
 ---
@@ -781,6 +902,50 @@
 </div>
 
 ---
+## 方珍珠
+**Rating:** 7.5
+**Runtime:** 97分钟
+**Country:** 中国大陆
+**Director:** 徐昌霖
+**Cast:** 小王玉蓉 / 陶金 / 侯宝林
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2046331043.jpg" alt="方珍珠">
+</div>
+
+---
+## 万家灯火
+**Rating:** 6.9
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 安战军
+**Cast:** 刘桦 / 刘金山 / 金雅琴
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1839342787.jpg" alt="万家灯火">
+</div>
+
+---
+## 龙须沟
+**Rating:** 8
+**Runtime:** 45分钟
+**Country:** 中国大陆
+**Director:** 李诚儒 王志强 李伟
+**Cast:** 李诚儒 / 马以 / 蔡雯艳
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2533237791.jpg" alt="龙须沟">
+</div>
+
+---
+## 新闺怨
+**Rating:** 7.7
+**Runtime:** 98分钟
+**Country:** 中国大陆
+**Director:** 史东山
+**Cast:** 白杨 / 卫禹平 / 吴茵
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2151947601.jpg" alt="新闺怨">
+</div>
+
+---
 ## 南太平洋之旅
 **Rating:** 8.1
 **Runtime:** 40分钟
@@ -792,6 +957,17 @@
 </div>
 
 ---
+## 阿依达
+**Rating:** 0
+**Runtime:** 
+**Country:** 美国
+**Director:** 
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2580652380.jpg" alt="阿依达">
+</div>
+
+---
 ## 棒！少年
 **Rating:** 9
 **Runtime:** 30分钟
@@ -800,6 +976,17 @@
 **Cast:** 马虎 / 梁正双 / 张锦新
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2672790912.jpg" alt="棒！少年">
+</div>
+
+---
+## 天路
+**Rating:** 0
+**Runtime:** 
+**Country:** 中国大陆
+**Director:** 王文杰
+**Cast:** 丁勇岱 / 袁茵 / 焦体怡
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2621223572.jpg" alt="天路">
 </div>
 
 ---
