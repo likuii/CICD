@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 诺贝尔和平中心内部，奥斯陆，挪威 (© Ilyas Ayub/Alamy)
+
+![诺贝尔和平中心内部，奥斯陆，挪威 (© Ilyas Ayub/Alamy)](https://cn.bing.com/th?id=OHR.NobelNorway_ZH-CN9824054026_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E4%B8%AD%E5%BF%83&form=hpcapt&mkt=zh-cn)
+
 ## 罗马风格的渡槽，阿卡迪亚公园，波兰 (© PATSTOCK/Getty Images)
 
 ![罗马风格的渡槽，阿卡迪亚公园，波兰 (© PATSTOCK/Getty Images)](https://cn.bing.com/th?id=OHR.ArkadiaPark_ZH-CN9501056317_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![格莱纳里夫森林公园的日落，安特里姆郡，爱尔兰 (© Peter Zelei/Getty Images)](https://cn.bing.com/th?id=OHR.GlenariffForest_ZH-CN7874768337_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E7%88%B1%E5%B0%94%E5%85%B0%E5%AE%89%E7%89%B9%E9%87%8C%E5%A7%86%E9%83%A1&form=hpcapt&mkt=zh-cn)
-
-## 普氏野马，哈斯台国家公园，蒙古国 (© Ondrej Prosicky/Shutterstock)
-
-![普氏野马，哈斯台国家公园，蒙古国 (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.MongoliaHorses_ZH-CN7660582867_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E6%99%AE%E6%B0%8F%E9%87%8E%E9%A9%AC&form=hpcapt&mkt=zh-cn)
 
