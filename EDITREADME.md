@@ -810,7 +810,7 @@
 **Director:** 陈凯歌
 **Cast:** 辛柏青 / 朱一龙 / 张子枫
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893031898.jpg" alt="志愿军：雄兵出击">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2898315781.jpg" alt="志愿军：雄兵出击">
 </div>
 
 ---
