@@ -22,17 +22,6 @@
 </div>
 
 ---
-## 夏天只是一天
-**Rating:** 0
-**Runtime:** 90分钟
-**Country:** 中国大陆
-**Director:** 李小江
-**Cast:** 李九霄 / 李梦 / 王砚辉
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2627789141.jpg" alt="夏天只是一天">
-</div>
-
----
 ## 威尼斯惊魂夜
 **Rating:** 6.3
 **Runtime:** 103分钟
