@@ -429,6 +429,17 @@
 </div>
 
 ---
+## 野蛮人入侵
+**Rating:** 7.3
+**Runtime:** 106分钟
+**Country:** 中国香港 马来西亚
+**Director:** 陈翠梅
+**Cast:** 陈翠梅 / 张子夫 / 博朗·帕拉雷
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896024943.jpg" alt="野蛮人入侵">
+</div>
+
+---
 ## 雪豹和她的朋友们
 **Rating:** 8.4
 **Runtime:** 85分钟
