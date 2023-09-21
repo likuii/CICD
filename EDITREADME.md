@@ -1063,7 +1063,7 @@
 **Director:** 王超 
 **Cast:** 梁晓强 / 巴赫 / 张东
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896676714.jpg" alt="贝肯熊：火星任务">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2898356205.jpg" alt="贝肯熊：火星任务">
 </div>
 
 ---
