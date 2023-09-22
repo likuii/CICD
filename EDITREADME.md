@@ -924,6 +924,17 @@
 </div>
 
 ---
+## 我们那些年
+**Rating:** 0
+**Runtime:** 65分钟
+**Country:** 中国大陆
+**Director:** 古训超
+**Cast:** 许鑫 / 田青禾 / 线翊翔
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2407700696.jpg" alt="我们那些年">
+</div>
+
+---
 ## 龙须沟
 **Rating:** 8
 **Runtime:** 45分钟
