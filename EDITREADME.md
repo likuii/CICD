@@ -572,6 +572,17 @@
 </div>
 
 ---
+## 功夫熊猫
+**Rating:** 8.2
+**Runtime:** 95分钟
+**Country:** 美国
+**Director:** 马克·奥斯本 约翰·斯蒂文森
+**Cast:** 杰克·布莱克 / 达斯汀·霍夫曼 / 安吉丽娜·朱莉
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1597238857.jpg" alt="功夫熊猫">
+</div>
+
+---
 ## 欢乐好声音
 **Rating:** 8.1
 **Runtime:** 108分钟
@@ -591,6 +602,17 @@
 **Cast:** Ashley Bornancin / Danny Fehsenfeld / Leslie L. Miller
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2884794796.jpg" alt="丛林大冒险">
+</div>
+
+---
+## 小黄人大眼萌：神偷奶爸前传
+**Rating:** 7.1
+**Runtime:** 88分钟(中国大陆)
+**Country:** 美国
+**Director:** 凯尔·巴尔达 布拉德·埃布尔森 乔纳森·德尔瓦尔
+**Cast:** 史蒂夫·卡瑞尔 / 皮埃尔·柯芬 / 艾伦·阿金
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2877522569.jpg" alt="小黄人大眼萌：神偷奶爸前传">
 </div>
 
 ---
@@ -1025,7 +1047,7 @@
 ---
 ## 坚如磐石
 **Rating:** 0
-**Runtime:** 120分钟
+**Runtime:** 128分钟
 **Country:** 中国大陆
 **Director:** 张艺谋
 **Cast:** 雷佳音 / 张国立 / 于和伟
@@ -1080,7 +1102,7 @@
 ---
 ## 93国际列车大劫案：莫斯科行动
 **Rating:** 0
-**Runtime:** 120分钟
+**Runtime:** 129分钟
 **Country:** 中国大陆
 **Director:** 邱礼涛
 **Cast:** 张涵予 / 刘德华 / 黄轩
