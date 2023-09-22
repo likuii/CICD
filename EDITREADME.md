@@ -89,7 +89,7 @@
 
 ---
 ## 封神第一部：朝歌风云
-**Rating:** 8
+**Rating:** 7.9
 **Runtime:** 148分钟
 **Country:** 中国大陆
 **Director:** 乌尔善
