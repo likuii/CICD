@@ -100,7 +100,7 @@
 
 ---
 ## 暗杀风暴
-**Rating:** 6
+**Rating:** 5.9
 **Runtime:** 100分钟
 **Country:** 中国大陆 中国香港
 **Director:** 邱礼涛
@@ -705,7 +705,7 @@
 
 ---
 ## 汤道
-**Rating:** 7.1
+**Rating:** 7.2
 **Runtime:** 126分钟
 **Country:** 日本
 **Director:** 铃木雅之
