@@ -760,7 +760,7 @@
 
 ---
 ## 汤道
-**Rating:** 7.2
+**Rating:** 7.1
 **Runtime:** 126分钟
 **Country:** 日本
 **Director:** 铃木雅之
