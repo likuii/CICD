@@ -12,7 +12,7 @@
 
 ---
 ## 鹦鹉杀
-**Rating:** 6.2
+**Rating:** 6.1
 **Runtime:** 101分钟
 **Country:** 中国大陆
 **Director:** 麻赢心
