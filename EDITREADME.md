@@ -995,7 +995,7 @@
 **Runtime:** 141分钟
 **Country:** 中国大陆
 **Director:** 陈凯歌
-**Cast:** 辛柏青 / 朱一龙 / 张子枫
+**Cast:** 唐国强 / 王砚辉 / 刘劲
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2898315781.jpg" alt="志愿军：雄兵出击">
 </div>
