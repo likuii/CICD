@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 巴特利特湾的海獭，冰川湾国家公园，阿拉斯加州 (© Andrew Peacock/Tandem Stills + Motion)
+
+![巴特利特湾的海獭，冰川湾国家公园，阿拉斯加州 (© Andrew Peacock/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GlacierBayOtter_ZH-CN6065209551_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E6%B5%B7%E7%8D%AD&form=hpcapt&mkt=zh-cn)
+
 ## 罗布森山附近的弗雷泽河，大不列颠哥伦比亚省，加拿大 (© phototropic/Getty Images)
 
 ![罗布森山附近的弗雷泽河，大不列颠哥伦比亚省，加拿大 (© phototropic/Getty Images)](https://cn.bing.com/th?id=OHR.FraserRiverBC_ZH-CN5743867197_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![哈德良长城，诺森伯兰郡国家公园，英国 (© daverhead/Getty Images)](https://cn.bing.com/th?id=OHR.HadriansWallUK_ZH-CN9203571422_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%93%88%E5%BE%B7%E8%89%AF%E9%95%BF%E5%9F%8E&form=hpcapt&mkt=zh-cn)
-
-## 西南阿连特茹和维森廷海岸自然公园上空的银河，葡萄牙 (© Daniel Garrido/Getty Images)
-
-![西南阿连特茹和维森廷海岸自然公园上空的银河，葡萄牙 (© Daniel Garrido/Getty Images)](https://cn.bing.com/th?id=OHR.MilkyWayPortugal_ZH-CN8878883229_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E9%98%BF%E8%BF%9E%E7%89%B9%E8%8C%B9&form=hpcapt&mkt=zh-cn)
 
