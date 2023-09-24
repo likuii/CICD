@@ -926,7 +926,7 @@
 ---
 ## 好像也没那么热血沸腾
 **Rating:** 0
-**Runtime:** 136分钟
+**Runtime:** 134分钟
 **Country:** 中国大陆
 **Director:** 高虎
 **Cast:** 魏翔 / 王智 / 岳亮
@@ -970,10 +970,10 @@
 ---
 ## 汪汪队立大功大电影2：超能大冒险
 **Rating:** 0
-**Runtime:** 88分钟
-**Country:** 美国
+**Runtime:** 92分钟
+**Country:** 美国 加拿大
 **Director:** 卡尔·布伦克尔
-**Cast:** 詹姆斯·麦斯登 / 麦肯娜·格瑞丝 / 伊恩·阿米蒂奇
+**Cast:** 芬恩·李-埃普 / 麦肯娜·格瑞丝 / 克里斯蒂安·康佛瑞
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897946307.jpg" alt="汪汪队立大功大电影2：超能大冒险">
 </div>
