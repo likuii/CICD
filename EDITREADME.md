@@ -407,6 +407,17 @@
 </div>
 
 ---
+## 看不见的他们
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 李飞
+**Cast:** 和佳蓉 / 毛凡 / 陈晓霞
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2895989952.jpg" alt="看不见的他们">
+</div>
+
+---
 ## 雪豹和她的朋友们
 **Rating:** 8.4
 **Runtime:** 85分钟
@@ -712,6 +723,17 @@
 **Cast:** 刘桦 / 刘金山 / 金雅琴
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1839342787.jpg" alt="万家灯火">
+</div>
+
+---
+## 草原大作战
+**Rating:** 0
+**Runtime:** 82分钟(中国大陆)
+**Country:** 俄罗斯
+**Director:** Andrey Galat 马克西姆·沃尔科夫
+**Cast:** JB·布兰科 / 汤姆·费尔顿 / 罗斯·马昆德
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2864252833.jpg" alt="草原大作战">
 </div>
 
 ---
