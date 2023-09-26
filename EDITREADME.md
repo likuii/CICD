@@ -594,6 +594,17 @@
 </div>
 
 ---
+## 汪汪队立大功之超能救援
+**Rating:** 6
+**Runtime:** 89分钟
+**Country:** 美国 加拿大
+**Director:** 查尔斯·E·巴斯蒂安
+**Cast:** 麦克斯·卡林内斯库 / 德文·科恩 / 德鲁·戴维斯
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2624458010.jpg" alt="汪汪队立大功之超能救援">
+</div>
+
+---
 ## 风云儿女
 **Rating:** 7.4
 **Runtime:** 89分钟
