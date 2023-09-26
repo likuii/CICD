@@ -775,7 +775,7 @@
 **Runtime:** 129分钟
 **Country:** 中国大陆
 **Director:** 田羽生
-**Cast:** 韩庚 / 郑恺 / 于文文
+**Cast:** 韩庚 / 郑恺 / 刘雅瑟
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898244180.jpg" alt="前任4：英年早婚">
 </div>
