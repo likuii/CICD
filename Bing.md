@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 克虏伯路，卡普里岛，意大利 (© Mikolaj Niemczewski/Shutterstock)
+
+![克虏伯路，卡普里岛，意大利 (© Mikolaj Niemczewski/Shutterstock)](https://cn.bing.com/th?id=OHR.CapriKrupp_ZH-CN6893334288_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%8D%A1%E6%99%AE%E9%87%8C%E5%B2%9B&form=hpcapt&mkt=zh-cn)
+
 ## 日落时的威尼斯海滩滑板公园，洛杉矶，加利福尼亚州 (© EXTREME-PHOTOGRAPHER/Getty Images)
 
 ![日落时的威尼斯海滩滑板公园，洛杉矶，加利福尼亚州 (© EXTREME-PHOTOGRAPHER/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceSkatePark_ZH-CN6295228801_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![诺贝尔和平中心内部，奥斯陆，挪威 (© Ilyas Ayub/Alamy)](https://cn.bing.com/th?id=OHR.NobelNorway_ZH-CN9824054026_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E4%B8%AD%E5%BF%83&form=hpcapt&mkt=zh-cn)
-
-## 罗马风格的渡槽，阿卡迪亚公园，波兰 (© PATSTOCK/Getty Images)
-
-![罗马风格的渡槽，阿卡迪亚公园，波兰 (© PATSTOCK/Getty Images)](https://cn.bing.com/th?id=OHR.ArkadiaPark_ZH-CN9501056317_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E6%B8%A1%E6%A7%BD&form=hpcapt&mkt=zh-cn)
 
