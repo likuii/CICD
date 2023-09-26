@@ -755,7 +755,7 @@
 **Director:** 陈凯歌
 **Cast:** 唐国强 / 王砚辉 / 刘劲
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2898315781.jpg" alt="志愿军：雄兵出击">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898557049.jpg" alt="志愿军：雄兵出击">
 </div>
 
 ---
@@ -777,7 +777,7 @@
 **Director:** 高虎
 **Cast:** 魏翔 / 王智 / 岳亮
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897173105.jpg" alt="好像也没那么热血沸腾">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898557668.jpg" alt="好像也没那么热血沸腾">
 </div>
 
 ---
@@ -799,7 +799,7 @@
 **Director:** 邱礼涛
 **Cast:** 张涵予 / 刘德华 / 黄轩
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897474652.jpg" alt="93国际列车大劫案：莫斯科行动">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898556939.jpg" alt="93国际列车大劫案：莫斯科行动">
 </div>
 
 ---
