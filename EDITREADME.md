@@ -704,14 +704,14 @@
 </div>
 
 ---
-## 志愿军：雄兵出击
+## 志愿军第一部：雄兵出击
 **Rating:** 0
 **Runtime:** 141分钟
 **Country:** 中国大陆
 **Director:** 陈凯歌
 **Cast:** 唐国强 / 王砚辉 / 刘劲
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898557049.jpg" alt="志愿军：雄兵出击">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898557049.jpg" alt="志愿军第一部：雄兵出击">
 </div>
 
 ---
