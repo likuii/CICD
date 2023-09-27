@@ -44,17 +44,6 @@
 </div>
 
 ---
-## 鹦鹉杀
-**Rating:** 6.1
-**Runtime:** 101分钟
-**Country:** 中国大陆
-**Director:** 麻赢心
-**Cast:** 周冬雨 / 章宇 / 张宥浩
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897518505.jpg" alt="鹦鹉杀">
-</div>
-
----
 ## 敢死队4：最终章
 **Rating:** 5
 **Runtime:** 101分钟(中国大陆)
@@ -63,6 +52,17 @@
 **Cast:** 杰森·斯坦森 / 50分 / 梅根·福克斯
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897558506.jpg" alt="敢死队4：最终章">
+</div>
+
+---
+## 鹦鹉杀
+**Rating:** 6.1
+**Runtime:** 101分钟
+**Country:** 中国大陆
+**Director:** 麻赢心
+**Cast:** 周冬雨 / 章宇 / 张宥浩
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897518505.jpg" alt="鹦鹉杀">
 </div>
 
 ---
@@ -77,14 +77,14 @@
 </div>
 
 ---
-## 封神第一部：朝歌风云
-**Rating:** 7.9
-**Runtime:** 148分钟
-**Country:** 中国大陆
-**Director:** 乌尔善
-**Cast:** 费翔 / 李雪健 / 黄渤
+## GT赛车：极速狂飙
+**Rating:** 7.4
+**Runtime:** 135分钟
+**Country:** 美国 日本
+**Director:** 尼尔·布洛姆坎普
+**Cast:** 大卫·哈伯 / 奥兰多·布鲁姆 / 阿奇·马德基
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.jpg" alt="封神第一部：朝歌风云">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897205491.jpg" alt="GT赛车：极速狂飙">
 </div>
 
 ---
@@ -96,6 +96,17 @@
 **Cast:** 郑秀文 / 陆骏光 / 谈善言
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897543710.jpg" alt="流水落花">
+</div>
+
+---
+## 封神第一部：朝歌风云
+**Rating:** 7.9
+**Runtime:** 148分钟
+**Country:** 中国大陆
+**Director:** 乌尔善
+**Cast:** 费翔 / 李雪健 / 黄渤
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.jpg" alt="封神第一部：朝歌风云">
 </div>
 
 ---
@@ -132,6 +143,17 @@
 </div>
 
 ---
+## 三贵情史
+**Rating:** 6.3
+**Runtime:** 108分钟
+**Country:** 中国大陆
+**Director:** 刘斯逸
+**Cast:** 胡先煦 / 姚晨 / 周也
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897753821.jpg" alt="三贵情史">
+</div>
+
+---
 ## 学爸
 **Rating:** 6.6
 **Runtime:** 118分钟
@@ -140,17 +162,6 @@
 **Cast:** 黄渤 / 单禹豪 / 闫妮
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896597470.jpg" alt="学爸">
-</div>
-
----
-## 茶啊二中
-**Rating:** 7.5
-**Runtime:** 91分钟
-**Country:** 中国大陆
-**Director:** 夏铭泽 阎凯
-**Cast:** 邢原源 / 王博文 / 高禹恒
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895351514.jpg" alt="茶啊二中">
 </div>
 
 ---
@@ -165,47 +176,14 @@
 </div>
 
 ---
-## GT赛车：极速狂飙
-**Rating:** 7.4
-**Runtime:** 135分钟
-**Country:** 美国 日本
-**Director:** 尼尔·布洛姆坎普
-**Cast:** 大卫·哈伯 / 奥兰多·布鲁姆 / 阿奇·马德基
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897205491.jpg" alt="GT赛车：极速狂飙">
-</div>
-
----
-## 三贵情史
-**Rating:** 6.3
-**Runtime:** 108分钟
+## 茶啊二中
+**Rating:** 7.5
+**Runtime:** 91分钟
 **Country:** 中国大陆
-**Director:** 刘斯逸
-**Cast:** 胡先煦 / 姚晨 / 周也
+**Director:** 夏铭泽 阎凯
+**Cast:** 邢原源 / 王博文 / 高禹恒
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897753821.jpg" alt="三贵情史">
-</div>
-
----
-## 厨神驾到
-**Rating:** 0
-**Runtime:** 88分钟
-**Country:** 中国大陆
-**Director:** 李克龙
-**Cast:** 孙涛 / 韩云云 / 克拉拉
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897559555.jpg" alt="厨神驾到">
-</div>
-
----
-## 八角笼中
-**Rating:** 7.4
-**Runtime:** 117分钟
-**Country:** 中国大陆
-**Director:** 王宝强
-**Cast:** 王宝强 / 陈永胜 / 史彭元
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893476407.jpg" alt="八角笼中">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895351514.jpg" alt="茶啊二中">
 </div>
 
 ---
@@ -220,6 +198,28 @@
 </div>
 
 ---
+## 八角笼中
+**Rating:** 7.4
+**Runtime:** 117分钟
+**Country:** 中国大陆
+**Director:** 王宝强
+**Cast:** 王宝强 / 陈永胜 / 史彭元
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893476407.jpg" alt="八角笼中">
+</div>
+
+---
+## 厨神驾到
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 李克龙
+**Cast:** 孙涛 / 韩云云 / 克拉拉
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897559555.jpg" alt="厨神驾到">
+</div>
+
+---
 ## 芭比
 **Rating:** 8.1
 **Runtime:** 114分钟
@@ -228,17 +228,6 @@
 **Cast:** 玛格特·罗比 / 瑞恩·高斯林 / 亚美莉卡·费雷拉
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895679456.jpg" alt="芭比">
-</div>
-
----
-## 长安三万里
-**Rating:** 8.3
-**Runtime:** 168分钟
-**Country:** 中国大陆
-**Director:** 谢君伟 邹靖
-**Cast:** 杨天翔 / 凌振赫 / 吴俊全
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893820209.jpg" alt="长安三万里">
 </div>
 
 ---
@@ -253,14 +242,14 @@
 </div>
 
 ---
-## 巨齿鲨2：深渊
-**Rating:** 5.2
-**Runtime:** 119分钟
-**Country:** 美国 中国大陆
-**Director:** 本·维特利 
-**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
+## 长安三万里
+**Rating:** 8.3
+**Runtime:** 168分钟
+**Country:** 中国大陆
+**Director:** 谢君伟 邹靖
+**Cast:** 杨天翔 / 凌振赫 / 吴俊全
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893820209.jpg" alt="长安三万里">
 </div>
 
 ---
@@ -286,14 +275,14 @@
 </div>
 
 ---
-## 江米儿
-**Rating:** 0
-**Runtime:** 96分钟
-**Country:** 中国大陆
-**Director:** 潘朝奉
-**Cast:** 丹增挠杰 / 昂桑 / 扎西拉宗
+## 巨齿鲨2：深渊
+**Rating:** 5.2
+**Runtime:** 119分钟
+**Country:** 美国 中国大陆
+**Director:** 本·维特利 
+**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897831741.jpg" alt="江米儿">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
 </div>
 
 ---
@@ -305,6 +294,28 @@
 **Cast:** 吴镇宇 / 任素汐 / 李康生
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896823833.jpg" alt="意外人生">
+</div>
+
+---
+## 江米儿
+**Rating:** 0
+**Runtime:** 96分钟
+**Country:** 中国大陆
+**Director:** 潘朝奉
+**Cast:** 丹增挠杰 / 昂桑 / 扎西拉宗
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897831741.jpg" alt="江米儿">
+</div>
+
+---
+## 毒蜂
+**Rating:** 0
+**Runtime:** 104分钟
+**Country:** 中国大陆
+**Director:** 潘文杰
+**Cast:** 富大龙 / 许亚军 / 高梓淇
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897994781.jpg" alt="毒蜂">
 </div>
 
 ---
@@ -330,28 +341,6 @@
 </div>
 
 ---
-## 嗨！神兽
-**Rating:** 0
-**Runtime:** 88分钟
-**Country:** 中国台湾
-**Director:** 池家庆
-**Cast:** 杨采妮 / 白润音 / 李李仁
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897839013.jpg" alt="嗨！神兽">
-</div>
-
----
-## 毒蜂
-**Rating:** 0
-**Runtime:** 104分钟
-**Country:** 中国大陆
-**Director:** 潘文杰
-**Cast:** 富大龙 / 许亚军 / 高梓淇
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897994781.jpg" alt="毒蜂">
-</div>
-
----
 ## 踢球吧少年
 **Rating:** 0
 **Runtime:** 91分钟
@@ -360,6 +349,17 @@
 **Cast:** 贾冰 / 冯文娟 / 常远
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897496282.jpg" alt="踢球吧少年">
+</div>
+
+---
+## 嗨！神兽
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国台湾
+**Director:** 池家庆
+**Cast:** 杨采妮 / 白润音 / 李李仁
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897839013.jpg" alt="嗨！神兽">
 </div>
 
 ---
@@ -451,28 +451,6 @@
 </div>
 
 ---
-## 驯龙高手
-**Rating:** 8.8
-**Runtime:** 98分钟
-**Country:** 美国
-**Director:** 迪恩·德布洛斯 克里斯·桑德斯
-**Cast:** 杰伊·巴鲁切尔 / 杰拉德·巴特勒 / 克雷格·费格森
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p490385643.jpg" alt="驯龙高手">
-</div>
-
----
-## 丛林大冒险
-**Rating:** 0
-**Runtime:** 81分钟(中国大陆)
-**Country:** 德国
-**Director:** Mimi Maynard Regina Welker Nina Wels
-**Cast:** Ashley Bornancin / Danny Fehsenfeld / Leslie L. Miller
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2884794796.jpg" alt="丛林大冒险">
-</div>
-
----
 ## 潜艇总动员：环游地球80天
 **Rating:** 0
 **Runtime:** 80分钟
@@ -481,6 +459,17 @@
 **Cast:** 张嘉祺 / 李云龙 / 蔡旭东
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896442997.jpg" alt="潜艇总动员：环游地球80天">
+</div>
+
+---
+## 驯龙高手
+**Rating:** 8.8
+**Runtime:** 98分钟
+**Country:** 美国
+**Director:** 迪恩·德布洛斯 克里斯·桑德斯
+**Cast:** 杰伊·巴鲁切尔 / 杰拉德·巴特勒 / 克雷格·费格森
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p490385643.jpg" alt="驯龙高手">
 </div>
 
 ---
@@ -503,6 +492,17 @@
 **Cast:** 马修·麦康纳 / 瑞茜·威瑟斯彭 / 塞思·麦克法兰
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2411622136.jpg" alt="欢乐好声音">
+</div>
+
+---
+## 丛林大冒险
+**Rating:** 0
+**Runtime:** 81分钟(中国大陆)
+**Country:** 德国
+**Director:** Mimi Maynard Regina Welker Nina Wels
+**Cast:** Ashley Bornancin / Danny Fehsenfeld / Leslie L. Miller
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2884794796.jpg" alt="丛林大冒险">
 </div>
 
 ---
@@ -561,17 +561,6 @@
 </div>
 
 ---
-## 银河铁道999
-**Rating:** 8.2
-**Runtime:** 129分钟
-**Country:** 日本
-**Director:** 林太郎
-**Cast:** 野泽雅子 / 池田昌子 / 麻上洋子
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p551591781.jpg" alt="银河铁道999">
-</div>
-
----
 ## 汪汪队立大功之超能救援
 **Rating:** 6
 **Runtime:** 89分钟
@@ -583,6 +572,17 @@
 </div>
 
 ---
+## 银河铁道999
+**Rating:** 8.2
+**Runtime:** 129分钟
+**Country:** 日本
+**Director:** 林太郎
+**Cast:** 野泽雅子 / 池田昌子 / 麻上洋子
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p551591781.jpg" alt="银河铁道999">
+</div>
+
+---
 ## 夜店
 **Rating:** 7.2
 **Runtime:** 107分钟
@@ -591,6 +591,28 @@
 **Cast:** 石挥 / 童芷苓 / 周璇
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2028938323.jpg" alt="夜店">
+</div>
+
+---
+## 阿依达
+**Rating:** 0
+**Runtime:** 
+**Country:** 美国
+**Director:** 
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2580652380.jpg" alt="阿依达">
+</div>
+
+---
+## 草原大作战
+**Rating:** 0
+**Runtime:** 82分钟(中国大陆)
+**Country:** 俄罗斯
+**Director:** Andrey Galat 马克西姆·沃尔科夫
+**Cast:** JB·布兰科 / 汤姆·费尔顿 / 罗斯·马昆德
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2864252833.jpg" alt="草原大作战">
 </div>
 
 ---
@@ -616,17 +638,6 @@
 </div>
 
 ---
-## 万家灯火
-**Rating:** 6.9
-**Runtime:** 103分钟
-**Country:** 中国大陆
-**Director:** 安战军
-**Cast:** 刘桦 / 刘金山 / 金雅琴
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1839342787.jpg" alt="万家灯火">
-</div>
-
----
 ## 方珍珠
 **Rating:** 7.5
 **Runtime:** 97分钟
@@ -638,25 +649,14 @@
 </div>
 
 ---
-## 阿依达
-**Rating:** 0
-**Runtime:** 
-**Country:** 美国
-**Director:** 
-**Cast:** 
+## 万家灯火
+**Rating:** 6.9
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 安战军
+**Cast:** 刘桦 / 刘金山 / 金雅琴
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2580652380.jpg" alt="阿依达">
-</div>
-
----
-## 草原大作战
-**Rating:** 0
-**Runtime:** 82分钟(中国大陆)
-**Country:** 俄罗斯
-**Director:** Andrey Galat 马克西姆·沃尔科夫
-**Cast:** JB·布兰科 / 汤姆·费尔顿 / 罗斯·马昆德
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2864252833.jpg" alt="草原大作战">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1839342787.jpg" alt="万家灯火">
 </div>
 
 ---
