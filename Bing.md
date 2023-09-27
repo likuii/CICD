@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 泰国商业港口附近的集装箱船 (© Suriyapong Thongsawang/Getty Images)
+
+![泰国商业港口附近的集装箱船 (© Suriyapong Thongsawang/Getty Images)](https://cn.bing.com/th?id=OHR.MaritimeDay_ZH-CN7073219075_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E4%BA%8B%E6%97%A5&form=hpcapt&mkt=zh-cn)
+
 ## 克虏伯路，卡普里岛，意大利 (© Mikolaj Niemczewski/Shutterstock)
 
 ![克虏伯路，卡普里岛，意大利 (© Mikolaj Niemczewski/Shutterstock)](https://cn.bing.com/th?id=OHR.CapriKrupp_ZH-CN6893334288_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![马尔萨拉盐田，意大利 (© javarman3/Getty Images)](https://cn.bing.com/th?id=OHR.MarsalaSalt_ZH-CN4943158328_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E9%A9%AC%E5%B0%94%E8%90%A8%E6%8B%89&form=hpcapt&mkt=zh-cn)
-
-## 诺贝尔和平中心内部，奥斯陆，挪威 (© Ilyas Ayub/Alamy)
-
-![诺贝尔和平中心内部，奥斯陆，挪威 (© Ilyas Ayub/Alamy)](https://cn.bing.com/th?id=OHR.NobelNorway_ZH-CN9824054026_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E4%B8%AD%E5%BF%83&form=hpcapt&mkt=zh-cn)
 
