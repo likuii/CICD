@@ -22,14 +22,14 @@
 </div>
 
 ---
-## 好像也没那么热血沸腾
-**Rating:** 0
-**Runtime:** 134分钟
-**Country:** 中国大陆
-**Director:** 高虎
-**Cast:** 魏翔 / 王智 / 岳亮
+## 奥本海默
+**Rating:** 8.8
+**Runtime:** 180分钟
+**Country:** 美国 英国
+**Director:** 克里斯托弗·诺兰
+**Cast:** 基里安·墨菲 / 艾米莉·布朗特 / 马特·达蒙
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898557668.jpg" alt="好像也没那么热血沸腾">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897210097.jpg" alt="奥本海默">
 </div>
 
 ---
@@ -44,14 +44,14 @@
 </div>
 
 ---
-## 奥本海默
-**Rating:** 8.8
-**Runtime:** 180分钟
-**Country:** 美国 英国
-**Director:** 克里斯托弗·诺兰
-**Cast:** 基里安·墨菲 / 艾米莉·布朗特 / 马特·达蒙
+## 好像也没那么热血沸腾
+**Rating:** 0
+**Runtime:** 134分钟
+**Country:** 中国大陆
+**Director:** 高虎
+**Cast:** 魏翔 / 王智 / 岳亮
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897210097.jpg" alt="奥本海默">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898557668.jpg" alt="好像也没那么热血沸腾">
 </div>
 
 ---
