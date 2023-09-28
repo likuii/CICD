@@ -595,7 +595,7 @@
 
 ---
 ## 银河铁道999
-**Rating:** 8.2
+**Rating:** 8.1
 **Runtime:** 129分钟
 **Country:** 日本
 **Director:** 林太郎
