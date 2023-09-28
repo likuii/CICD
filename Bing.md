@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 满月下的甲秀楼，中国贵州省贵阳市 (© Wang Yukun/Getty Images)
+
+![满月下的甲秀楼，中国贵州省贵阳市 (© Wang Yukun/Getty Images)](https://cn.bing.com/th?id=OHR.GuiyangMoon_ZH-CN7497119092_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E4%B8%AD%E7%A7%8B%E8%8A%82&form=hpcapt&mkt=zh-cn)
+
 ## 泰国商业港口附近的集装箱船 (© Suriyapong Thongsawang/Getty Images)
 
 ![泰国商业港口附近的集装箱船 (© Suriyapong Thongsawang/Getty Images)](https://cn.bing.com/th?id=OHR.MaritimeDay_ZH-CN7073219075_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![郊狼谷的棉白杨和红砂岩，格兰峡谷国家保护区，犹他州 (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CottonwoodCanyon_ZH-CN5293620973_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E9%83%8A%E7%8B%BC%E8%B0%B7&form=hpcapt&mkt=zh-cn)
-
-## 马尔萨拉盐田，意大利 (© javarman3/Getty Images)
-
-![马尔萨拉盐田，意大利 (© javarman3/Getty Images)](https://cn.bing.com/th?id=OHR.MarsalaSalt_ZH-CN4943158328_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E9%A9%AC%E5%B0%94%E8%90%A8%E6%8B%89&form=hpcapt&mkt=zh-cn)
 
