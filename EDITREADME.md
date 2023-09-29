@@ -253,6 +253,17 @@
 </div>
 
 ---
+## 芭比
+**Rating:** 8.1
+**Runtime:** 114分钟
+**Country:** 加拿大 美国
+**Director:** 格蕾塔·葛韦格
+**Cast:** 玛格特·罗比 / 瑞恩·高斯林 / 亚美莉卡·费雷拉
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895679456.jpg" alt="芭比">
+</div>
+
+---
 ## 巨齿鲨2：深渊
 **Rating:** 5.2
 **Runtime:** 119分钟
