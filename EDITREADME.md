@@ -33,6 +33,17 @@
 </div>
 
 ---
+## 93国际列车大劫案：莫斯科行动
+**Rating:** 0
+**Runtime:** 128分钟
+**Country:** 中国大陆
+**Director:** 邱礼涛
+**Cast:** 张涵予 / 刘德华 / 黄轩
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898556939.jpg" alt="93国际列车大劫案：莫斯科行动">
+</div>
+
+---
 ## 前任4：英年早婚
 **Rating:** 0
 **Runtime:** 129分钟
@@ -184,6 +195,28 @@
 **Cast:** 杨天翔 / 凌振赫 / 吴俊全
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893820209.jpg" alt="长安三万里">
+</div>
+
+---
+## 火山挚恋
+**Rating:** 9
+**Runtime:** 99分钟
+**Country:** 美国 加拿大
+**Director:** 萨拉·多萨
+**Cast:** 卡蒂娅·克拉夫特 / 莫里斯·克拉夫特 / 米兰达·裘丽
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896531014.jpg" alt="火山挚恋">
+</div>
+
+---
+## 学爸
+**Rating:** 6.6
+**Runtime:** 118分钟
+**Country:** 中国大陆
+**Director:** 苏亮
+**Cast:** 黄渤 / 单禹豪 / 闫妮
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896597470.jpg" alt="学爸">
 </div>
 
 ---
@@ -382,17 +415,6 @@
 **Cast:** 马虎 / 梁正双 / 张锦新
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2672790912.jpg" alt="棒！少年">
-</div>
-
----
-## 莫斯科行动
-**Rating:** 7.4
-**Runtime:** 45分钟
-**Country:** 中国大陆
-**Director:** 张睿
-**Cast:** 夏雨 / 吴优 / 张志坚
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2509782224.jpg" alt="莫斯科行动">
 </div>
 
 ---
