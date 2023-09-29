@@ -67,7 +67,7 @@
 
 ---
 ## 第八个嫌疑人
-**Rating:** 6.3
+**Rating:** 6.2
 **Runtime:** 111分钟
 **Country:** 中国大陆 中国香港
 **Director:** 李子俊
@@ -167,12 +167,12 @@
 ---
 ## 我是哪吒2之英雄归来
 **Rating:** 0
-**Runtime:** 90分钟
+**Runtime:** 85分钟
 **Country:** 中国大陆
-**Director:** 文帝 陈朝意
-**Cast:** 
+**Director:** 文帝 陈朝意 
+**Cast:** 王薇 / 藤新 / 傅晨阳
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895457910.jpg" alt="我是哪吒2之英雄归来">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2898678444.jpg" alt="我是哪吒2之英雄归来">
 </div>
 
 ---
