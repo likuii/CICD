@@ -187,6 +187,17 @@
 </div>
 
 ---
+## 燃冬
+**Rating:** 6.1
+**Runtime:** 97分钟
+**Country:** 中国大陆
+**Director:** 陈哲艺
+**Cast:** 周冬雨 / 刘昊然 / 屈楚萧
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2894025389.jpg" alt="燃冬">
+</div>
+
+---
 ## 长安三万里
 **Rating:** 8.3
 **Runtime:** 168分钟
