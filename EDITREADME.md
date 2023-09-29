@@ -55,6 +55,17 @@
 </div>
 
 ---
+## 奥本海默
+**Rating:** 8.8
+**Runtime:** 180分钟
+**Country:** 美国 英国
+**Director:** 克里斯托弗·诺兰
+**Cast:** 基里安·墨菲 / 艾米莉·布朗特 / 马特·达蒙
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897210097.jpg" alt="奥本海默">
+</div>
+
+---
 ## 第八个嫌疑人
 **Rating:** 6.2
 **Runtime:** 111分钟
@@ -63,6 +74,17 @@
 **Cast:** 大鹏 / 林家栋 / 张颂文
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897543922.jpg" alt="第八个嫌疑人">
+</div>
+
+---
+## GT赛车：极速狂飙
+**Rating:** 7.3
+**Runtime:** 135分钟
+**Country:** 美国 日本
+**Director:** 尼尔·布洛姆坎普
+**Cast:** 大卫·哈伯 / 奥兰多·布鲁姆 / 阿奇·马德基
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897205491.jpg" alt="GT赛车：极速狂飙">
 </div>
 
 ---
@@ -121,6 +143,17 @@
 </div>
 
 ---
+## 封神第一部：朝歌风云
+**Rating:** 7.9
+**Runtime:** 148分钟
+**Country:** 中国大陆
+**Director:** 乌尔善
+**Cast:** 费翔 / 李雪健 / 黄渤
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.jpg" alt="封神第一部：朝歌风云">
+</div>
+
+---
 ## 孤注一掷
 **Rating:** 6.9
 **Runtime:** 130分钟
@@ -154,6 +187,17 @@
 </div>
 
 ---
+## 燃冬
+**Rating:** 6.1
+**Runtime:** 97分钟
+**Country:** 中国大陆
+**Director:** 陈哲艺
+**Cast:** 周冬雨 / 刘昊然 / 屈楚萧
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2894025389.jpg" alt="燃冬">
+</div>
+
+---
 ## 长安三万里
 **Rating:** 8.3
 **Runtime:** 168分钟
@@ -162,6 +206,17 @@
 **Cast:** 杨天翔 / 凌振赫 / 吴俊全
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893820209.jpg" alt="长安三万里">
+</div>
+
+---
+## 火山挚恋
+**Rating:** 9
+**Runtime:** 99分钟
+**Country:** 美国 加拿大
+**Director:** 萨拉·多萨
+**Cast:** 卡蒂娅·克拉夫特 / 莫里斯·克拉夫特 / 米兰达·裘丽
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896531014.jpg" alt="火山挚恋">
 </div>
 
 ---
@@ -187,6 +242,39 @@
 </div>
 
 ---
+## 学爸
+**Rating:** 6.6
+**Runtime:** 118分钟
+**Country:** 中国大陆
+**Director:** 苏亮
+**Cast:** 黄渤 / 单禹豪 / 闫妮
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896597470.jpg" alt="学爸">
+</div>
+
+---
+## 热烈
+**Rating:** 7.3
+**Runtime:** 124分钟
+**Country:** 中国大陆
+**Director:** 大鹏
+**Cast:** 黄渤 / 王一博 / 刘敏涛
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895553074.jpg" alt="热烈">
+</div>
+
+---
+## 芭比
+**Rating:** 8.1
+**Runtime:** 114分钟
+**Country:** 加拿大 美国
+**Director:** 格蕾塔·葛韦格
+**Cast:** 玛格特·罗比 / 瑞恩·高斯林 / 亚美莉卡·费雷拉
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895679456.jpg" alt="芭比">
+</div>
+
+---
 ## 小美人鱼之大海怪传说
 **Rating:** 0
 **Runtime:** 80分钟
@@ -209,14 +297,135 @@
 </div>
 
 ---
-## 红色恋人
-**Rating:** 7.1
-**Runtime:** 98分钟
-**Country:** 中国大陆
-**Director:** 叶大鹰
-**Cast:** 张国荣 / 梅婷 / 泰德·巴勃考克
+## 巨齿鲨2：深渊
+**Rating:** 5.2
+**Runtime:** 119分钟
+**Country:** 美国 中国大陆
+**Director:** 本·维特利 
+**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896534116.jpg" alt="红色恋人">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
+</div>
+
+---
+## 曾经炽热的我们
+**Rating:** 0
+**Runtime:** 104分钟
+**Country:** 中国大陆
+**Director:** 马小刚
+**Cast:** 周政杰 / 卢洋洋 / 骆明劼
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2898024093.jpg" alt="曾经炽热的我们">
+</div>
+
+---
+## 青木劫
+**Rating:** 0
+**Runtime:** 86分钟
+**Country:** 中国大陆
+**Director:** 一水
+**Cast:** 赵帅 / 葛昊 / 曹高波
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896553323.jpg" alt="青木劫">
+</div>
+
+---
+## 幸福小马灯
+**Rating:** 0
+**Runtime:** 97分钟
+**Country:** 中国大陆
+**Director:** 凌雨
+**Cast:** 
+<div align="left">
+<img src="https://img1.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png" alt="幸福小马灯">
+</div>
+
+---
+## 驯龙高手
+**Rating:** 8.8
+**Runtime:** 98分钟
+**Country:** 美国
+**Director:** 迪恩·德布洛斯 克里斯·桑德斯
+**Cast:** 杰伊·巴鲁切尔 / 杰拉德·巴特勒 / 克雷格·费格森
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p490385643.jpg" alt="驯龙高手">
+</div>
+
+---
+## 雪豹和她的朋友们
+**Rating:** 8.4
+**Runtime:** 85分钟
+**Country:** 中国大陆
+**Director:** 奚志农
+**Cast:** 朱亚文
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896344803.jpg" alt="雪豹和她的朋友们">
+</div>
+
+---
+## 功夫熊猫
+**Rating:** 8.2
+**Runtime:** 95分钟
+**Country:** 美国
+**Director:** 马克·奥斯本 约翰·斯蒂文森
+**Cast:** 杰克·布莱克 / 达斯汀·霍夫曼 / 安吉丽娜·朱莉
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1597238857.jpg" alt="功夫熊猫">
+</div>
+
+---
+## 欢乐好声音
+**Rating:** 8.1
+**Runtime:** 108分钟
+**Country:** 美国
+**Director:** 加斯·詹宁斯 克里斯托夫·卢尔德莱
+**Cast:** 马修·麦康纳 / 瑞茜·威瑟斯彭 / 塞思·麦克法兰
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2411622136.jpg" alt="欢乐好声音">
+</div>
+
+---
+## 小黄人大眼萌：神偷奶爸前传
+**Rating:** 7.1
+**Runtime:** 88分钟(中国大陆)
+**Country:** 美国
+**Director:** 凯尔·巴尔达 布拉德·埃布尔森 乔纳森·德尔瓦尔
+**Cast:** 史蒂夫·卡瑞尔 / 皮埃尔·柯芬 / 艾伦·阿金
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2877522569.jpg" alt="小黄人大眼萌：神偷奶爸前传">
+</div>
+
+---
+## 超级飞侠：乐迪加速
+**Rating:** 6.3
+**Runtime:** 89分钟
+**Country:** 中国大陆
+**Director:** 冯操
+**Cast:** 张嘉骐 / 吴若萱  / 何沛祺
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893886888.jpg" alt="超级飞侠：乐迪加速">
+</div>
+
+---
+## 长江
+**Rating:** 7.8
+**Runtime:** 50分钟
+**Country:** 中国大陆
+**Director:** 夏骏
+**Cast:** 胡阿祥 / 苏智良 / 王澍
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574476155.jpg" alt="长江">
+</div>
+
+---
+## 棒！少年
+**Rating:** 9
+**Runtime:** 30分钟
+**Country:** 中国大陆
+**Director:** 许慧晶
+**Cast:** 马虎 / 梁正双 / 张锦新
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2672790912.jpg" alt="棒！少年">
 </div>
 
 ---
