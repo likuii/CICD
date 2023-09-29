@@ -330,6 +330,17 @@
 </div>
 
 ---
+## 超级飞侠：乐迪加速
+**Rating:** 6.3
+**Runtime:** 89分钟
+**Country:** 中国大陆
+**Director:** 冯操
+**Cast:** 张嘉骐 / 吴若萱  / 何沛祺
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893886888.jpg" alt="超级飞侠：乐迪加速">
+</div>
+
+---
 ## 汪汪队立大功之超能救援
 **Rating:** 6
 **Runtime:** 89分钟
