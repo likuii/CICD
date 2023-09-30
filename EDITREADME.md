@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 坚如磐石
-**Rating:** 0
+**Rating:** 6.7
 **Runtime:** 127分钟
 **Country:** 中国大陆
 **Director:** 张艺谋
@@ -12,7 +12,7 @@
 
 ---
 ## 志愿军：雄兵出击
-**Rating:** 0
+**Rating:** 7.3
 **Runtime:** 141分钟
 **Country:** 中国大陆
 **Director:** 陈凯歌
@@ -34,7 +34,7 @@
 
 ---
 ## 93国际列车大劫案：莫斯科行动
-**Rating:** 0
+**Rating:** 7.3
 **Runtime:** 128分钟
 **Country:** 中国大陆
 **Director:** 邱礼涛
@@ -408,7 +408,7 @@
 
 ---
 ## 超级飞侠：乐迪加速
-**Rating:** 6.3
+**Rating:** 6.2
 **Runtime:** 89分钟
 **Country:** 中国大陆
 **Director:** 冯操
