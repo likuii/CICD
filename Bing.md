@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 雄伟壮丽的中国长城 (© Jeff_Hu/Getty Images)
+
+![雄伟壮丽的中国长城 (© Jeff_Hu/Getty Images)](https://cn.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E9%95%BF%E5%9F%8E&form=hpcapt&mkt=zh-cn)
+
 ## 仙纳度国家公园的秋色，弗吉尼亚州 (© Michael Ver Sprill/Getty Images)
 
 ![仙纳度国家公园的秋色，弗吉尼亚州 (© Michael Ver Sprill/Getty Images)](https://cn.bing.com/th?id=OHR.ShenandoahFoliage_ZH-CN9885452713_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![巴特利特湾的海獭，冰川湾国家公园，阿拉斯加州 (© Andrew Peacock/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GlacierBayOtter_ZH-CN6065209551_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E6%B5%B7%E7%8D%AD&form=hpcapt&mkt=zh-cn)
-
-## 罗布森山附近的弗雷泽河，大不列颠哥伦比亚省，加拿大 (© phototropic/Getty Images)
-
-![罗布森山附近的弗雷泽河，大不列颠哥伦比亚省，加拿大 (© phototropic/Getty Images)](https://cn.bing.com/th?id=OHR.FraserRiverBC_ZH-CN5743867197_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B2%B3%E6%B5%81%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
