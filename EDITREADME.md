@@ -418,6 +418,17 @@
 </div>
 
 ---
+## 欢乐丛林之外星人大冒险
+**Rating:** 0
+**Runtime:** 
+**Country:** 中国大陆
+**Director:** 
+**Cast:** 李凤良
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890512825.jpg" alt="欢乐丛林之外星人大冒险">
+</div>
+
+---
 ## 长江
 **Rating:** 7.8
 **Runtime:** 50分钟
