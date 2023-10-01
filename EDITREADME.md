@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 坚如磐石
-**Rating:** 6.6
+**Rating:** 6.5
 **Runtime:** 127分钟
 **Country:** 中国大陆
 **Director:** 张艺谋
