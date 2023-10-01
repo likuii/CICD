@@ -430,7 +430,7 @@
 
 ---
 ## 长江
-**Rating:** 7.8
+**Rating:** 7.9
 **Runtime:** 50分钟
 **Country:** 中国大陆
 **Director:** 夏骏
