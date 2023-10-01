@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国 (© luisapuccini/Getty Images)
+
+![韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国 (© luisapuccini/Getty Images)](https://cn.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E9%9F%A6%E5%B0%94%E4%B8%9C%E5%B3%A1%E8%B0%B7&form=hpcapt&mkt=zh-cn)
+
 ## 雄伟壮丽的中国长城 (© Jeff_Hu/Getty Images)
 
 ![雄伟壮丽的中国长城 (© Jeff_Hu/Getty Images)](https://cn.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![日落时的威尼斯海滩滑板公园，洛杉矶，加利福尼亚州 (© EXTREME-PHOTOGRAPHER/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceSkatePark_ZH-CN6295228801_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E5%A8%81%E5%B0%BC%E6%96%AF%E6%BB%91%E6%9D%BF%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
-
-## 巴特利特湾的海獭，冰川湾国家公园，阿拉斯加州 (© Andrew Peacock/Tandem Stills + Motion)
-
-![巴特利特湾的海獭，冰川湾国家公园，阿拉斯加州 (© Andrew Peacock/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GlacierBayOtter_ZH-CN6065209551_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E6%B5%B7%E7%8D%AD&form=hpcapt&mkt=zh-cn)
 
