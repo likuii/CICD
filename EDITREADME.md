@@ -155,7 +155,7 @@
 
 ---
 ## 敢死队4：最终章
-**Rating:** 5.1
+**Rating:** 5
 **Runtime:** 101分钟(中国大陆)
 **Country:** 美国
 **Director:** 斯科特·沃
