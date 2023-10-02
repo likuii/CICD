@@ -286,6 +286,17 @@
 </div>
 
 ---
+## 我经过风暴
+**Rating:** 7
+**Runtime:** 101分钟
+**Country:** 中国大陆
+**Director:** 秦海燕
+**Cast:** 佟丽娅 / 吴昱翰 / 王影璐
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896816460.jpg" alt="我经过风暴">
+</div>
+
+---
 ## 功夫王之萌虎上山
 **Rating:** 0
 **Runtime:** 82分钟
