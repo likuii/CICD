@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 白天堂海滩，圣灵群岛，昆士兰州，澳大利亚 (© Coral Brunner/Shutterstock)
+
+![白天堂海滩，圣灵群岛，昆士兰州，澳大利亚 (© Coral Brunner/Shutterstock)](https://cn.bing.com/th?id=OHR.WhitsundaySwirl_ZH-CN9085371328_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E7%99%BD%E5%A4%A9%E5%A0%82%E6%B5%B7%E6%BB%A9&form=hpcapt&mkt=zh-cn)
+
 ## 韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国 (© luisapuccini/Getty Images)
 
 ![韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国 (© luisapuccini/Getty Images)](https://cn.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![克虏伯路，卡普里岛，意大利 (© Mikolaj Niemczewski/Shutterstock)](https://cn.bing.com/th?id=OHR.CapriKrupp_ZH-CN6893334288_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%8D%A1%E6%99%AE%E9%87%8C%E5%B2%9B&form=hpcapt&mkt=zh-cn)
-
-## 日落时的威尼斯海滩滑板公园，洛杉矶，加利福尼亚州 (© EXTREME-PHOTOGRAPHER/Getty Images)
-
-![日落时的威尼斯海滩滑板公园，洛杉矶，加利福尼亚州 (© EXTREME-PHOTOGRAPHER/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceSkatePark_ZH-CN6295228801_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E5%A8%81%E5%B0%BC%E6%96%AF%E6%BB%91%E6%9D%BF%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
