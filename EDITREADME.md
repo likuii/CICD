@@ -232,7 +232,7 @@
 
 ---
 ## 茶啊二中
-**Rating:** 7.5
+**Rating:** 7.4
 **Runtime:** 91分钟
 **Country:** 中国大陆
 **Director:** 夏铭泽 阎凯
