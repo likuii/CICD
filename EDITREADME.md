@@ -408,7 +408,7 @@
 
 ---
 ## 超级飞侠：乐迪加速
-**Rating:** 6.2
+**Rating:** 6.3
 **Runtime:** 89分钟
 **Country:** 中国大陆
 **Director:** 冯操
