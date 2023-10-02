@@ -12,7 +12,7 @@
 
 ---
 ## 93国际列车大劫案：莫斯科行动
-**Rating:** 7.2
+**Rating:** 7.1
 **Runtime:** 128分钟
 **Country:** 中国大陆
 **Director:** 邱礼涛
@@ -23,7 +23,7 @@
 
 ---
 ## 志愿军：雄兵出击
-**Rating:** 7.3
+**Rating:** 7.2
 **Runtime:** 141分钟
 **Country:** 中国大陆
 **Director:** 陈凯歌
@@ -34,7 +34,7 @@
 
 ---
 ## 前任4：英年早婚
-**Rating:** 6.5
+**Rating:** 6.4
 **Runtime:** 129分钟
 **Country:** 中国大陆
 **Director:** 田羽生
