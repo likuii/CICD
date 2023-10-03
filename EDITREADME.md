@@ -524,7 +524,7 @@
 **Director:** 彭发
 **Cast:** 钟汉良 / 吴镇宇 / 张兆辉
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897502214.jpg" alt="困兽">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898863440.jpg" alt="困兽">
 </div>
 
 ---
