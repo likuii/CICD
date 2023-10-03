@@ -144,7 +144,7 @@
 
 ---
 ## GT赛车：极速狂飙
-**Rating:** 7.3
+**Rating:** 7.2
 **Runtime:** 134分钟
 **Country:** 美国 日本
 **Director:** 尼尔·布洛姆坎普
