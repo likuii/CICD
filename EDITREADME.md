@@ -1,7 +1,7 @@
 # Douban Currently Playing Movies
 
 ## 坚如磐石
-**Rating:** 6.5
+**Rating:** 6.4
 **Runtime:** 127分钟
 **Country:** 中国大陆
 **Director:** 张艺谋
@@ -12,7 +12,7 @@
 
 ---
 ## 93国际列车大劫案：莫斯科行动
-**Rating:** 7.1
+**Rating:** 7
 **Runtime:** 128分钟
 **Country:** 中国大陆
 **Director:** 邱礼涛
@@ -45,7 +45,7 @@
 
 ---
 ## 前任4：英年早婚
-**Rating:** 6.4
+**Rating:** 6.3
 **Runtime:** 129分钟
 **Country:** 中国大陆
 **Director:** 田羽生
