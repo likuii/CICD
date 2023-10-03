@@ -242,6 +242,17 @@
 </div>
 
 ---
+## 永安镇故事集
+**Rating:** 7.3
+**Runtime:** 123分钟
+**Country:** 中国大陆
+**Director:** 魏书钧
+**Cast:** 杨子姗 / 黄米依 / 刘洋
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897670329.jpg" alt="永安镇故事集">
+</div>
+
+---
 ## 芭比
 **Rating:** 8.1
 **Runtime:** 114分钟
