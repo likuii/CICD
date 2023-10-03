@@ -33,17 +33,6 @@
 </div>
 
 ---
-## 前任4：英年早婚
-**Rating:** 6.4
-**Runtime:** 129分钟
-**Country:** 中国大陆
-**Director:** 田羽生
-**Cast:** 韩庚 / 郑恺 / 于文文
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898244180.jpg" alt="前任4：英年早婚">
-</div>
-
----
 ## 好像也没那么热血沸腾
 **Rating:** 7.2
 **Runtime:** 134分钟
@@ -52,6 +41,17 @@
 **Cast:** 魏翔 / 王智 / 岳亮
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898557668.jpg" alt="好像也没那么热血沸腾">
+</div>
+
+---
+## 前任4：英年早婚
+**Rating:** 6.4
+**Runtime:** 129分钟
+**Country:** 中国大陆
+**Director:** 田羽生
+**Cast:** 韩庚 / 郑恺 / 于文文
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898244180.jpg" alt="前任4：英年早婚">
 </div>
 
 ---
@@ -88,17 +88,6 @@
 </div>
 
 ---
-## 疯狂大营救
-**Rating:** 0
-**Runtime:** 89分钟
-**Country:** 法国
-**Director:** 朱利安·福内特
-**Cast:** 凯西·沙斯 / 保罗·博尔内 / 朱利安·克朗蓬
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898078188.jpg" alt="疯狂大营救">
-</div>
-
----
 ## 威尼斯惊魂夜
 **Rating:** 6.3
 **Runtime:** 103分钟
@@ -121,17 +110,6 @@
 </div>
 
 ---
-## 贝肯熊：火星任务
-**Rating:** 0
-**Runtime:** 96分钟
-**Country:** 中国大陆
-**Director:** 王超 
-**Cast:** 梁晓强 / 巴赫 / 张东
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2898356205.jpg" alt="贝肯熊：火星任务">
-</div>
-
----
 ## 长安三万里
 **Rating:** 8.3
 **Runtime:** 168分钟
@@ -143,14 +121,25 @@
 </div>
 
 ---
-## 封神第一部：朝歌风云
-**Rating:** 7.9
-**Runtime:** 148分钟
-**Country:** 中国大陆
-**Director:** 乌尔善
-**Cast:** 费翔 / 李雪健 / 黄渤
+## 疯狂大营救
+**Rating:** 0
+**Runtime:** 89分钟
+**Country:** 法国
+**Director:** 朱利安·福内特
+**Cast:** 凯西·沙斯 / 保罗·博尔内 / 朱利安·克朗蓬
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.jpg" alt="封神第一部：朝歌风云">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898078188.jpg" alt="疯狂大营救">
+</div>
+
+---
+## 贝肯熊：火星任务
+**Rating:** 0
+**Runtime:** 96分钟
+**Country:** 中国大陆
+**Director:** 王超 
+**Cast:** 梁晓强 / 巴赫 / 张东
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2898356205.jpg" alt="贝肯熊：火星任务">
 </div>
 
 ---
@@ -162,6 +151,17 @@
 **Cast:** 大卫·哈伯 / 奥兰多·布鲁姆 / 阿奇·马德基
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897205491.jpg" alt="GT赛车：极速狂飙">
+</div>
+
+---
+## 封神第一部：朝歌风云
+**Rating:** 7.9
+**Runtime:** 148分钟
+**Country:** 中国大陆
+**Director:** 乌尔善
+**Cast:** 费翔 / 李雪健 / 黄渤
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.jpg" alt="封神第一部：朝歌风云">
 </div>
 
 ---
@@ -209,17 +209,6 @@
 </div>
 
 ---
-## 火山挚恋
-**Rating:** 9
-**Runtime:** 99分钟
-**Country:** 美国 加拿大
-**Director:** 萨拉·多萨
-**Cast:** 卡蒂娅·克拉夫特 / 莫里斯·克拉夫特 / 米兰达·裘丽
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896531014.jpg" alt="火山挚恋">
-</div>
-
----
 ## 燃冬
 **Rating:** 6
 **Runtime:** 97分钟
@@ -231,6 +220,17 @@
 </div>
 
 ---
+## 火山挚恋
+**Rating:** 9
+**Runtime:** 99分钟
+**Country:** 美国 加拿大
+**Director:** 萨拉·多萨
+**Cast:** 卡蒂娅·克拉夫特 / 莫里斯·克拉夫特 / 米兰达·裘丽
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896531014.jpg" alt="火山挚恋">
+</div>
+
+---
 ## 茶啊二中
 **Rating:** 7.4
 **Runtime:** 91分钟
@@ -239,17 +239,6 @@
 **Cast:** 邢原源 / 王博文 / 高禹恒
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895351514.jpg" alt="茶啊二中">
-</div>
-
----
-## 小美人鱼之大海怪传说
-**Rating:** 0
-**Runtime:** 80分钟
-**Country:** 中国大陆
-**Director:** 庄潇
-**Cast:** 苏子芜 / 陈新玥 / 王亚琳
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895554669.jpg" alt="小美人鱼之大海怪传说">
 </div>
 
 ---
@@ -283,6 +272,17 @@
 **Cast:** 黄渤 / 单禹豪 / 闫妮
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896597470.jpg" alt="学爸">
+</div>
+
+---
+## 小美人鱼之大海怪传说
+**Rating:** 0
+**Runtime:** 80分钟
+**Country:** 中国大陆
+**Director:** 庄潇
+**Cast:** 苏子芜 / 陈新玥 / 王亚琳
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2895554669.jpg" alt="小美人鱼之大海怪传说">
 </div>
 
 ---
@@ -396,17 +396,6 @@
 </div>
 
 ---
-## 小黄人大眼萌：神偷奶爸前传
-**Rating:** 7.1
-**Runtime:** 88分钟(中国大陆)
-**Country:** 美国
-**Director:** 凯尔·巴尔达 布拉德·埃布尔森 乔纳森·德尔瓦尔
-**Cast:** 史蒂夫·卡瑞尔 / 皮埃尔·柯芬 / 艾伦·阿金
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2877522569.jpg" alt="小黄人大眼萌：神偷奶爸前传">
-</div>
-
----
 ## 欢乐好声音
 **Rating:** 8.1
 **Runtime:** 108分钟
@@ -415,6 +404,17 @@
 **Cast:** 马修·麦康纳 / 瑞茜·威瑟斯彭 / 塞思·麦克法兰
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2411622136.jpg" alt="欢乐好声音">
+</div>
+
+---
+## 小黄人大眼萌：神偷奶爸前传
+**Rating:** 7.1
+**Runtime:** 88分钟(中国大陆)
+**Country:** 美国
+**Director:** 凯尔·巴尔达 布拉德·埃布尔森 乔纳森·德尔瓦尔
+**Cast:** 史蒂夫·卡瑞尔 / 皮埃尔·柯芬 / 艾伦·阿金
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2877522569.jpg" alt="小黄人大眼萌：神偷奶爸前传">
 </div>
 
 ---
