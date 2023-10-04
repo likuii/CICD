@@ -12,7 +12,7 @@
 
 ---
 ## 93国际列车大劫案：莫斯科行动
-**Rating:** 7
+**Rating:** 6.9
 **Runtime:** 128分钟
 **Country:** 中国大陆
 **Director:** 邱礼涛
@@ -23,7 +23,7 @@
 
 ---
 ## 志愿军：雄兵出击
-**Rating:** 7.2
+**Rating:** 7.1
 **Runtime:** 141分钟
 **Country:** 中国大陆
 **Director:** 陈凯歌
@@ -34,7 +34,7 @@
 
 ---
 ## 好像也没那么热血沸腾
-**Rating:** 7.2
+**Rating:** 7.1
 **Runtime:** 134分钟
 **Country:** 中国大陆
 **Director:** 高虎
@@ -45,7 +45,7 @@
 
 ---
 ## 前任4：英年早婚
-**Rating:** 6.3
+**Rating:** 6.2
 **Runtime:** 129分钟
 **Country:** 中国大陆
 **Director:** 田羽生
@@ -110,17 +110,6 @@
 </div>
 
 ---
-## 贝肯熊：火星任务
-**Rating:** 0
-**Runtime:** 96分钟
-**Country:** 中国大陆
-**Director:** 王超 
-**Cast:** 梁晓强 / 巴赫 / 张东
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2898356205.jpg" alt="贝肯熊：火星任务">
-</div>
-
----
 ## 长安三万里
 **Rating:** 8.3
 **Runtime:** 168分钟
@@ -129,6 +118,17 @@
 **Cast:** 杨天翔 / 凌振赫 / 吴俊全
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2893820209.jpg" alt="长安三万里">
+</div>
+
+---
+## 贝肯熊：火星任务
+**Rating:** 0
+**Runtime:** 96分钟
+**Country:** 中国大陆
+**Director:** 王超 
+**Cast:** 梁晓强 / 巴赫 / 张东
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2898356205.jpg" alt="贝肯熊：火星任务">
 </div>
 
 ---
