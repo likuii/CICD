@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 巴布亚企鹅，南极洲 (© Art Wolfe/Getty Images)
+
+![巴布亚企鹅，南极洲 (© Art Wolfe/Getty Images)](https://cn.bing.com/th?id=OHR.GentooJump_ZH-CN9625511393_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E5%B7%B4%E5%B8%83%E4%BA%9A%E4%BC%81%E9%B9%85&form=hpcapt&mkt=zh-cn)
+
 ## 狼蛛星云中形成的年轻恒星，詹姆斯·韦布空间望远镜 (© NASA, ESA, CSA, STScI, Webb ERO Production Team)
 
 ![狼蛛星云中形成的年轻恒星，詹姆斯·韦布空间望远镜 (© NASA, ESA, CSA, STScI, Webb ERO Production Team)](https://cn.bing.com/th?id=OHR.TarantulaNebula_ZH-CN9340300473_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![满月下的甲秀楼，中国贵州省贵阳市 (© Wang Yukun/Getty Images)](https://cn.bing.com/th?id=OHR.GuiyangMoon_ZH-CN7497119092_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E4%B8%AD%E7%A7%8B%E8%8A%82&form=hpcapt&mkt=zh-cn)
-
-## 泰国商业港口附近的集装箱船 (© Suriyapong Thongsawang/Getty Images)
-
-![泰国商业港口附近的集装箱船 (© Suriyapong Thongsawang/Getty Images)](https://cn.bing.com/th?id=OHR.MaritimeDay_ZH-CN7073219075_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E4%BA%8B%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
