@@ -67,7 +67,7 @@
 
 ---
 ## 奥本海默
-**Rating:** 8.9
+**Rating:** 8.8
 **Runtime:** 180分钟
 **Country:** 美国 英国
 **Director:** 克里斯托弗·诺兰
