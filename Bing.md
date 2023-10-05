@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 杜鲁门斯堡的州立托格汉诺克瀑布公园，纽约州，美国 (© Paul Massie Photography/Getty Images)
+
+![杜鲁门斯堡的州立托格汉诺克瀑布公园，纽约州，美国 (© Paul Massie Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TaughannockFalls_ZH-CN4580750386_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E6%89%98%E6%A0%BC%E6%B1%89%E8%AF%BA%E5%85%8B%E7%80%91%E5%B8%83&form=hpcapt&mkt=zh-cn)
+
 ## 巴布亚企鹅，南极洲 (© Art Wolfe/Getty Images)
 
 ![巴布亚企鹅，南极洲 (© Art Wolfe/Getty Images)](https://cn.bing.com/th?id=OHR.GentooJump_ZH-CN9625511393_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![仙纳度国家公园的秋色，弗吉尼亚州 (© Michael Ver Sprill/Getty Images)](https://cn.bing.com/th?id=OHR.ShenandoahFoliage_ZH-CN9885452713_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E4%BB%99%E7%BA%B3%E5%BA%A6%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
-
-## 满月下的甲秀楼，中国贵州省贵阳市 (© Wang Yukun/Getty Images)
-
-![满月下的甲秀楼，中国贵州省贵阳市 (© Wang Yukun/Getty Images)](https://cn.bing.com/th?id=OHR.GuiyangMoon_ZH-CN7497119092_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E4%B8%AD%E7%A7%8B%E8%8A%82&form=hpcapt&mkt=zh-cn)
 
