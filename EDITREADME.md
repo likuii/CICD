@@ -297,6 +297,17 @@
 </div>
 
 ---
+## 厨神驾到
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 李克龙
+**Cast:** 孙涛 / 韩云云 / 克拉拉
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897559555.jpg" alt="厨神驾到">
+</div>
+
+---
 ## 小美人鱼之大海怪传说
 **Rating:** 0
 **Runtime:** 80分钟
@@ -360,6 +371,17 @@
 **Cast:** 周政杰 / 卢洋洋 / 骆明劼
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2898024093.jpg" alt="曾经炽热的我们">
+</div>
+
+---
+## 毒蜂
+**Rating:** 0
+**Runtime:** 104分钟
+**Country:** 中国大陆
+**Director:** 潘文杰
+**Cast:** 富大龙 / 许亚军 / 高梓淇
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897994781.jpg" alt="毒蜂">
 </div>
 
 ---
