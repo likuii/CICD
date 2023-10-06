@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 灰熊在卡特迈国家公园布鲁克斯瀑布捕捞鲑鱼，阿拉斯加州，美国 (© oksana.perkins/Shutterstock)
+
+![灰熊在卡特迈国家公园布鲁克斯瀑布捕捞鲑鱼，阿拉斯加州，美国 (© oksana.perkins/Shutterstock)](https://cn.bing.com/th?id=OHR.GrizzlyFalls_ZH-CN5152476563_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E7%81%B0%E7%86%8A&form=hpcapt&mkt=zh-cn)
+
 ## 杜鲁门斯堡的州立托格汉诺克瀑布公园，纽约州，美国 (© Paul Massie Photography/Getty Images)
 
 ![杜鲁门斯堡的州立托格汉诺克瀑布公园，纽约州，美国 (© Paul Massie Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TaughannockFalls_ZH-CN4580750386_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![雄伟壮丽的中国长城 (© Jeff_Hu/Getty Images)](https://cn.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E9%95%BF%E5%9F%8E&form=hpcapt&mkt=zh-cn)
-
-## 仙纳度国家公园的秋色，弗吉尼亚州 (© Michael Ver Sprill/Getty Images)
-
-![仙纳度国家公园的秋色，弗吉尼亚州 (© Michael Ver Sprill/Getty Images)](https://cn.bing.com/th?id=OHR.ShenandoahFoliage_ZH-CN9885452713_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E4%BB%99%E7%BA%B3%E5%BA%A6%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
