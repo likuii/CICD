@@ -143,6 +143,17 @@
 </div>
 
 ---
+## 不虚此行
+**Rating:** 7.2
+**Runtime:** 119分钟
+**Country:** 中国大陆
+**Director:** 刘伽茵
+**Cast:** 胡歌 / 吴磊 / 齐溪
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897502151.jpg" alt="不虚此行">
+</div>
+
+---
 ## 鹦鹉杀
 **Rating:** 6.1
 **Runtime:** 101分钟
@@ -154,6 +165,116 @@
 </div>
 
 ---
+## 孤注一掷
+**Rating:** 6.9
+**Runtime:** 130分钟
+**Country:** 中国大陆
+**Director:** 申奥
+**Cast:** 张艺兴 / 金晨 / 咏梅
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896551721.jpg" alt="孤注一掷">
+</div>
+
+---
+## 巨齿鲨2：深渊
+**Rating:** 5.1
+**Runtime:** 119分钟
+**Country:** 美国 中国大陆
+**Director:** 本·维特利 
+**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
+</div>
+
+---
+## 念念相忘
+**Rating:** 6.2
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 刘雨霖
+**Cast:** 刘浩存 / 宋威龙 / 卜冠今
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896873968.jpg" alt="念念相忘">
+</div>
+
+---
+## 永安镇故事集
+**Rating:** 7.3
+**Runtime:** 123分钟
+**Country:** 中国大陆
+**Director:** 魏书钧
+**Cast:** 杨子姗 / 黄米依 / 刘洋
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897670329.jpg" alt="永安镇故事集">
+</div>
+
+---
+## 茶啊二中
+**Rating:** 7.4
+**Runtime:** 91分钟
+**Country:** 中国大陆
+**Director:** 夏铭泽 阎凯
+**Cast:** 邢原源 / 王博文 / 高禹恒
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895351514.jpg" alt="茶啊二中">
+</div>
+
+---
+## 火山挚恋
+**Rating:** 9
+**Runtime:** 99分钟
+**Country:** 美国 加拿大
+**Director:** 萨拉·多萨
+**Cast:** 卡蒂娅·克拉夫特 / 莫里斯·克拉夫特 / 米兰达·裘丽
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896531014.jpg" alt="火山挚恋">
+</div>
+
+---
+## 芭比
+**Rating:** 8.1
+**Runtime:** 114分钟
+**Country:** 加拿大 美国
+**Director:** 格蕾塔·葛韦格
+**Cast:** 玛格特·罗比 / 瑞恩·高斯林 / 亚美莉卡·费雷拉
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895679456.jpg" alt="芭比">
+</div>
+
+---
+## 热烈
+**Rating:** 7.3
+**Runtime:** 124分钟
+**Country:** 中国大陆
+**Director:** 大鹏
+**Cast:** 黄渤 / 王一博 / 刘敏涛
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895553074.jpg" alt="热烈">
+</div>
+
+---
+## 厨神驾到
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 李克龙
+**Cast:** 孙涛 / 韩云云 / 克拉拉
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897559555.jpg" alt="厨神驾到">
+</div>
+
+---
+## 疯狂大营救
+**Rating:** 0
+**Runtime:** 89分钟
+**Country:** 法国
+**Director:** 朱利安·福内特
+**Cast:** 凯西·沙斯 / 保罗·博尔内 / 朱利安·克朗蓬
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898078188.jpg" alt="疯狂大营救">
+</div>
+
+---
 ## 学爸
 **Rating:** 6.6
 **Runtime:** 118分钟
@@ -162,6 +283,17 @@
 **Cast:** 黄渤 / 单禹豪 / 闫妮
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896597470.jpg" alt="学爸">
+</div>
+
+---
+## 我经过风暴
+**Rating:** 7
+**Runtime:** 101分钟
+**Country:** 中国大陆
+**Director:** 秦海燕
+**Cast:** 佟丽娅 / 吴昱翰 / 王影璐
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896816460.jpg" alt="我经过风暴">
 </div>
 
 ---
@@ -198,14 +330,80 @@
 </div>
 
 ---
-## 幸福小马灯
+## 毒蜂
 **Rating:** 0
-**Runtime:** 97分钟
+**Runtime:** 104分钟
 **Country:** 中国大陆
-**Director:** 凌雨
-**Cast:** 陈友旺
+**Director:** 潘文杰
+**Cast:** 富大龙 / 许亚军 / 高梓淇
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898761209.jpg" alt="幸福小马灯">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897994781.jpg" alt="毒蜂">
+</div>
+
+---
+## 驯龙高手
+**Rating:** 8.8
+**Runtime:** 98分钟
+**Country:** 美国
+**Director:** 迪恩·德布洛斯 克里斯·桑德斯
+**Cast:** 杰伊·巴鲁切尔 / 杰拉德·巴特勒 / 克雷格·费格森
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p490385643.jpg" alt="驯龙高手">
+</div>
+
+---
+## 小黄人大眼萌：神偷奶爸前传
+**Rating:** 7.1
+**Runtime:** 88分钟(中国大陆)
+**Country:** 美国
+**Director:** 凯尔·巴尔达 布拉德·埃布尔森 乔纳森·德尔瓦尔
+**Cast:** 史蒂夫·卡瑞尔 / 皮埃尔·柯芬 / 艾伦·阿金
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2877522569.jpg" alt="小黄人大眼萌：神偷奶爸前传">
+</div>
+
+---
+## 大洋追鱼记
+**Rating:** 0
+**Runtime:** 119分钟
+**Country:** 中国大陆
+**Director:** 井建民
+**Cast:** 梁向前 / 张道报
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898075649.jpg" alt="大洋追鱼记">
+</div>
+
+---
+## 雪豹和她的朋友们
+**Rating:** 8.4
+**Runtime:** 85分钟
+**Country:** 中国大陆
+**Director:** 奚志农
+**Cast:** 朱亚文
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896344803.jpg" alt="雪豹和她的朋友们">
+</div>
+
+---
+## 侏罗纪公园
+**Rating:** 8.3
+**Runtime:** 127 分钟
+**Country:** 美国
+**Director:** 史蒂文·斯皮尔伯格
+**Cast:** 山姆·尼尔 / 劳拉·邓恩 / 杰夫·高布伦
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2076443176.jpg" alt="侏罗纪公园">
+</div>
+
+---
+## 险诈
+**Rating:** 0
+**Runtime:** 100分钟
+**Country:** 中国大陆
+**Director:** 刘治泓
+**Cast:** 曾鑫 / 任伟 / 姜嗣
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897446419.jpg" alt="险诈">
 </div>
 
 ---
