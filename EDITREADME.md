@@ -385,6 +385,17 @@
 </div>
 
 ---
+## 险诈
+**Rating:** 0
+**Runtime:** 100分钟
+**Country:** 中国大陆
+**Director:** 刘治泓
+**Cast:** 曾鑫 / 任伟 / 姜嗣
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897446419.jpg" alt="险诈">
+</div>
+
+---
 ## 速度与爱情
 **Rating:** 0
 **Runtime:** 132分钟
