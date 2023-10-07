@@ -176,6 +176,17 @@
 </div>
 
 ---
+## 念念相忘
+**Rating:** 6.2
+**Runtime:** 103分钟
+**Country:** 中国大陆
+**Director:** 刘雨霖
+**Cast:** 刘浩存 / 宋威龙 / 卜冠今
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896873968.jpg" alt="念念相忘">
+</div>
+
+---
 ## 巨齿鲨2：深渊
 **Rating:** 5.1
 **Runtime:** 119分钟
