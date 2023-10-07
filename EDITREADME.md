@@ -385,6 +385,17 @@
 </div>
 
 ---
+## 侏罗纪公园
+**Rating:** 8.3
+**Runtime:** 127 分钟
+**Country:** 美国
+**Director:** 史蒂文·斯皮尔伯格
+**Cast:** 山姆·尼尔 / 劳拉·邓恩 / 杰夫·高布伦
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2076443176.jpg" alt="侏罗纪公园">
+</div>
+
+---
 ## 险诈
 **Rating:** 0
 **Runtime:** 100分钟
