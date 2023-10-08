@@ -407,6 +407,17 @@
 </div>
 
 ---
+## 红色恋人
+**Rating:** 7.1
+**Runtime:** 98分钟
+**Country:** 中国大陆
+**Director:** 叶大鹰
+**Cast:** 张国荣 / 梅婷 / 泰德·巴勃考克
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896534116.jpg" alt="红色恋人">
+</div>
+
+---
 ## 速度与爱情
 **Rating:** 0
 **Runtime:** 132分钟
@@ -437,6 +448,17 @@
 **Cast:** 侯天来 / 景熙童 / 傅绍杰
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896112175.jpg" alt="爸爸的谎言">
+</div>
+
+---
+## 河边的错误
+**Rating:** 0
+**Runtime:** 101分钟
+**Country:** 中国大陆
+**Director:** 魏书钧
+**Cast:** 朱一龙 / 曾美慧孜 / 侯天来
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2898281226.jpg" alt="河边的错误">
 </div>
 
 ---
@@ -503,17 +525,6 @@
 **Cast:** 金巴 / 王铮 / 达杰丁增
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892957156.jpg" alt="一个和四个">
-</div>
-
----
-## 我爸没说的那件事
-**Rating:** 0
-**Runtime:** 
-**Country:** 中国大陆
-**Director:** 泷田洋二郎
-**Cast:** 韩庚 / 张国立 / 薛昊婧
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2898596785.jpg" alt="我爸没说的那件事">
 </div>
 
 ---
