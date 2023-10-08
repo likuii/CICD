@@ -458,7 +458,7 @@
 **Director:** 魏书钧
 **Cast:** 朱一龙 / 曾美慧孜 / 侯天来
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2898281226.jpg" alt="河边的错误">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2899097552.jpg" alt="河边的错误">
 </div>
 
 ---
