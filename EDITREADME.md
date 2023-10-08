@@ -418,6 +418,17 @@
 </div>
 
 ---
+## 长江
+**Rating:** 8
+**Runtime:** 50分钟
+**Country:** 中国大陆
+**Director:** 夏骏
+**Cast:** 胡阿祥 / 苏智良 / 王澍
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574476155.jpg" alt="长江">
+</div>
+
+---
 ## 速度与爱情
 **Rating:** 0
 **Runtime:** 132分钟
