@@ -143,6 +143,17 @@
 </div>
 
 ---
+## GT赛车：极速狂飙
+**Rating:** 7.2
+**Runtime:** 134分钟
+**Country:** 美国 日本
+**Director:** 尼尔·布洛姆坎普
+**Cast:** 大卫·哈伯 / 奥兰多·布鲁姆 / 阿奇·马德基
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897205491.jpg" alt="GT赛车：极速狂飙">
+</div>
+
+---
 ## 封神第一部：朝歌风云
 **Rating:** 7.9
 **Runtime:** 148分钟
