@@ -475,7 +475,7 @@
 ---
 ## 河边的错误
 **Rating:** 0
-**Runtime:** 101分钟
+**Runtime:** 102分钟
 **Country:** 中国大陆
 **Director:** 魏书钧
 **Cast:** 朱一龙 / 曾美慧孜 / 侯天来
