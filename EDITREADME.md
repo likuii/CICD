@@ -440,6 +440,17 @@
 </div>
 
 ---
+## 珍·古道尔的传奇一生
+**Rating:** 0
+**Runtime:** 90分钟
+**Country:** 美国
+**Director:** 布莱特·摩根
+**Cast:** 简·古道尔 / 雨果·凡·拉维克 / 雨果·埃里克·路易斯·凡·拉维克
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2899178200.jpg" alt="珍·古道尔的传奇一生">
+</div>
+
+---
 ## 最好的相遇
 **Rating:** 0
 **Runtime:** 110分钟
@@ -513,7 +524,7 @@
 **Director:** 李珏
 **Cast:** 黄小蕾 / 郑雅匀 / 唐曾
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2886382180.jpg" alt="洋子的困惑">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2899182771.jpg" alt="洋子的困惑">
 </div>
 
 ---
@@ -525,17 +536,6 @@
 **Cast:** 张亮 / 辛芷蕾 / 大力
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2898114531.jpg" alt="失而复得">
-</div>
-
----
-## 一个和四个
-**Rating:** 0
-**Runtime:** 88分钟
-**Country:** 中国大陆
-**Director:** 久美成列
-**Cast:** 金巴 / 王铮 / 达杰丁增
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892957156.jpg" alt="一个和四个">
 </div>
 
 ---
