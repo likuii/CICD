@@ -45,7 +45,7 @@
 
 ---
 ## 前任4：英年早婚
-**Rating:** 6.1
+**Rating:** 6
 **Runtime:** 129分钟
 **Country:** 中国大陆
 **Director:** 田羽生
