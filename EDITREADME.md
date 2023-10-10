@@ -34,7 +34,7 @@
 
 ---
 ## 好像也没那么热血沸腾
-**Rating:** 7.1
+**Rating:** 7
 **Runtime:** 134分钟
 **Country:** 中国大陆
 **Director:** 高虎
