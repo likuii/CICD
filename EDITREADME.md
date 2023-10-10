@@ -242,6 +242,17 @@
 </div>
 
 ---
+## 暗杀风暴
+**Rating:** 5.8
+**Runtime:** 100分钟
+**Country:** 中国大陆 中国香港
+**Director:** 邱礼涛
+**Cast:** 古天乐 / 张智霖 / 吴镇宇
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892025156.jpg" alt="暗杀风暴">
+</div>
+
+---
 ## 茶啊二中
 **Rating:** 7.4
 **Runtime:** 91分钟
@@ -294,6 +305,17 @@
 **Cast:** 梁向前 / 张道报
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898075649.jpg" alt="大洋追鱼记">
+</div>
+
+---
+## 觅渡
+**Rating:** 0
+**Runtime:** 120分钟
+**Country:** 中国大陆
+**Director:** 宁敬武
+**Cast:** 宋洋 / 张桐 / 谷嘉诚
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2894205295.jpg" alt="觅渡">
 </div>
 
 ---
