@@ -93,7 +93,7 @@
 **Runtime:** 88分钟
 **Country:** 美国 加拿大
 **Director:** 卡尔·布伦克尔
-**Cast:** 麦肯娜·格瑞丝 / 马尔赛·马丁 / 芬恩·李-埃普
+**Cast:** 麦肯娜·格瑞丝 / 塔拉吉·P·汉森 / 马尔赛·马丁
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897946307.jpg" alt="汪汪队立大功大电影2：超能大冒险">
 </div>
