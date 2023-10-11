@@ -517,6 +517,17 @@
 </div>
 
 ---
+## 一个和四个
+**Rating:** 0
+**Runtime:** 88分钟
+**Country:** 中国大陆
+**Director:** 久美成列
+**Cast:** 金巴 / 王铮 / 达杰丁增
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892957156.jpg" alt="一个和四个">
+</div>
+
+---
 ## 二手杰作
 **Rating:** 0
 **Runtime:** 120分钟
@@ -547,17 +558,6 @@
 **Cast:** 黄小蕾 / 郑雅匀 / 唐曾
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2899182771.jpg" alt="洋子的困惑">
-</div>
-
----
-## 失而复得
-**Rating:** 0
-**Runtime:** 104分钟
-**Country:** 中国大陆
-**Director:** 刘十六
-**Cast:** 张亮 / 辛芷蕾 / 大力
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2898114531.jpg" alt="失而复得">
 </div>
 
 ---
