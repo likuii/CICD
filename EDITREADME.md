@@ -440,6 +440,17 @@
 </div>
 
 ---
+## 幸福小马灯
+**Rating:** 0
+**Runtime:** 97分钟
+**Country:** 中国大陆
+**Director:** 凌雨
+**Cast:** 陈友旺
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898761209.jpg" alt="幸福小马灯">
+</div>
+
+---
 ## 欢乐丛林之外星人大冒险
 **Rating:** 0
 **Runtime:** 
@@ -535,7 +546,7 @@
 **Director:** 久美成列
 **Cast:** 金巴 / 王铮 / 达杰丁增
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892957156.jpg" alt="一个和四个">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2899224362.jpg" alt="一个和四个">
 </div>
 
 ---
