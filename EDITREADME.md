@@ -132,6 +132,17 @@
 </div>
 
 ---
+## 鹦鹉杀
+**Rating:** 6.1
+**Runtime:** 101分钟
+**Country:** 中国大陆
+**Director:** 麻赢心
+**Cast:** 周冬雨 / 章宇 / 张宥浩
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897518505.jpg" alt="鹦鹉杀">
+</div>
+
+---
 ## 封神第一部：朝歌风云
 **Rating:** 7.9
 **Runtime:** 148分钟
@@ -165,17 +176,6 @@
 </div>
 
 ---
-## 鹦鹉杀
-**Rating:** 6.1
-**Runtime:** 101分钟
-**Country:** 中国大陆
-**Director:** 麻赢心
-**Cast:** 周冬雨 / 章宇 / 张宥浩
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897518505.jpg" alt="鹦鹉杀">
-</div>
-
----
 ## 孤注一掷
 **Rating:** 6.9
 **Runtime:** 130分钟
@@ -198,17 +198,6 @@
 </div>
 
 ---
-## 巨齿鲨2：深渊
-**Rating:** 5.1
-**Runtime:** 119分钟
-**Country:** 美国 中国大陆
-**Director:** 本·维特利 
-**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
-</div>
-
----
 ## 流水落花
 **Rating:** 7.2
 **Runtime:** 93分钟
@@ -217,17 +206,6 @@
 **Cast:** 郑秀文 / 陆骏光 / 谈善言
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897543710.jpg" alt="流水落花">
-</div>
-
----
-## 芭比
-**Rating:** 8.1
-**Runtime:** 114分钟
-**Country:** 加拿大 美国
-**Director:** 格蕾塔·葛韦格
-**Cast:** 玛格特·罗比 / 瑞恩·高斯林 / 亚美莉卡·费雷拉
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895679456.jpg" alt="芭比">
 </div>
 
 ---
@@ -242,14 +220,25 @@
 </div>
 
 ---
-## 茶啊二中
-**Rating:** 7.4
-**Runtime:** 91分钟
-**Country:** 中国大陆
-**Director:** 夏铭泽 阎凯
-**Cast:** 邢原源 / 王博文 / 高禹恒
+## 芭比
+**Rating:** 8.1
+**Runtime:** 114分钟
+**Country:** 加拿大 美国
+**Director:** 格蕾塔·葛韦格
+**Cast:** 玛格特·罗比 / 瑞恩·高斯林 / 亚美莉卡·费雷拉
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895351514.jpg" alt="茶啊二中">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895679456.jpg" alt="芭比">
+</div>
+
+---
+## 巨齿鲨2：深渊
+**Rating:** 5.1
+**Runtime:** 119分钟
+**Country:** 美国 中国大陆
+**Director:** 本·维特利 
+**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
 </div>
 
 ---
@@ -275,6 +264,17 @@
 </div>
 
 ---
+## 茶啊二中
+**Rating:** 7.4
+**Runtime:** 91分钟
+**Country:** 中国大陆
+**Director:** 夏铭泽 阎凯
+**Cast:** 邢原源 / 王博文 / 高禹恒
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895351514.jpg" alt="茶啊二中">
+</div>
+
+---
 ## 我经过风暴
 **Rating:** 7
 **Runtime:** 101分钟
@@ -283,17 +283,6 @@
 **Cast:** 佟丽娅 / 吴昱翰 / 王影璐
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896816460.jpg" alt="我经过风暴">
-</div>
-
----
-## 大洋追鱼记
-**Rating:** 0
-**Runtime:** 119分钟
-**Country:** 中国大陆
-**Director:** 井建民
-**Cast:** 梁向前 / 张道报
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898075649.jpg" alt="大洋追鱼记">
 </div>
 
 ---
@@ -316,6 +305,17 @@
 **Cast:** 宋洋 / 张桐 / 谷嘉诚
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2894205295.jpg" alt="觅渡">
+</div>
+
+---
+## 大洋追鱼记
+**Rating:** 0
+**Runtime:** 119分钟
+**Country:** 中国大陆
+**Director:** 井建民
+**Cast:** 梁向前 / 张道报
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898075649.jpg" alt="大洋追鱼记">
 </div>
 
 ---
@@ -407,17 +407,6 @@
 </div>
 
 ---
-## 雪豹和她的朋友们
-**Rating:** 8.4
-**Runtime:** 85分钟
-**Country:** 中国大陆
-**Director:** 奚志农
-**Cast:** 朱亚文
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896344803.jpg" alt="雪豹和她的朋友们">
-</div>
-
----
 ## 小黄人大眼萌：神偷奶爸前传
 **Rating:** 7.1
 **Runtime:** 88分钟(中国大陆)
@@ -426,6 +415,17 @@
 **Cast:** 史蒂夫·卡瑞尔 / 皮埃尔·柯芬 / 艾伦·阿金
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2877522569.jpg" alt="小黄人大眼萌：神偷奶爸前传">
+</div>
+
+---
+## 雪豹和她的朋友们
+**Rating:** 8.4
+**Runtime:** 85分钟
+**Country:** 中国大陆
+**Director:** 奚志农
+**Cast:** 朱亚文
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896344803.jpg" alt="雪豹和她的朋友们">
 </div>
 
 ---
