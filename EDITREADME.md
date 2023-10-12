@@ -385,6 +385,28 @@
 </div>
 
 ---
+## 驯龙高手
+**Rating:** 8.8
+**Runtime:** 98分钟
+**Country:** 美国
+**Director:** 迪恩·德布洛斯 克里斯·桑德斯
+**Cast:** 杰伊·巴鲁切尔 / 杰拉德·巴特勒 / 克雷格·费格森
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p490385643.jpg" alt="驯龙高手">
+</div>
+
+---
+## 功夫熊猫
+**Rating:** 8.2
+**Runtime:** 95分钟
+**Country:** 美国
+**Director:** 马克·奥斯本 约翰·斯蒂文森
+**Cast:** 杰克·布莱克 / 达斯汀·霍夫曼 / 安吉丽娜·朱莉
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1597238857.jpg" alt="功夫熊猫">
+</div>
+
+---
 ## 侏罗纪公园
 **Rating:** 8.3
 **Runtime:** 127 分钟
@@ -415,6 +437,17 @@
 **Cast:** 史蒂夫·卡瑞尔 / 皮埃尔·柯芬 / 艾伦·阿金
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2877522569.jpg" alt="小黄人大眼萌：神偷奶爸前传">
+</div>
+
+---
+## 欢乐好声音
+**Rating:** 8.1
+**Runtime:** 108分钟
+**Country:** 美国
+**Director:** 加斯·詹宁斯 克里斯托夫·卢尔德莱
+**Cast:** 马修·麦康纳 / 瑞茜·威瑟斯彭 / 塞思·麦克法兰
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2411622136.jpg" alt="欢乐好声音">
 </div>
 
 ---
