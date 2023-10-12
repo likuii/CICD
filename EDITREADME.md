@@ -275,6 +275,17 @@
 </div>
 
 ---
+## 觅渡
+**Rating:** 0
+**Runtime:** 120分钟
+**Country:** 中国大陆
+**Director:** 宁敬武
+**Cast:** 宋洋 / 张桐 / 谷嘉诚
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2894205295.jpg" alt="觅渡">
+</div>
+
+---
 ## 我经过风暴
 **Rating:** 7
 **Runtime:** 101分钟
