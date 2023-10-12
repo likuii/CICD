@@ -352,6 +352,17 @@
 </div>
 
 ---
+## 曾经炽热的我们
+**Rating:** 0
+**Runtime:** 104分钟
+**Country:** 中国大陆
+**Director:** 马小刚
+**Cast:** 周政杰 / 卢洋洋 / 骆明劼
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2898024093.jpg" alt="曾经炽热的我们">
+</div>
+
+---
 ## 奇迹少女
 **Rating:** 5.4
 **Runtime:** 105分钟
@@ -419,13 +430,13 @@
 
 ---
 ## 长江
-**Rating:** 7.9
-**Runtime:** 50分钟
-**Country:** 中国大陆
-**Director:** 夏骏
-**Cast:** 胡阿祥 / 苏智良 / 王澍
+**Rating:** 8
+**Runtime:** 40分钟
+**Country:** 中国大陆 日本
+**Director:** 
+**Cast:** 虹云 / 窦春起
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574476155.jpg" alt="长江">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892170059.jpg" alt="长江">
 </div>
 
 ---
@@ -502,7 +513,7 @@
 **Director:** 久美成列
 **Cast:** 金巴 / 王铮 / 达杰丁增
 <div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2899224362.jpg" alt="一个和四个">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2899266872.jpg" alt="一个和四个">
 </div>
 
 ---
