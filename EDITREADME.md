@@ -88,17 +88,6 @@
 </div>
 
 ---
-## 汪汪队立大功大电影2：超能大冒险
-**Rating:** 7.4
-**Runtime:** 88分钟
-**Country:** 美国 加拿大
-**Director:** 卡尔·布伦克尔
-**Cast:** 麦肯娜·格瑞丝 / 塔拉吉·P·汉森 / 马尔赛·马丁
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897946307.jpg" alt="汪汪队立大功大电影2：超能大冒险">
-</div>
-
----
 ## 威尼斯惊魂夜
 **Rating:** 6.3
 **Runtime:** 103分钟
@@ -107,6 +96,17 @@
 **Cast:** 肯尼思·布拉纳 / 凯利·蕾莉 / 卡米尔·科坦
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896593530.jpg" alt="威尼斯惊魂夜">
+</div>
+
+---
+## 汪汪队立大功大电影2：超能大冒险
+**Rating:** 7.4
+**Runtime:** 88分钟
+**Country:** 美国 加拿大
+**Director:** 卡尔·布伦克尔
+**Cast:** 麦肯娜·格瑞丝 / 塔拉吉·P·汉森 / 马尔赛·马丁
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897946307.jpg" alt="汪汪队立大功大电影2：超能大冒险">
 </div>
 
 ---
@@ -121,17 +121,6 @@
 </div>
 
 ---
-## 敢死队4：最终章
-**Rating:** 5.1
-**Runtime:** 101分钟(中国大陆)
-**Country:** 美国
-**Director:** 斯科特·沃
-**Cast:** 杰森·斯坦森 / 50分 / 梅根·福克斯
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897558506.jpg" alt="敢死队4：最终章">
-</div>
-
----
 ## 鹦鹉杀
 **Rating:** 6.1
 **Runtime:** 101分钟
@@ -143,14 +132,14 @@
 </div>
 
 ---
-## 封神第一部：朝歌风云
-**Rating:** 7.9
-**Runtime:** 148分钟
-**Country:** 中国大陆
-**Director:** 乌尔善
-**Cast:** 费翔 / 李雪健 / 黄渤
+## 敢死队4：最终章
+**Rating:** 5.1
+**Runtime:** 101分钟(中国大陆)
+**Country:** 美国
+**Director:** 斯科特·沃
+**Cast:** 杰森·斯坦森 / 50分 / 梅根·福克斯
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.jpg" alt="封神第一部：朝歌风云">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897558506.jpg" alt="敢死队4：最终章">
 </div>
 
 ---
@@ -162,6 +151,17 @@
 **Cast:** 大卫·哈伯 / 奥兰多·布鲁姆 / 阿奇·马德基
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897205491.jpg" alt="GT赛车：极速狂飙">
+</div>
+
+---
+## 封神第一部：朝歌风云
+**Rating:** 7.9
+**Runtime:** 148分钟
+**Country:** 中国大陆
+**Director:** 乌尔善
+**Cast:** 费翔 / 李雪健 / 黄渤
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.jpg" alt="封神第一部：朝歌风云">
 </div>
 
 ---
@@ -198,17 +198,6 @@
 </div>
 
 ---
-## 流水落花
-**Rating:** 7.2
-**Runtime:** 93分钟
-**Country:** 中国香港
-**Director:** 贾胜枫
-**Cast:** 郑秀文 / 陆骏光 / 谈善言
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897543710.jpg" alt="流水落花">
-</div>
-
----
 ## 芭比
 **Rating:** 8.1
 **Runtime:** 114分钟
@@ -217,6 +206,17 @@
 **Cast:** 玛格特·罗比 / 瑞恩·高斯林 / 亚美莉卡·费雷拉
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895679456.jpg" alt="芭比">
+</div>
+
+---
+## 流水落花
+**Rating:** 7.2
+**Runtime:** 93分钟
+**Country:** 中国香港
+**Director:** 贾胜枫
+**Cast:** 郑秀文 / 陆骏光 / 谈善言
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897543710.jpg" alt="流水落花">
 </div>
 
 ---
@@ -264,17 +264,6 @@
 </div>
 
 ---
-## 我经过风暴
-**Rating:** 7
-**Runtime:** 101分钟
-**Country:** 中国大陆
-**Director:** 秦海燕
-**Cast:** 佟丽娅 / 吴昱翰 / 王影璐
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896816460.jpg" alt="我经过风暴">
-</div>
-
----
 ## 学爸
 **Rating:** 6.6
 **Runtime:** 118分钟
@@ -283,6 +272,17 @@
 **Cast:** 黄渤 / 单禹豪 / 闫妮
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896597470.jpg" alt="学爸">
+</div>
+
+---
+## 我经过风暴
+**Rating:** 7
+**Runtime:** 101分钟
+**Country:** 中国大陆
+**Director:** 秦海燕
+**Cast:** 佟丽娅 / 吴昱翰 / 王影璐
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896816460.jpg" alt="我经过风暴">
 </div>
 
 ---
@@ -319,17 +319,6 @@
 </div>
 
 ---
-## 青木劫
-**Rating:** 0
-**Runtime:** 86分钟
-**Country:** 中国大陆
-**Director:** 一水
-**Cast:** 赵帅 / 葛昊 / 曹高波
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896553323.jpg" alt="青木劫">
-</div>
-
----
 ## 功夫王之萌虎上山
 **Rating:** 0
 **Runtime:** 82分钟
@@ -338,6 +327,17 @@
 **Cast:** 
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2893900312.jpg" alt="功夫王之萌虎上山">
+</div>
+
+---
+## 青木劫
+**Rating:** 0
+**Runtime:** 86分钟
+**Country:** 中国大陆
+**Director:** 一水
+**Cast:** 赵帅 / 葛昊 / 曹高波
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896553323.jpg" alt="青木劫">
 </div>
 
 ---
@@ -363,6 +363,17 @@
 </div>
 
 ---
+## 幸福小马灯
+**Rating:** 0
+**Runtime:** 97分钟
+**Country:** 中国大陆
+**Director:** 凌雨
+**Cast:** 陈友旺
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898761209.jpg" alt="幸福小马灯">
+</div>
+
+---
 ## 侏罗纪公园
 **Rating:** 8.3
 **Runtime:** 127 分钟
@@ -371,17 +382,6 @@
 **Cast:** 山姆·尼尔 / 劳拉·邓恩 / 杰夫·高布伦
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2076443176.jpg" alt="侏罗纪公园">
-</div>
-
----
-## 小黄人大眼萌：神偷奶爸前传
-**Rating:** 7.1
-**Runtime:** 88分钟(中国大陆)
-**Country:** 美国
-**Director:** 凯尔·巴尔达 布拉德·埃布尔森 乔纳森·德尔瓦尔
-**Cast:** 史蒂夫·卡瑞尔 / 皮埃尔·柯芬 / 艾伦·阿金
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2877522569.jpg" alt="小黄人大眼萌：神偷奶爸前传">
 </div>
 
 ---
@@ -396,14 +396,14 @@
 </div>
 
 ---
-## 幸福小马灯
-**Rating:** 0
-**Runtime:** 97分钟
-**Country:** 中国大陆
-**Director:** 凌雨
-**Cast:** 陈友旺
+## 小黄人大眼萌：神偷奶爸前传
+**Rating:** 7.1
+**Runtime:** 88分钟(中国大陆)
+**Country:** 美国
+**Director:** 凯尔·巴尔达 布拉德·埃布尔森 乔纳森·德尔瓦尔
+**Cast:** 史蒂夫·卡瑞尔 / 皮埃尔·柯芬 / 艾伦·阿金
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898761209.jpg" alt="幸福小马灯">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2877522569.jpg" alt="小黄人大眼萌：神偷奶爸前传">
 </div>
 
 ---
