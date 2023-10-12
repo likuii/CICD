@@ -511,7 +511,7 @@
 **Runtime:** 88分钟
 **Country:** 中国大陆
 **Director:** 久美成列
-**Cast:** 金巴 / 王铮 / 达杰丁增
+**Cast:** 金巴 / 王铮 / 更旦
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2899266872.jpg" alt="一个和四个">
 </div>
