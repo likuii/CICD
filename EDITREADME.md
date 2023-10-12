@@ -341,6 +341,17 @@
 </div>
 
 ---
+## 江米儿
+**Rating:** 0
+**Runtime:** 96分钟
+**Country:** 中国大陆
+**Director:** 潘朝奉
+**Cast:** 丹增挠杰 / 昂桑 / 扎西拉宗
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897831741.jpg" alt="江米儿">
+</div>
+
+---
 ## 险诈
 **Rating:** 0
 **Runtime:** 100分钟
