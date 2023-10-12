@@ -4,6 +4,12 @@
 
 Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 
+## 加尔加诺半岛上的维埃斯特，阿普利亚，意大利 (© Pilat666/Getty Images)
+
+![加尔加诺半岛上的维埃斯特，阿普利亚，意大利 (© Pilat666/Getty Images)](https://cn.bing.com/th?id=OHR.ViesteItaly_ZH-CN6693499674_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
+
+[查看原图](https://www.bing.com/search?q=%E7%BB%B4%E5%9F%83%E6%96%AF%E7%89%B9+%E6%84%8F%E5%A4%A7%E5%88%A9&form=hpcapt&mkt=zh-cn)
+
 ## 帕卢斯地区的老谷仓和油菜田，爱达荷州，美国 (© Terry Eggers/Getty Images)
 
 ![帕卢斯地区的老谷仓和油菜田，爱达荷州，美国 (© Terry Eggers/Getty Images)](https://cn.bing.com/th?id=OHR.IdahoBarn_ZH-CN6472682534_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
@@ -39,10 +45,4 @@ Bing每日壁纸 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)
 ![灰熊在卡特迈国家公园布鲁克斯瀑布捕捞鲑鱼，阿拉斯加州，美国 (© oksana.perkins/Shutterstock)](https://cn.bing.com/th?id=OHR.GrizzlyFalls_ZH-CN5152476563_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
 
 [查看原图](https://www.bing.com/search?q=%E7%81%B0%E7%86%8A&form=hpcapt&mkt=zh-cn)
-
-## 杜鲁门斯堡的州立托格汉诺克瀑布公园，纽约州，美国 (© Paul Massie Photography/Getty Images)
-
-![杜鲁门斯堡的州立托格汉诺克瀑布公园，纽约州，美国 (© Paul Massie Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TaughannockFalls_ZH-CN4580750386_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp)
-
-[查看原图](https://www.bing.com/search?q=%E6%89%98%E6%A0%BC%E6%B1%89%E8%AF%BA%E5%85%8B%E7%80%91%E5%B8%83&form=hpcapt&mkt=zh-cn)
 

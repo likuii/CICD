@@ -110,28 +110,6 @@
 </div>
 
 ---
-## 不虚此行
-**Rating:** 7.3
-**Runtime:** 119分钟
-**Country:** 中国大陆
-**Director:** 刘伽茵
-**Cast:** 胡歌 / 吴磊 / 齐溪
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897502151.jpg" alt="不虚此行">
-</div>
-
----
-## 鹦鹉杀
-**Rating:** 6.1
-**Runtime:** 101分钟
-**Country:** 中国大陆
-**Director:** 麻赢心
-**Cast:** 周冬雨 / 章宇 / 张宥浩
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897518505.jpg" alt="鹦鹉杀">
-</div>
-
----
 ## 敢死队4：最终章
 **Rating:** 5.1
 **Runtime:** 101分钟(中国大陆)
@@ -140,39 +118,6 @@
 **Cast:** 杰森·斯坦森 / 50分 / 梅根·福克斯
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897558506.jpg" alt="敢死队4：最终章">
-</div>
-
----
-## GT赛车：极速狂飙
-**Rating:** 7.2
-**Runtime:** 134分钟
-**Country:** 美国 日本
-**Director:** 尼尔·布洛姆坎普
-**Cast:** 大卫·哈伯 / 奥兰多·布鲁姆 / 阿奇·马德基
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897205491.jpg" alt="GT赛车：极速狂飙">
-</div>
-
----
-## 封神第一部：朝歌风云
-**Rating:** 7.9
-**Runtime:** 148分钟
-**Country:** 中国大陆
-**Director:** 乌尔善
-**Cast:** 费翔 / 李雪健 / 黄渤
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.jpg" alt="封神第一部：朝歌风云">
-</div>
-
----
-## 永安镇故事集
-**Rating:** 7.3
-**Runtime:** 123分钟
-**Country:** 中国大陆
-**Director:** 魏书钧
-**Cast:** 杨子姗 / 黄米依 / 刘洋
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897670329.jpg" alt="永安镇故事集">
 </div>
 
 ---
@@ -195,116 +140,6 @@
 **Cast:** 梁晓强 / 巴赫 / 张东
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2898356205.jpg" alt="贝肯熊：火星任务">
-</div>
-
----
-## 芭比
-**Rating:** 8.1
-**Runtime:** 114分钟
-**Country:** 加拿大 美国
-**Director:** 格蕾塔·葛韦格
-**Cast:** 玛格特·罗比 / 瑞恩·高斯林 / 亚美莉卡·费雷拉
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895679456.jpg" alt="芭比">
-</div>
-
----
-## 流水落花
-**Rating:** 7.2
-**Runtime:** 93分钟
-**Country:** 中国香港
-**Director:** 贾胜枫
-**Cast:** 郑秀文 / 陆骏光 / 谈善言
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897543710.jpg" alt="流水落花">
-</div>
-
----
-## 巨齿鲨2：深渊
-**Rating:** 5.1
-**Runtime:** 119分钟
-**Country:** 美国 中国大陆
-**Director:** 本·维特利 
-**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
-</div>
-
----
-## 火山挚恋
-**Rating:** 9
-**Runtime:** 99分钟
-**Country:** 美国 加拿大
-**Director:** 萨拉·多萨
-**Cast:** 卡蒂娅·克拉夫特 / 莫里斯·克拉夫特 / 米兰达·裘丽
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896531014.jpg" alt="火山挚恋">
-</div>
-
----
-## 热烈
-**Rating:** 7.3
-**Runtime:** 124分钟
-**Country:** 中国大陆
-**Director:** 大鹏
-**Cast:** 黄渤 / 王一博 / 刘敏涛
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895553074.jpg" alt="热烈">
-</div>
-
----
-## 暗杀风暴
-**Rating:** 5.8
-**Runtime:** 100分钟
-**Country:** 中国大陆 中国香港
-**Director:** 邱礼涛
-**Cast:** 古天乐 / 张智霖 / 吴镇宇
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2892025156.jpg" alt="暗杀风暴">
-</div>
-
----
-## 学爸
-**Rating:** 6.6
-**Runtime:** 118分钟
-**Country:** 中国大陆
-**Director:** 苏亮
-**Cast:** 黄渤 / 单禹豪 / 闫妮
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896597470.jpg" alt="学爸">
-</div>
-
----
-## 觅渡
-**Rating:** 0
-**Runtime:** 120分钟
-**Country:** 中国大陆
-**Director:** 宁敬武
-**Cast:** 宋洋 / 张桐 / 谷嘉诚
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2894205295.jpg" alt="觅渡">
-</div>
-
----
-## 我经过风暴
-**Rating:** 7
-**Runtime:** 101分钟
-**Country:** 中国大陆
-**Director:** 秦海燕
-**Cast:** 佟丽娅 / 吴昱翰 / 王影璐
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896816460.jpg" alt="我经过风暴">
-</div>
-
----
-## 大洋追鱼记
-**Rating:** 0
-**Runtime:** 119分钟
-**Country:** 中国大陆
-**Director:** 井建民
-**Cast:** 梁向前 / 张道报
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898075649.jpg" alt="大洋追鱼记">
 </div>
 
 ---
@@ -363,39 +198,6 @@
 </div>
 
 ---
-## 险诈
-**Rating:** 0
-**Runtime:** 100分钟
-**Country:** 中国大陆
-**Director:** 刘治泓
-**Cast:** 曾鑫 / 任伟 / 姜嗣
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897446419.jpg" alt="险诈">
-</div>
-
----
-## 曾经炽热的我们
-**Rating:** 0
-**Runtime:** 104分钟
-**Country:** 中国大陆
-**Director:** 马小刚
-**Cast:** 周政杰 / 卢洋洋 / 骆明劼
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2898024093.jpg" alt="曾经炽热的我们">
-</div>
-
----
-## 奇迹少女
-**Rating:** 5.4
-**Runtime:** 105分钟
-**Country:** 法国
-**Director:** 杰里米·扎格
-**Cast:** 克里斯蒂娜·瓦伦苏埃拉 / 布莱斯·峇本布鲁克 / 泽诺·罗宾逊
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896104354.jpg" alt="奇迹少女">
-</div>
-
----
 ## 幸福小马灯
 **Rating:** 0
 **Runtime:** 97分钟
@@ -404,105 +206,6 @@
 **Cast:** 陈友旺
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898761209.jpg" alt="幸福小马灯">
-</div>
-
----
-## 驯龙高手
-**Rating:** 8.8
-**Runtime:** 98分钟
-**Country:** 美国
-**Director:** 迪恩·德布洛斯 克里斯·桑德斯
-**Cast:** 杰伊·巴鲁切尔 / 杰拉德·巴特勒 / 克雷格·费格森
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p490385643.jpg" alt="驯龙高手">
-</div>
-
----
-## 功夫熊猫
-**Rating:** 8.2
-**Runtime:** 95分钟
-**Country:** 美国
-**Director:** 马克·奥斯本 约翰·斯蒂文森
-**Cast:** 杰克·布莱克 / 达斯汀·霍夫曼 / 安吉丽娜·朱莉
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1597238857.jpg" alt="功夫熊猫">
-</div>
-
----
-## 侏罗纪公园
-**Rating:** 8.3
-**Runtime:** 127 分钟
-**Country:** 美国
-**Director:** 史蒂文·斯皮尔伯格
-**Cast:** 山姆·尼尔 / 劳拉·邓恩 / 杰夫·高布伦
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2076443176.jpg" alt="侏罗纪公园">
-</div>
-
----
-## 雪豹和她的朋友们
-**Rating:** 8.4
-**Runtime:** 85分钟
-**Country:** 中国大陆
-**Director:** 奚志农
-**Cast:** 朱亚文
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896344803.jpg" alt="雪豹和她的朋友们">
-</div>
-
----
-## 小黄人大眼萌：神偷奶爸前传
-**Rating:** 7.1
-**Runtime:** 88分钟(中国大陆)
-**Country:** 美国
-**Director:** 凯尔·巴尔达 布拉德·埃布尔森 乔纳森·德尔瓦尔
-**Cast:** 史蒂夫·卡瑞尔 / 皮埃尔·柯芬 / 艾伦·阿金
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2877522569.jpg" alt="小黄人大眼萌：神偷奶爸前传">
-</div>
-
----
-## 欢乐好声音
-**Rating:** 8.1
-**Runtime:** 108分钟
-**Country:** 美国
-**Director:** 加斯·詹宁斯 克里斯托夫·卢尔德莱
-**Cast:** 马修·麦康纳 / 瑞茜·威瑟斯彭 / 塞思·麦克法兰
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2411622136.jpg" alt="欢乐好声音">
-</div>
-
----
-## 欢乐丛林之外星人大冒险
-**Rating:** 0
-**Runtime:** 
-**Country:** 中国大陆
-**Director:** 
-**Cast:** 李凤良
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890512825.jpg" alt="欢乐丛林之外星人大冒险">
-</div>
-
----
-## 长江
-**Rating:** 8
-**Runtime:** 40分钟
-**Country:** 中国大陆 日本
-**Director:** 
-**Cast:** 虹云 / 窦春起
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892170059.jpg" alt="长江">
-</div>
-
----
-## 速度与爱情
-**Rating:** 0
-**Runtime:** 132分钟
-**Country:** 泰国
-**Director:** 纳瓦彭·坦荣瓜塔纳利
-**Cast:** 纳特·奇查理 / 乌拉萨雅·斯帕邦德 / 阿努萨拉·科萨普汗
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2897792938.jpg" alt="速度与爱情">
 </div>
 
 ---
@@ -602,6 +305,17 @@
 **Cast:** 黄小蕾 / 郑雅匀 / 唐曾
 <div align="left">
 <img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2899182771.jpg" alt="洋子的困惑">
+</div>
+
+---
+## 失而复得
+**Rating:** 0
+**Runtime:** 104分钟
+**Country:** 中国大陆
+**Director:** 刘十六
+**Cast:** 张亮 / 辛芷蕾 / 大力
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2898114531.jpg" alt="失而复得">
 </div>
 
 ---
