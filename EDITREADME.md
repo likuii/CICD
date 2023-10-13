@@ -121,17 +121,6 @@
 </div>
 
 ---
-## 不虚此行
-**Rating:** 7.3
-**Runtime:** 119分钟
-**Country:** 中国大陆
-**Director:** 刘伽茵
-**Cast:** 胡歌 / 吴磊 / 齐溪
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897502151.jpg" alt="不虚此行">
-</div>
-
----
 ## 鹦鹉杀
 **Rating:** 6.1
 **Runtime:** 101分钟
@@ -143,47 +132,14 @@
 </div>
 
 ---
-## 敢死队4：最终章
-**Rating:** 5.1
-**Runtime:** 101分钟(中国大陆)
-**Country:** 美国
-**Director:** 斯科特·沃
-**Cast:** 杰森·斯坦森 / 50分 / 梅根·福克斯
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897558506.jpg" alt="敢死队4：最终章">
-</div>
-
----
-## GT赛车：极速狂飙
-**Rating:** 7.2
-**Runtime:** 134分钟
-**Country:** 美国 日本
-**Director:** 尼尔·布洛姆坎普
-**Cast:** 大卫·哈伯 / 奥兰多·布鲁姆 / 阿奇·马德基
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897205491.jpg" alt="GT赛车：极速狂飙">
-</div>
-
----
-## 封神第一部：朝歌风云
-**Rating:** 7.9
-**Runtime:** 148分钟
+## 不虚此行
+**Rating:** 7.3
+**Runtime:** 119分钟
 **Country:** 中国大陆
-**Director:** 乌尔善
-**Cast:** 费翔 / 李雪健 / 黄渤
+**Director:** 刘伽茵
+**Cast:** 胡歌 / 吴磊 / 齐溪
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.jpg" alt="封神第一部：朝歌风云">
-</div>
-
----
-## 孤注一掷
-**Rating:** 6.9
-**Runtime:** 130分钟
-**Country:** 中国大陆
-**Director:** 申奥
-**Cast:** 张艺兴 / 金晨 / 咏梅
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896551721.jpg" alt="孤注一掷">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897502151.jpg" alt="不虚此行">
 </div>
 
 ---
@@ -198,14 +154,69 @@
 </div>
 
 ---
+## 敢死队4：最终章
+**Rating:** 5.1
+**Runtime:** 101分钟(中国大陆)
+**Country:** 美国
+**Director:** 斯科特·沃
+**Cast:** 杰森·斯坦森 / 50分 / 梅根·福克斯
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897558506.jpg" alt="敢死队4：最终章">
+</div>
+
+---
+## 封神第一部：朝歌风云
+**Rating:** 7.9
+**Runtime:** 148分钟
+**Country:** 中国大陆
+**Director:** 乌尔善
+**Cast:** 费翔 / 李雪健 / 黄渤
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895465725.jpg" alt="封神第一部：朝歌风云">
+</div>
+
+---
+## GT赛车：极速狂飙
+**Rating:** 7.2
+**Runtime:** 134分钟
+**Country:** 美国 日本
+**Director:** 尼尔·布洛姆坎普
+**Cast:** 大卫·哈伯 / 奥兰多·布鲁姆 / 阿奇·马德基
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2897205491.jpg" alt="GT赛车：极速狂飙">
+</div>
+
+---
+## 孤注一掷
+**Rating:** 6.9
+**Runtime:** 130分钟
+**Country:** 中国大陆
+**Director:** 申奥
+**Cast:** 张艺兴 / 金晨 / 咏梅
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896551721.jpg" alt="孤注一掷">
+</div>
+
+---
 ## 贝肯熊：火星任务
-**Rating:** 0
+**Rating:** 7.2
 **Runtime:** 96分钟
 **Country:** 中国大陆
 **Director:** 王超 
 **Cast:** 梁晓强 / 巴赫 / 张东
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2898356205.jpg" alt="贝肯熊：火星任务">
+</div>
+
+---
+## 替身纸人
+**Rating:** 0
+**Runtime:** 90分钟
+**Country:** 中国大陆
+**Director:** 徐俊
+**Cast:**  /  / 
+<div align="left">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896009035.jpg" alt="替身纸人">
 </div>
 
 ---
@@ -220,17 +231,6 @@
 </div>
 
 ---
-## 巨齿鲨2：深渊
-**Rating:** 5.1
-**Runtime:** 119分钟
-**Country:** 美国 中国大陆
-**Director:** 本·维特利 
-**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
-<div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
-</div>
-
----
 ## 热烈
 **Rating:** 7.3
 **Runtime:** 124分钟
@@ -242,14 +242,14 @@
 </div>
 
 ---
-## 替身纸人
-**Rating:** 0
-**Runtime:** 90分钟
-**Country:** 中国大陆
-**Director:** 徐俊
-**Cast:**  /  / 
+## 巨齿鲨2：深渊
+**Rating:** 5.1
+**Runtime:** 119分钟
+**Country:** 美国 中国大陆
+**Director:** 本·维特利 
+**Cast:** 杰森·斯坦森 / 吴京 / 蔡书雅
 <div align="left">
-<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2896009035.jpg" alt="替身纸人">
+<img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2893737765.jpg" alt="巨齿鲨2：深渊">
 </div>
 
 ---
@@ -275,6 +275,17 @@
 </div>
 
 ---
+## 学爸
+**Rating:** 6.6
+**Runtime:** 118分钟
+**Country:** 中国大陆
+**Director:** 苏亮
+**Cast:** 黄渤 / 单禹豪 / 闫妮
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896597470.jpg" alt="学爸">
+</div>
+
+---
 ## 觅渡
 **Rating:** 0
 **Runtime:** 120分钟
@@ -286,14 +297,14 @@
 </div>
 
 ---
-## 学爸
-**Rating:** 6.6
-**Runtime:** 118分钟
-**Country:** 中国大陆
-**Director:** 苏亮
-**Cast:** 黄渤 / 单禹豪 / 闫妮
+## 疯狂大营救
+**Rating:** 0
+**Runtime:** 89分钟
+**Country:** 法国
+**Director:** 朱利安·福内特
+**Cast:** 凯西·沙斯 / 保罗·博尔内 / 朱利安·克朗蓬
 <div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896597470.jpg" alt="学爸">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898078188.jpg" alt="疯狂大营救">
 </div>
 
 ---
@@ -316,17 +327,6 @@
 **Cast:** 佟丽娅 / 吴昱翰 / 王影璐
 <div align="left">
 <img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2896816460.jpg" alt="我经过风暴">
-</div>
-
----
-## 疯狂大营救
-**Rating:** 0
-**Runtime:** 89分钟
-**Country:** 法国
-**Director:** 朱利安·福内特
-**Cast:** 凯西·沙斯 / 保罗·博尔内 / 朱利安·克朗蓬
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2898078188.jpg" alt="疯狂大营救">
 </div>
 
 ---
@@ -374,6 +374,17 @@
 </div>
 
 ---
+## 功夫熊猫
+**Rating:** 8.2
+**Runtime:** 95分钟
+**Country:** 美国
+**Director:** 马克·奥斯本 约翰·斯蒂文森
+**Cast:** 杰克·布莱克 / 达斯汀·霍夫曼 / 安吉丽娜·朱莉
+<div align="left">
+<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1597238857.jpg" alt="功夫熊猫">
+</div>
+
+---
 ## 驯龙高手
 **Rating:** 8.8
 **Runtime:** 98分钟
@@ -396,17 +407,6 @@
 </div>
 
 ---
-## 功夫熊猫
-**Rating:** 8.2
-**Runtime:** 95分钟
-**Country:** 美国
-**Director:** 马克·奥斯本 约翰·斯蒂文森
-**Cast:** 杰克·布莱克 / 达斯汀·霍夫曼 / 安吉丽娜·朱莉
-<div align="left">
-<img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1597238857.jpg" alt="功夫熊猫">
-</div>
-
----
 ## 侏罗纪公园
 **Rating:** 8.3
 **Runtime:** 127 分钟
@@ -415,17 +415,6 @@
 **Cast:** 山姆·尼尔 / 劳拉·邓恩 / 杰夫·高布伦
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2076443176.jpg" alt="侏罗纪公园">
-</div>
-
----
-## 雪豹和她的朋友们
-**Rating:** 8.4
-**Runtime:** 85分钟
-**Country:** 中国大陆
-**Director:** 奚志农
-**Cast:** 朱亚文
-<div align="left">
-<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896344803.jpg" alt="雪豹和她的朋友们">
 </div>
 
 ---
@@ -448,6 +437,17 @@
 **Cast:** 马修·麦康纳 / 瑞茜·威瑟斯彭 / 塞思·麦克法兰
 <div align="left">
 <img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2411622136.jpg" alt="欢乐好声音">
+</div>
+
+---
+## 雪豹和她的朋友们
+**Rating:** 8.4
+**Runtime:** 85分钟
+**Country:** 中国大陆
+**Director:** 奚志农
+**Cast:** 朱亚文
+<div align="left">
+<img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2896344803.jpg" alt="雪豹和她的朋友们">
 </div>
 
 ---
