@@ -2,7 +2,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 
 # 获取RSS Feed内容
-url = 'http://rsshub.baitry.com/bing'
+url = 'https://rsshub.moeyy.cn/bing'
 
 try:
     response = urllib.request.urlopen(url)

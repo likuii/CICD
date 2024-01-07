@@ -5,7 +5,7 @@ import requests
 
 
 print("###############StartMovie####################")
-url = 'http://rsshub.baitry.com/douban/movie/playing'
+url = 'https://r.zzek.cn/douban/movie/playing'
 response = requests.get(url)
 data = response.content
 

@@ -1,7 +1,7 @@
 import feedparser
 
 # 读取 RSS feed
-rss_url = "http://rsshub.baitry.com/weibo/search/hot"
+rss_url = "https://rsshub.moeyy.cn/weibo/search/hot"
 feed = feedparser.parse(rss_url)
 
 print("###############Start####################")

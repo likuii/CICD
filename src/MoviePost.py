@@ -5,7 +5,7 @@ import io
 import random
 
 # 获取RSS源
-url = 'http://rsshub.baitry.com/douban/movie/playing'
+url = 'https://rsshub.moeyy.cn/douban/movie/playing'
 response = requests.get(url)
 data = response.content
 
