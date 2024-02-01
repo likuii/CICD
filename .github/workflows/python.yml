@@ -46,8 +46,6 @@ jobs:
         USER: ${{ secrets.USER }}
         PASSWORD: ${{ secrets.PASSWORD }}
         HOST: ${{ secrets.HOST }}
-      run: |
-           python ./src/GetEnv.py
     - name: Run The Task
       run: python ./src/setup.py
       
@@ -57,8 +55,8 @@ jobs:
     - name: Run the Task For Bing ②
       run:  python ./src/Bing.py
     # Disable this script for Movie Post
-    #- name: Run the Task For MoviePost ③
-    #  run:  python ./src/MoviePost.py
+    - name: Run the Task For MoviePost ③
+      run:  python ./src/MoviePost.py
 
     - name: Generate Snake ④
       uses: Platane/snk@master
@@ -83,13 +81,3 @@ jobs:
           git config --global user.name "ilikui"
           git commit -m "commit "
           git push
-        # if [$? -eq 1 ]; then
-        #   echo "Will Push"
-        #   git add .
-        #   git config --global user.email "2563043733@qq.com"
-        #   git config --global user.name "ilikui"
-        #   git commit -m "commit "
-        #   git push
-        # else
-        #     echo  "NO Changes"
-        # fi

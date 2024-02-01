@@ -6,7 +6,7 @@ feed = feedparser.parse(rss_url)
 
 print("###############Start####################")
 # 创建 README.md 文件并写入数据
-with open("WeiBo.md", "w", encoding="utf-8") as f:
+with open("Weibo.md", "w", encoding="utf-8") as f:
     # 写入标题和链接
     f.write(f"# {feed['channel']['title']}\n\n")
     f.write(f"本文链接: {feed['channel']['link']}\n\n")
