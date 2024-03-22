@@ -48,5 +48,9 @@
 
 > 参考信息
 
-* [1}  http://cron.ciding.cc/
+* [1] http://cron.ciding.cc/
 * [2]  https://github.com/zhaoolee/garss
+
+
+
+ [LICENSE](LICENSE) 
